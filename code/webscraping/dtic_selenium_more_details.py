@@ -142,8 +142,13 @@ for elem_article in elems_article:
         browser=browser, element_name="key-highlights"
     )
     top_keywords_text = get_summary_text(browser=browser, element_name="top-keywords")
-
     # TODO Parse the research categories
+    research_cat_sec = WebDriverWait(browser, 3).until(
+        EC.presence_of_element_located(
+            (By.XPATH, "//section[@data-bt='aside_section_research_categories']")
+        )
+    )
+    research_cat_text = research_cat_sec.text
 
     dfs.append(pd.DataFrame(data=article_data, index=[0]))
 
