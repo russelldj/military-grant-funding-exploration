@@ -105,29 +105,35 @@ elems_article = browser.find_elements(
 
 # parse each article by title, funding org, principal investigator, abstract, funding value, start year, end year
 
-dfs = []
+articles_data = []
+
 for elem_article in elems_article:
+    # Get more detailed information by clicking on the specific grant
+    detail_link = elem_article.find_element(By.XPATH, ".//*[@data-bt='detail_link']")
+    href = detail_link.get_attribute("href")
+
     # Parse the data that's available from the abstract
     article_text = elem_article.text
     article_text_split = article_text.split("\n")
+
     article_data = {
         "title": article_text_split[0],
         "funder": article_text_split[1],
         "investigator": article_text_split[2],
         "abstract": article_text_split[3],
         "funding_amount_usd": article_text_split[4],
+        "href": href,
     }
     if len(article_text_split) > 5:
         article_data["start_year"] = article_text_split[5]
     if len(article_text_split) > 8:
         article_data["end_year"] = article_text_split[7]
 
-    # Get more detailed information by clicking on the specific grant
-    detail_link = elem_article.find_element(By.XPATH, "//*[@data-bt='detail_link']")
-    # scroll into view
-    detail_link.location_once_scrolled_into_view
-    detail_link.click()
+    articles_data.append(article_data)
 
+for article_data in articles_data:
+    url = article_data["href"]
+    browser.get(url)
     # Parse the funding amount and years
     section_details = WebDriverWait(browser, 3).until(
         EC.presence_of_element_located(
@@ -150,12 +156,16 @@ for elem_article in elems_article:
     )
     research_cat_text = research_cat_sec.text
 
-    dfs.append(pd.DataFrame(data=article_data, index=[0]))
+    article_data["section_details"] = section_details_text
+    article_data["tldr"] = tldr_text
+    article_data["top_keywords"] = top_keywords_text
+    article_data["key_highlights"] = key_highlights_text
+    article_data["research_cat"] = research_cat_text
 
-final_df = pd.concat(dfs)
+df = pd.concat([pd.DataFrame(ad, index=[0]) for ad in articles_data])
 
 # Ensure there's a folder to save the data
 output_filename.parent.mkdir(exist_ok=True, parents=True)
 # save dataframe to csv file
-final_df.to_csv(output_filename)
+df.to_csv(output_filename)
 print("file saved")
