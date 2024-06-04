@@ -1,17 +1,16 @@
-from pathlib import Path
 import json
+from pathlib import Path
 
-# todo: got to handle the articles (at the bottom) with missing fields
-
+import pandas as pd
+from functions import WaitForNonEmptyText
 from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
-import pandas as pd
+from selenium.webdriver.support.ui import WebDriverWait
 
-from functions import WaitForNonEmptyText
+# todo: got to handle the articles (at the bottom) with missing fields
 
 
 def get_summary_text(browser, element_name, timeout=30):

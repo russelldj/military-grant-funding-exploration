@@ -1,6 +1,6 @@
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 
 
 # https://stackoverflow.com/questions/41043582/how-to-wait-for-presence-of-an-element-with-non-empty-content
