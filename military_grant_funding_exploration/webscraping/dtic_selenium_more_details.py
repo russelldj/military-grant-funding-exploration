@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+import argparse
 
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
@@ -7,7 +8,39 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-from military_grant_funding_exploration.webscraping.functions import WaitForNonEmptyText
+from military_grant_funding_exploration.webscraping.functions import (
+    WaitForNonEmptyText,
+    parse_int_from_str,
+    month_to_number,
+)
+from military_grant_funding_exploration.constants import (
+    START_YEAR_KEY,
+    START_MONTH_KEY,
+    START_DAY_KEY,
+    END_YEAR_KEY,
+    END_DAY_KEY,
+    END_MONTH_KEY,
+    FUNDING_AMOUNT_KEY,
+    DATA_FOLDER,
+    RESULTING_PUBLICATIONS_KEY,
+)
+
+
+URL_DICT = {
+    "ucsd": "https://dtic.dimensions.ai/discover/grant?search_mode=content&or_facet_research_org=grid.266100.3&not_facet_funder=grid.496791.4&order=funding",
+    "ucla": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.19006.3e",
+    "ucberkeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.47840.3f",
+    "ucdavis": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.27860.3b",
+    "ucirvine": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266093.8",
+    "ucr": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266097.c",
+    "ucsb": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.133342.4",
+    "ucsf": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266102.1",
+    "ucsc": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.205975.c",
+    "ucmerced": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266096.d",
+    "lawrence_berekeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.184769.5",
+    "lawrence_livermore": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.250008.f",
+    "los_alamos": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.148313.c",
+}
 
 
 def get_summary_text(browser, element_name, timeout=30):
@@ -37,9 +70,7 @@ def index_maybe_in_list(list_of_elements, search_elem):
 
 def parse_research_categories(research_categories_text):
     split = research_categories_text.splitlines()
-    # fields_of_research_ind = min(
-    #    [i for i in range(len(split)) if "Fields of Research" in split[i]]
-    # )
+
     research_cat_ind = split.index("Fields of Research (ANZSRC 2020)")
     units_of_assessment_ind = index_maybe_in_list(split, "Units of Assessment")
     # This may not be there
@@ -62,7 +93,23 @@ def parse_research_categories(research_categories_text):
 
 def parse_section_details(section_details_text):
     split = section_details_text.splitlines()
-    breakpoint()
+    _, amount, _, start_year, start_date, _, end_year, end_date = split[:8]
+
+    data_dict = {}
+    data_dict[FUNDING_AMOUNT_KEY] = parse_int_from_str(amount)
+
+    data_dict[START_YEAR_KEY] = parse_int_from_str(start_year)
+    data_dict[START_MONTH_KEY] = month_to_number(start_date.split(" ")[1])
+    data_dict[START_DAY_KEY] = parse_int_from_str(start_date)
+
+    data_dict[END_YEAR_KEY] = parse_int_from_str(end_year)
+    data_dict[END_MONTH_KEY] = month_to_number(end_date.split(" ")[1])
+    data_dict[END_DAY_KEY] = parse_int_from_str(end_date)
+
+    if len(split) > 9:
+        data_dict[RESULTING_PUBLICATIONS_KEY] = parse_int_from_str(split[9])
+
+    return data_dict
 
 
 def scrape_and_save(url, output_filename, scroll_to_bottom=True):
@@ -150,7 +197,7 @@ def scrape_and_save(url, output_filename, scroll_to_bottom=True):
                 (By.XPATH, "//div[@data-bt='aside_section_content']")
             )
         )
-        section_details_text = section_details.text
+        section_details_dict = parse_section_details(section_details.text)
 
         # Parse the AI summary text
         tldr = get_summary_text(browser=browser, element_name="tldr")
@@ -168,9 +215,10 @@ def scrape_and_save(url, output_filename, scroll_to_bottom=True):
         )
         research_cat_text = research_cat_sec.text
         research_cat_dict = parse_research_categories(research_cat_text)
-        article_data.update(research_cat_dict)
 
-        article_data["section_details"] = section_details_text
+        article_data.update(research_cat_dict)
+        article_data.update(section_details_dict)
+
         article_data["tldr"] = tldr
         article_data["top_keywords"] = top_keywords
         article_data["key_highlights"] = key_highlights
@@ -182,31 +230,26 @@ def scrape_and_save(url, output_filename, scroll_to_bottom=True):
         outfile_h.write(json.dumps(articles_data, indent=4, sort_keys=True))
 
 
-SCROLL_TO_BOTTOM = False
-# Specify which campus, from the list of options below
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--campuses", nargs="+", default=list(URL_DICT.keys()))
+    parser.add_argument("--scroll-to-bottom", action="store_true")
 
-URL_DICT = {
-    "ucsd": "https://dtic.dimensions.ai/discover/grant?search_mode=content&or_facet_research_org=grid.266100.3&not_facet_funder=grid.496791.4&order=funding",
-    "ucla": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.19006.3e",
-    "ucberkeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.47840.3f",
-    "ucdavis": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.27860.3b",
-    "ucirvine": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266093.8",
-    "ucr": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266097.c",
-    "ucsb": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.133342.4",
-    "ucsf": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266102.1",
-    "ucsc": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.205975.c",
-    "ucmerced": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266096.d",
-    "lawrence_berekeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.184769.5",
-    "lawrence_livermore": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.250008.f",
-    "los_alamos": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.148313.c",
-}
-# Determine where to save the data, relative to the current file location
-DATA_FOLDER = Path(Path(__file__).parent, "..", "..", "data").resolve()
+    args = parser.parse_args()
+    return args
 
-for campus in list(URL_DICT.keys()):
-    print(f"Parsing data from {campus}")
-    url = URL_DICT[campus]
-    output_filename = Path(
-        DATA_FOLDER, "DoD", "01_scraped", f"{campus}_dtic_webscraped.json"
-    )
-    scrape_and_save(url=url, output_filename=output_filename, scroll_to_bottom=True)
+
+if __name__ == "__main__":
+    args = parse_args()
+
+    for campus in args.campuses:
+        print(f"Parsing data from {campus}")
+        url = URL_DICT[campus]
+        output_filename = Path(
+            DATA_FOLDER, "DoD", "01_scraped", f"{campus}_dtic_webscraped.json"
+        )
+        scrape_and_save(
+            url=url,
+            output_filename=output_filename,
+            scroll_to_bottom=args.scroll_to_bottom,
+        )
