@@ -5,6 +5,7 @@ description = "Tools for analyzing military grant funding, including web scrapin
 authors = ["David Russell <davidrussell327@gmail.com>"]
 license = "BSD-3"
 readme = "README.md"
+packages = [{include = "military-grant-funding-exploration"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
