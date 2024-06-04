@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "military-grant-funding-exploration"
+version = "0.1.0"
+description = "Tools for analyzing military grant funding, including web scraping and data exploration"
+authors = ["David Russell <davidrussell327@gmail.com>"]
+license = "BSD-3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+selenium = "^4.21.0"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
