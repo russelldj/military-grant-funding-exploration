@@ -93,21 +93,23 @@ def parse_research_categories(research_categories_text):
 
 def parse_section_details(section_details_text):
     split = section_details_text.splitlines()
-    _, amount, _, start_year, start_date, _, end_year, end_date = split[:8]
 
     data_dict = {}
-    data_dict[FUNDING_AMOUNT_KEY] = parse_int_from_str(amount)
+    data_dict[FUNDING_AMOUNT_KEY] = parse_int_from_str(split[1])
 
-    data_dict[START_YEAR_KEY] = parse_int_from_str(start_year)
-    data_dict[START_MONTH_KEY] = month_to_number(start_date.split(" ")[1])
-    data_dict[START_DAY_KEY] = parse_int_from_str(start_date)
+    data_dict[START_YEAR_KEY] = parse_int_from_str(split[3])
+    data_dict[START_MONTH_KEY] = month_to_number(split[4].split(" ")[1])
+    data_dict[START_DAY_KEY] = parse_int_from_str(split[4])
 
-    data_dict[END_YEAR_KEY] = parse_int_from_str(end_year)
-    data_dict[END_MONTH_KEY] = month_to_number(end_date.split(" ")[1])
-    data_dict[END_DAY_KEY] = parse_int_from_str(end_date)
+    if "-" in split:
+        data_dict[END_YEAR_KEY] = parse_int_from_str(split[6])
+        data_dict[END_MONTH_KEY] = month_to_number(split[7].split(" ")[1])
+        data_dict[END_DAY_KEY] = parse_int_from_str(split[7])
 
-    if len(split) > 9:
-        data_dict[RESULTING_PUBLICATIONS_KEY] = parse_int_from_str(split[9])
+    if "Resulting DOD publications" in split:
+        pubs_ind = split.index("Resulting DOD publications")
+        # Take the next field after that text
+        data_dict[RESULTING_PUBLICATIONS_KEY] = parse_int_from_str(split[pubs_ind + 1])
 
     return data_dict
 
