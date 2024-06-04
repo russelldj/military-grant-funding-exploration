@@ -23,6 +23,14 @@ from military_grant_funding_exploration.constants import (
     FUNDING_AMOUNT_KEY,
     DATA_FOLDER,
     RESULTING_PUBLICATIONS_KEY,
+    TITLE_KEY,
+    FUNDER_KEY,
+    INVESTIGATOR_KEY,
+    ABSTRACT_KEY,
+    HREF_KEY,
+    TLDR_KEY,
+    TOP_KEYWORDS_KEY,
+    KEY_HIGHLIGHTS_KEY,
 )
 
 
@@ -114,14 +122,21 @@ def parse_section_details(section_details_text):
     return data_dict
 
 
-def scrape_and_save(url, output_filename, scroll_to_bottom=True):
+def scrape_and_save(
+    url,
+    output_filename,
+    scroll_to_bottom=True,
+    parse_per_grant_pages: bool = True,
+    timeout=8,
+    wait_for_scroll=2,
+):
     # establish connection
     browser = webdriver.Firefox()
     browser.get(url)
 
     # wait for the element with the ID of wrapper
     try:
-        wrapper = WebDriverWait(browser, 8).until(
+        WebDriverWait(browser, timeout=timeout).until(
             EC.presence_of_element_located(
                 (By.XPATH, "//article[@data-bt='project_result_item']")
             )
@@ -130,23 +145,21 @@ def scrape_and_save(url, output_filename, scroll_to_bottom=True):
     except TimeoutException:
         print("element did not show up")
 
-    # implement infinite scrolling to hit the bottom entry
+    # Scroll to the bottom to show all elements
+    # Only done if requested
     while scroll_to_bottom:
         # scroll down to bottom of current view
         browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
         # wait until loading-spinner comes into view (i.e., hit the bottom of current view)
         try:
-            WAIT_FOR_SCROLL_TIME = 2
-            wrapper = WebDriverWait(browser, WAIT_FOR_SCROLL_TIME).until(
+            WebDriverWait(browser, wait_for_scroll).until(
                 EC.presence_of_element_located(
                     (By.XPATH, "//div[@data-testid='loading-spinner']")
                 )
             )
         except TimeoutException:
-            print(
-                "hit the bottom of the inifinite scroll"
-            )  # if it hits the end of infinite scroll
+            print("hit the bottom of the inifinite scroll")
             break
 
     # click all the "more" buttons to reveal the full abstract
@@ -156,80 +169,88 @@ def scrape_and_save(url, output_filename, scroll_to_bottom=True):
         button.click()
 
     # retrieve text from each article element
-    elems_article = browser.find_elements(
+    elems_grants = browser.find_elements(
         By.XPATH, "//article[@data-bt='project_result_item']"
     )
 
     # parse each article by title, funding org, principal investigator, abstract, funding value, start year, end year
 
-    articles_data = []
+    all_grants = []
 
-    for elem_article in elems_article:
+    for elem_grant in elems_grants:
         # Get more detailed information by clicking on the specific grant
-        detail_link = elem_article.find_element(
-            By.XPATH, ".//*[@data-bt='detail_link']"
-        )
+        detail_link = elem_grant.find_element(By.XPATH, ".//*[@data-bt='detail_link']")
         href = detail_link.get_attribute("href")
 
-        # Parse the data that's available from the abstract
-        article_text = elem_article.text
-        article_text_split = article_text.split("\n")
+        # Parse the data that's available from the preview on the main list
+        article_text_split = elem_grant.text.split("\n")
 
-        article_data = {
-            "title": article_text_split[0],
-            "funder": article_text_split[1],
-            "investigator": article_text_split[2],
-            "abstract": article_text_split[3],
-            "funding_amount_usd": article_text_split[4],
-            "href": href,
+        # Remove leading "to "
+        investigator = article_text_split[2][3:]
+        funding_amount = parse_int_from_str(article_text_split[4])
+
+        # Some of this data may be overwritten later, but it's faster to parse here, so both methods
+        # are kept in case only the minimal set is requested
+
+        # Include all the fields that are always there
+        grant_data = {
+            TITLE_KEY: article_text_split[0],
+            FUNDER_KEY: article_text_split[1],
+            INVESTIGATOR_KEY: investigator,
+            ABSTRACT_KEY: article_text_split[3],
+            FUNDING_AMOUNT_KEY: funding_amount,
+            HREF_KEY: href,
         }
+        # Include optional fields
         if len(article_text_split) > 5:
-            article_data["start_year"] = article_text_split[5]
+            grant_data[START_YEAR_KEY] = parse_int_from_str(article_text_split[5])
         if len(article_text_split) > 8:
-            article_data["end_year"] = article_text_split[7]
+            grant_data[END_YEAR_KEY] = parse_int_from_str(article_text_split[7])
 
-        articles_data.append(article_data)
+        # Add the information from this grant to the list of all grants
+        all_grants.append(grant_data)
 
-    for article_data in articles_data:
-        url = article_data["href"]
-        browser.get(url)
-        # Parse the funding amount and years
-        section_details = WebDriverWait(browser, 3).until(
-            EC.presence_of_element_located(
-                (By.XPATH, "//div[@data-bt='aside_section_content']")
+    # Get additional information that can be much slower to parse
+    if parse_per_grant_pages:
+        for grant_data in all_grants:
+            # Go to the page for that grant
+            browser.get(grant_data[HREF_KEY])
+
+            # Parse the AI summary text
+            grant_data[TLDR_KEY] = get_summary_text(
+                browser=browser, element_name="tldr"
             )
-        )
-        section_details_dict = parse_section_details(section_details.text)
+            grant_data[KEY_HIGHLIGHTS_KEY] = get_summary_text(
+                browser=browser, element_name="key-highlights"
+            ).splitlines()
+            grant_data[TOP_KEYWORDS_KEY] = get_summary_text(
+                browser=browser, element_name="top-keywords"
+            ).splitlines()
 
-        # Parse the AI summary text
-        tldr = get_summary_text(browser=browser, element_name="tldr")
-        key_highlights = get_summary_text(
-            browser=browser, element_name="key-highlights"
-        ).splitlines()
-        top_keywords = get_summary_text(
-            browser=browser, element_name="top-keywords"
-        ).splitlines()
-        # TODO Parse the research categories
-        research_cat_sec = WebDriverWait(browser, 3).until(
-            EC.presence_of_element_located(
-                (By.XPATH, "//section[@data-bt='aside_section_research_categories']")
+            # TODO Parse the research categories
+            research_cat_sec = WebDriverWait(browser, timeout=timeout).until(
+                EC.presence_of_element_located(
+                    (
+                        By.XPATH,
+                        "//section[@data-bt='aside_section_research_categories']",
+                    )
+                )
             )
-        )
-        research_cat_text = research_cat_sec.text
-        research_cat_dict = parse_research_categories(research_cat_text)
+            grant_data.update(parse_research_categories(research_cat_sec.text))
 
-        article_data.update(research_cat_dict)
-        article_data.update(section_details_dict)
-
-        article_data["tldr"] = tldr
-        article_data["top_keywords"] = top_keywords
-        article_data["key_highlights"] = key_highlights
+            # Parse the funding amount and years
+            section_details = WebDriverWait(browser, timeout=timeout).until(
+                EC.presence_of_element_located(
+                    (By.XPATH, "//div[@data-bt='aside_section_content']")
+                )
+            )
+            grant_data.update(parse_section_details(section_details.text))
 
     # Ensure there's a folder to save the data
     output_filename.parent.mkdir(exist_ok=True, parents=True)
     # save dataframe to csv file
     with open(output_filename, "w") as outfile_h:
-        outfile_h.write(json.dumps(articles_data, indent=4, sort_keys=True))
+        outfile_h.write(json.dumps(all_grants, indent=4, sort_keys=True))
 
 
 def parse_args():
