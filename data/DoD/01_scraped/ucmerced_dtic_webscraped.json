@@ -1,0 +1,797 @@
+[
+    {
+        "abstract": "We propose to construct a parametric amplifier and oscillator system for generating and detecting gravitational microwaves using a moving, impermeable superconducting membrane as its active element. A configuration of three adjacent, high-Q SRF cylindrical cavities will be constructed, consisting of a single pump cavity separated from a double signal and idler cavity by means of this membrane, which is impermeable to gravitational waves due to the gravitational Meissner effect. The membrane is driven into sinusoidal motion by the radiation pressure exerted on its left side by electromagnetic microwaves that fill the high-Q pump cavity from a pump source. On the right side of the membrane, vacuum fluctuations of the double signal and idler cavity with a doublet of high-Q microwave resonances will be exponentially amplified above the threshold for the dynamical Casimir effect, so that signal and idler gravitational waves can be generated out of these fluctuations, in addition to the usual electromagnetic waves. Thus an analog of a laser for generating gravitational waves could be constructed. We will test a working parametric oscillator for gravitational-wave output by feeding it back into the oscillator using a VSWR method, in which the electromagnetic output is blocked by a normal metallic filter.less",
+        "end_year": "2016",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "999,999",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4403027?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Raymond Chiao",
+        "key_highlights": [
+            "Construction of a parametric amplifier and oscillator system for generating and detecting gravitational microwaves",
+            "Use of a moving, impermeable superconducting membrane as the active element",
+            "Configuration of three adjacent, high-Q SRF cylindrical cavities with a pump cavity and double signal and idler cavity",
+            "Amplification of vacuum fluctuations in the double signal and idler cavity to generate gravitational waves, in addition to electromagnetic waves."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4006 Communications Engineering",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 999,999\nFunding period\n2014\n30 Jun\n\u2010\n2016\n29 Jun\nResulting DOD publications\n1",
+        "start_year": "2014",
+        "title": "Generation and amplification of gravitational waves for military communications",
+        "tldr": "This research aims to develop a system for generating and detecting gravitational waves using a superconducting membrane and high-Q cylindrical cavities. The system will be driven by electromagnetic microwaves and could potentially function as an analog of a laser for gravitational wave generation.",
+        "top_keywords": [
+            "Gravitational waves",
+            "Military communications",
+            "Parametric amplifier",
+            "Oscillator system",
+            "Superconducting membrane",
+            "Radiation pressure",
+            "Dynamical Casimir effect",
+            "Microwave resonances",
+            "Laser",
+            "VSWR method"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Christian Anfinsen was awarded a Nobel Prize in Chemistry in 1972 for his work on the apparent one-to-one relationship between the amino acyl sequence of a protein and its three-dimensional fold, which determines function (Anfinsen et al., 1961; Anfinsen and Haber, 1961). For decades, biochemistry courses throughout the world have been teaching the paradigm: \u00d2one sequence, one fold\u00d3. The LiWang and Wang labs are challenging this paradigm by proposing that for numerous proteins one sequence determines more than one fold, and thus more than one function. These proteins are called \"metamorphic\", having the ability to jump reversibly between two distinctly different three-dimensional folds under native conditions. However, there are less than 10 proteins known to be metamorphic. X-ray diffraction crystallography, used for determining the vast majority of protein structures (104527 crystal structures = 90% of structures deposited in the Protein Data Bank), traps proteins in their lowest energy structure, and thus cannot detect whether a protein is metamorphic. The LiWang and Wang labs therefore believe that the number of metamorphic proteins in the Protein Data Bank (PDB) is much higher than just 10. (Not surprisingly, X-ray crystallography was not used in the serendipitous discoveries of the <10 known metamorphic proteins.) The objective of the LiWang and Wang labs is to uncover what they call the metamorphome, which is the population of metamorphic proteins in the PDB. It is anticipated that encoding multiple structures and functions in a single protein sequence will be found to be common. The project has two phases or aims: A) computational (identify candidate proteins that are potentially metamorphic), and B) experimental (test whether candidate proteins are actually metamorphic). Uncovering the metamorphome is expected have a transformative effect on long-held concepts of protein structure and function. It could also lead to engineering of metamorphic proteins, which are molecular switches, to act as sensors of small molecules or local environmental changes. It is expected that this project will 1) create a new field of research called the metamorphome, and 2) catalyze a major revision of long-held beliefs of protein structure and function, potentially overturning the \u00d2one sequence, one fold\u00d3 paradigm. The LiWang lab is qualified to carry out the experimental phase of the project, as evidenced by their discovery and characterization of the metamorphic properties of KaiB (Chang et al., 2012; Chang et al., 2011; Tseng et al., 2014), including one in the journal Science (Chang et al., 2015). For the computational phase of the project, the LiWang lab is collaborating with the lab of Professor Lee-Ping Wang at UC Davis. Dr. Wang is qualified for this aspect of the project, because he has extensive experience in computational modeling (http://www.lpwchem.org). Support from the ARO is justified for this research project, because it has the potential to overturn long-held paradigms, and give birth to new fields of research. It also has translational potential for novel applications. Thus, the LiWang and Wang labs believe that the vision of this proposal is well aligned with that of the ARO.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "840,754",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7673711?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Andy Liwang",
+        "key_highlights": [
+            "The research project aims to uncover the \"metamorphome\", which is the population of metamorphic proteins in the Protein Data Bank (PDB).",
+            "The project has two phases: computational (identifying candidate proteins) and experimental (testing if they are actually metamorphic).",
+            "The discovery of the metamorphome could lead to a major revision of long-held beliefs about protein structure and function.",
+            "The LiWang and Wang labs are qualified to carry out the project, with the LiWang lab focusing on the experimental phase and collaborating with the lab of Professor Lee-Ping Wang for the computational phase."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3101 Biochemistry and Cell Biology",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 840,754\nFunding period\n2017\n20 Aug\n\u2010\n2021\n19 Aug",
+        "start_year": "2017",
+        "title": "Birth of the Metamorphome",
+        "tldr": "The LiWang and Wang labs are challenging the long-held belief that one protein sequence corresponds to one fold and function. They aim to uncover the \"metamorphome\", a population of proteins that can switch between two different folds and functions. This project has the potential to create a new field of research and revolutionize our understanding of protein structure and function.",
+        "top_keywords": [
+            "Metamorphome",
+            "Protein structure",
+            "Protein function",
+            "Metamorphic proteins",
+            "X-ray crystallography",
+            "Computational modeling",
+            "Experimental phase",
+            "Amino acyl sequence",
+            "Protein Data Bank",
+            "Translational potential"
+        ],
+        "units_of_assessment": [
+            "A05 Biological Sciences"
+        ]
+    },
+    {
+        "abstract": "Measures of actual human-machine interaction are required to generate ecologically valid, translatable discoveries that enhance human-systems integration and performance. Here, the proposed methods center on dyadic human-robot decision tasks to assess key determinants of human trust in robot recommendations (e.g., factors such as threat-salience and/or robot appearance), and the concomitant impacts of trust on performance. We will assess the impact of psychological representations of the competence, benevolence and integrity of robotic partners as these representations predict behavioral trust outcomes with regard to navigation, threat-detection, and the use of force. In addition to these laboratory studies, parallel online studies will be conducted to assess perceptions of, and conformity with, screen-mediated software agents.less",
+        "end_year": "2023",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "810,856",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9764479?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Colin Holbrook",
+        "key_highlights": [
+            "The research grant focuses on studying human trust in machine agents.",
+            "The proposed methods involve human-robot decision tasks to assess key determinants of trust.",
+            "The impact of psychological representations of robotic partners on trust and performance will be assessed.",
+            "The study will also include online studies to assess perceptions and conformity with screen-mediated software agents."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4608 Human-Centred Computing",
+            "Research, Condition, and Disease Categorization",
+            "Clinical Research"
+        ],
+        "section_details": "Funding amount\nUSD 810,856\nFunding period\n2020\n14 Sep\n\u2010\n2023\n13 Sep",
+        "start_year": "2020",
+        "title": "TRUST IN MACHINE AGENTS UNDER REALISTIC THREAT",
+        "tldr": "This research grant aims to study human trust in machine agents in realistic threat scenarios through human-robot decision tasks. The focus will be on factors such as threat-salience and robot appearance, and how trust impacts performance. Online studies will also be conducted to assess perceptions and conformity with screen-mediated software agents.",
+        "top_keywords": [
+            "Trust",
+            "Machine agents",
+            "Realistic threat",
+            "Human-machine interaction",
+            "Human-systems integration",
+            "Performance",
+            "Dyadic",
+            "Decision tasks",
+            "Psychological representations",
+            "Robot recommendations"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Cyanobacterial biofilms are potentially beneficial to the U.S. Air Force as a source ofnext-generation biofuels, fuel cells, and bioplastics, and for bioremediation of contaminatedsites. Because it is not known how cyanobacteria regulate production of biofilms, filling this gapin knowledge is expected to benefit efforts toward practical applications. Thus, the objective ofthe LiWang lab is to elucidate the structural biology of proteins involved in the regulation ofbiofilm production. They have teamed up with cyanobacterial and biofilm experts Drs. SusanGolden at UC San Diego and Rakefet Schwarz at Bar-Ilan University in Israel. Together, thesethree labs are tackling cyanobacterial biofilm regulation at the protein, genetic, and populationlevels with the expectation that their discoveries will enhance the usefulness of cyanobacteria asa source of biofilms for diverse purposes. STEM activities by the LiWang lab for disadvantagedyouth at the middle school, high school and undergraduate levels extend the impact of AFOSRsupport well beyond the immediate research project.less",
+        "end_year": "2021",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "756,532",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7442343?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Andy LiWang",
+        "key_highlights": [
+            "The research grant focuses on the structural biology of the regulatory mechanism of biofilm formation by cyanobacteria.",
+            "The objective of the research is to fill the gap in knowledge about how cyanobacteria regulate production of biofilms.",
+            "The research team includes experts from UC San Diego and Bar-Ilan University in Israel.",
+            "The research is expected to enhance the usefulness of cyanobacteria as a source of biofilms for various applications and includes STEM activities for disadvantaged youth."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3107 Microbiology"
+        ],
+        "section_details": "Funding amount\nUSD 756,532\nFunding period\n2017\n14 Sep\n\u2010\n2021\n13 Sep\nResulting DOD publications\n3",
+        "start_year": "2017",
+        "title": "Structural biology of the regulatory mechanism of biofilm formation by cyanobacteria",
+        "tldr": "This research grant aims to understand the regulatory mechanism of biofilm formation by cyanobacteria, which has potential applications in biofuels, fuel cells, bioplastics, and bioremediation. The LiWang lab is collaborating with experts in the field to investigate the role of proteins, genetics, and population levels in regulating biofilm production. Additionally, the lab is also conducting STEM activities for disadvantaged youth to extend the impact of the research beyond the immediate project.",
+        "top_keywords": [
+            "Structural biology",
+            "Regulatory mechanism",
+            "Biofilm formation",
+            "Cyanobacteria",
+            "Biofuels",
+            "Bioplastics",
+            "Bioremediation",
+            "Protein regulation",
+            "Genetic regulation",
+            "Population levels"
+        ],
+        "units_of_assessment": [
+            "A05 Biological Sciences"
+        ]
+    },
+    {
+        "abstract": "Automatic high-value target trackers have a number of uses, including real-time sensor slewing on user-nominated targets, offline forensic investigations into where a specific target traveled, and assisting with automated missions running on remote platforms. Instead of automatically tracking all targets within a scene, it can be beneficial to focus on a single or small number of critical targets of interest in order to best utilize limited computational resources. In producing long, accurate object tracks there are a number of challenges, such as distractors that look similar to the target and the possibility of the target being occluded for unknown, unbounded periods of time. Kitware proposes to address these challenges through the General Online Object Deep (GOOD) Tracking System. At the core of this approach is a system of deep convolutional neural networks specialized for efficient aerial video tracking, coupled with advanced online learning to aid with long term track re-acquisitions. Re-acquisition is additionally aided by a scene model and periodic semantic segmentation applied to this model. The GOOD tracker will generate both highly accurate and long object tracks, which will greatly benefit its users.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "749,998",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9528876?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Matthew Dawkins",
+        "key_highlights": [
+            "Development of the General Online Object Deep (GOOD) Tracking System",
+            "Utilization of deep convolutional neural networks for efficient aerial video tracking",
+            "Implementation of advanced online learning for long term track re-acquisitions",
+            "Generation of highly accurate and long object tracks to benefit users"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4608 Human-Centred Computing",
+            "Research, Condition, and Disease Categorization",
+            "Machine Learning and Artificial Intelligence",
+            "Networking and Information Technology R&D (NITRD)"
+        ],
+        "section_details": "Funding amount\nUSD 749,998\nFunding period\n2018\n26 Nov\n\u2010\n2020\n26 Nov",
+        "start_year": "2018",
+        "title": "General Online Object Deep (GOOD) Tracking Phase 2",
+        "tldr": "The GOOD Tracking System aims to improve automatic high-value target tracking by focusing on critical targets and utilizing deep convolutional neural networks and online learning. It also incorporates a scene model and periodic semantic segmentation for improved accuracy and long-term track re-acquisition.",
+        "top_keywords": [
+            "Online Object Tracking",
+            "Deep Learning",
+            "High-Value Targets",
+            "Computational Resources",
+            "Convolutional Neural Networks",
+            "Aerial Video Tracking",
+            "Online Learning",
+            "Track Re-acquisition",
+            "Scene Model",
+            "Semantic Segmentation"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "The purpose of this project is to introduce, analyze, and simulate new methods for activesynthetic aperture radar (SAR) using intensity-only measurements.",
+        "end_year": "2020",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "699,451",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7075374?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to ARNOLD KIM",
+        "key_highlights": [
+            "The project focuses on \"intensity-only\" measurements in synthetic aperture radar (SAR) imaging.",
+            "The goal is to introduce, analyze, and simulate new methods for active SAR.",
+            "The project aims to improve SAR imaging techniques.",
+            "The project will involve both theoretical analysis and simulation."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4013 Geomatic Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 699,451\nFunding period\n2017\n31 May\n\u2010\n2020\n30 May\nResulting DOD publications\n23",
+        "start_year": "2017",
+        "title": "Intensity-Only Synthetic Aperture Radar Imaging",
+        "tldr": "This research grant aims to develop and test new techniques for active synthetic aperture radar (SAR) imaging using only intensity measurements.",
+        "top_keywords": [
+            "Intensity-only",
+            "Synthetic aperture radar",
+            "Imaging",
+            "Active",
+            "Methods",
+            "Analysis",
+            "Simulation",
+            "Measurements"
+        ]
+    },
+    {
+        "abstract": "Biological fluid dynamics includes problems from bacterial swimming to the large-scale dynamics of the ocean, spanning many orders of magnitude in time and space. Across these scales, however, traditional imaging tools are not able to collect three-dimensional data at the speeds required to resolve many phenomena. As a result, quantitative measurements must be made from insufficient data: either in two-dimensions or far too slow to elucidate the dynamics. This in turn impedes the development and refinement of mathematical models needed to explain biological systems. We propose to develop a new imaging center \u00d0 the Multiscale Ultrafast Volumetric Imaging Center (MUVI) \u00d0 at the University of California, Merced (UC Merced) to quantitatively investigate biological fluid experiments at high speeds and multiple spatial scales. The MUVI center will be a multi-user facility which allows for volumetric imaging of samples ranging from microns to meters at speeds roughly one hundred times faster than conventional techniques. A significant number of UC Merced faculty working broadly within the field of Mathematical Biology have expressed interest in the facilities, and have proposed many ongoing or new projects that would directly benefit. Moreover, the center would be designed to be a focal point for the development of new high speed three-dimensional imaging techniques, fostering the mathematical exploration of previously unresolvable phenomena. To collect high-speed 3D data at different spatial scales, the MUVI center will consist of three imaging heads, one macro-scale imaging setup (mm \u00d0 m scales) and two different micro-scale imaging setups (?m \u00d0 mm scales). Each imaging head will provide a fast technique for optical sectioning of a sample: either by laser sheet induced fluorescence or phase-contrast microscopy. These three imaging heads will share a pair of state-of-the-art high-speed cameras, allowing high resolution volumes to be captured at 100\u00d01000 Hz. Furthermore, the center will have the computational capabilities for real-time viewing and analysis of the immense data sets (>100 GB) produced by such high-speed volumetric imaging. Beyond benefiting the research capabilities of UC Merced, the MUVI center will provide a unique educational opportunity for a diverse group of students and postdoctoral researchers on campus. UC Merced is a Hispanic and Minority Serving Institute, and also has a large number of first generation students. The students and postdoctoral researchers, through the MUVI center, will be able to learn, apply, and modify cutting-edge technology in imaging and data processing. This will directly result in an expanded pool of scientists and engineers with expertise in areas of interest to the Department of Defense. The MUVI center would have a number of broader impacts for the Army and Department of Defense (DOD). The imaging technologies developed in the MUVI center have many potential uses: either as sensors in the field, or in laboratory studies of fluid dynamics more broadly. The various projects enabled by the facility address a number of fields of direct interest for the Army and DOD, including biomechanics, aerodynamics, cellular and molecular biology, and the medical sciences. Moreover, the center would be active in developing methods for handling and analyzing large data sets; this is a significant area of concern in the emerging era of \u00d4Big Data\u00d5.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "690,668",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636761?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Shilpa Khatri",
+        "key_highlights": [
+            "The proposal is for the development of a new imaging center, the Multiscale Ultrafast Volumetric Imaging Center (MUVI), at the University of California, Merced.",
+            "The MUVI center will allow for high-speed and multi-scale imaging of biological fluid experiments, which is not possible with traditional imaging tools.",
+            "The center will have three imaging heads, each with different capabilities, and will use state-of-the-art high-speed cameras to capture high-resolution volumes at 100-1000 Hz.",
+            "The MUVI center will have broader impacts for the Army and Department of Defense, as the imaging technologies developed can have potential uses in the field and in laboratory studies, and the center will also focus on developing methods for handling and analyzing large data sets."
+        ],
+        "research_categories": [
+            "37 Earth Sciences",
+            "3705 Geology",
+            "46 Information and Computing Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Biomedical Imaging"
+        ],
+        "section_details": "Funding amount\nUSD 690,668\nFunding period\n2019\n24 Mar\n\u2010\n2020\n24 Mar",
+        "start_year": "2019",
+        "title": "Multiscale Ultrafast Volumetric Imaging (MUVI) Center",
+        "tldr": "The Multiscale Ultrafast Volumetric Imaging (MUVI) Center at UC Merced aims to develop new imaging techniques to study biological fluid dynamics at high speeds and multiple spatial scales. This will benefit ongoing and new research projects at the university and provide educational opportunities for students and postdoctoral researchers. The center also has potential applications for the Department of Defense, particularly in fields such as biomechanics and aerodynamics.",
+        "top_keywords": [
+            "Multiscale",
+            "Ultrafast",
+            "Volumetric Imaging",
+            "Biological Fluid Dynamics",
+            "High-speed",
+            "Optical Sectioning",
+            "Mathematical Models",
+            "Data Analysis",
+            "Educational Opportunity",
+            "Department of Defense"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Virtually all biochemical communication\u00d1responsible for everything from embryogenesis to the immune response\u00d1is mediated by protein-protein interactions, yet we have little atomic-level understanding of these interactions, and this lack of knowledge limits our ability to design therapeutics based on modifying interprotein communication. Structural biology techniques like NMR and X-ray crystallography can provide a snapshot of proteinprotein complexes, but it remains difficult to determine which observed contacts are important and how the flexibility and motion of the proteins affect the interaction. In this work we propose to establish a new approach to understanding protein-protein complexes using a combination of experimental biochemistry and molecular dynamics (MD) simulations, in a collaborative, iterative process to unravel individual interactions that lead to overall high affinity. Our project will focus on the poxvirus-produced protein vCCI (viral CC chemokine inhibitor), which has potent anti-inflammatory activity based on its ability to bind dozens of proteins in the chemokine (chemotactic cytokine) family. We have investigated the complex of vCCI with several chemokines and chemokine analogs by NMR, fluorescence, isothermal titration calorimetry (ITC), and biolayer interferometry (BLI), and performed matched 1\u00b5s molecular dynamics (MD) simulations of vCCI in complex with different chemokines having different binding affinities. These preliminary studies validate the use of a complementary experimental/computational approach to this problem. The long term goal of the research is to decode the \u00d2design principles\u00d3 of how vCCI is able to bind such a large family of proteins. This knowledge will allow us to optimize or manipulate vCCI\u00d5s binding in a controlled manner. In the First Aim we will experimentally validate several predictions made by MD simulations regarding the role of the vCCI loop and Nterminal region in its binding ability. These insights were largely unexpected from the known static structures, and will be tested by mutating and expressing vCCI and examining its complex formation using NMR, ITC and BLI. In the Second Aim, it is proposed to undertake a design challenge to determine the robustness of an iterative simulation/biochemical approach. The goal will be to mutate vCCI and a chemokine binding partner in tandem to allow them to retain affinity for each other, but lose affinity for the wild type versions of each. In this Aim, past biochemical and NMR results will inform the simulations, which will in turn pinpoint areas of interaction between vCCI and a chemokine for mutation, purification, and testing for binding affinity. The Third Aim will further validate this approach by designing changes in vCCI that will allow it to tightly and specifically bind the chemokine TARC/CCL17. Wild type vCCI does not bind TARC with high affinity, and the function of TARC in inflammation makes it a useful target from a practical standpoint as well as a proof of concept. Another important outcome of this project is that it will provide an innovative training experience for students from UC Merced\u00d5s highly diverse student body. Through bi-weekly meetings and student-led training modules, students working on both the experimental and computational portions of this project will gain an understanding of the principles and practice of each other\u00d5s research tools.less",
+        "end_year": "2023",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "659,906",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9404605?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Patricia Liwang",
+        "key_highlights": [
+            "The research aims to understand protein-protein interactions and their role in biochemical communication.",
+            "The project will use a combination of experimental biochemistry and molecular dynamics simulations to study the protein vCCI and its interactions with chemokines.",
+            "The long term goal is to decode the design principles of vCCI's ability to bind to a large family of proteins.",
+            "The project will also provide training opportunities for students from a diverse student body."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3101 Biochemistry and Cell Biology",
+            "34 Chemical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Health Category (HRCS)",
+            "Generic health relevance",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning",
+            "Cancer Types",
+            "Not Site-Specific Cancer",
+            "Common Scientific Outline (CSO)",
+            "1.1 Normal Functioning"
+        ],
+        "section_details": "Funding amount\nUSD 659,906\nFunding period\n2020\n30 Jul\n\u2010\n2023\n29 Jul\nResulting DOD publications\n5",
+        "start_year": "2020",
+        "title": "A Hybrid Computational/Experimental Approach to Tuning the Specificity of Chemokine Inhibitors",
+        "tldr": "This research project aims to understand the protein-protein interactions involved in biochemical communication and develop a new approach using a combination of experimental and computational methods. The focus is on the protein vCCI and its ability to bind to a large family of proteins. The project also aims to provide training opportunities for students from a diverse background.",
+        "top_keywords": [
+            "Protein-protein interactions",
+            "Chemokine inhibitors",
+            "Molecular dynamics simulations",
+            "NMR",
+            "Biochemistry",
+            "Affinity",
+            "Inflammation",
+            "Training experience",
+            "UC Merced",
+            "Diversity"
+        ],
+        "units_of_assessment": [
+            "B08 Chemistry"
+        ]
+    },
+    {
+        "abstract": "The objective of the proposed work is to examine the growth/structure/property relations of direct band gap germanium (Ge) nanomaterials for optoelectronic applications, by combining experiment with computational modeling. This project has two goals. The first goal is to overcome a long-standing materials challenge by converting Ge into a direct band gap semiconductor. The second goal is to comprehensively understand the fundamental characteristics of this novel material down to the single nanostructure level, to enable tuning of its properties for realizing future optoelectronic applications.less",
+        "end_year": "2019",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "621,091",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7081775?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Scheibner",
+        "key_highlights": [
+            "The objective of the research is to examine the growth, structure, and property relations of direct band gap germanium nanomaterials for optoelectronic applications.",
+            "The project has two goals: converting germanium into a direct band gap semiconductor and understanding the fundamental characteristics of this material at the nanostructure level.",
+            "The research will combine experimental and computational modeling methods.",
+            "The ultimate goal is to tune the properties of germanium for future optoelectronic applications."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 621,091\nFunding period\n2016\n31 Aug\n\u2010\n2019\n30 Aug\nResulting DOD publications\n9",
+        "start_year": "2016",
+        "title": "Optoelectronic Properties Of Strain-Engineered Germanium Dots",
+        "tldr": "This research aims to study the properties of germanium nanomaterials for optoelectronic applications through a combination of experimental and computational methods. The main goals are to convert germanium into a direct band gap semiconductor and to understand its fundamental characteristics at the nanostructure level for potential future applications.",
+        "top_keywords": [
+            "Optoelectronic properties",
+            "Strain-engineered",
+            "Germanium dots",
+            "Direct band gap",
+            "Nanomaterials",
+            "Computational modeling",
+            "Materials challenge",
+            "Semiconductor",
+            "Fundamental characteristics",
+            "Nanostructure level"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "4 Quality Education"
+        ],
+        "abstract": "The objectives of this project are 1) to establish a turn-key, easy-to-use quantum materials investigation lab for research, outreach and on-campus education-a Hands-on Quantum Materials Lab (HQML) and 2) augment ongoing and enable new DoD research. Here we request funding for instrumentation to opto-, electro- and mechanically analyze and manipulate novel material structures that exhibit quantum effects: The requested instrument, an attoDry1000-9T with attoAFM/CFM from attocube systems AG is a closed-cycle low-temperature, high magnetic field capable nanomaterials analysis system for Atomic force microscopy, Confocal microscopy, Tip-enhanced Raman spectroscopy, Magnetic domain imaging and more. The project's motivation stems from the observation that today we are no longer just shaping materials to reveal more intricate details on the tiny scales of the quantum world, now we are beginning to employ quantum effects in devices. Rudimentary examples of this onset of the quantum technology age are quantum dot TV screens. However, the term 'quantum', if at all known is merely a fashion word and quantum mechanics just an academic construct; far removed from ones' daily lives. Here we will conduct quantum technology enabling research, show that the quantum world is literally right at everyone's finger tips, and train students in the San Joaquin Valley for the job market of the quantum technology age. In this project the instrumentation for the HQML will be used threefold-research, education and outreach: Outreach: Thin layers of material, one atom thick, can be produced with one's bare hands and a piece of scotch tape. The so called scotch-tape method, originally used to mechanically exfoliated graphene (atomic monolayers of graphite), is now being applied to many other materials, most prominently transition metal dichalcogenites. On the campus open days, Bobcat day and preview day, the lab will be opened for the general public, where visitors will engage in exfoliation and the imaging of these materials. In addition, the instrument will be tied in with the lab tours for high school students offered by the UC Merced Society of Physics Students and individual high-school students will be able to join the UC Merced investigators and use the instrument through programs such as Project SEED. Education: The instrument will be tied in with existing courses in Physics, Chemistry and Materials Science and Engineering for demonstrating advanced materials characterization on the nanoscale and in extreme environments. A lab module will be developed in which students will use the instrument hands-on. Research: The research will focus on how structural and configurational changes effect the optoelectronic response at the single nanostructure level. The instrument will support research which includes novel approaches to spatially arrange and structurally design colloidal dots, couple mechanical motion to quantum dot states and induce 1D or 0D localization in 2D materials. Thereby the longstanding challenges of positioning colloidal dots, of reversibly modifying quantum dot structures post fabrication and of interfacing quantum effects with the macroscopic world are being addressed by a multidisciplinary team of UC Merced experts on quantum dots and novel 2D materials. As a user facility the instrument will also be available to a broader user base from UC Merced and the neighboring communities for conducting research into other aspects at the nanometer scale. The instrument will expand UCM's...less",
+        "end_year": "2018",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "599,880",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826064?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Scheibner",
+        "key_highlights": [
+            "Establishing a Hands-on Quantum Materials Lab (HQML) for research, outreach, and education",
+            "Requesting funding for instrumentation to analyze and manipulate novel material structures exhibiting quantum effects",
+            "Using the HQML for three purposes: research, education, and outreach",
+            "Focusing on research related to structural and configurational changes and their effect on optoelectronic response at the single nanostructure level."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "51 Physical Sciences",
+            "5108 Quantum Physics",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Biotechnology",
+            "Nanotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 599,880\nFunding period\n2017\n29 Sep\n\u2010\n2018\n28 Sep",
+        "start_year": "2017",
+        "title": "Hands-on Quantum Materials Lab",
+        "tldr": "This project aims to establish a Hands-on Quantum Materials Lab (HQML) for research, education, and outreach purposes. The requested instrument, an attoDry1000-9T with attoAFM/CFM, will be used to analyze and manipulate novel materials with quantum effects. The lab will also be open to the public for demonstrations and high school students for hands-on experience. The research will focus on understanding the optoelectronic response of materials at the nanoscale and developing new approaches for manipulating quantum effects.",
+        "top_keywords": [
+            "Quantum materials",
+            "Research",
+            "Instrumentation",
+            "Nanomaterials",
+            "Quantum technology",
+            "Education",
+            "Outreach",
+            "Nanoscale characterization",
+            "Colloidal dots",
+            "2D materials"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "Organic electro-optic materials have the potential to lead to new technologies in optical signal conversion, processing, and switching. To improve communication speed and signaling, improved organic materials are crucial. Theory can provide guidelines for optimizing these materials, but there is a large gap in understanding when going from quantum mechanical (QM) models of a single organic electro-optic (OEO) chromophore to statistical mechanical models of OEO chromophore-polymer/dendrimer composites. This proposal aims to bridge that knowledge gap via large-scale QM calculations of coupled chromophores using the stream processing capabilities of graphical processing units (GPUs). GPUs have hundreds of processor cores; code optimized to take advantage of this technology can be used to massively accelerate calculations with a relatively small investment in computer hardware. With ground state density functional theory (DFT) and its excited state time-dependent corollary TDDFT implemented for GPU technology, we can perform ground and excited state QM calculations on systems of unprecedented size. Instead of focusing on the properties of a single chromophore, this project will compute the nonlinear optical properties of many chromophores together to build up macroscopic understanding via the following three objectives: (1) determine the best DFT method for EO properties of coupled chromophores, (2) relate structure and electronic properties to how OEO chromophores pack together, and (3) calculate the EO properties of coupled chromophores to correlate their relative distance and orientation to overall material properties. These calculations will increase our understanding of how OEO chromophores should be modified to increase acentric ordering and to increase macroscopic electro-optic activity in chromophore-incorporated polymers/dendrimers.less",
+        "end_year": "2018",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "595,911",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7080299?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Christine Isborn",
+        "key_highlights": [
+            "The research grant aims to improve the prediction of optical properties of coupled chromophores for electro-optics.",
+            "The use of theory and large-scale quantum mechanical calculations will bridge the gap in understanding between single chromophores and chromophore-polymer/dendrimer composites.",
+            "The project will focus on determining the best method for calculating electro-optic properties, relating structure and electronic properties, and calculating the properties of coupled chromophores to understand their impact on overall material properties.",
+            "The results of this research will increase understanding of how to modify chromophores to enhance electro-optic activity in polymers/dendrimers."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry"
+        ],
+        "section_details": "Funding amount\nUSD 595,911\nFunding period\n2015\n20 Aug\n\u2010\n2018\n19 Aug",
+        "start_year": "2015",
+        "title": "Improved Prediction of the Optical Properties of Coupled Chromophores for Electro-optics",
+        "tldr": "This research grant aims to use large-scale quantum mechanical calculations on graphical processing units to improve our understanding of how coupled chromophores can be optimized for electro-optic properties. By studying the properties of multiple chromophores together, the goal is to increase our understanding of how to modify these materials for better electro-optic activity.",
+        "top_keywords": [
+            "Organic electro-optic materials",
+            "Quantum mechanical models",
+            "Statistical mechanical models",
+            "Coupled chromophores",
+            "Ground state density functional theory",
+            "Nonlinear optical properties",
+            "Acentric ordering",
+            "Electro-optic activity",
+            "Chromophore-incorporated polymers/dendrimers",
+            "GPU technology"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The objectives of this project are 1) to facilitate the progress of research in a wide range of disciplines by satiating the urgent needs of surface chemistry characterization, 2) to provide advanced hands-on training for both graduate and undergraduate students, particularly in underrepresented groups by acquiring a state-of-the-art X-ray photoelectron spectroscopy (XPS) system for the UC Merced campus. Considering the large number of researchers and diversity of research areas in need of XPS, a system with both functional flexibility and operational simplicity is pursued. An XPS will enable the identification of elemental composition of samples and chemical/electronic states of each element with depth-profiling capability. In addition to basic functionality, additional modules requested in this proposal should enable angle-dependent XPS analysis and minimize chemical damage of samples during depth profiling of any type of materials, including organic, biological and insulating samples. The new instrument acquired through this project will be leveraged for both research and education. Research: XPS is one of the standard materials characterization tools for a wide range of research in physics, chemistry, materials science, biology and other disciplines. However, UC Merced, one of the few research-intensive minority-serving institutions, is not yet equipped with an XPS. Researchers on campus currently need to reach out to facilities elsewhere to access such capabilities. The new XPS will immediately benefit a diverse array of fundamental and applied research in UC Merced including tribochemical phenomena, photovoltaic and electrochemical energy conversion, mesogenic materials design, water treatment and strain engineering of materials. The addition of an XPS system will significantly facilitate not only the progress of the active research in UC Merced and but also other research and development activities in the wider Central Valley area of California. Education: It is a central mission of UC Merced to serve the ethnically and culturally diverse but underserved region of California, the San Joaquin Valley area. The proposed project will provide excellent opportunities for underrepresented groups in the region and advance the nation\u00d5s interest in building a diverse, high-quality STEM workforce. A state-of-the-art XPS system will directly benefit both graduate and undergraduate students on campus with various research projects and valuable hands-on training through lab-based courses and pre-established undergraduate research programs.less",
+        "end_year": "2020",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "579,755",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636953?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Min Hwan Lee",
+        "key_highlights": [
+            "The project aims to acquire a state-of-the-art X-ray photoelectron spectroscopy (XPS) system for the UC Merced campus.",
+            "The XPS system will benefit a diverse array of research in various disciplines, including physics, chemistry, materials science, and biology.",
+            "The addition of an XPS system will facilitate the progress of research at UC Merced and in the wider Central Valley area of California.",
+            "The XPS system will also provide valuable hands-on training for both graduate and undergraduate students, particularly those from underrepresented groups, in line with the university's mission to serve the diverse and underserved region of California."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4610 Library and Information Studies"
+        ],
+        "section_details": "Funding amount\nUSD 579,755\nFunding period\n2019\n19 Sep\n\u2010\n2020\n18 Sep",
+        "start_year": "2019",
+        "title": "X-ray Photoelectron Spectroscopy for Multi-Disciplinary Research and Training",
+        "tldr": "This research grant aims to acquire an X-ray photoelectron spectroscopy (XPS) system for UC Merced to facilitate research in various disciplines and provide hands-on training for underrepresented students. The XPS system will benefit a diverse array of research projects and contribute to building a diverse STEM workforce.",
+        "top_keywords": [
+            "X-ray Photoelectron Spectroscopy (XPS)",
+            "Multi-disciplinary research",
+            "Surface chemistry characterization",
+            "Training",
+            "Underrepresented groups",
+            "State-of-the-art",
+            "Elemental composition",
+            "Depth-profiling",
+            "Materials characterization",
+            "STEM workforce"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This application seeks to replace the cryoprobe and cryoplatform of the only nuclear magnetic resonance (NMR) spectrometer at UC Merced that is configured for biomolecular experiments. Installed twelve years ago, these cryogenically cooled components have reached \u00d2end-of-life\u00d3, in that the vendor, Bruker BioSpin, has informed us that it can no longer guarantee providing repairs because many parts are no longer manufactured. (Note that non-cryogenically cooled components will still be covered under a service contract for several more years and are not in this proposal.) At least seven labs across the Schools of Natural Sciences and Engineering rely on the unique capabilities of this 14.1 Tesla biomolecular spectrometer. Virtually all of the users of the UC Merced biomolecular spectrometer are graduate and undergraduate students who, after training, largely set up their own experiments. Opened in 2005, UC Merced does not yet have the extensive NMR infrastructure of the other UC campuses, and is located in the middle of the San Joaquin Valley of California (SJV), which is hours away by car from the next nearest biomolecular NMR spectrometers (at UC Davis, UC Berkeley, and UC Santa Cruz). Thus, hands-on student training and experience in biomolecular NMR at UC Merced would be severely diminished if its sole biomolecular spectrometer were to become inoperable due to failure of the cryoprobe or cryoplatform. UC Merced is a Minority Institution with 55% of the student body identifying as Hispanic (www.ucmerced.edu/fast-facts), many of whom are the first in their family to attend college. Indeed, UC Merced\u00d5s mission is to increase college-going rates among students in the mostly Hispanic SJV (www.ucmerced.edu/about). Replacing the end-of-life components on the only biomolecular NMR spectrometer at UC Merced helps continue this mission and provides these students with the highest-quality education and training in science, technology, engineering, and math that prepares them for a competitive job market. The biomolecular NMR spectrometer has been and continues to be essential to multiple research projects supported by the U.S. Army Research Office (W911NF-10-1-0090, W911NF-17-1- 0434, W911NF-20-1-0268) and U.S. Air Force Office of Scientific Research (FA9550-13-1- 0154, FA9550-17-1-0447). This support by DoD Agencies has been foundational to the training of diverse graduate and undergraduate students, and also economically disadvantaged high school student researchers each summer. ARO and AFOSR awards have resulted in research articles published in prestigious high impact journals such as The Proceedings of the National Academy of Sciences (impact factor, 9.6), Molecular Systems Biology (impact factor, 9.8), and Science (impact factor, 41.1). Note that funds from these DoD Agency grants are plowed back into the UC Merced NMR Facility as recharge fees that maintain not only the biomolecular spectrometer, but also two other lower-field spectrometers used by non-biomolecular labs. Therefore, replacing the end-of-life components on the biomolecular spectrometer is essential to providing a unique STEM capability at UC Merced that is essential to the research programs of graduate and undergraduate students, postdocs, and PIs. This single instrument plays a critical role in campus-wide efforts to raise the research profile of UC Merced, help in its aspiration to transition from an R2 to R1 institution, and fulfill its educational and training missions in the SJV. In short, upgrading the biomolecular NMR spectrometer will yield beneficial outcomes to UC Merced\u00d5s educational, training, and research programs, thereby attracting diverse students who deserve the highest quality preparation for competitive STEM-based careers.less",
+        "end_year": "2022",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "571,556",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9709886?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Andy Liwang",
+        "key_highlights": [
+            "The research grant is for upgrading the end-of-life cryogenic components of the only nuclear magnetic resonance (NMR) spectrometer at UC Merced.",
+            "The cryoprobe and cryoplatform were installed twelve years ago and have reached \"end-of-life\" status, meaning the vendor can no longer guarantee repairs.",
+            "The NMR spectrometer is essential for multiple research projects supported by the U.S. Army Research Office and U.S. Air Force Office of Scientific Research.",
+            "The upgrade is necessary to continue the mission of increasing college-going rates among students in the mostly Hispanic San Joaquin Valley and to attract diverse students for STEM-based careers."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3401 Analytical Chemistry",
+            "51 Physical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Biotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 571,556\nFunding period\n2021\n14 May\n\u2010\n2022\n13 May",
+        "start_year": "2021",
+        "title": "Upgrade end-of-life cryogenic components of NMR spectrometer",
+        "tldr": "This research grant aims to replace the end-of-life cryogenic components of the only NMR spectrometer at UC Merced, which is crucial for biomolecular experiments. The current components are no longer manufactured and failure would severely impact student training and research. The replacement will benefit the university's mission to increase college-going rates among Hispanic students and attract diverse students for STEM-based careers.",
+        "top_keywords": [
+            "NMR spectrometer",
+            "Cryogenic components",
+            "Biomolecular experiments",
+            "Cryoprobe",
+            "Cryoplatform",
+            "UC Merced",
+            "Training",
+            "STEM",
+            "DoD Agencies",
+            "Research programs"
+        ],
+        "units_of_assessment": [
+            "C23 Education"
+        ]
+    },
+    {
+        "abstract": "Hemostasis is the normal process by which the body stops bleeding in the event of an injury. Blood coagulation is an important part of hemostasis where dozens of proteins act collectively to initiate a rapid clotting response. Ineffective coagulation leads to bleeding; excessive coagulation leads to pathological clot formation. Components of the coagulation system can thus serve as targets for therapeutic agents designed to be either prohemostatic or anticoagulant. However, there are currently no experimental assays capable of identifying individual outcomes of such therapeutics; variability amongst individuals, noise in experiments, and the multiple positive and negative feedback loops inherent to coagulation make its response challenging to predict. Accurate mathematical models of coagulation would complement existing experimental assays in risk prediction and development of therapeutics. A few mathematical models have been developed to describe coagulation; however, despite years of effort the comparison between such models and experiments is typically only qualitative. Further, the behavior captured by such mathematical formulations is not robust under experimental manipulations of specific chromogenic substrates, inhibitors, lipids, and other factors. The overall goal of the proposed work is to establish and experimentally verify a unifying mathematical model of coagulation that can accurately account for thrombin generation and prothrombin conversion. Development of this model is a critical step in creating a highly predictive tool with potential to aid in the design of new prohemostatics and anticoagulants. In contrast to prior modeling efforts, our innovative approach will assess the uncertainty inherent in an experimental system by including: 1) experimental noise, 2) error or uncertainty in initial conditions, 3) error or uncertainty in kinetic rate constants, and 4) the possibility of incorrect or incomplete kinetic schemes. To achieve our goal, we will focus on three specific aims: (1) develop and validate models of chromogenic substrate to determine how they alter the biochemistry of the system; (2) infer kinetic rates for lipid-surface dependent coagulation reactions, and (3) identify the mechanisms that regulate prothrombin conversion to thrombin. Our model is expected to have a positive impact; it will seamlessly and accurately probe the coagulation network and thus provide a more detailed analysis of the pathways and rate constants leading to thrombin generation. It could also be used to inform anticoagulant treatment strategies and speed the development of prohemostatic agents by helping to find optimal biochemical targets or combinations of synergistic targets that treat or prevent bleeding.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "569,891",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826883?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Suzanne Sindi",
+        "key_highlights": [
+            "The goal of the research is to develop a mathematical model of coagulation that can accurately account for thrombin generation and prothrombin conversion.",
+            "The model will incorporate uncertainty factors such as experimental noise, error in initial conditions and kinetic rate constants, and the possibility of incorrect or incomplete kinetic schemes.",
+            "The model will be used to identify mechanisms that regulate prothrombin conversion to thrombin and to inform anticoagulant treatment strategies.",
+            "The model is expected to have a positive impact by providing a more detailed analysis of the coagulation network and aiding in the development of prohemostatic agents."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3101 Biochemistry and Cell Biology",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Hematology",
+            "Health Category (HRCS)",
+            "Cardiovascular"
+        ],
+        "section_details": "Funding amount\nUSD 569,891\nFunding period\n2017\n10 Sep\n\u2010\n2020\n9 Oct",
+        "start_year": "2017",
+        "title": "Incorporating uncertainty to improve accuracy in mathematical modeling of coagulation",
+        "tldr": "This research aims to develop a mathematical model that accurately predicts blood coagulation, which is important for stopping bleeding and developing therapeutic treatments. The model will incorporate uncertainty and experimental noise to improve accuracy and identify potential targets for prohemostatic and anticoagulant agents.",
+        "top_keywords": [
+            "Coagulation",
+            "Mathematical modeling",
+            "Uncertainty",
+            "Thrombin generation",
+            "Prohemostatic",
+            "Anticoagulant",
+            "Experimental assays",
+            "Kinetic rate constants",
+            "Lipid-surface dependent reactions",
+            "Prothrombin conversion"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Quantum physics is attracting much funding and attention globally and in the US. Among NSF\u00d5s 10 big ideas, \u00d2Quantum Leap\u00d3 seeks to exploit \u00d2quantum mechanics to observe, manipulate, and control the behavior of particles and energy at atomic and subatomic scales, resulting in next-generation technologies for sensing, computing, modeling, and communicating.\u00d3 (quoted from the NSF web page). Earlier this spring the US Senate heard proposals for the QUANTUM for National Security Act (Senate bill 1197), and the Quantum Network Infrastructure and Workforce Development Act. Much of this kind of science requires the ability to perform measurements on samples held near 10 mK, and a quantum-ready workforce needs training in performing such measurements. UC Merced and its students have benefitted from the availability of two Oxford (formerly VeriCold) DR200 dilution refrigerators which are presently located at the Castle research facility at UC Merced. Dilution refrigerators allow scientists to perform measurements at temperatures as low as 10 mK, removing thermal noise from an experiment, and providing visibility to quantum behavior and other fundamental physical processes which are normally obscured by thermal motion of the matter comprising the system. Raymond Chiao purchased the two DRs for UC Merced in 2008 and they have operated for the past 12 years. Numerous postdoctoral scientists, graduate students and undergraduate students have been trained on system operation and have performed their research. Notably, 3 PhD. students have gone on to be employed in national laboratories where similar instruments are used. Since the system was installed, we have obtained 5 grants and published more than 10 articles which would not have been possible without the DRs. Up until October 2020 one of the units still operated regularly. The supporting equipment and measurement instruments are, however, in desperate need of upgrades. We propose to: 1) refurbish dilution refrigerator components and perform all essential maintenance to bring both units back to specified operation - upgrade operation and control system; and 2) acquire a suite of measurement instruments enabling a broader range of state-of-the-art research. Broader use of the DRs, especially by collaborators and undergraduate students, is limited by their location at Castle. We are in the process of relocating them to a new building on campus to make their unique capabilities available to a larger number of undergraduate students, graduate students, postdoctoral scientists and faculty. The cost of upgrading these two existing dilution refrigerators is less than that needed to purchase and install a single new refrigerator (without the supporting test and measurement instrumentation). The research themes include: qubits, cavity quantum electrodynamics, state of the art quantum devices, quantum materials and solid state based quantum emitters.less",
+        "end_year": "2023",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "565,873",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13539709?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Jay Sharping",
+        "key_highlights": [
+            "The research grant is for upgrading dilution refrigerators for quantum physics research.",
+            "The NSF has a \"Quantum Leap\" initiative to advance quantum technologies.",
+            "The US Senate has proposed acts to support quantum research.",
+            "The dilution refrigerators have been used for 12 years and have resulted in grants and publications."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5108 Quantum Physics",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 565,873\nFunding period\n2022\n31 Jul\n\u2010\n2023\n30 Jul",
+        "start_year": "2022",
+        "title": "Dilution Refrigerator Upgrade for Cutting Edge Quantum Physics",
+        "tldr": "This research grant aims to upgrade two dilution refrigerators at UC Merced to support cutting-edge quantum physics research. The upgraded equipment will allow for measurements at extremely low temperatures, providing visibility to quantum behavior and other fundamental physical processes. The grant also includes plans to relocate the refrigerators to a new building on campus to make them more accessible to a larger number of students and researchers.",
+        "top_keywords": [
+            "Dilution refrigerator",
+            "Quantum physics",
+            "NSF",
+            "Quantum Leap",
+            "Quantum mechanics",
+            "Next-generation technologies",
+            "Quantum Network Infrastructure",
+            "Workforce Development",
+            "Thermal noise",
+            "Quantum behavior"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "The University of California, Merced (UC Merced), which opened to students in 2005, is the first new research university built in the 21st century. UC Merced\u00d5s overall 57% underrepresented minority rate is the highest in the University of California system, with other campuses ranging from 17% to 42%. While serving a large proportion of ethnic minorities, UC Merced has also rapidly become recognized for its research capacity. Here we propose to acquire the Bio-Rad ZE5 flow cytometer for expansion of research capacity, to serve existing research projects in a wide range of disciplines, to support existing STEM programs and curricula, and to increase participation in STEM fields among students from high school to university levels. The Bio-Rad ZE5 is a newly released, state-of-the-art flow cytometer that has achieved major advances in fluorescence detection capabilities and features. We propose to house this instrument in the Stem Cell Instrumentation Foundry (SCIF) core facility that oversees the university\u00d5s current flow cytometry/cell sorting resources. In our analysis of the available instruments, we determined that the Bio-Rad ZE5 will provide all the detection channels our investigators will need (with room to grow), and many useful features not found in other instruments that will benefit both our researchers, STEM students, and our core facility lab staff. Our team is comprised of two principal investigators. Dr. Clarissa Nobile, the lead principal investigator, whose lab studies the molecular and mechanistic bases of microbial communities (e.g. biofilms), and Dr. David Gravano, the co-lead principal investigator, who manages flow cytometry resources at UC Merced\u00d5s SCIF. High-throughput genetic screens and assays performed in the Nobile lab will greatly benefit from the Bio-Rad ZE5\u00d5s unique capabilities. The SCIF\u00d5s technical expertise in flow cytometry will ensure that the Bio-Rad ZE5 will have wide accessibility, proper maintenance, and effective user training. Three additional co-investigators have described their labs\u00d5 research projects that will specifically benefit from the Bio-Rad ZE5. We estimate that at least 10 current UC Merced labs will utilize the Bio-Rad ZE5 for approximately 900 hours per year for research purposes. UC Merced is currently undergoing a campus expansion called the \u00d22020 Project\u00d3 that will double the physical infrastructure of the campus by fall 2020, adding a new Biosafety Level 3 lab that this instrument would also support along with many new faculty in the life sciences. Additionally, the Bio-Rad ZE5 will support the undergraduate curriculum at UC Merced through collaboration with the HHMI-funded Inclusive Excellence in Science Education program. This program will utilize the Bio-Rad ZE5 to provide course-based research experiences that will support UC Merced\u00d5s new General Education curriculum that requires a \u00d2culminating experience\u00d3 for all students before graduation. We will further supplement high school and undergraduate research and training programs including the NSF-funded CREST Center for Cellular and Biomolecular Machines Summer Internship Program and the Science and Technology Enrichment Program, the CalTeach Bobcat Summer STEM Academy and the CalTeach Teacher Summer Institute, the NIH-funded MARC U*STAR program, and the UC Merced Student Success Internship program. These programs, combined with the existing and future faculty research projects, will ensure broad utilization of the valuable technique of flow cytometry and the new Bio-Rad ZE5 instrument.less",
+        "end_year": "2020",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "515,203",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636964?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Clarissa Nobile",
+        "key_highlights": [
+            "Acquisition of the Bio-Rad ZE5 flow cytometer for expansion of research capacity and support of existing STEM programs and curricula.",
+            "The Bio-Rad ZE5 is a state-of-the-art instrument with advanced fluorescence detection capabilities and features.",
+            "The instrument will benefit multiple research projects and labs at UC Merced, including those studying microbial communities and conducting genetic screens and assays.",
+            "The Bio-Rad ZE5 will also support undergraduate curriculum and training programs, as well as the campus expansion and addition of a new Biosafety Level 3 lab."
+        ],
+        "research_categories": [
+            "39 Education",
+            "3901 Curriculum and Pedagogy",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Biotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 515,203\nFunding period\n2019\n22 Sep\n\u2010\n2020\n21 Sep\nResulting DOD publications\n8",
+        "start_year": "2019",
+        "title": "High Dimensional Flow Cytometer for Microbiological Analysis and Education",
+        "tldr": "UC Merced is seeking to acquire the Bio-Rad ZE5 flow cytometer to expand their research capacity and support STEM programs and curricula. The instrument will benefit multiple research projects and provide valuable training opportunities for high school and undergraduate students. It will also support the university's campus expansion and new Biosafety Level 3 lab.",
+        "top_keywords": [
+            "Flow cytometer",
+            "Microbiological analysis",
+            "Education",
+            "Research capacity",
+            "STEM",
+            "Underrepresented minorities",
+            "Fluorescence detection",
+            "Genetic screens",
+            "Stem Cell Instrumentation Foundry",
+            "High-throughput assays"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "4 Quality Education"
+        ],
+        "abstract": "The National Defense Authorization Act for Fiscal Year (FY) 2016, under authority of 10 U.S.C. \u00a4 2362 and the Office of the Assistant Secretary of Defense for Research and Engineering (OASD(R&E)), allocated $28 million to assist Historically Black Colleges and Universities and Minority-Serving Institutions (HBCU/MI) with equipment and instrumentation enhancements to improve their research and education capabilities in scientific disciplines important to the defense mission. The program aims enhance the capacity of HBCU/MI to participate broadly in defense research programs and activities and to increase the number of graduates, including underrepresented minorities, in fields of science, technology, engineering, and mathematics (STEM). Opened in 2005 as the first new research university of the 21st century, UC Merced is one of the few minority-serving-institutions that are research-intensive and Ph.D. granting. This grant is intended to fill an important gap at this newest University of California campus, the lack of a shared facility for characterizing molecules. This proposal seeks to acquire three major instruments that are needed intermittently by a number of research groups and are most suitably housed in a shared facility: a liquid chromatograph-mass spectrometer with a high resolution mass detector that can analyze complex mixtures, a Fourier transform infrared spectrometer that can access the far-infrared spectral region and work in attenuated total reflection (ATR) mode, and a highly sensitive fluorometer that is highly upgradable and compatible with many sample formats. All three instruments will be co-located with two existing NMR spectrometers. Hence, the three new instruments and the NMRs will constitute the core of a nascent molecular characterization facility (MCF) that will provide one stop services to all campus users who need to characterize molecules. The instruments will be used mainly by postdocs, graduate students, and undergraduate research students after suitable training. Their use and maintenance will be supervised by the facility director. Impact on Research: These molecular characterization capabilities are indispensable in modern research in chemistry, materials, biology and other disciplines. Currently, researchers at UC Merced must travel to or send samples to facilities elsewhere to access such capabilities. The addition of such instrumentation will notably bolster a diverse array of research projects that are connected to DOD\u00d5s interests, from optoelectronic materials such as semiconductor nanocrystals and perovskites to in vivo nanosensors, mechanistic investigation of organic reactions, and the molecular basis of traumatic brain injury. Impact on Education: UC Merced is located in a culturally and ethnically diverse, fast growing, strategically important but underserved region in California. Hence, it is uniquely positioned to provide transformative learning experiences to traditionally underrepresented groups and advance the nation\u00d5s interest in building a diverse, highly skilled STEM workforce. The MCF will open up a variety of new educational opportunities. Our graduate students will directly benefit from the numerous research projects this facility will enable. The facility will also provide valuable hands-on training to UC Merced undergraduate researchers as well as undergraduate students from other institutions participating in our Research Experiences for Undergraduates program. The instrumentation will also benefit high school students participating in the American Chemical Society\u00d5s Project SEED program and high school teachers participating in our new teacher development program.less",
+        "end_year": "2017",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "495,850",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7080695?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Anne Kelley",
+        "key_highlights": [
+            "The National Defense Authorization Act allocated $28 million to assist Historically Black Colleges and Universities and Minority-Serving Institutions with equipment and instrumentation enhancements for defense research and education.",
+            "UC Merced is a research-intensive and Ph.D. granting minority-serving-institution that lacks a shared facility for characterizing molecules.",
+            "This grant aims to acquire three major instruments to create a molecular characterization facility that will provide one-stop services for all campus users.",
+            "The addition of these instruments will have a significant impact on both research and education, providing valuable opportunities for diverse groups and advancing the nation's interest in building a skilled STEM workforce."
+        ],
+        "research_categories": [
+            "39 Education",
+            "3903 Education Systems"
+        ],
+        "section_details": "Funding amount\nUSD 495,850\nFunding period\n2016\n28 Aug\n\u2010\n2017\n27 Aug",
+        "start_year": "2016",
+        "title": "Molecular Characterization Facility",
+        "tldr": "The Molecular Characterization Facility at UC Merced, funded by a $28 million grant, aims to enhance the research and education capabilities of Historically Black Colleges and Universities and Minority-Serving Institutions in STEM fields. The facility will provide access to essential instruments for characterizing molecules, benefiting both graduate and undergraduate students and promoting diversity in the STEM workforce.",
+        "top_keywords": [
+            "Molecular characterization",
+            "Research grant",
+            "Defense mission",
+            "STEM",
+            "Underrepresented minorities",
+            "Research university",
+            "Shared facility",
+            "Instrumentation",
+            "Diverse array of research projects",
+            "Education opportunities"
+        ],
+        "units_of_assessment": [
+            "C23 Education"
+        ]
+    },
+    {
+        "abstract": "This project aims to elucidate nano-scale contact forces at the metal/metal and metal/graphite interfaces. The overarching objective is to achieve predictive material science for two dissimilar materials.less",
+        "end_year": "2018",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "449,209",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7081273?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to ASHLIE MARTINI",
+        "key_highlights": [
+            "The research focuses on understanding and predicting the stress-induced evolution of nanoscale materials interfaces.",
+            "The study will specifically investigate contact forces at the interfaces of metal/metal and metal/graphite materials.",
+            "The ultimate goal is to achieve predictive material science for two dissimilar materials.",
+            "The project aims to contribute to the field of nanoscale materials science by providing insights into the behavior of materials interfaces."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 449,209\nFunding period\n2015\n14 Aug\n\u2010\n2018\n13 Aug\nResulting DOD publications\n8",
+        "start_year": "2015",
+        "title": "Understanding and Prediction of the Coupled Stress-Induced Evolution of Nanoscale Materials Interfaces",
+        "tldr": "This research grant aims to understand and predict the stress-induced evolution of interfaces in nanoscale materials, specifically at metal/metal and metal/graphite interfaces. The ultimate goal is to develop predictive material science for dissimilar materials.",
+        "top_keywords": [
+            "Stress-induced evolution",
+            "Nanoscale materials",
+            "Interfaces",
+            "Contact forces",
+            "Metal/metal",
+            "Metal/graphite",
+            "Predictive material science",
+            "Dissimilar materials"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "MXenes are an emerging class of materials with an attractive combination of physical and electrical properties making them suitable for next-generation applications of interest to the U.S. Air Force such as electromagnetic interference shielding and wearable electronics. However, realizing the potential of MXenes for such applications requires a fundamental understanding how strain affects their surface electronic properties. This goal will be pursued in the proposed project by integrating conductive atomic force microscopy (C-AFM) experiments and multi-scale modeling of the model MXene Mo2C and its oxygenated form. Electronic properties including local density of states (LDOS) and conductivity will be correlated with strain induced three different ways: (i) due to (near-)surface defects (vacancies, adatoms, and interstitials), (ii) at or near wrinkles formed by placing MXenes on pre-stretched elastomeric substrates, and (iii) generated in response to the nanoscale contact between the C-AFM probe and the MXene surface. This third approach will enable testing of the possibility of using strain to tune local surface electronic properties in a reversible fashion. Current vs. voltage spectroscopy measurements will provide local information on conductivity and LDOS, and the experiments will be complemented by a range of modeling approaches (including continuum calculations, molecular dynamics simulations, and ab initio density functional theory calculations) to understand the relationship between strain and surface electronic properties. The body of knowledge that will be attained through this project will lay the groundwork for the realization of flexible electronic components and devices based on MXenes for next-generation applications.less",
+        "end_year": "2025",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "448,136",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13488728?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to MEHMET BAYKARA",
+        "key_highlights": [
+            "MXenes are a promising material for next-generation applications such as electromagnetic interference shielding and wearable electronics.",
+            "Understanding how strain affects the surface electronic properties of MXenes is crucial for realizing their potential in these applications.",
+            "The proposed project will use conductive atomic force microscopy (C-AFM) experiments and multi-scale modeling to study the effects of strain on the electronic properties of Mo2C and its oxygenated form.",
+            "The results of this project will contribute to the development of flexible electronic components and devices based on MXenes for future applications."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 448,136\nFunding period\n2022\n14 Aug\n\u2010\n2025\n13 Aug\nResulting DOD publications\n2",
+        "start_year": "2022",
+        "title": "EFFECT OF STRAIN ON SURFACE ELECTRONIC PROPERTIES OF MXENES",
+        "tldr": "This research project aims to understand how strain affects the surface electronic properties of MXenes, a promising material for applications such as electromagnetic shielding and wearable electronics. Through a combination of experiments and modeling, the goal is to determine the relationship between strain and electronic properties, with a focus on using strain to tune these properties in a reversible manner. The findings will contribute to the development of flexible electronic components and devices using MXenes.",
+        "top_keywords": [
+            "Strain",
+            "Surface electronic properties",
+            "MXenes",
+            "Conductive atomic force microscopy (C-AFM)",
+            "Multi-scale modeling",
+            "Local density of states (LDOS)",
+            "Conductivity",
+            "Nanoscale contact",
+            "Reversible tuning",
+            "Flexible electronic components"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Identifying new high-performance piezoelectric and ferroelectric materials is key for developing next-generation Navy technologies, such as sensors and SONAR. A strong electromechanical coupling, that is, a link between the electrical (electric polarization) and mechanical (stress/strain) properties of materials is a key ingredient for these technologies. The objective of this ONR Proposal is to identify strategies to realize novel and enhanced electromechanical effects, focusing on a family of recently discovered layered perovskite oxide ferroelectrics. These layered perovskites do not contain lead and operate at room temperature, so they are very pr omising for integration into applications. Traditionally, efforts to obtain large electromechanical responses have focused on increa sing the magnitude of piezoelectric coefficients of bulk piezoelectric materials. Here, we propose to leverage the unique aspects of layered perovskite oxides to explore two alternative strategies for obtaining enhanced electromechanical responses. First, we will harness the large number of structural phases that compete for the ground state in layered perovskites to identify pathways to stabi lize these materials in an antiferroelectric state, where there is a non-polar ground state and a metastable polar phase slightly hi gher in energy. We propose that phase transitions between these non-polar and polar phases, induced by application of an electric fi eld or mechanical stress, are a mechanism to obtain enhanced electromechanical response. Second, we will explore layered perovskite oxide ferroelectrics in freestanding membrane form as a novel piezoelectric platform. We will investigate whether recently reported extreme strain states in oxide membranes can be harnessed to yield enhanced electromechanical responses. This theoretical and comp utational research program will utilize a combination of group theoretic symmetry analysis and density functional theory calculation s. The ideas developed in this research will be tested and refined through collaboration with the PIs network of experimental colla borators, who both synthesize and characterize layered perovskite materials.less",
+        "end_year": "2024",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "446,957",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9881764?order=funding&or_facet_research_org=grid.266096.d&not_facet_funder=grid.496791.4",
+        "investigator": "to Elizabeth Nowadnick",
+        "key_highlights": [
+            "The research grant aims to identify new high-performance piezoelectric and ferroelectric materials for Navy technologies.",
+            "The focus is on layered perovskite oxide ferroelectrics, which do not contain lead and operate at room temperature.",
+            "The research will explore two strategies for obtaining enhanced electromechanical responses: harnessing structural phases and utilizing freestanding membrane form.",
+            "The research will use a combination of group theoretic symmetry analysis and density functional theory calculations, and will collaborate with experimental collaborators to test and refine the ideas developed."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "3406 Physical Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 446,957\nFunding period\n2021\n12 Sep\n\u2010\n2024\n11 Sep\nResulting DOD publications\n2",
+        "start_year": "2021",
+        "title": "Electromechanical properties of layered perovskite oxide ferroelectrics from first principles",
+        "tldr": "This research grant aims to identify new high-performance piezoelectric and ferroelectric materials for Navy technologies. The focus is on layered perovskite oxide ferroelectrics, which do not contain lead and operate at room temperature. The research will explore two strategies for obtaining enhanced electromechanical responses: stabilizing materials in an antiferroelectric state and utilizing oxide membranes. Collaboration with experimental collaborators will help test and refine the ideas developed.",
+        "top_keywords": [
+            "Electromechanical properties",
+            "Layered perovskite oxide ferroelectrics",
+            "Piezoelectric",
+            "Ferroelectric",
+            "Navy technologies",
+            "Sensors",
+            "SONAR",
+            "Structural phases",
+            "Antiferroelectric state",
+            "Density functional theory"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    }
+]

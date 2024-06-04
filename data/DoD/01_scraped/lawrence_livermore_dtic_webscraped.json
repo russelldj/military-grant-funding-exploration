@@ -1,0 +1,769 @@
+[
+    {
+        "abstract": "CL-20 is the most powerful conventional explosive known, but its high cost has limited its adoption in a range of potential applications. Par of the challenge in making these materials is the complexity of the reaction used to prepare the polycyclic cage. The complexity of this reaction makes it difficult to have insight into the reaction and to improve it. Additionally, several of the intermediates and reaction byproducts are challenging to analyze with typical analytical techniques. In the research program proposed, we would apply cutting edge analytical techniques in combination with flow chemistry techniques to collect detailed data about the relevant chemical reactions, while also enabling access to process conditions that would not be accessible using batch conditions.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,981,016",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8452304?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Pascal Dube",
+        "key_highlights": [
+            "Development of high performance energetic propellant ingredient",
+            "Use of cutting edge analytical techniques",
+            "Utilization of flow chemistry techniques",
+            "Improvement of reaction used to prepare polycyclic cage"
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3406 Physical Chemistry"
+        ],
+        "section_details": "Funding amount\nUSD 1,981,016\nFunding period\n2017\n19 Nov\n\u2010\n2021\n29 Dec",
+        "start_year": "2017",
+        "title": "High Performance Energetic Propellant Ingredient Process Research and Development",
+        "tldr": "This research grant aims to improve the production process of CL-20, a powerful but expensive explosive, by using advanced analytical techniques and flow chemistry. The complex reaction used to make CL-20 makes it difficult to understand and improve, but this research hopes to gather detailed data and access new process conditions to overcome these challenges.",
+        "top_keywords": [
+            "High Performance",
+            "Energetic Propellant",
+            "Ingredient",
+            "Process",
+            "Research and Development",
+            "CL-20",
+            "Conventional Explosive",
+            "Reaction",
+            "Polycyclic Cage",
+            "Analytical Techniques"
+        ],
+        "units_of_assessment": [
+            "B08 Chemistry"
+        ]
+    },
+    {
+        "abstract": "A multivariate interface/data structure for insensitive munitions (IM) applications, technology and hazards/effects analysis can facilitate transition of propulsion modeling and simulation (M&S) capability. Expected benefits are reduced testing and overall acquisition cost and increased safety margins. Use of M&S can provide knowledge points not achievable with limited pass-fail testing. During Phase I, the M&S toolset for system mitigation of IM hazards was assessed to be ready for expedited transition. The Phase II effort will study bullet/fragment impact protection during transport, as well as mitigation of thermal effects on a propulsion stack from jet fuel fires in the launching system. The intended products are additions to the multivariate knowledge base including mitigation technology and the separately funded transition of a test-validated propulsion mitigation M&S analysis toolset in order to reduce overall cost of a specific missile acquisition program.less",
+        "end_year": "2010",
+        "funder": "Missile Defense Agency",
+        "funding_amount_usd": "1,169,100",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4372930?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Dan Jones",
+        "key_highlights": [
+            "Development of a multivariate interface/data structure for insensitive munitions (IM) applications",
+            "Use of modeling and simulation (M&S) to reduce testing and acquisition costs and increase safety margins",
+            "Assessment of M&S toolset for system mitigation of IM hazards during Phase I",
+            "Study of bullet/fragment impact protection and thermal effects on propulsion stack during Phase II, with the goal of reducing overall cost of a specific missile acquisition program."
+        ],
+        "research_categories": [
+            "35 Commerce, Management, Tourism and Services",
+            "3509 Transportation, Logistics and Supply Chains",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,169,100\nFunding period\n2008\n13 Nov\n\u2010\n2010\n13 Nov",
+        "start_year": "2008",
+        "title": "Expedited Transition of Propulsion Modeling & Simulation Capability",
+        "tldr": "This research grant aims to develop a multivariate interface for insensitive munitions applications, which will allow for faster and safer transition of propulsion modeling and simulation capability. The use of this toolset can reduce testing and acquisition costs, while also providing valuable knowledge points. The Phase II effort will focus on studying bullet/fragment impact protection and thermal effects on propulsion systems.",
+        "top_keywords": [
+            "Propulsion modeling",
+            "Simulation capability",
+            "Insensitive munitions",
+            "Technology",
+            "Hazards/effects analysis",
+            "Testing",
+            "Acquisition cost",
+            "Safety margins",
+            "Mitigation",
+            "Missile acquisition program"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "ABSTRACT: We propose a new fiber WDM fabrication method for single mode high power fiber laser. Our new approach will enable kW operation for both single mode fiber WDM and PCF WDM. At the end of Phase I, a proof of concept experiment will be demonstrated. In phase II, we will target at delivery of a reliable prototypes for both step index fiber WDM and PCF WDM. BENEFIT: The WDM is a key component for high power fiber laser. It can be used in many applications, such as antireflection windows, space, aircraft, and satellite applications of LADAR systems, countermeasures, and communications. PolarOnyx will develop a series of products to meet various requirements for military deployments. Other commercial applications include Material processing. This includes (1) all types of metal processing such as welding, cutting, annealing, and drilling; (2)semiconductor and microelectronics manufacturing such as lithography, inspection, control, defect analysis and repair, and via drilling; (3) marking of all materials including plastic, metals, and silicon; (4) other materials processing such as rapid prototyping, desk top manufacturing, micromachining, photofinishing, embossed holograms, and grating manufacturing. Medical equipment and biomedical instrumentation. The high power amplifier/laser can be applied to ophthalmology, refractive surgery, photocoagulation, general surgery, therapeutic, imaging, and cosmetic applications. Biomedical instruments include those involved in cells or proteins, cytometry, and DNA sequencing; laser Raman spectroscopy, spectrofluorimetry, and ablation; and laser based microscopes.less",
+        "end_year": "2014",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "149,996",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4399094?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Jian Liu",
+        "key_highlights": [
+            "Development of a new fiber WDM fabrication method for high power fiber lasers",
+            "Targeting delivery of reliable prototypes for both step index fiber WDM and PCF WDM",
+            "Potential applications in military deployments, material processing, and medical equipment/biomedical instrumentation",
+            "Potential benefits in various industries such as antireflection windows, space, aircraft, and satellite applications, as well as material processing and medical applications."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 149,996\nFunding period\n2014\n14 May\n\u2010\n2014\n30 Oct",
+        "start_year": "2014",
+        "title": "Low Loss, High Average Power PM WDMs for Raman Fiber Lasers",
+        "tldr": "This research grant aims to develop a new method for fabricating high power fiber lasers, which will have various applications in military, commercial, and medical fields. The proposed technology will allow for kW operation and the development of reliable prototypes for both step index and PCF WDMs.",
+        "top_keywords": [
+            "Low Loss",
+            "High Average Power",
+            "PM WDMs",
+            "Raman Fiber Lasers",
+            "Single Mode",
+            "kW Operation",
+            "Step Index Fiber",
+            "PCF WDM",
+            "Military Deployments",
+            "Material Processing"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "We propose a compact, monolithic, power scalable, hollow core fiber-gas laser emitting in the atmospheric transmission region in the mid-IR. The proposed optically pumped fiber-gas laser system is efficient, has a small footprint as well has a broad spectral coverage in the mid-IR. Due to the unique approach employed, the proposed technology allows generation of mid-IR output with varying pulse repetition rates and energies, as well as can produce CW outputs. Further, the technology can be refined to generate diffraction-limited output in the mid-IR region.less",
+        "end_year": "2019",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "149,995",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9528038?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Vasudevan Nampoothiri",
+        "key_highlights": [
+            "Development of a compact, monolithic, power scalable, hollow core fiber-gas laser",
+            "Emission in the atmospheric transmission region in the mid-IR",
+            "Ability to generate mid-IR output with varying pulse repetition rates and energies, as well as CW outputs",
+            "Potential for refinement to produce diffraction-limited output in the mid-IR region"
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 149,995\nFunding period\n2018\n14 Oct\n\u2010\n2019\n29 Sep",
+        "start_year": "2018",
+        "title": "Lasers Based on Gas or Liquid Filled Hollow-Core Photonic Crystal Fibers",
+        "tldr": "This research grant proposes a compact, efficient, and versatile laser system using gas or liquid filled hollow-core photonic crystal fibers. The technology allows for generation of mid-IR output with varying pulse rates and energies, as well as the potential for diffraction-limited output.",
+        "top_keywords": [
+            "Lasers",
+            "Gas-filled",
+            "Liquid-filled",
+            "Hollow-core",
+            "Photonic crystal fibers",
+            "Monolithic",
+            "Power scalable",
+            "Mid-IR",
+            "Optically pumped",
+            "Diffraction-limited output"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "This program will demonstrate how additive manufacturing technologies can be used with reactive and high energy materials to create rapid and flexible fabrication of payload and munitions. Our primary approach to this problem will be to use powder bed binder printing techniques to print reactive structures. The anticipated feedstock will consist of composite particles containing all reactant species. Each printed particle can act as its own chemical cell, negating the need for particle-to-particle diffusion of reactants. Because structural integrity is a goal of this proposed work, an infiltrate will be utilized to fill voids and reinforce the printed structure. The initial focus will be on melt infiltrating the structure with solders or brazing alloys. Their low melting temperatures allow infiltration without diminishing the stored chemical energy in the printed reactive material. Reactive payloads formed by additive manufacturing can improve the payload effect/mass ratio by replacing structural elements in the munition that would otherwise be inert. In the future, we anticipate additive manufacturing may be able to create new, highly-controllable and tailored payload effects that would not be possible with traditional munitions. The program will focus on demonstrating the fundamental building blocks and techniques that can facilitate this development process.less",
+        "end_year": "2017",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "149,992",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.6919714?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Susana Carranza",
+        "key_highlights": [
+            "Development of powder bed printing (3DP) for rapid and flexible fabrication",
+            "Use of additive manufacturing technologies with reactive and high energy materials",
+            "Utilization of powder bed binder printing techniques to print reactive structures",
+            "Potential for improved payload effect/mass ratio and creation of new, highly-controllable and tailored payload effects through additive manufacturing."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 149,992\nFunding period\n2016\n22 Sep\n\u2010\n2017\n24 Apr",
+        "start_year": "2016",
+        "title": "Development of powder bed printing (3DP) for rapid and flexible fabrication of energetic material payloads and munitions",
+        "tldr": "This research grant aims to develop a powder bed printing technique for the rapid and flexible fabrication of energetic material payloads and munitions. By using reactive and high energy materials, this method eliminates the need for particle-to-particle diffusion and can potentially improve the payload effect/mass ratio. The focus is on demonstrating the fundamental building blocks and techniques for this development process.",
+        "top_keywords": [
+            "Powder bed printing",
+            "Additive manufacturing",
+            "Energetic materials",
+            "Payloads",
+            "Munitions",
+            "Reactive structures",
+            "Composite particles",
+            "Infiltration",
+            "Chemical energy",
+            "Structural integrity"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The health and safety of civilians and deployed troops critically depends on the ability to detect a broad range of toxic contaminants in drinking water. There is also a generally perceived need for an accurate, reliable, and cost-effective measurement system for assuring the safety of drinking water, i.e., a simple test to determine \"lack of contamination\" in military, civilian, and industrial settings. This proposal addresses these important needs by demonstrating the feasibility of a system comprising a novel and innovative, low-cost, small-size, microfluidic chip-based cell maintenance cartridge (CMC), and a portable cell maintenance system (CMS) capable of housing multiple CMCs. The proposed CMC/CMS system will be capable of optimally maintaining multiple vertebrate cell types during transport, storage, and use while supporting both optical and electrical assay formats. Specifically, the proposed project will establish on-chip assays for cell viability, vitality, and function in order to assess the ability of the CMC to optimally maintain multiple cell types for a period of three days in Phase I and significantly longer in Phase II. Additionally, the CMC/CMS system will enable the development of powerful cellular assays based on both primary cells and next-generation engineered cells designed for sensing applications.less",
+        "end_year": "2005",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "100,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4399534?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Peng Zhou",
+        "key_highlights": [
+            "Development of a portable cell maintenance system for rapid toxicity monitoring",
+            "Need for accurate, reliable, and cost-effective measurement system for detecting toxic contaminants in drinking water",
+            "Use of a novel and innovative, low-cost, small-size, microfluidic chip-based cell maintenance cartridge (CMC)",
+            "Ability to optimally maintain multiple vertebrate cell types during transport, storage, and use while supporting both optical and electrical assay formats."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Health Category (HRCS)",
+            "Generic health relevance"
+        ],
+        "section_details": "Funding amount\nUSD 100,000\nFunding period\n2004\n5 Aug\n\u2010\n2005\n14 Feb",
+        "start_year": "2004",
+        "title": "Portable Cell Maintenance System for Rapid Toxicity Monitoring",
+        "tldr": "This research grant proposes the development of a portable cell maintenance system that can quickly detect a wide range of toxic contaminants in drinking water. The system will use a microfluidic chip-based cartridge and a portable system to maintain multiple cell types for up to three days, allowing for accurate and cost-effective testing in military, civilian, and industrial settings.",
+        "top_keywords": [
+            "Portable",
+            "Cell maintenance system",
+            "Rapid toxicity monitoring",
+            "Toxic contaminants",
+            "Drinking water",
+            "Microfluidic chip",
+            "Cell viability",
+            "Cell function",
+            "Assay formats",
+            "Cellular assays"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Magnetron sputtering of \"Invar-like\" nanolaminates onto a pre-finished/figured mandrel is proposed to produce strong, stiff, damage tolerant, low CTE replicas. The structural substrate will be a high performance discontinuous graphite fiber reinforced Mg AZ31 metal matrix composite manufactured by pressure infiltration casting. MetGraf Mg composites have the following attractive attributes for structural substrates: CTE precisely matched to the Invar-like nanolaminate replica. High specific stiffness High thermal conductivity High thermal stability Low manufacturing cost This combination will result in a robust stiff, lightweight (< 8 kg/m2 areal density) meter class mirror. Lawrence Livermore National Laboratory (LLNL) has developed a sputter deposition process, which has been applied to the production of high quality mirror replicas. LLNL will produce ~400 \u00ecm thick Invar-like 250 mm convex and flat nanolaminate replicas for this project with expected expansion coefficients of 2 to 4 ppm/K. MMCC will upgrade its graphite fiber preform to produce highly uniform materials that, after pressure infiltration, results in exact CTE matches to the nanolaminate. MMCC will investigate both resin and solder base approaches to attachment of pre figured and finished nanolaminate to figured MetGraf Mg substructures. 250 mm convex and flat mirrors will be demonstrated.less",
+        "end_year": "2005",
+        "funder": "Missile Defense Agency",
+        "funding_amount_usd": "100,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4391893?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to James Cornie",
+        "key_highlights": [
+            "Use of magnetron sputtering to produce \"Invar-like\" nanolaminates on a pre-finished/figured mandrel",
+            "Structural substrate made of high performance discontinuous graphite fiber reinforced Mg AZ31 metal matrix composite",
+            "Combination of CTE matched nanolaminate replica and high specific stiffness, thermal conductivity, and stability of the substrate",
+            "Collaboration between Lawrence Livermore National Laboratory and MMCC to produce 250 mm convex and flat mirrors with expected expansion coefficients of 2 to 4 ppm/K."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 100,000\nFunding period\n2004\n4 Aug\n\u2010\n2005\n31 Jul",
+        "start_year": "2004",
+        "title": "Low Expansion Metallic Nanolaminate Replicated Mirrors with CTE Matched High Conductivity Graphite Fiber Reinforced Magnesium Mirror Substrate Structu",
+        "tldr": "This research grant aims to develop low expansion metallic nanolaminate mirrors with a high conductivity graphite fiber reinforced magnesium substrate. The proposed method involves magnetron sputtering onto a pre-finished mandrel and pressure infiltration casting. The resulting mirrors will be strong, stiff, lightweight, and have a precisely matched CTE to the nanolaminate.",
+        "top_keywords": [
+            "Low expansion",
+            "Metallic nanolaminate",
+            "CTE matched",
+            "High conductivity",
+            "Graphite fiber reinforced",
+            "Magnesium mirror substrate",
+            "Magnetron sputtering",
+            "Damage tolerant",
+            "High specific stiffness",
+            "Thermal stability"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Industry needs a high-fidelity propulsion modeling and simulation capability for Insensitive Munitions (IM) hazard analysis in order to quantify the trade space for performance vs. safety. Full-scale testing of large propulsion systems (greater than 20 inch diameter) is too costly and more importantly, not practical due to lack of sufficiently large instrumented test facilities. Currently DoD/OUSD (AT&L) undertook a Weapons and Munitions M&S initiative as a portion of their Systems Acquisition Portfolio for Land Warfare and Munitions (LW&M), which will result in an initial capability during FY 08-10. This STTR proposal will provide a parallel, multivariate user interface/data organization structure including appropriate testing protocols to enable industry to integrate the government M&S capability into their programs and technology bases. The primary focus will the development/growth of engineering models/codes to address primarily impact hazards from fragments and bullets. The secondary focus in later years will be on thermal hazards. The proposed interface/data organization structure will connect IM-related applications and industry technology bases to the government M&S toolset capabilities and growth plans in the functional domains of physics, numerics, databases and validation methods. It will include linkages to the LW&M initiative's resources, venues and policy/control points.less",
+        "end_year": "2008",
+        "funder": "Missile Defense Agency",
+        "funding_amount_usd": "99,992",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4422891?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Dan Jones",
+        "key_highlights": [
+            "Industry need for high-fidelity propulsion modeling and simulation capability for Insensitive Munitions (IM) hazard analysis.",
+            "Current limitations of full-scale testing for large propulsion systems.",
+            "DoD/OUSD (AT&L) undertaking a Weapons and Munitions M&S initiative.",
+            "STTR proposal to provide a parallel, multivariate user interface/data organization structure to integrate government M&S capability into industry programs and technology bases."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4601 Applied Computing"
+        ],
+        "section_details": "Funding amount\nUSD 99,992\nFunding period\n2007\n1 Nov\n\u2010\n2008\n30 Apr",
+        "start_year": "2007",
+        "title": "Expedited Transition of Propulsion Modeling & Simulation Capability",
+        "tldr": "This research grant aims to develop a high-fidelity propulsion modeling and simulation capability for Insensitive Munitions (IM) hazard analysis, which will be integrated into industry programs and technology bases. The focus will be on impact hazards from fragments and bullets, with a secondary focus on thermal hazards. This will be achieved through the development of engineering models and codes, as well as a user interface and data organization structure that connects industry applications to government M&S capabilities.",
+        "top_keywords": [
+            "Propulsion modeling",
+            "Simulation capability",
+            "Insensitive munitions",
+            "Hazard analysis",
+            "Performance",
+            "Safety",
+            "Full-scale testing",
+            "Instrumented test facilities",
+            "Weapons and munitions",
+            "Multivariate user interface"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Radiative transfer is of special importance in several applications from re-entry flows to rocket engines and air-breathing engines. Solution of the Radiative Transfer Equation (RTE), which is a complex integro-differential equation, places stringent requirements on the computational resources. Additionally, radiative transfer can occur over widely differing spatial scales further increasing the computational complexity. Hence efforts have to be made to develop efficient numerical algorithms and solvers to address issues of accuracy and computational time. Furthermore, there is a need to develop accurate physical models that include real gas effects such as non-ideal equations of state and frequency-dependent radiative properties for the participating medium. In this research, HyPerComp proposes to develop a high-performance, multi-physics, multi-scale computational platform to address a large class of problems involving radiative transfer. PWRFlow, an in-house unstructured, parallel continuum flow solver currently solves the RTE for turbulent reacting flows. This capability will be extended to solve the RTE from the optically thin to thick limits. Use of computationally efficient hybrid methods and accurate physical models will be developed as a part of this research effort. BENEFIT: The main focus of this STTR is to develop an understanding of the role of multi-scale radiative transport in turbulent reacting flows. Work done under this research will have applications in several technologies critical in aerospace propulsion, automobile engines and plasma processing reactors. Additionally, manufacturers of gas turbines and combustors along with the energy industry using coal/oil-fired furnaces will benefit from this research. HyPerComp envisions the development of a commercial suite of software tools to assist in combustion-based applications for general propulsive and chemical engineering applications. It is anticipated that such a commercial tool will be ready for marketing on the successful completion of Phase II of this STTR.less",
+        "end_year": "2009",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "99,992",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4399997?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Shashi Aithal",
+        "key_highlights": [
+            "Radiative transfer is important in various applications and requires efficient computational resources.",
+            "The research aims to develop a high-performance computational platform for solving the Radiative Transfer Equation.",
+            "The platform will include accurate physical models and use hybrid methods for efficient computation.",
+            "The research has potential applications in aerospace propulsion, automobile engines, and energy industries, and may lead to the development of a commercial software tool."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4601 Applied Computing"
+        ],
+        "section_details": "Funding amount\nUSD 99,992\nFunding period\n2008\n30 Jun\n\u2010\n2009\n28 Feb",
+        "start_year": "2008",
+        "title": "Efficient Multi-Scale Radiation Transport Modeling",
+        "tldr": "This research aims to develop a high-performance computational platform to efficiently model radiative transfer in various applications, such as aerospace propulsion and energy production. The platform will include accurate physical models and hybrid methods to improve accuracy and reduce computational time. The ultimate goal is to create a commercial software tool for combustion-based applications.",
+        "top_keywords": [
+            "Radiative transfer",
+            "Multi-scale modeling",
+            "Computational resources",
+            "Physical models",
+            "Turbulent reacting flows",
+            "Hybrid methods",
+            "Aerospace propulsion",
+            "Energy industry",
+            "Combustion-based applications",
+            "Commercial software tools"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "9 Industry, Innovation and Infrastructure"
+        ],
+        "abstract": "The experimental validation of the DoDs weapon systems is at the cornerstone of national security considerations. The structural requirements for the targets utilized impose a severe cost and lead time burden due to the limitations imposed by the traditional manufacturing processes currently used. Novel manufacturing methods for metal alloys have been established in the past years, but they have yet to be incorporated into the DoDs target manufacturing supply chain. Our extensive experience with powder consolidation, parts manufacturing and additive manufacturing (AM) has led us to identify a combination of technologies to rapidly produce the required test items at a fraction of the current cost. We thus believe that 3D printing holds the potential for the production of printed green parts suitable for microwave (MW) sintering to consolidate them into materials of near theoretical density and strength. Our proposal will outline the advantages and limitations of each method, a robust work plan to address the current challenge and a solution to provide an expedited and low-cost manufacturing process for MDAs lethality articles. Beyond this specific application, we foresee a market in specialized industrial parts where the machining costs are elevated, all of which MATSYS will become a commercial supplier.Approved for Public Release | 18-MDA-9522 (23 Feb 18)less",
+        "end_year": "2018",
+        "funder": "Missile Defense Agency",
+        "funding_amount_usd": "99,973",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7764655?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to John Brough",
+        "key_highlights": [
+            "The research grant is focused on developing innovative methodologies for manufacturing lethality test articles.",
+            "The current traditional manufacturing processes used for these articles are costly and time-consuming.",
+            "The researchers have identified a combination of technologies, including powder consolidation and additive manufacturing, that could significantly reduce the cost and time required for production.",
+            "The proposed solution has potential for not only the production of lethality test articles, but also for specialized industrial parts, making the research commercially viable."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 99,973\nFunding period\n2018\n27 Mar\n\u2010\n2018\n26 Sep",
+        "start_year": "2018",
+        "title": "Innovative Methodologies for Manufacturing of Lethality Test Articles",
+        "tldr": "This research grant aims to develop innovative manufacturing methods for lethality test articles used in DoD weapon systems. By incorporating novel technologies such as 3D printing and microwave sintering, the proposed solution aims to reduce cost and lead time for producing these articles. The potential for commercial applications in specialized industrial parts is also highlighted.",
+        "top_keywords": [
+            "Innovative methodologies",
+            "Manufacturing",
+            "Lethality test articles",
+            "Weapon systems",
+            "National security",
+            "Novel manufacturing methods",
+            "Metal alloys",
+            "Additive manufacturing",
+            "3D printing",
+            "Microwave sintering"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "In this Phase I STTR program, QuesTek Innovations, a leader in the field of integrated computational materials engineering (ICME) teaming with Prof. W.E. King from Lawrence Livermore National Laboratory (LLNL) as QuesTeks academic partner, proposes expand the computational Materials by Design technology by developing an Integrated Model Toolkit that enables the modeling of AM process by predicting the local composition, microstructure (including porosity and other defects), residual stresses and/or distortion, and mechanical properties for stainless steel 316L aerospace parts. Our approach is based upon computationally-implemented mechanistic models to predict process-structure and structure-property relationships at length-scales ranging from inter-atomic bonding, to stable/meta-stable phase equilibria, to macro-segregation during solidification. The focus of the Phase I program will be to determine the architecture of the ICME based tool set and define the existing and needed models to fill this architecture. LLNL, whose strategic initiative entitled Accelerated Certification of Additively Manufactured Metals, has extensive experience in development of process models for laser powder bed fusion additive manufacturing of 316L stainless steel and experimental measurements of residual stress, laser material interaction etc. Prof. G. Harlow from Lehigh University will work with the team as a consultant on the rapid qualification.less",
+        "end_year": "2017",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "79,960",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.6481966?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Jiadong Gong",
+        "key_highlights": [
+            "Development of an Integrated Model Toolkit for Additive Manufacturing of Stainless Steel 316L",
+            "Use of computationally-implemented mechanistic models to predict process-structure and structure-property relationships",
+            "Collaboration between QuesTek Innovations, Lawrence Livermore National Laboratory, and Lehigh University",
+            "Focus on predicting local composition, microstructure, residual stresses, and mechanical properties for aerospace parts."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 79,960\nFunding period\n2016\n10 Jul\n\u2010\n2017\n9 May",
+        "start_year": "2016",
+        "title": "Integrated Computational Material Engineering Tool Set for Additive Manufacturing of Stainless Steel (316L)",
+        "tldr": "This research grant aims to develop an Integrated Model Toolkit for predicting the local composition, microstructure, residual stresses, and mechanical properties of stainless steel 316L aerospace parts using computational materials engineering. The team includes QuesTek Innovations, Lawrence Livermore National Laboratory, and Lehigh University, with a focus on developing process models for laser powder bed fusion additive manufacturing.",
+        "top_keywords": [
+            "Integrated Computational Material Engineering",
+            "Additive Manufacturing",
+            "Stainless Steel 316L",
+            "Computational Models",
+            "Residual Stress",
+            "Microstructure",
+            "Mechanical Properties",
+            "Laser Powder Bed Fusion",
+            "Rapid Qualification",
+            "Aerospace Parts"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "TDA has teamed up with Lawrence Livermore National Laboratory as its research institution collaborator to address the target STTR topic objective of quantifying the uncertainties in the mechanical behavior of the AM parts. To quantify uncertainties by minimizing both the computational burden and expensive testing and also overcoming the IP concerns, we propose a novel approach with three layered interconnected framework to include: fast simulations scaling between local model and full scale model, adaptive surrogate modeling using dimensionless variables, and critical supporting experiments.During Phase I efforts, TDA plans to develop a fully automated thermal-mechanical finite element numerical simulation tool to predict AM part intrinsic properties for variable input parameters. We follow an ICME framework for multi-scale AM simulation module consisting of a coarse-grain module for component level processing and a high fidelity module capturing material local behavior. We propose using an innovative data-driven stochastic framework to characterize the effect of material and process uncertainties on the mechanical performance of additively manufactured parts by focusing on Selective Laser Melting process (SLM) and Titanium alloy. We propose analytical approaches to predict of mechanical performance and also quantify uncertainty in the selected few mechanical performance parameters using a novel surrogate modeling technique.less",
+        "end_year": "2017",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "79,937",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.6481910?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Azadeh Keshtgar",
+        "key_highlights": [
+            "The research grant aims to address the objective of quantifying uncertainties in the mechanical behavior of additively manufactured (AM) parts.",
+            "The proposed approach includes a three-layered interconnected framework consisting of fast simulations, adaptive surrogate modeling, and critical supporting experiments.",
+            "The research will focus on Selective Laser Melting (SLM) process and Titanium alloy to characterize the effect of material and process uncertainties on the mechanical performance of AM parts.",
+            "The proposed approach also includes the development of a fully automated thermal-mechanical finite element numerical simulation tool and the use of an innovative data-driven stochastic framework to predict mechanical performance and quantify uncertainty."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 79,937\nFunding period\n2016\n15 Jun\n\u2010\n2017\n30 Jan",
+        "start_year": "2016",
+        "title": "Quantifying Uncertainty in the Mechanical Performance of Additively Manufactured Parts Due to Material and Process Variation",
+        "tldr": "This research aims to develop a simulation tool to predict the mechanical properties of additively manufactured parts, taking into account material and process uncertainties. The proposed approach includes fast simulations, adaptive surrogate modeling, and critical experiments. The focus is on Selective Laser Melting process and Titanium alloy, using an innovative data-driven stochastic framework to quantify uncertainty.",
+        "top_keywords": [
+            "Uncertainty",
+            "Mechanical performance",
+            "Additive manufacturing",
+            "Material variation",
+            "Process variation",
+            "Computational burden",
+            "Surrogate modeling",
+            "Selective Laser Melting",
+            "Titanium alloy",
+            "Stochastic framework"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The research objective is to develop a fully functional computational method for prediction of the after-burning effect of different fuels in a wide range of temperature, pressure, and turbulence regimes. Achievement of the objective requires understanding and modeling of key phenomena including (a) post-detonation response of the fuels, (b) near-field coupling of detonation products with particulates, (c) compressibility influences on dispersal of fuels, (d) gas-particle instability mechanisms and turbulent mixing, and (d) diffusion-limited and kinetics-limited ignition, burn and quenching mechanisms for elevated temperature, pressure and cross-flow. A predictive capability would be useful to a broad spectrum of military and non-military applications, including warhead design and lethality/vulnerability assessments. An important commercial application is avoidance of dust explosion accidents causing deaths, injuries and property damage/loss in industries as diverse as mining, agricultural grain storage and wood and plastics processing.less",
+        "end_year": "2011",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "69,956",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4446606?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to John Croghan",
+        "key_highlights": [
+            "Development of a computational method for prediction of after-burning effect",
+            "Understanding and modeling of key phenomena related to post-detonation response, near-field coupling, compressibility influences, and gas-particle instability mechanisms",
+            "Predictive capability for military and non-military applications, including warhead design and safety assessments in industries such as mining and agriculture",
+            "Potential commercial application in preventing dust explosion accidents in various industries."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4002 Automotive Engineering",
+            "4017 Mechanical Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 69,956\nFunding period\n2010\n29 Jul\n\u2010\n2011\n27 Feb",
+        "start_year": "2010",
+        "title": "Development of a Computational Method for Prediction of After-Burning Effect",
+        "tldr": "This research aims to develop a computational method for predicting the after-burning effect of different fuels in various conditions. This method will have applications in military and non-military settings, including warhead design and preventing dust explosion accidents in industries.",
+        "top_keywords": [
+            "Computational method",
+            "After-burning effect",
+            "Fuels",
+            "Temperature",
+            "Pressure",
+            "Turbulence",
+            "Detonation",
+            "Gas-particle instability",
+            "Ignition",
+            "Dust explosion"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "AFS Trinity Power proposes to develop the design concept for an advanced shipboard flywheel power system. The design will minimize the size and weight of a complete flywheel system including all ancillary components. The end products will be a design concept review and final report describing follow-on Phase II work. AFS Trinity will team with the Lawrence Livermore National Laboratory on this STTR. The Lab is well known for its expertise in flywheel power systems and other advanced energy technologies for both commercial and military applications Critical issues we will address in Phase I are: specific power, specific energy, compact power electronics design, optimum use of shipboard interfaces such as cooling and electric power, optimized packaging of the complete system including ancillary equipment and a shock and vibration mounting design. AFS Trinity has over ten years experience developing advanced flywheel systems using high-speed composite rotors, magnetic bearings and proprietary motor control software. The Company plans to reach commercial success by manufacturing and selling flywheel power systems for several markets. Our business plan shows initial commercial flywheel systems for power quality applications followed by distributed generation, hybrid vehicles, industrial and military applications.less",
+        "end_year": "2005",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "69,743",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4389202?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Donald Bender",
+        "key_highlights": [
+            "Development of an advanced shipboard flywheel power system",
+            "Collaboration with Lawrence Livermore National Laboratory",
+            "Addressing critical issues such as specific power and energy, compact power electronics design, and shock and vibration mounting design",
+            "Plans for commercial success through manufacturing and selling flywheel power systems for various markets."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4008 Electrical Engineering",
+            "4009 Electronics, Sensors and Digital Hardware"
+        ],
+        "section_details": "Funding amount\nUSD 69,743\nFunding period\n2004\n30 Jun\n\u2010\n2005\n29 Apr",
+        "start_year": "2004",
+        "title": "Advanced Flywheel Energy Storage for Pulsed Power Applications",
+        "tldr": "AFS Trinity Power is developing a design concept for a compact and lightweight flywheel power system for use in shipboard applications. They will address critical issues such as power and energy efficiency, compact power electronics design, and optimized packaging. With over ten years of experience, they plan to reach commercial success by manufacturing and selling flywheel systems for various markets.",
+        "top_keywords": [
+            "Advanced Flywheel Energy Storage",
+            "Pulsed Power Applications",
+            "Shipboard Flywheel Power System",
+            "Specific Power",
+            "Specific Energy",
+            "Compact Power Electronics Design",
+            "Shipboard Interfaces",
+            "Shock and Vibration Mounting Design",
+            "High-Speed Composite Rotors",
+            "Magnetic Bearings"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Medium caliber munitions are currently detonated through the use of impact-sensitive (stab) detonators. Stab detonators are mechanically activated by forcing a firing pin through the closure disc of the device and into the stab-initiating mixture (NOL-130). Current stab mixtures, as well as primer and igniter compositions, contain hazardous materials such as lead styphnate, lead azide, barium nitrate, antimony sulfides, and tetrazene. Alternative impact-initiated devices (IID) that do not use lead or other environmentally hazardous materials are critically needed.The objective of this project was to develop new IIDs that do not contain hazardous materials and that have performance characteristics similar to or an improvement over the current stab compositions through the use of environmentally acceptable, energetic, sol-gel-coated, flash metal multilayer nanocomposites.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "Summarize",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9185460?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Alexander Gash",
+        "key_highlights": [
+            "Development of environmentally friendly impact-initiated devices (IID)",
+            "Current use of hazardous materials in stab detonators and the need for alternatives",
+            "Objective to create IIDs with similar or improved performance using sol-gel-coated flash metal multilayers",
+            "Use of nanocomposites in the development of new IIDs"
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\n-",
+        "title": "Environmentally Benign Impact Initiated Devices Using Energetic Sol-Gel-Coated Flash Metal Multilayers",
+        "tldr": "This research grant aims to develop environmentally friendly impact-initiated devices for medium caliber munitions, as current devices contain hazardous materials. The goal is to create new devices with similar or improved performance using sol-gel-coated flash metal nanocomposites.",
+        "top_keywords": [
+            "Environmentally benign",
+            "Impact-initiated devices",
+            "Energetic sol-gel coating",
+            "Flash metal multilayers",
+            "Hazardous materials",
+            "Lead-free",
+            "Alternative",
+            "Nanocomposites",
+            "Performance characteristics",
+            "Stab detonators"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Firmware used in the control and monitoring of the U.S. electric grid and Building Automation Systems (BASs) are rarely, if ever, analyzed by end-users for potential vulnerabilities prior to being deployed. This is of concern to Department of Defense (DoD) Energy and Water (E&W) operations who maintain many such control systems and BASs. Should a firmware vulnerability in a control system be exploited, it could lead to disastrous consequences such as failure of systems, destruction of equipment, and potential compromise of DoD base infrastructure.This project successfully developed and demonstrated a suite of automated tools for the analysis of binary executables to identify potential vulnerabilities prior to deployment within electric control systems at DoD base facilities.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2016",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9183498?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Daniel Quinlan",
+        "key_highlights": [
+            "The research grant is focused on cyber-security integrity for electric grid facilities management.",
+            "The firmware used in control and monitoring of the U.S. electric grid and Building Automation Systems (BASs) is rarely analyzed for potential vulnerabilities before deployment.",
+            "The Department of Defense (DoD) Energy and Water (E&W) operations are concerned about the lack of analysis of firmware in control systems and BASs.",
+            "The project successfully developed and demonstrated automated tools for analyzing binary executables to identify potential vulnerabilities before deployment in DoD base facilities."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4604 Cybersecurity and Privacy"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2016\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Cyber-Security Integrity For Electric Grid Facilities Management",
+        "tldr": "This research project developed automated tools to analyze firmware used in electric grid and building automation systems for potential vulnerabilities. This is important for Department of Defense operations to prevent disastrous consequences such as system failure and infrastructure compromise.",
+        "top_keywords": [
+            "Cyber-security",
+            "Integrity",
+            "Electric grid",
+            "Facilities management",
+            "Firmware",
+            "Vulnerabilities",
+            "Department of Defense",
+            "Energy and Water",
+            "Control systems",
+            "Base infrastructure"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The current pyrophoric decoy flare is composed of iron (Fe) coated onto steel foil. The high surface area to mass ratio of the foils makes them flutter after being ejected from the aircraft, taking on the appearance of a moving hot cloud when several decoys are ejected in rapid succession. The current production process relies heavily on the use of hot caustic and toxic leaching solutions to prepare the high surface area, porous, pyrophoric iron metal. These solutions are corrosive and represent both a safety and environmental hazard.The objective of this SERDP Exploratory Development (SEED) project was to demonstrate use of the \"sol-gel\" methodology for producing nanostructured energetic materials (i.e., pyrotechnics), while minimizing or eliminating the human health and environmental hazards associated with their current fabrication process. Application of this technique to the manufacture of pyrophoric flares will eliminate the need for caustic and toxic leaching solutions and improve performance of the final products.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "Summarize",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9185509?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Randy Simpson",
+        "key_highlights": [
+            "Development of a safer and environmentally friendly method for producing pyrophoric pyrotechnics.",
+            "Use of \"sol-gel\" methodology to create nanostructured energetic materials.",
+            "Elimination of the use of hot caustic and toxic leaching solutions in the production process.",
+            "Improved performance of the final products."
+        ],
+        "research_categories": [
+            "33 Built Environment and Design",
+            "3302 Building",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\n-",
+        "title": "Safe and Environmentally Acceptable Sol-Gel-Derived Pyrophoric Pyrotechnics (SEED Project)",
+        "tldr": "The SEED project aims to develop a safer and more environmentally friendly method for producing pyrophoric pyrotechnics using the \"sol-gel\" technique. This will eliminate the need for corrosive and toxic chemicals in the current production process and improve the performance of the final products.",
+        "top_keywords": [
+            "Sol-gel methodology",
+            "Pyrophoric pyrotechnics",
+            "Nanostructured energetic materials",
+            "Human health",
+            "Environmental hazards",
+            "Fabrication process",
+            "Pyrophoric flares",
+            "Caustic solutions",
+            "Toxic leaching solutions",
+            "Performance improvement"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Improved energy efficiency and resiliency is a key goal of the Department of Defense (DOD) facilities throughout the country. Distributed energy resources (DERs) and microgrid technologies can address this need by diversifying energy supply and operational requirements, as well as reducing interconnected infrastructure dependencies. However, these devices can expose deployment locations to new cyber threat pathways. Additionally, whenever new devices are installed into the Industrial Control Systems (ICS) at DOD facilities, they are inventoried and evaluated as part of the DOD Risk Management Framework (RMF), which can be a time-consuming and onerous process. This demonstration project, CINDER, will address these issues by streamlining ICS analysis in the RMF specific to DER management systems for the energy managers and civil works leaders for DOD facilities, enabling faster authorization and full integration. It will also allow for the automation of accurate asset inventories at secure locations for Operational Technologies (OT), and provide rapid assessment of assets on the communication network, the baseline setting, and design of appropriate controls.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2020",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13688264?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Hannah Burroughs",
+        "key_highlights": [
+            "Improved energy efficiency and resiliency is a key goal of the Department of Defense (DOD) facilities.",
+            "Distributed energy resources (DERs) and microgrid technologies can address this need.",
+            "These devices can expose deployment locations to new cyber threat pathways.",
+            "The demonstration project, CINDER, will streamline ICS analysis in the DOD Risk Management Framework (RMF) specific to DER management systems."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4606 Distributed Computing and Systems Software"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2020\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Tool for Cyber Secure Integration of DER to the Risk Management Framework",
+        "tldr": "The CINDER project aims to streamline the integration of distributed energy resources (DERs) into the Department of Defense's Risk Management Framework (RMF) to improve energy efficiency and resiliency. This will involve automating asset inventories and providing faster authorization for DER management systems, while also addressing potential cyber threats.",
+        "top_keywords": [
+            "Cybersecurity",
+            "Distributed Energy Resources (DERs)",
+            "Microgrid Technologies",
+            "Risk Management Framework (RMF)",
+            "Industrial Control Systems (ICS)",
+            "Energy Efficiency",
+            "Resiliency",
+            "Department of Defense (DOD)",
+            "Authorization",
+            "Automation"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Software is increasingly being integrated into hardware devices. Most software vendors define a process that includes certificate signing; however, the software (firmware) is routinely updated without any direct validation steps to check its integrity. Software integrated into critical devices is often of unknown origin and is assembled by the vendor using 3rd party libraries for which the source code is unavailable (a supply chain risk). The research team will add additional binary analysis tools to this projects evolving collection to demonstrate:less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2020",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9409134?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Daniel Quinlan",
+        "key_highlights": [
+            "The research focuses on automated firmware analysis.",
+            "The target systems are electric grid and building automation systems.",
+            "The lack of direct validation steps for firmware updates poses a risk.",
+            "The research aims to develop additional binary analysis tools for this project."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4612 Software Engineering",
+            "Research, Condition, and Disease Categorization",
+            "Networking and Information Technology R&D (NITRD)"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2020\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Automated Firmware Analysis for Electric Grid and Building Automation Systems",
+        "tldr": "This research project aims to develop automated tools for analyzing firmware in electric grid and building automation systems. The team will focus on addressing supply chain risks and ensuring the integrity of software updates.",
+        "top_keywords": [
+            "Automated",
+            "Firmware",
+            "Analysis",
+            "Electric Grid",
+            "Building Automation Systems",
+            "Software",
+            "Certificate signing",
+            "Validation",
+            "Integrity",
+            "Supply chain risk"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "12 Responsible Consumption and Production",
+            "13 Climate Action",
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Rare earth elements (REE) are essential for high-tech, low-carbon technologies, such as magnets for wind turbines and electric motors. China currently controls the REE supply chain, which hinders growth of renewable energy technologies in the U.S. and Europe and creates risk in defense industry supply chains. Rare earth production schemes from both primary ores and secondary sources involve a series of chemically intense and environmentally taxing procedures with separating individual REEs from each other representing the most challenging steps. Solvent extraction, while effective for industrial scale operations, is not effective for low-grade feedstock and poses a severe environmental burden. Ion exchange chromatography presents an alternative approach for achieving high-purity REEs but is generally cost-prohibitive for scaling. The goal of this project is to develop novel REE-binding ligands coupled with materials design to enable cost-effective and organic solvent\u2013free REE recovery and separation from electronic wastes (E-wastes). If successful, the project expects to achieve REE separation with efficiency similar to traditional ion exchange chromatography but with reduced cost and environmental footprint.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2022",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13688238?order=funding&or_facet_research_org=grid.250008.f&not_facet_funder=grid.496791.4",
+        "investigator": "to Yongqin Jiao",
+        "key_highlights": [
+            "The research grant focuses on developing biological ligands and materials for the recovery and separation of rare earth elements (REE).",
+            "The current control of REE supply chain by China hinders growth of renewable energy technologies in the U.S. and Europe and poses a risk in defense industry supply chains.",
+            "The current methods for REE production involve chemically intense and environmentally taxing procedures, with separating individual REEs being the most challenging step.",
+            "The goal of the project is to develop a cost-effective and environmentally friendly method for REE recovery and separation from electronic wastes, with the potential to achieve similar efficiency as traditional methods but with reduced cost and environmental footprint."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3406 Physical Chemistry"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2022\n31 Dec\nResulting DOD publications\n5",
+        "start_year": "\u2010",
+        "title": "Biological Ligands and Materials Design for Rare Earth Recovery and Separation",
+        "tldr": "This research aims to develop new ligands and materials for the efficient and environmentally-friendly recovery and separation of rare earth elements (REE) from electronic waste. This could potentially reduce the cost and environmental impact of traditional methods, which are currently hindered by China's control of the REE supply chain.",
+        "top_keywords": [
+            "Biological ligands",
+            "Materials design",
+            "Rare earth recovery",
+            "Separation",
+            "Renewable energy technologies",
+            "Solvent extraction",
+            "Ion exchange chromatography",
+            "Electronic wastes",
+            "Cost-effective",
+            "Environmental footprint"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    }
+]

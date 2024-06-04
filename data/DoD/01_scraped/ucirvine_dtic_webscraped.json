@@ -1,0 +1,839 @@
+[
+    {
+        "abstract": "There have been numerous incidences of organophosphate (OP) nerve agents such as sarin (GB) being used as weapons, representing a significant threat to warfighters and civilians. Immediate effects of exposure can include seizures, respiratory distress and death (1). Beyond those first minutes, or following lower dose exposures, there is increased risk for brain injury that may progressively worsen for months post-exposure without resolution. (1). Collectively these CNS outcomes of OP exposure impact the long-term quality of life (QOL) for victims and could represent an immense burden on the VA health care system. Our recent DTRA-funded rodent studies suggest that adenosine augmentation effectively mitigates cognitive deficits and neuroinflammation elicited following irradiation, outcomes similar to those observed following OP exposure (preliminary data and 2,3). Our project, responsive to Thrust Area 7-Fundamental Science for Chemical and Biological Defense, develops a novel adenosine-based, neuroprotective countermeasure to combat adverse CNS outcomes following GB exposure. Our lead compound ABT-702, an adenosine kinase (ADK) inhibitor, is an orally available, potent, well-tolerated drug that can be stockpiled for emergencies. The principles by which this compound acts are approved by the FDA or are in phase I clinical trials for other applications (4). Our milestones will establish the impact of acute GB exposure on the CNS and the efficacy of ABT-702 to protect against or mitigate the adverse effects of OP exposure.less",
+        "end_year": "2027",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "14,031,010",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13038384?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Janet Baulch",
+        "key_highlights": [
+            "Organophosphate nerve agents pose a significant threat to warfighters and civilians.",
+            "Exposure to these agents can result in immediate effects such as seizures, respiratory distress, and death.",
+            "Long-term effects of exposure can include brain injury and cognitive deficits.",
+            "Adenosine-based countermeasures, specifically the compound ABT-702, have shown promise in mitigating the adverse effects of organophosphate exposure."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3214 Pharmacology and Pharmaceutical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Biodefense",
+            "Emerging Infectious Diseases",
+            "Infectious Diseases",
+            "Neurosciences",
+            "Health Category (HRCS)",
+            "Neurological"
+        ],
+        "section_details": "Funding amount\nUSD 14,031,010\nFunding period\n2022\n29 Sep\n\u2010\n2027\n28 Sep",
+        "start_year": "2022",
+        "title": "Wartime Organophosphate Exposure. Adenosine-based countermeasures to protect the CNS",
+        "tldr": "This research grant aims to develop a new adenosine-based countermeasure, ABT-702, to protect against the adverse effects of organophosphate nerve agent exposure, which can lead to long-term cognitive deficits and neuroinflammation. The compound has shown promising results in mitigating similar outcomes in rodent studies and is currently in phase I clinical trials for other applications.",
+        "top_keywords": [
+            "Organophosphate exposure",
+            "Adenosine-based countermeasures",
+            "CNS outcomes",
+            "Nerve agents",
+            "Neuroinflammation",
+            "Adenosine augmentation",
+            "Adenosine kinase inhibitor",
+            "ABT-702",
+            "Neuroprotective countermeasure",
+            "GB exposure"
+        ],
+        "units_of_assessment": [
+            "A03 Allied Health Professions, Dentistry, Nursing and Pharmacy"
+        ]
+    },
+    {
+        "abstract": "This is an integrated proposal of eight projects that individually, and combined employ optical based technologies specifically for the purpose of meeting capability gaps in the medical care of wounded warfighters, as identified by the Department of Defense. All of the projects of this proposal focus on aspects of trauma and critical care assessment and management, and have defined deliverables in terms of a device and/or procedure that addresses JFHP capability gaps. Project 1 will develop a non-invasive wearable sensor to provide continuous physiologic information in order to optimize stabilization and treatment strategies during and beyond the Golden Hour of battlefield injury. Project 2 will develop wearable hemodynamic and metabolic sensors for critical care assessment and monitoring of lactate and other hemodynamic markers. Project 3\u2019s goal is to develop a flow-enhanced modification of pulse oximetry for improved performance in far-forward field conditions. Project 4 will develop a durable, compact blood coagulation analyzer for real-time coagulation assessment. Project 5 will further develop, enhance, and expand our patented and now commercially available tissue viability surgical camera to quantitatively and non-invasively assess directed energy burns, thermal burns over large surface areas, and assess burn interventions using wide-field functional imaging. Project 6 will expand the development of functional OCT to add airway compliance and ciliary function capabilities to the characterization of inhalation airway injury. The goal of Project 7 is the further development and validation of a hand-held, point-of-care wound infection and biofilm imaging device. Project 8 will focus on developing an in vitro assay system for structural and functional mechanisms of traumatic brain (TBI) and spinal cord injury. Projects 1, 2, 4, 5 and 6 involve collaborative efforts with research groups at the US Army Institute of Surgical Research (USAISR). In addition to the eight projects, this proposal also includes funds for administrative core support that provides service to all of the individual projects. All of the projects involve filing of intellectual property rights for patent protection, and/or a commercialization plan. The unique translational design of the Beckman Laser Institute and Medical Clinic, including its Photonic Incubator, along with resources and support of the UCI Beall Applied Innovation for commercialization of devices is ideally suited for this program.less",
+        "end_year": "2023",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "6,800,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9764237?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Berns",
+        "key_highlights": [
+            "The research grant focuses on developing advanced optical technologies for the purpose of addressing capability gaps in the medical care of wounded warfighters.",
+            "The proposal includes eight projects that aim to develop devices and procedures for trauma and critical care assessment and management.",
+            "The projects involve collaboration with the US Army Institute of Surgical Research and include plans for filing intellectual property rights and commercialization.",
+            "The Beckman Laser Institute and Medical Clinic, along with resources and support from UCI Beall Applied Innovation, are well-suited for the commercialization of the developed devices."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Neurosciences",
+            "Physical Injury - Accidents and Adverse Effects",
+            "Traumatic Head and Spine Injury",
+            "Health Category (HRCS)",
+            "Injuries and accidents"
+        ],
+        "section_details": "Funding amount\nUSD 6,800,000\nFunding period\n2020\n31 Mar\n\u2010\n2023\n30 Mar\nResulting DOD publications\n23",
+        "start_year": "2020",
+        "title": "ADVANCED OPTICAL TECHNOLOGIES FOR DEFENSE TRAUMA AND CRITICAL CARE",
+        "tldr": "This research grant proposes eight projects that use optical technologies to address capability gaps in medical care for wounded warfighters. These projects focus on trauma and critical care assessment and management, and aim to develop devices and procedures to improve treatment strategies. The grant also includes administrative support and plans for patent protection and commercialization.",
+        "top_keywords": [
+            "Optical technologies",
+            "Defense trauma",
+            "Critical care",
+            "Wounded warfighters",
+            "Capability gaps",
+            "Medical care",
+            "Wearable sensors",
+            "Physiologic information",
+            "Coagulation analyzer",
+            "Biofilm imaging"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This is an integrated proposal of six projects that individually, and combined employ opticalbased technologies specifically for the purpose of advancing combat casualty care of woundedwarfighters, as mandated by the Department of Defense. All of the projects of this proposal focuson aspects of trauma and critical care assessment and management, and have defineddeliverables in terms of a device and/or procedure that addresses JFHP capability gaps. Projects1 and 2 focus on Functional Imaging: The goal of Project 1 is the development and evaluationof technologies for comprehensive real time quantitative measurement of tissue lactic acid, pO2,oxy- and deoxy-hemoglobin, and cytochrome c oxidase redox state, to develop non-invasivemethods for detecting acute dehydration in active soldiers, and development of a miniaturized,wearable Diffuse Optical Spectroscopy device that will enable these applications. Project 3\u2019sgoal is wide-field functional imaging for assessment of burns and wound healing. Projects 4 and5 are focused on Structural Imaging: The goal of Project 4 is the development of a high-speedlong-range Fourier domain OCT system for imaging inhalation airway injury and respiratoryepithelial cilia function, and Project 5 will develop non-linear optical imaging technologies forin-vivo detection and monitoring the treatment of bacterial biofilms in wounds. Project 6 willcontinue studies to determine the cellular pathways important to the repair of traumatic brain andspinal cord injury.less",
+        "end_year": "2020",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "5,400,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7075335?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Berns",
+        "key_highlights": [
+            "The research grant focuses on advanced optical technologies for defense trauma and critical care.",
+            "The proposal includes six projects that aim to develop devices and procedures to address capability gaps in combat casualty care.",
+            "Projects 1 and 2 focus on functional imaging for real-time measurement of tissue parameters and development of a wearable device.",
+            "Projects 4 and 5 focus on structural imaging for imaging respiratory injuries and detecting bacterial biofilms in wounds."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4003 Biomedical Engineering",
+            "51 Physical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Biomedical Imaging",
+            "Neurosciences",
+            "Physical Injury - Accidents and Adverse Effects",
+            "Traumatic Head and Spine Injury"
+        ],
+        "section_details": "Funding amount\nUSD 5,400,000\nFunding period\n2017\n31 Mar\n\u2010\n2020\n30 Mar\nResulting DOD publications\n45",
+        "start_year": "2017",
+        "title": "Advanced Optical Technologies for Defense Trauma and Critical Care",
+        "tldr": "This research grant proposes six projects that use optical technologies to improve combat casualty care for wounded soldiers. The projects focus on functional and structural imaging for assessing trauma and critical care, with the goal of developing non-invasive methods and devices for detecting and treating various injuries.",
+        "top_keywords": [
+            "Advanced Optical Technologies",
+            "Defense Trauma",
+            "Critical Care",
+            "Combat Casualty Care",
+            "Department of Defense",
+            "Functional Imaging",
+            "Structural Imaging",
+            "Non-invasive Methods",
+            "Wound Healing",
+            "Biofilms"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "3 Good Health and Well Being"
+        ],
+        "abstract": "Vaccination is one of the most cost-effective measures to save lives, and has been responsible for the complete, or near complete, eradication of several infectious diseases. Conventional vaccine approaches are less effective for providing protection against multiple variant antigens (Ags), particularly when administered in a single dose. In this multidisciplinary application, that combines immunologists, chemists, pharmaceutical and biochemical engineers, we propose to develop a single-shot formulation platform, using influenza hemagglutinin (HA) variants (H1, H5, H7) as a model Ag, followed by filovirus glycoprotein (GP) variant Ags from Marburg and Ebola (species Zaire and Sudan) viruses. Each variant will be delivered in a different delivery vehicle designed for non-synchronous Ag-release in vivo. These vehicles will comprise lipid-based nanoparticles, protein-based nanoparticles, and microspheres, and modified with toll-like receptor (TLR) 7/8-agonist for increased adjuvanticity. Antibody (Ab) crossreactivity will be evaluated on HA and GP variant protein microarrays, and affinity maturation confirmed by affinity measurements in sera, and by Ab V-gene sequencing. Cross-reactivity of anti-HA antibodies will also be evaluated in vivo for protection against challenge with heterologous influenza strains. This platform (Fig. 1), we call Affinity Maturation of Antibody by Non-synchronous Delivery of Antigen (AMANDA), can be applied to other variant pathogens of relevance to the warfighter.less",
+        "end_year": "2023",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "4,998,573",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636332?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to David Davies",
+        "key_highlights": [
+            "Development of a single-shot formulation platform for vaccination using influenza hemagglutinin (HA) variants and filovirus glycoprotein (GP) variants.",
+            "Use of different delivery vehicles for non-synchronous antigen release in vivo, including lipid-based nanoparticles, protein-based nanoparticles, and microspheres.",
+            "Modification of delivery vehicles with toll-like receptor (TLR) 7/8-agonist for increased adjuvanticity.",
+            "Evaluation of antibody (Ab) crossreactivity and affinity maturation using protein microarrays, affinity measurements, and antibody V-gene sequencing."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3207 Medical Microbiology",
+            "Research, Condition, and Disease Categorization",
+            "Biodefense",
+            "Bioengineering",
+            "Biotechnology",
+            "Emerging Infectious Diseases",
+            "Immunization",
+            "Infectious Diseases",
+            "Influenza",
+            "Nanotechnology",
+            "Pneumonia & Influenza",
+            "Prevention",
+            "Rare Diseases",
+            "Vaccine Related",
+            "Health Category (HRCS)",
+            "Infection",
+            "Research Activity Codes (HRCS)",
+            "3.4 Vaccines",
+            "5.1 Pharmaceuticals"
+        ],
+        "section_details": "Funding amount\nUSD 4,998,573\nFunding period\n2018\n12 Jun\n\u2010\n2023\n11 Jun\nResulting DOD publications\n4",
+        "start_year": "2018",
+        "title": "Sequential release of influenza hemagglutinin variants using liposomes and polymers with programmable release kinetics.",
+        "tldr": "This research grant aims to develop a single-shot vaccine platform using influenza and filovirus variants, delivered through different vehicles with non-synchronous release. The platform, called AMANDA, will be evaluated for antibody crossreactivity and potential protection against heterologous strains.",
+        "top_keywords": [
+            "Influenza",
+            "Hemagglutinin",
+            "Liposomes",
+            "Polymers",
+            "Programmable release kinetics",
+            "Vaccination",
+            "Variant antigens",
+            "Filovirus",
+            "Glycoprotein",
+            "Toll-like receptor"
+        ],
+        "units_of_assessment": [
+            "A06 Agriculture, Veterinary and Food Science"
+        ]
+    },
+    {
+        "abstract": "Vaccines fail because they 1) lack the correct antigen and 2) they don\u2019t induce a sufficient immune response. To address these gaps, our laboratory is in the 1st Option Period of a 3 year DTRA contract entitled \u201cUsing Whole Proteome Microarrays to Identify QFever Vaccine Antigen Candidates Associated with Protection. Project CBM-V-01\u201d (HDTRA1-16-C-0009). We use a proteome microarray containing all 2000 proteins from the Q fever agent Coxiella burnetii to discover better vaccine antigens, and novel multi-TLR agonist conjugates to boost immune responses. This project uses a 2 dose, Prime & Boost immunization regimen. In response to the DTRA Topic G11 announcement \u201cCritical Requirements for Effective Single Dose Vaccine\u201d, we will construct and screen an assortment of nanoparticulate and biodegradable microsphere formulations with different physical properties that release antigen and TLR agonists at different rates. By mixing nanoparticles and biodegradable microspheres with different antigen release kinetics we aim to accomplish the Prime & Boost after a single injection. The nanoparticles are also designed to target antigen to the draining lymph node for improved vaccine efficacy. We will use diverse resources and personnel from our institution to accomplish the objectives of this new multidisciplinary proposal. Novel TLR agonists formulated in liposomes, nanoparticles and microspheres will be synthesized in the chemistry department. Vaccine formulations will be developed and characterized in the Pharmaceutical Sciences, Biomedical Engineering, and Chemistry Departments. Advanced immunoimaging resources in our Stem Cell Research Center will be used to determine bioavailability and track delivery of vaccine into the draining lymph node. Immunogenicity studies will be conducted in the Institute for Immunology and Flow Cytometry Facility. Our model vaccine antigen for this project is from Coxiella burnetii a biological weapon. We will utilize an in vivo mouse Immunogenicity Pipeline to evaluate the intensity and duration of the adaptive T- and B-cell mediated immune responses induced by these cpVLPs. Live rodent challenge studies will be conducted in our certified BSL3 animal laboratory that has been registered with the Select Agent program for over 10 years and houses the National Training Center for Select Agent Research.less",
+        "end_year": "2022",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "3,998,216",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636132?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Philip Felgner",
+        "key_highlights": [
+            "Development of a single dose vaccination using chemically programmable virus-like particles (cpVLP)",
+            "Use of proteome microarray to identify better vaccine antigens for Q fever",
+            "Utilization of diverse resources and personnel from multiple departments to accomplish objectives",
+            "Implementation of advanced immunoimaging and immunogenicity studies to evaluate the effectiveness of the cpVLPs."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3204 Immunology",
+            "Research, Condition, and Disease Categorization",
+            "Biodefense",
+            "Bioengineering",
+            "Biotechnology",
+            "Emerging Infectious Diseases",
+            "Immunization",
+            "Infectious Diseases",
+            "Nanotechnology",
+            "Orphan Drug",
+            "Prevention",
+            "Rare Diseases",
+            "Vaccine Related",
+            "Health Category (HRCS)",
+            "Infection",
+            "Research Activity Codes (HRCS)",
+            "3.4 Vaccines"
+        ],
+        "section_details": "Funding amount\nUSD 3,998,216\nFunding period\n2018\n12 Jun\n\u2010\n2022\n11 Jun\nResulting DOD publications\n3",
+        "start_year": "2018",
+        "title": "Chemically Programmable Virus-Like-Particles (cpVLP) for Single Dose Vaccination",
+        "tldr": "This research project aims to develop a single-dose vaccine using chemically programmable virus-like particles (cpVLP) that contain both antigens and TLR agonists. The team will use a proteome microarray to identify potential vaccine antigens and will also explore different nanoparticle and microsphere formulations to improve vaccine efficacy. The project will involve multiple departments and resources to achieve its objectives and will use a mouse model and live rodent challenge studies to evaluate the immune response.",
+        "top_keywords": [
+            "Chemically Programmable Virus-Like-Particles (cpVLP)",
+            "Single Dose Vaccination",
+            "QFever Vaccine Antigen Candidates",
+            "Multi-TLR Agonist Conjugates",
+            "Nanoparticles",
+            "Biodegradable Microspheres",
+            "Prime & Boost Immunization Regimen",
+            "Immunogenicity Studies",
+            "Coxiella burnetii",
+            "BSL3 Animal Laboratory"
+        ],
+        "units_of_assessment": [
+            "A01 Clinical Medicine"
+        ]
+    },
+    {
+        "abstract": "In the Phase I and II efforts on Galois' Attack Sensitive Brittle Software (Brittle) SBIR project, we implemented Software Fault Enhancement (SFE), a binary modification technique for improving the robustness of existing binary code, without requiring access to source code or other documentation.  This work is promising enough that the toolset is now being commercialized.  On this sequential Phase II project, we will extend and integrate recent work on symbolic, concrete, and timed trace analysis to implement new means of providing assurance to the user that binary modifications made for SFE do not result in additional, unwanted changes in behavior.  This specifically includes changes in timed behavior, important in the operation of embedded systems such as digital control systems. The results of this project will be useful for providing such assurance for a range of applications of localized binary modification.  In addition to SFE, these include patching bugs or removing possible execution paths (e.g., removing application features), or instrumenting binaries to gather run-time information for further testing and analysis.  In all of these cases, potential end-users need assurance that the modified binaries will behave as before, except in circumscribed ways related to the goal of the modification as above.less",
+        "end_year": "2025",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "1,799,837",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13975849?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Mark Boddy",
+        "key_highlights": [
+            "Implementation of Software Fault Enhancement (SFE) for improving robustness of existing binary code",
+            "Extension and integration of symbolic, concrete, and timed trace analysis for providing assurance to users about binary modifications",
+            "Importance of timed behavior in embedded systems such as digital control systems",
+            "Potential applications of localized binary modification, including patching bugs, removing execution paths, and instrumenting binaries for testing and analysis."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4612 Software Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,799,837\nFunding period\n2023\n10 Aug\n\u2010\n2025\n12 Feb",
+        "start_year": "2023",
+        "title": "User-directed analysis and verification of modified binaries",
+        "tldr": "This research grant aims to develop a toolset for analyzing and verifying modifications made to binary code, specifically focusing on timed behavior. This will provide assurance to users that the modified binaries will behave as intended, without any unwanted changes. The toolset will have various applications, such as patching bugs, removing features, and gathering runtime information for testing and analysis.",
+        "top_keywords": [
+            "User-directed",
+            "Analysis",
+            "Verification",
+            "Modified binaries",
+            "Binary modification",
+            "Software Fault Enhancement (SFE)",
+            "Robustness",
+            "Timed behavior",
+            "Embedded systems",
+            "Assurance"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Software and hardware flaws can be exploited to make programs perform unintended computations or leak sensitive data. We propose to counter these threats by isolating libraries and other program units inside a single process. Software developers will control how the code and data of an application gets mapped to compartments and declare how applications are intended to interact with one another. We will use virtual memory management features of modern x86 processors to make switches between compartments faster than context switches between processes while providing comparable isolation and security properties. Since not all applications can be built from sources, we will also investigate lifting of legacy binaries. This will involve design of suitable intermediate representations which can represent high-level semantics recovered via binary analysis and verified via formal methods. Finally, we will use the proposed lifting capability to investigate compartmentalization of legacy binaries.less",
+        "end_year": "2025",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "1,799,333",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13978417?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Stephen Crane",
+        "key_highlights": [
+            "The research grant is focused on addressing threats posed by software and hardware flaws.",
+            "The proposed solution involves isolating libraries and program units within a single process.",
+            "Virtual memory management features of modern x86 processors will be used to improve the speed of compartment switches.",
+            "The research will also investigate the lifting of legacy binaries and the design of suitable intermediate representations for high-level semantics."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4612 Software Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,799,333\nFunding period\n2023\n11 Sep\n\u2010\n2025\n13 Sep",
+        "start_year": "2023",
+        "title": "Robust Sandboxing and Lifting of ELF Binaries",
+        "tldr": "This research aims to protect against software and hardware vulnerabilities by isolating program units within a single process. It will use virtual memory management to improve speed and security, and also investigate lifting of legacy binaries through intermediate representations and formal methods.",
+        "top_keywords": [
+            "Sandboxing",
+            "ELF Binaries",
+            "Software flaws",
+            "Hardware flaws",
+            "Isolation",
+            "Virtual memory management",
+            "Context switches",
+            "Legacy binaries",
+            "Intermediate representations",
+            "Formal methods"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "We propose a next-generation survivable system architecture that integrates redundant execution approaches from the domain of dependable systems with moving target defense techniques and cyber deception concepts from the domain of cyber security. As an added bonus, our approach provides novel defenses against exploits that target hardware flaws, including microarchitectural side channels. To the best of our knowledge, the combination of the first three that we are proposing here is an entirely novel approach that hasn't been tried before, and the fourth characteristic makes it even more compelling.In the proposed architecture, every server is a true moving-target NVX system and is simultaneously also a honeypot. Our main idea is that instead of terminating execution when a variant in a multi-variant execution is compromised by an attacker, the compromised variant is instead peeled off the joint computation and turned into a dynamic honeypot instance instead, while the surviving variants re-constitute and continue operating.Moreover, our approach significantly increases the mutual dissimilarity of the simultaneously executing variants by allowing the different versions to run on heterogeneous hardware; specifically, on both x86 and ARM at the same time. In order to totally subvert such a system, an attacker would need to craft an attack that simultaneously compromises both an ARM-based and an x86-based system using the identical inputs, and potentially do this while both the x86-based and the ARM-based variants themselves are constantly mutating as a moving-target defense. It is also highly unlikely that a hardware flaw such as a microarchitectural side channel would manifest itself in the same manner across two completely different processor architectures, so that an NVX system executing across different ISAs provides a natural defense against attacks that rely on such side channels. For example, it is outright impossible to mount a Rowhammer attack on memory cells that are not co-located on the same machine. If successful, our approach will set the bar to attackers significantly higher than all existing defense techniques that we are aware of, either implemented or proposed.The most important advantage of our proposed approach is that it doesn't require a human specialer to obtain the desired resilience gains. While existing approaches to retrofitting security onto legacy software, including current approaches of introducing heterogeneity, have been quite effective, they typically require substantial source code understanding and manual source code adaptation. Theproposed solution requires source code, but operates on such source code automatically.Our plan is to perform the research and build the infrastructure so that such cyberdeceptive NVX systems can be generated automatically from the source code of an ordinary server application. As part of our research plan, we propose to build a fully functioning prototype of the proposed system at scale. That system will take an existing server application, such as the Nginx web server, and then automatically instantiate it into a cyber-deceptive NVX system. Ourresearch will also conduct a comprehensive and objective evaluation of our approach and produce clear and concise metrics of its performance. Lastly, all software developed under this project will be released as open source.If successful, our project will go a long way towards increasing the survivability of networked systems, while simultaneously shifting the economies of cyber warfare in favor of defenders by raising the cost of an attack for the adversary.Approved for Public Releaseless",
+        "end_year": "2024",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,654,816",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9658511?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to MICHAEL FRANZ",
+        "key_highlights": [
+            "Proposal for a next-generation survivable system architecture",
+            "Integration of redundant execution approaches with moving target defense and cyber deception techniques",
+            "Use of heterogeneous hardware (x86 and ARM) to increase mutual dissimilarity and defend against attacks",
+            "Automatic generation of cyber-deceptive NVX systems from existing server applications, with a fully functioning prototype and comprehensive evaluation planned."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "4604 Cybersecurity and Privacy",
+            "4606 Distributed Computing and Systems Software"
+        ],
+        "section_details": "Funding amount\nUSD 1,654,816\nFunding period\n2021\n30 Apr\n\u2010\n2024\n29 Apr\nResulting DOD publications\n3",
+        "start_year": "2021",
+        "title": "HONEY-MON: Combining Survivability with Cyber Deception",
+        "tldr": "The HONEY-MON project aims to create a new system architecture that combines survivability, cyber deception, and moving target defense techniques to protect against cyber attacks. This approach also provides defenses against hardware flaws and does not require manual adaptation of source code. The project will develop a prototype and conduct a comprehensive evaluation, with the goal of increasing the survivability of networked systems and making cyber attacks more costly for adversaries.",
+        "top_keywords": [
+            "Survivability",
+            "Cyber deception",
+            "Redundant execution",
+            "Moving target defense",
+            "Hardware flaws",
+            "Honeypot",
+            "Multi-variant execution",
+            "Heterogeneous hardware",
+            "Source code adaptation",
+            "Cyber warfare"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Systems software can be tricked into performing unintended computation by feeding it carefully crafted inputs that corrupt and leak internal state. Modern software is so complex that implementation defects, some of which are exploitable, will only be discovered in the field. Operating systems isolate the state of each process such that a program experiencing an error does not bring down the entire system. There is no separation between libraries inside a single process, however. This has become a problem as applications grow more complex and defects in unrelated components can be combined freely into a weird machine performing unintended, malicious computations. As a result, several large applications have switched to a multi-process design. The idea is to reduce the \u201cblast radius\u201d of malicious inputs by i) processing untrusted inputs in a sandboxed process with few privileges and ii) performing privileged operations in a separate, higher privileged process. The application of multi-process designs is unfortunately limited by the substantial additional developer effort required to re-architect large and complex code bases such that costly inter-process interactions and marshaling of data does not lead to unacceptable slow downs. We propose an easy-to-use and efficient compartmentalization scheme that leverages a new memory management feature in x86 processors. The approach is easy to use because it does not require developers to split their application into multiple processes. Instead, programmers will use annotations to map libraries and executables to a set of compartments. When the application is built, we will automatically insert call gates on call edges that cross compartments thus reducing the programmer burden. Call gates implement compartment switches without assistance from the kernel and are therefore more efficient than full context switches from one process to another. Programmers are required to declare their intent to share certain data between compartments; this again requires less effort than marshaling data between processes. The compartmentalization substrate allocates data based on whether it is shared between compartments or private to a single compartment. We will provide tools that help programmers insert the necessary sharing annotations and diagnose segmentation faults triggered by accesses to the private memory of another compartment.   The proposed work builds on the encouraging results obtained during the Phase I effort. The experimental design of Phase I relied on a customized Rust compiler to compartmentalize applications. A major goal of Phase II is the ability to compartmentalize applications without the need to use a custom compartment-aware compiler to facilitate deployability. Other key improvements include the ability to support more compartmentalization models and deployments scenarios.less",
+        "end_year": "2024",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "1,498,543",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.10038674?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Per Larsen",
+        "key_highlights": [
+            "The proposed project aims to develop a new compartmentalization scheme called IA^2 that will help prevent unintended computation in systems software.",
+            "This scheme will use annotations to map libraries and executables to different compartments, reducing the need for developers to re-architect their code into multiple processes.",
+            "The scheme will also utilize call gates to switch between compartments, making it more efficient than full context switches between processes.",
+            "The project builds on previous successful results and aims to improve deployability and support for different compartmentalization models and deployment scenarios."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4612 Software Engineering",
+            "Health Category (HRCS)",
+            "Generic health relevance"
+        ],
+        "section_details": "Funding amount\nUSD 1,498,543\nFunding period\n2021\n29 Jul\n\u2010\n2024\n29 Oct\nResulting DOD publications\n1",
+        "start_year": "2021",
+        "title": "IA^2: Intent-Capturing Annotations for Isolation and Assurance",
+        "tldr": "The IA^2 project aims to develop an easy-to-use and efficient compartmentalization scheme for systems software to prevent unintended computation and malicious attacks. This approach will use annotations to map libraries and executables to different compartments, reducing the need for developers to re-architect their code. The project builds on previous successful results and aims to make the compartmentalization process more deployable and versatile.",
+        "top_keywords": [
+            "Intent-capturing annotations",
+            "Isolation",
+            "Assurance",
+            "Systems software",
+            "Implementation defects",
+            "Multi-process design",
+            "Compartmentalization",
+            "Memory management",
+            "x86 processors",
+            "Deployability"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Objective of this research is to predict near, and supercritical combustion and injection dynamics, using high-pressure equation of state and variable properties, and developing three-dimensional wave dynamics model. Scientists will use the expansion of the uncertainty quantification to address thermo-physical and chemical parameters at these high pressure conditions. The framework developed using reduced-basis, and stochastic modeling will be extended to predict combustion instabilities in liquid rocket engines.less",
+        "end_year": "2018",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "1,428,721",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7081058?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to william sirignano",
+        "key_highlights": [
+            "The objective of the research is to predict combustion and injection dynamics in high-pressure liquid-propellant rocket engines.",
+            "The research will use high-pressure equation of state and variable properties to develop a three-dimensional wave dynamics model.",
+            "Uncertainty quantification will be used to address thermo-physical and chemical parameters at high pressure conditions.",
+            "The framework developed will use reduced-basis and stochastic modeling to predict combustion instabilities in liquid rocket engines."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4002 Automotive Engineering",
+            "4017 Mechanical Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,428,721\nFunding period\n2015\n31 May\n\u2010\n2018\n30 May\nResulting DOD publications\n11",
+        "start_year": "2015",
+        "title": "High-Pressure Liquid-Propellant Rocket Engine Combustion Instability: Complex System, Uncertainty Quantification, and Reduced Basis Modeling",
+        "tldr": "This research aims to predict combustion and injection dynamics in high-pressure liquid rocket engines using advanced modeling techniques and uncertainty quantification. The focus is on addressing thermo-physical and chemical parameters and predicting combustion instabilities.",
+        "top_keywords": [
+            "High-pressure",
+            "Liquid-propellant",
+            "Rocket engine",
+            "Combustion instability",
+            "Uncertainty quantification",
+            "Reduced basis modeling",
+            "Supercritical combustion",
+            "Injection dynamics",
+            "Equation of state",
+            "Stochastic modeling"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "We propose to develop the scientific understanding that will enable optimal design and scalable additive manufacturing of a novel c) from 17-4 PH steel. We will deliver (i) a computational strategy for optimal design of LPBF-fabricated functionally graded shell-metamaterials that are far superior to traditional truss-based lattices, and (ii) a fabrication approach that allows local control of plastic deformation mechanisms in 17-4 PH steel thin-wall structures. While LPBF is an ideal technique for fabrication of lattice materials for critical structural applications, we argue that existing lattice designs have not taken advantage of two unique benefitsof this additive manufacturing process: (i) the ability to fabricate almost arbitrarily complextopologies and (ii) the opportunity to locally tailor the mechanical properties of the constituent material. The overarching goal of the proposed research project is to develop the scientific understanding in metallurgy, mechanics and topology optimization that is required to realize these advances and develop physically heterogeneous shell-metamaterials with unprecedented combinations of properties. Building upon exceptional results recently demonstrated by the PI on the mechanical efficiency of shell and plate-based metamaterials, we propose to: (1) fully elucidate the interplays among processing parameters, microstructural evolution and mechanical properties in LPBF-processedshell-metamaterials using a combination of numerical and experimental techniques, and establish effective processing windows; (2) harness these complex interplays to locally control martensite/austenite ratio and precipitate formation to either eliminate or amplify property gradients across the build; (3) combine mechanical models with experiments to achieve a full mechanistic understanding of the non-linear deformation and failure behavior of these shell-based metamaterials; (4) capitalize on the extensive (experimentally driven) database to infer, through the application of data analytics, property uncertainty and gradation models as well as their as sociated length scales and (5) develop novel non-linear stochastic topology optimization algorithms that benefit from fully validated models of the mechanics to id LPBF process. To demonstrate the power of this novel design/fabrication approach for DoD-relevant applications,r we will develop shell-metamaterials with optimal specific energy absorption under large plastic deformation, by ensuring simultaneous progression of plasticity throughout the material. Importantly, this cannot be achieved by traditional optimization of the metamaterial architecture, but requires local tuning of the yield strength and the strain hardening behavior of the material. By assembling a highly interdisciplinary team across three universities, with expertise in metallurgy, processing science, additive manufacturing, mechanical behavior of metamaterials,stochastic modeling and topology optimization, we will guarantee that the impact of this project extend well beyond the field of mechanical metamaterials. Elucidating the science underlying local microstructural control in PH steels fabricated by LPBF will dramatically affect the additive manufacturing of structural and functional materials for nearly any DoD application; at the sametime, establishing novel computational design processes, where the marriage between geometrical complexity (e.g. 3D shell-based topologies) and local property control provides a significantly wider design space, is expected to leapfrog the field of additively manufactured metamaterials in a variety of DoD applications.less",
+        "end_year": "2024",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,266,328",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9707712?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to LORENZO VALDEVIT",
+        "key_highlights": [
+            "Development of optimal design and scalable additive manufacturing techniques for functionally graded shell-based metamaterials made from 17-4 PH steel.",
+            "Utilization of the unique benefits of additive manufacturing, such as the ability to fabricate complex topologies and locally tailor mechanical properties, to create metamaterials with unprecedented combinations of properties.",
+            "Elucidation of the interplays among processing parameters, microstructural evolution, and mechanical properties in LPBF-processed shell-metamaterials.",
+            "Development of novel non-linear stochastic topology optimization algorithms to design shell-metamaterials with optimal specific energy absorption under large plastic deformation."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,266,328\nFunding period\n2021\n31 May\n\u2010\n2024\n31 Oct\nResulting DOD publications\n5",
+        "start_year": "2021",
+        "title": "Optimal Design and Additive Manufacturing of Functionally Graded Shell-Based PH Steel Metamaterials",
+        "tldr": "This research project aims to develop a computational strategy and fabrication approach for optimal design and additive manufacturing of functionally graded shell-based metamaterials using 17-4 PH steel. The team will focus on understanding the interplay between processing parameters, microstructural evolution, and mechanical properties to achieve unprecedented combinations of properties. This approach has the potential to greatly impact the field of additively manufactured metamaterials in various DoD applications.",
+        "top_keywords": [
+            "Optimal design",
+            "Additive manufacturing",
+            "Functionally graded",
+            "Shell-based",
+            "PH steel",
+            "Metamaterials",
+            "Topology optimization",
+            "Mechanical properties",
+            "Local control",
+            "LPBF process"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "People routinely organize the flow of events into distinct episodes when dealing with the complexity of dynamic environments. Such episodic memories incorporate information about the identity of items, their spatial locations, and the order in which they occurred(#what#, #where#, and #when#). Understanding how the cortical telencephalon processes episodes is thus a basic issue in contemporary neuroscience and one that is central to the development of autonomous systems that can deal with the real world. The hippocampus is critical for acquisition and retrieval of episodic memories but there are no models relating the components and operations of the structure to the multiple and diverse aspects of this singularly rich form of encoding. This in large part reflects a surprising absence of information about input/output relationships of the primary hippocampal circuit. However, studies in this program showed that signals from entorhinal cortex generate a two-part response in the output stage of hippocampus (field CA1) that is triggered by dual sub-circuits. Signals are routed through the two pathways according to the frequency of the arriving cortical pulses. Our studieshave also identified novel filters and amplifiers throughout the complex circuit along with a potent excitatory feedback system that is critical to throughput. Finally, we were able to show that certain of these subsystems are essential to acquisition of the #what, #where#, and #when# elements of an episode. These results enabled the construction of realistic simulations to address specific issues but there are major issues that prevented the development of a model capable of generating the diverse aspects of episodic memory. The proposed work addresses these problems. The first goal is to describe circuit responses to input from the spatial subdivision of the entorhinal cortex alone, or in combination with the non-spatial subdivision (the latter has been used in our studies to date). Our second goal is to identify the cellular mechanisms that underlie the unusual low pass filter in the CA3 field: studies will test proposed roles for feedforward inhibition from somatostatin-positive interneurons. Other Aim 2 studies will determine if field CA2 acts as an intermediary filter between CA3 and CA1. The third set of studies will test the influence of modulatory inputs, with special emphasis on the cholinergic afferents, on frequency filtering, amplification and feedback within the hippocampal circuit. Studies addressing the second the third goals make use of powerful chemo- and opto- genetic approaches to selectively manipulate specific cell types and afferents. The activity patterns and rhythms typically present in hippocampus are known to produce learning-related change in synaptic strength and a realistic model will accordingly require information on changes in circuit function arising from such plasticity. Thus, the fourth goal is to test for activity-induced changes in synaptic function at specific nodes # thisstudy will constitute a first test for circuit level plasticity. The final goal is to build a model of primary hippocampal circuitfunctions. These studies, to be conducted in collaboration with Dr. Richard Granger (Dartmouth) will both integrate the disparate operations of the circuit into the model and be used to develop hypotheses about how these operations relate to the processing of episodic memory. [Approved for public release.]less",
+        "end_year": "2026",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,192,443",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13733287?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to GARY LYNCH",
+        "key_highlights": [
+            "The hippocampus is critical for acquisition and retrieval of episodic memories.",
+            "The proposed research aims to understand how the hippocampus processes episodes and how its components and operations relate to encoding episodic memories.",
+            "The research will focus on describing circuit responses to input from the entorhinal cortex, identifying cellular mechanisms in the CA3 field, and testing the influence of modulatory inputs on the hippocampal circuit.",
+            "The ultimate goal is to build a model of primary hippocampal circuit functions and use it to develop hypotheses about how these operations relate to the processing of episodic memory."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4611 Machine Learning",
+            "Research, Condition, and Disease Categorization",
+            "Acquired Cognitive Impairment",
+            "Aging",
+            "Brain Disorders",
+            "Dementia",
+            "Neurodegenerative",
+            "Neurosciences",
+            "Health Category (HRCS)",
+            "Mental health",
+            "Neurological",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning",
+            "1.2 Psychological and socioeconomic processes"
+        ],
+        "section_details": "Funding amount\nUSD 1,192,443\nFunding period\n2023\n31 Oct\n\u2010\n2026\n30 Oct",
+        "start_year": "2023",
+        "title": "Hippocampal Networks and Episodic Memory",
+        "tldr": "This research grant aims to understand how the hippocampus processes episodic memories and develop a model to explain its operations. The study will focus on the input/output relationships of the hippocampal circuit and the role of different cellular mechanisms and modulatory inputs. The ultimate goal is to build a model that integrates the various functions of the circuit and sheds light on how it relates to the processing of episodic memory.",
+        "top_keywords": [
+            "Hippocampal networks",
+            "Episodic memory",
+            "Cortical telencephalon",
+            "Input/output relationships",
+            "Entorhinal cortex",
+            "Plasticity"
+        ],
+        "units_of_assessment": [
+            "A04 Psychology, Psychiatry and Neuroscience"
+        ]
+    },
+    {
+        "abstract": "Ultra-fast measurements of the frequency of a microwave transmission is a vital task for many military applications including interception and jamming of signals used in communications, radar detection and remote control of weapons. The rapid tracking of adversarial frequency-agile microwave signals allows one to swiftly identify threats, such as radar-guided anti-tank missiles, and undertake appropriate counter-measures in real time, thus substantially increasing the safety of ground vehicles, and assuring superiority of the US battlefield forces in the microwave domain. These vehicle-protection tasks demand ultra-fast (microsecond time scale) measurements of adversarial external microwave signal frequencies in order to neutralize threats in real time. These vital goal can be achieved using recent advances in spintronics technology, where electron spin is used for microwave signal detection instead of electron charge. This technology is ideal for a new type of nano-sized and radiation-hard devices for the ultra-fast detection of  low-power microwave signals. Three key advantages of this technology based on spin transfer torque and tunneling magnetoresistance effects in nanoscale magnetic tunnel junctions (MTJs) over existing semiconductor technology are: higher sensitivity, which enables detection of adversarial microwave signals over longer distances, and, thus, provides early threat warning higher speed allowing for tracking of frequency-agile signals at the microsecond time scale radiation hardness In the course of our current STTR Phase II Program under the contract # W56HZV-18-C-0026, we developed a spintronic frequency detector based on an array of six MTJs and working in the microwave frequency S band (2 \u2013 4 GHz). The proposed Sequential Phase II STTR Research Program significantly advances the technology developed in Phase II of the Program via: the use of novel spintronic materials with perpendicular magnetic anisotropy that increase the detector frequency to the microwave X band (8 \u2013 12 GHz) relevant to anti-radar applications implementation of software-defined advanced adversarial signal analysis via integration with field-programmable gate arrays (FPGAs) We will also reduce the SWAP detector parameters down to 3\u201dx3\u201dx1\u201d size, 0.3 kg weight and 100 mW power. We will implement an automatic FPGA-based capability to separate the adversarial frequency-agile signals from multiple innocuous and noise signals, based on the temporal dependence of these signals. This feature will enable operation of the detector under electromagnetic interference (EMI) in realistic battlefield and urban environments. Our goal is to develop fully automated power-efficient spintronic microwave detectors. These detectors will measure, digitize and analyze the X-band spectrum, and will rapidly provide information on adversarial signals to the ground vehicle digital electronics systems, enabling swift implementation of the appropriate counter-measures.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,150,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.10038625?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Ilya Krivorotov",
+        "key_highlights": [
+            "Development of a spectrum analyzer using spintronic radar arrays for ultra-fast measurements of microwave frequencies.",
+            "Advantages of spintronics technology over existing semiconductor technology, including higher sensitivity, speed, and radiation hardness.",
+            "Implementation of novel spintronic materials and software-defined signal analysis for improved performance in anti-radar applications.",
+            "Goal to develop fully automated, power-efficient spintronic microwave detectors for use in military applications."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "51 Physical Sciences",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 1,150,000\nFunding period\n2021\n25 Aug\n\u2010\n2023\n2 Oct",
+        "start_year": "2021",
+        "title": "Spectrum Analyzer Using Spintronic Radar Arrays",
+        "tldr": "A spintronic radar array is being developed for military use to quickly detect and track microwave signals, allowing for early threat warning and counter-measures. The technology offers higher sensitivity, speed, and radiation hardness compared to existing semiconductor technology. The goal is to create fully automated, power-efficient detectors that can operate in realistic battlefield environments.",
+        "top_keywords": [
+            "Spectrum analyzer",
+            "Spintronic radar arrays",
+            "Microwave signals",
+            "Frequency detection",
+            "Spintronics technology",
+            "Adversarial signals",
+            "Military applications",
+            "Nano-sized devices",
+            "Radiation-hard",
+            "Field-programmable gate arrays (FPGAs)"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "We propose to develop a prototype of a novel spintronic spectrum analyzer using an array of nano-scale magnetic spin-torque detectors. The operation of the proposed spectrum analyzer is based on the recently discovered effects of spin-transfer torque and spin-diode effects in nano-scale magnetic multilayered elements, the fabrication of which became possible due to the recent advances in nano-fabrication techniques. We propose two architectures of spintronic spectrum analyzers based either on the regular arrays of discrete magnetic tunnel junction (MTJ) nano-pillars, or on randomized arrays of spin torque detectors coupled to the same spin wave waveguide. The experimental prototype spectrum analyzer comprised of a pair of magnetic tunnel junction (MTJ) nano-pillars developed during the Phase I of this Research Program have demonstrated the spectrum analysis in the frequency interval from 4.9 to 5.6 GHz with the accuracy of 50 MHz. During the Phase II we are planning to increase the number of MTJ nano-pillars to 10 to achieve the frequency bandwidth of the analysis of the order of 10 GHz, detection time less than 200 ns, and frequency resolution of 30 MHz or better. We will also study theoretically randomized arrays of spin torque detectors.less",
+        "end_year": "2018",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7767119?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Ilya Krivorotov",
+        "key_highlights": [
+            "Development of a prototype of a spintronic spectrum analyzer using an array of nano-scale magnetic spin-torque detectors.",
+            "Utilization of spin-transfer torque and spin-diode effects in nano-scale magnetic multilayered elements.",
+            "Two proposed architectures for the spintronic spectrum analyzer: regular arrays of discrete magnetic tunnel junction (MTJ) nano-pillars or randomized arrays of spin torque detectors.",
+            "Goals for the Phase II of the research program include increasing the number of MTJ nano-pillars to 10, achieving a frequency bandwidth of 10 GHz, detection time of less than 200 ns, and frequency resolution of 30 MHz or better."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "51 Physical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Nanotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 1,000,000\nFunding period\n2017\n3 Dec\n\u2010\n2018\n3 Dec",
+        "start_year": "2017",
+        "title": "Spectrum Analyzer Using Spintronic Radar Arrays",
+        "tldr": "A prototype of a spintronic spectrum analyzer using nano-scale magnetic spin-torque detectors will be developed. Two architectures will be explored and the number of detectors will be increased to achieve a wider frequency bandwidth, faster detection time, and improved frequency resolution. The potential of randomized arrays of spin torque detectors will also be studied.",
+        "top_keywords": [
+            "Spectrum analyzer",
+            "Spintronic",
+            "Radar arrays",
+            "Nano-scale",
+            "Spin-transfer torque",
+            "Spin-diode effects",
+            "Magnetic multilayered elements",
+            "Nano-fabrication techniques",
+            "Magnetic tunnel junction (MTJ)",
+            "Spin torque detectors"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The DoD has a long-standing interest in advanced nighttime stealth and camouflage technologies. This interest has been spurred by the need to protect the modern warfighter and his equipment from detection under a variety of battlefield conditions. Herein, we describe a systematic strategy for developing a relationship between the structure and optical functionality of cephalopod-inspired optical coatings. We first propose to systematically characterize the nanoscale structure of these coatings with electron microscopy and grazing incidence x-ray diffraction. We then intend to apply a simple theoretical framework to correlate the structure of our coatings with their emergent optical properties. In turn, we plan to develop a detailed understanding of the fundamental principles that govern the performance of our materials. We anticipate that the insight gleaned from our studies will enable the design of advanced biologically inspired dynamic camouflage.less",
+        "end_year": "2021",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "1,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7075178?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Alon Gorodetsky",
+        "key_highlights": [
+            "The research grant aims to understand the relationship between structure and optical functionality in cephalopod-inspired optical materials.",
+            "The Department of Defense (DoD) is interested in advanced nighttime stealth and camouflage technologies.",
+            "The research will involve characterizing the nanoscale structure of the coatings using electron microscopy and grazing incidence x-ray diffraction.",
+            "The ultimate goal is to use the insights gained to design advanced biologically inspired dynamic camouflage."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry"
+        ],
+        "section_details": "Funding amount\nUSD 1,000,000\nFunding period\n2016\n30 Nov\n\u2010\n2021\n29 Nov\nResulting DOD publications\n9",
+        "start_year": "2016",
+        "title": "Understanding Structure-Function Relationships in Cephalopod-Inspired Optical Materials",
+        "tldr": "This research grant aims to understand the relationship between the structure and optical properties of cephalopod-inspired optical coatings. By using electron microscopy and x-ray diffraction, the researchers hope to develop a theoretical framework to explain the performance of these coatings and use this knowledge to design advanced camouflage technologies for the military.",
+        "top_keywords": [
+            "Cephalopod",
+            "Optical materials",
+            "Structure-function relationships",
+            "Stealth technology",
+            "Camouflage",
+            "Nanoscale structure",
+            "Electron microscopy",
+            "X-ray diffraction",
+            "Optical properties",
+            "Dynamic camouflage"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Modeling a wide range of physical processes relies on solving complex partial differential equation (PDE) systems. Example applications include predicting crack propagation in underwater vehicles or controlling dissipated heat in microprocessors that are cooled with turbulent flows. While significant advancements have been made in solving such PDEs, existing technologies are prohibitively expensive. The costs are especially high in the case of #stochastic# PDEs because a large number of simulations are required to characterize the effects of uncertainties on the solution. These high costs reduce engineers' efficiency in solving inverse problems, building digital twins, or designing systems that must perform robustly in uncertain environments.To reduce computational costs, this proposal develops deep learning (DL) models that rapidly solve stochastic PDE systems. Our DL models have three novel features that distinguish them from existing approaches which solve PDEs via DL: (1) they are#transferable# which means they can readily model different processes that share the same governing equations, (2) they are #scalable# and hence can solve PDEs on large domains while resolving small-scale details, and (3) they are #probabilistic by construction# which means they can efficiently learn from scarce data and provide probabilistic predictions without using expensive sampling-based techniques. Compared to traditional solvers such as the finite element method, these features will provide the capability to predict the solution of stochastic PDEs with at least 2 orders of magnitude speedups and less than 2% loss in accuracy. By embedding our deep neural networks (DNNs) in multiscale or multi-physicssimulations, the computational savings will be even more.Upon successful completion, our contributions will enable on-the-fly emulation of a wide range of stochastic PDE systems on arbitrary domains via #pre-trained# DNNs. Hence, we expect to eliminate long training times while increasing accuracy and scalability. Additionally, we will leverage our approach to answer fundamental questions in engineering applications on multi-scale modeling of metallic alloys and thermofluidic heat control.To achieve real-time and robust performance, we design geometry-aware learning algorithms and leverage the well-established mathematics of domain decomposition methods that uniquely exploit parallel computing on heterogeneous machines that have multiple GPUs and CPUs. Additionally, to emulate multi-physics processes under uncertainty, we train multiple DNNs to learn each physics and then couple their predictions to solve the underlying stochastic PDE system. We expect our contributions to provide a sustainable platform for studying PDE-governed engineeredsystems. Therefore, we will develop the tools that ensure timely adoption and rapid maintenance. We will also provide scaling guidelines to estimate the required computational power for reaching desired levels of accuracy.less",
+        "end_year": "2026",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13511315?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Ramin Baghgar Bostanabad",
+        "key_highlights": [
+            "The research grant aims to develop deep learning models that can rapidly solve stochastic PDE systems in a cost-effective manner.",
+            "The proposed deep learning models have three novel features: transferability, scalability, and probabilistic capabilities.",
+            "The deep neural networks will be embedded in multiscale and multi-physics simulations to further improve computational efficiency.",
+            "The research will also focus on designing geometry-aware learning algorithms and leveraging parallel computing to achieve real-time and robust performance."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Machine Learning and Artificial Intelligence",
+            "Networking and Information Technology R&D (NITRD)",
+            "Health Category (HRCS)",
+            "Generic health relevance"
+        ],
+        "section_details": "Funding amount\nUSD 1,000,000\nFunding period\n2023\n30 Apr\n\u2010\n2026\n29 Apr\nResulting DOD publications\n3",
+        "start_year": "2023",
+        "title": "23-000003470 Deep Uncertainty Quantification in Multiscale and Multi-Physics Systems",
+        "tldr": "This research grant aims to develop deep learning models that can efficiently solve stochastic PDE systems with high accuracy and scalability. These models have three unique features: transferability, scalability, and probabilistic predictions. The goal is to reduce computational costs and enable real-time emulation of a wide range of stochastic PDE systems.",
+        "top_keywords": [
+            "Deep uncertainty quantification",
+            "Multiscale systems",
+            "Multi-physics systems",
+            "Stochastic PDEs",
+            "Deep learning models",
+            "Transferable models",
+            "Scalable models",
+            "Probabilistic predictions",
+            "Domain decomposition methods",
+            "Multi-physics processes"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "For proper evaluation of fatigue life, it is imperative to have sophisticated analytical and computational tools to analyze crack growth in complex, aerospace structures subjected to severe loading conditions. In this study, the alternating Symmetric Galerkin Boundary Element Method (SGBEM)-Finite Element Method (FEM) technique, which is already a proven and established technique in terms of accuracy and computational efficiency, is refined further to handle complex crack growth situations. The tool will help in the study of surface or embedded 3D crack growing in non-coplanar mode, 2D through crack growing in non-collinear way and also in transitioning of 3D cracks into 2D cracks in thin walled aerospace structures. The BEM will be enriched, a novel crack growth model will be implemented, solvers for fatigue cracks will be improved, a software tool will be developed and a general structural life assessment framework will be integrated. A large number of benchmark problems will be solved to validate the methodology and some real life crack growth problems will be solved and compared with other techniques to demonstrate its superiority.less",
+        "end_year": "2019",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "999,906",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4403273?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Subhasis Sarkar",
+        "key_highlights": [
+            "Development of a refined analytical and computational tool for fatigue life assessment",
+            "Use of alternating Symmetric Galerkin Boundary Element Method (SGBEM)-Finite Element Method (FEM) technique",
+            "Ability to handle complex crack growth situations in aerospace structures",
+            "Validation and comparison with other techniques to demonstrate superiority."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 999,906\nFunding period\n2014\n5 Jan\n\u2010\n2019\n3 Jan",
+        "start_year": "2014",
+        "title": "Total Fatigue Life Assessment of Complicated Structures",
+        "tldr": "This research grant aims to develop a sophisticated tool for accurately assessing the fatigue life of complex aerospace structures under severe loading conditions. The tool will use a refined version of the Symmetric Galerkin Boundary Element Method and Finite Element Method to analyze crack growth in various scenarios. It will also include a novel crack growth model, improved solvers, and a software tool for general structural life assessment.",
+        "top_keywords": [
+            "Fatigue life",
+            "Analytical tools",
+            "Computational efficiency",
+            "Crack growth",
+            "Aerospace structures",
+            "Symmetric Galerkin Boundary Element Method (SGBEM)",
+            "Finite Element Method (FEM)",
+            "Crack growth model",
+            "Structural life assessment",
+            "Benchmark problems"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "In multi-robot systems, having robots with different capabilities can be highly beneficial as it allows for the robot team to be abl,e to participate in a larger class of missions, as sensing, actuation, computation, or communication capabilities can be spread acro,ss different team-mates, thereby supporting the deployment of a potentially significantly larger number of distinct capabilities. Th,is proposal formalizes the idea that it should be possible to make the whole larger than the sum of its parts in multi-agent robotic,s. For that to happen, it is no longer enough to consider capabilities in isolation, but rather how they interact to form brand new,capabilities. In ecology, such types of arrangements are known as a mutualistic interactions, or mutualisms, involving the exchange,of resources or services between two different species. Each species involved in a mutualism receives a benefit from the interaction,, and what this proposal envisions is a new framework for harnessing and encoding the idea of mutualism in a multi-agent robotics se,tting in order to go beyond the standard approach to heterogeneity by having brand new capabilities arise when combining agents with, different individual capabilities. To that end, this multidisciplinary proposal brings together a roboticist with an ecologist. The, two particular topics that will be pursed to achieve this ambitious and multidisciplinary agenda are: (1) Characterization of Mutua,listic Interactions in Ecology: To be able to leverage the types of mutualistic interactions observed in nature, the scope and scale, of such interactions need to be compiled and modeled in a unified and computationally actionable manner. This will constitute Resea,rch Area 1 and will, in particular, focus on developing models of mutualisms as co-evolutionary processes, a robotics-relevant taxon,omy of mutualisms, and an investigation of the conditions under which mutualisms break down and fail to be effective.(2) Leveraging,Mutualistic Interactions in Robotics: A theory will be developed for how to describe combined multi-robot capabilities in such a way, that brand new capabilities result from the deployment of heterogeneous agents. In particular, Research Area 2 will investigate how, to formally understand how mutualisms can be leveraged in the broad contexts of coverage control and task assignment problems for h,eterogeneous multi-robot teams.Approved for Public Releaseless",
+        "end_year": "2025",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "903,059",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12940101?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Magnus Egerstedt",
+        "key_highlights": [
+            "The proposal aims to harness and encode the idea of mutualism in multi-agent robotic systems.",
+            "The proposal brings together a roboticist and an ecologist to achieve this goal.",
+            "The proposal will focus on characterizing mutualistic interactions in ecology and leveraging them in robotics.",
+            "The proposal will develop a theory for describing combined multi-robot capabilities and investigating how mutualisms can be leveraged in coverage control and task assignment problems for heterogeneous multi-robot teams."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence"
+        ],
+        "section_details": "Funding amount\nUSD 903,059\nFunding period\n2022\n31 Jul\n\u2010\n2025\n30 Jul\nResulting DOD publications\n2",
+        "start_year": "2022",
+        "title": "Mutualistic Interactions in Heterogeneous Multi-Robot Systems",
+        "tldr": "This research grant aims to explore the concept of mutualistic interactions in multi-robot systems, where robots with different capabilities can work together to achieve new capabilities. The proposal brings together a roboticist and an ecologist to develop a theory for harnessing mutualisms in robotics and to understand how they can be leveraged in coverage control and task assignment problems.",
+        "top_keywords": [
+            "Mutualistic interactions",
+            "Heterogeneous multi-robot systems",
+            "Capabilities",
+            "Multi-agent robotics",
+            "Ecology",
+            "Co-evolutionary processes",
+            "Taxonomy",
+            "Coverage control",
+            "Task assignment",
+            "Multi-robot teams"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "The recent discovery that local stresses near a dislocation can be used to stabilize nanoscale phases, which can be termed linear complexions, promises a new avenue for tailoring the mechanical response of structural solids. In this study, we will directly manipulate the defects responsible for plasticity while also enabling defect-aware design and nanoscale phase templating of future advanced engineering alloys. A unique aspect is the intimate coupling of solid mechanics and materials synthesis, naturally engaging two topical areas which are typically distinct. Stress is the primary driving force behind the segregation and structural changes involved in linear complexion transformations, and developing an understanding of these transitions will enable predictions about the outcomes of future processing experiments. On the other hand, real alloys containing different types and populations of linear complexions must be made in order to probe the fundamental mechanics of and barriers to dislocation mechanisms such as stacking fault constriction, dislocation breakaway, and secondary stress field interactions between the complexion and other defects. As a whole, this project will provide advancements in the fields of computational mechanics, in situ experimental mechanics utilizing novel electron microscopy techniques, defect engineering and design, and processing science. The assembled team offers a unique interdisciplinary approach that blends theory, computation, and experiment.less",
+        "end_year": "2024",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "900,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9709994?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Timothy Rupert",
+        "key_highlights": [
+            "The study aims to manipulate defects responsible for plasticity and enable defect-aware design and nanoscale phase templating in advanced engineering alloys.",
+            "The project involves the coupling of solid mechanics and materials synthesis, which are typically distinct areas.",
+            "Stress is the primary driving force behind the segregation and structural changes involved in linear complexion transformations.",
+            "The project will provide advancements in the fields of computational mechanics, in situ experimental mechanics, defect engineering and design, and processing science."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 900,000\nFunding period\n2021\n19 May\n\u2010\n2024\n18 May",
+        "start_year": "2021",
+        "title": "Mech-DEFECT: Mechanically-induced Defect Equilibria for Engineered Complexion Transitions",
+        "tldr": "This research project aims to understand and manipulate the defects responsible for plasticity in structural solids, using stress as the primary driving force. The interdisciplinary team will combine theory, computation, and experiment to advance the fields of computational mechanics, in situ experimental mechanics, defect engineering and design, and processing science.",
+        "top_keywords": [
+            "Mech-DEFECT",
+            "Mechanically-induced Defect Equilibria",
+            "Engineered Complexion Transitions",
+            "Local stresses",
+            "Nanoscale phases",
+            "Structural solids",
+            "Plasticity",
+            "Defect-aware design",
+            "Nanoscale phase templating",
+            "Advanced engineering alloys"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Princeton Infrared Technologies, Inc. (PIRT) will team with University of California Irvine (UCI) to develop a room temperature imaging system with detectivity from 3 to 12 \u03bcm spanning mid-wave infrared (MWIR) and longwave infrared (LWIR) spectral ranges using non-degenerate two-photon absorption (NTA) for standoff imaging spectroscopy and ranging.  This novel detection strategy captures MWIR/LWIR images at high pixel densities, high sensitivity, and low noise without cooling.  Currently, MWIR and LWIR imaging requires expensive low-bandgap semi-conducting materials, such as HgCdTe and InSb.  Cooled cameras that are commonly used to cover the entire 3 to 12 \u03bcm spectrum have low pixel densities such as 128x128, precluding the use of high-definition (HD) sampling for acquiring high quality videos in use for applications such as microscopy and hyperspectral imaging.  In this program, the team will deliver a 1280x1024 resolution camera using a custom InxAl1 x yGayAs array integrated with optics and high speed lasers that operate at room temperature to image light from 3 to 12 \u03bcm at video rates suitable for hyperspectral imaging of hot objects without the challenge of imaging through emissions.  The imaging system will also allow for depth measurements with a resolution of <20 \u00b5m.less",
+        "end_year": "2024",
+        "funder": "United States Department of Defense",
+        "funding_amount_usd": "896,779",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13978333?order=funding&or_facet_research_org=grid.266093.8&not_facet_funder=grid.496791.4",
+        "investigator": "to Martin H. Ettenberg",
+        "key_highlights": [
+            "Development of a room temperature imaging system using non-degenerate two-photon absorption (NTA)",
+            "High pixel densities, sensitivity, and low noise without the need for cooling",
+            "Use of custom InxAl1 x yGayAs detector arrays to cover the 3 to 12 \u03bcm spectral range",
+            "Ability to capture high quality videos and perform depth measurements with a resolution of <20 \u00b5m."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4603 Computer Vision and Multimedia Computation",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 896,779\nFunding period\n2023\n6 Aug\n\u2010\n2024\n6 Nov",
+        "start_year": "2023",
+        "title": "Uncooled MWIR and LWIR Imaging Using Non-Degenerate Two Photon Absorption with Custom InAlGaAs Detector Arrays",
+        "tldr": "PIRT and UCI are collaborating to develop a room temperature imaging system using non-degenerate two-photon absorption for MWIR and LWIR imaging. This system will have high pixel density, sensitivity, and low noise without the need for cooling, making it more cost-effective than current methods. It will also allow for high-definition sampling and depth measurements with a resolution of <20 \u00b5m.",
+        "top_keywords": [
+            "Uncooled",
+            "MWIR",
+            "LWIR",
+            "Non-degenerate two-photon absorption",
+            "InAlGaAs detector arrays",
+            "Room temperature imaging",
+            "Detectivity",
+            "Spectral ranges",
+            "Standoff imaging",
+            "Hyperspectral imaging"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    }
+]

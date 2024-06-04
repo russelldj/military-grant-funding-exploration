@@ -1,0 +1,770 @@
+[
+    {
+        "abstract": "ABSTRACT: aBeam Technologies, Inc. proposes a new printing technology for fabricating photonic devices. This nanofabrication process could potentially reduce to a single step, the fabrication of photonic crystals by direct imprinting on inorganic materials. The method is low cost and suitable for large-scale areas. In Phase I, the demonstration of feasibility of the method provides the basis for fabricating a new class of quantum-dot nanolasers in Phase II. BENEFIT: Our approach will revolutionize the fabrication of nanophotonic components and will allow development of new photonic devices. The first targeted application will be a new class of quantum-dot nanolaser arrays. It will then be expanded into other areas of photonic applications, such as for displays. The method promises to enable the development of many other nanophotonic applications.less",
+        "end_year": "2016",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "750,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4402291?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Christophe Peroz",
+        "key_highlights": [
+            "Proposal for a new printing technology for fabricating photonic devices",
+            "Potential to reduce fabrication process to a single step",
+            "Low cost and suitable for large-scale areas",
+            "Potential to revolutionize fabrication of nanophotonic components and enable development of new photonic devices"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4018 Nanotechnology",
+            "51 Physical Sciences",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 750,000\nFunding period\n2014\n15 Jan\n\u2010\n2016\n14 Jan\nResulting DOD publications\n3",
+        "start_year": "2014",
+        "title": "Printable Integrated Photonic Devices",
+        "tldr": "A new printing technology proposed by aBeam Technologies, Inc. aims to simplify the fabrication process of photonic devices by directly imprinting on inorganic materials. This low-cost method has the potential to revolutionize the development of nanophotonic components, starting with a new class of quantum-dot nanolaser arrays.",
+        "top_keywords": [
+            "Printable",
+            "Integrated",
+            "Photonic devices",
+            "Nanofabrication",
+            "Quantum-dot",
+            "Nanolasers",
+            "Direct imprinting",
+            "Inorganic materials",
+            "Large-scale",
+            "Nanophotonic applications"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Our goal of this Phase II STTR is to commercialize a platform technology of non-metallic cathodes, named polyCath, to replace air/moisture sensitive metal cathodes. These metals require a rigorous barrier encapsulation to assure device operation and longevity and require vacuum processing. Encapsulation is a major obstacle to reliable, long-lived and low-cost OLED based displays.less",
+        "end_year": "2007",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "499,999",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4420564?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Felipe Chibante",
+        "key_highlights": [
+            "The research grant is focused on developing air-stable cathodes for aircraft OLED displays.",
+            "The proposed technology, named polyCath, aims to replace air/moisture sensitive metal cathodes.",
+            "Metal cathodes currently used in OLED displays require rigorous barrier encapsulation and vacuum processing.",
+            "The development of air-stable cathodes could lead to more reliable, long-lasting, and cost-effective OLED displays."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 499,999\nFunding period\n2007\n10 Jan\n\u2010\n2007\n10 Jul",
+        "start_year": "2007",
+        "title": "Air-Stable Cathodes for Aircraft OLED Displays",
+        "tldr": "This research grant aims to develop a non-metallic cathode technology, called polyCath, to replace air/moisture sensitive metal cathodes in aircraft OLED displays. This will eliminate the need for rigorous barrier encapsulation and vacuum processing, making the displays more reliable, long-lasting, and cost-effective.",
+        "top_keywords": [
+            "Air-stable",
+            "Cathodes",
+            "Aircraft",
+            "OLED displays",
+            "Non-metallic",
+            "PolyCath",
+            "Metal cathodes",
+            "Barrier encapsulation",
+            "Vacuum processing",
+            "OLED based displays"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Current radiation detection algorithms are based on the concept that each detector operates independently. The Probitas Project, Inc. (Probitas) and the Lawrence Berkeley National Laboratory (LBNL) propose to show the benefits of data fusion to improve the identification, localization, and characterization of a radioactive source in a complex scene as compared to a singular detector algorithm. We will develop flexible, multi-radiation detector algorithms that can be deployed across radiation detection networks to enable the linking of multiple detector variants and fusing of raw detector outputs into usable information. Our data-driven approach utilizes currently available data to investigate multi-input neural networks and network architectures for identification and anomaly detection to achieve improved performance metrics for low statistics measurements. We will also extend current point estimation and tracking technologies to localize a source faster and/or with fewer detections using a multi-sensor network.less",
+        "end_year": "2023",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "167,493",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13506078?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to William Ford",
+        "key_highlights": [
+            "Development of flexible, multi-radiation detector algorithms",
+            "Utilization of data fusion to improve identification, localization, and characterization of radioactive sources",
+            "Investigation of multi-input neural networks and network architectures for improved performance metrics",
+            "Extension of current point estimation and tracking technologies for faster and more accurate source localization using a multi-sensor network."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 167,493\nFunding period\n2022\n26 Sep\n\u2010\n2023\n25 Apr",
+        "start_year": "2022",
+        "title": "Wide Area Distributed Algorithms for Cooperative Source Identification, Characterization, and Localization",
+        "tldr": "Probitas and LBNL are proposing to develop flexible, multi-radiation detector algorithms that can be deployed across networks to improve identification, localization, and characterization of radioactive sources. This data-driven approach will utilize neural networks and network architectures to achieve better performance metrics for low statistics measurements and extend current tracking technologies for faster and more accurate source localization.",
+        "top_keywords": [
+            "Wide Area Distributed Algorithms",
+            "Cooperative Source Identification",
+            "Characterization",
+            "Localization",
+            "Radiation Detection",
+            "Data Fusion",
+            "Multi-Radiation Detector",
+            "Neural Networks",
+            "Anomaly Detection",
+            "Multi-Sensor Network"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The Navy has been developing superconducting systems, based on high-temperature superconductors (HTS), for future use on Navy ships. One of the challenges associated with superconducting magnets is the possibility of a quench, which is an event where a local hot spot develops within the superconductor that quickly spreads throughout the device, driving it into its normal and dissipative state. Sensitive, high-speed quench detection and control systems are required to ensure safe operation to allow superconducting systems to transition onto Navy platforms. The program aims to develop active acoustic emission quench detection and control systems for HTS magnets and other superconducting devices for naval applications. The Phase I program focuses on developing Navy-specific quench detection hardware and demonstrate their performance on small superconducting coils. The system should respond within 80 ms of the onset of a quench, even in the presence of noise and vibrations that may be present on a Navy ship. The Phase II program would result in a quench detection and control system, based on active acoustic quench detection, that has been fully tested and verified to meet relevant military shock and vibration standards by the end of the Phase II - Option I program.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "140,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9527381?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Danko van der Laan Danko van der Laan",
+        "key_highlights": [
+            "Development of a quench monitoring and control system for high-temperature superconducting coils.",
+            "Use of active acoustic emission technology for quench detection and control.",
+            "Focus on naval applications and meeting relevant military standards.",
+            "Phases I and II of the program will involve developing and testing the system."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4007 Control Engineering, Mechatronics and Robotics",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 140,000\nFunding period\n2019\n18 Jul\n\u2010\n2020\n14 Jan",
+        "start_year": "2019",
+        "title": "Quench Monitoring and Control System for High-Temperature Superconducting Coils",
+        "tldr": "This research grant aims to develop a quench monitoring and control system for high-temperature superconducting coils to ensure safe operation on Navy ships. The system will use active acoustic emission detection and should respond within 80 ms of a quench event, even in the presence of noise and vibrations. The Phase II program will result in a fully tested and verified system that meets military standards.",
+        "top_keywords": [
+            "Quench monitoring",
+            "High-temperature superconducting coils",
+            "Superconducting systems",
+            "Quench detection",
+            "Control system",
+            "Naval applications",
+            "Acoustic emission",
+            "Military shock and vibration standards",
+            "Phase I program",
+            "Phase II program"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "There is a strong need to develop low cost, windable lithium-ion conducting ceramic membranes for high energy and power density Li air battery applications. Collaborating with a leading Li battery research group at Lawrence Berkeley National Lab, in this program, NanoGreen Solutions (NGS) proposes an innovative windable lithium-ion conducting ceramic membranes with unprecedented performance such as windability and high Li ion conductivity (>1 mS/cm). The proposed composite membrane consists of high Li-ion conductive ceramic fibers and cross-linkable Li-ion conductive polymer. The proposed ceramic polymer membranes presents a promising approach to realize a new generation Li air battery to fulfill the energy storage needs for various applications ranging from dismounted warriors to electric vehicles. The Phase I of this program will demonstrate the feasibility of the proposed approach. In Phase II, we will optimize and scale up the fabrication process, and lay a foundation for technology commercialization in Phase III.less",
+        "end_year": "2010",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "99,999",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4400698?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Lisen Cheng",
+        "key_highlights": [
+            "Development of low cost, windable lithium-ion conducting ceramic membranes",
+            "Collaboration with Lawrence Berkeley National Lab and NanoGreen Solutions",
+            "Proposed composite membrane with high Li-ion conductivity and windability",
+            "Potential for use in various applications, including dismounted warriors and electric vehicles"
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3406 Physical Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 99,999\nFunding period\n2009\n18 Aug\n\u2010\n2010\n14 Feb",
+        "start_year": "2009",
+        "title": "Windable Lithium-ion Conducting Ceramic Membranes",
+        "tldr": "NGS proposes a windable lithium-ion conducting ceramic membrane for high energy and power density Li air battery applications. The composite membrane consists of high Li-ion conductive ceramic fibers and cross-linkable Li-ion conductive polymer, with potential for use in various applications. Phase I will demonstrate feasibility, with plans for optimization and commercialization in Phases II and III.",
+        "top_keywords": [
+            "Windable",
+            "Lithium-ion",
+            "Conducting",
+            "Ceramic membranes",
+            "High energy",
+            "Power density",
+            "Li air battery",
+            "Li-ion conductivity",
+            "Composite membrane",
+            "Technology commercialization"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "NanoTex Corp. proposes to use metallic carbon nanotubes combined with conductive surfactant polymer developed at LBNL to develop air-stable, solvent processible cathodes for OLED-based display used in cockpits. This eliminates the current need for hermetic packaging protecting the device from water and air and reduces manufacturing costs. As an efficient conductors, nanotubes enhance electron injection giving brighter emission, while increasing the robustness of the device.less",
+        "end_year": "2006",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "99,999",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4407872?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Felipe Chibante",
+        "key_highlights": [
+            "Development of air-stable, solvent processible cathodes for OLED-based displays",
+            "Use of metallic carbon nanotubes and conductive surfactant polymer",
+            "Elimination of the need for hermetic packaging",
+            "Increased brightness and robustness of the device due to efficient conductors (nanotubes)"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 99,999\nFunding period\n2005\n31 Jul\n\u2010\n2006\n30 May\nResulting DOD publications\n1",
+        "start_year": "2005",
+        "title": "Organic Light Emitting Diode (OLED) Display Technology for Military Aircraft",
+        "tldr": "NanoTex Corp. aims to develop air-stable and cost-effective cathodes for OLED-based displays in military aircraft using metallic carbon nanotubes and conductive surfactant polymer. This technology eliminates the need for hermetic packaging and improves device performance.",
+        "top_keywords": [
+            "Organic Light Emitting Diode (OLED)",
+            "Display Technology",
+            "Military Aircraft",
+            "Metallic Carbon Nanotubes",
+            "Conductive Surfactant Polymer",
+            "Air-stable",
+            "Solvent Processible",
+            "Cathodes",
+            "Hermetic Packaging",
+            "Electron Injection"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Spire proposes to investigate InP/InN tandem solar cells for applications where extreme radiation-hardness is needed. Indium phosphide (InP) has proven itself as a radiation-hard cell material, and indium nitride (InN) has shown superior radiation resistance to 2MeV protons. InP (1.34 eV) and InN (0.7eV) bandgaps allow current-matching (38 mA/cm2) under the AM0 spectrum, enabling two-terminal operation. We will investigate use of a pseudomorphic InGaP window to boost InP top cell efficiency from its current 19% one-sun AM0 level to 22%. We describe a process that allows the InP top cell to be undisturbed by dislocations from the InN growth. The 0.7eV InN bottom cell has an upper efficiency limit of ~9% AM0; however, the growth of InN would introduce substantial dislocations, and its efficiency would likely be about 4%. However, the dislocations should not compromise the InN radiation hardness, and we believe that the proposed research should lead to tandem space cells with efficiencies of ~26% (1 sun AM0, 25C) which would be flat in power output to fluences beyond 1e16 1MeV electrons/cm2.less",
+        "end_year": "2005",
+        "funder": "Missile Defense Agency",
+        "funding_amount_usd": "99,931",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4395665?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Steven Wojtczuk",
+        "key_highlights": [
+            "Investigating InP/InN tandem solar cells for extreme radiation-hardness applications",
+            "Use of pseudomorphic InGaP window to increase InP top cell efficiency from 19% to 22%",
+            "Process to prevent dislocations from InN growth and maintain InP top cell efficiency",
+            "Potential for tandem space cells with efficiencies of 26% under extreme radiation conditions."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 99,931\nFunding period\n2004\n27 Sep\n\u2010\n2005\n27 Mar",
+        "start_year": "2004",
+        "title": "Radiation-Hard, High Efficiency InP/InN Tandem Cells",
+        "tldr": "Spire will investigate InP/InN tandem solar cells for extreme radiation-hard applications. The use of a pseudomorphic InGaP window is expected to boost efficiency from 19% to 22%. The proposed research aims to achieve tandem space cells with efficiencies of 26% under 1 sun AM0 conditions, with high radiation resistance.",
+        "top_keywords": [
+            "Radiation-hard",
+            "InP/InN tandem cells",
+            "High efficiency",
+            "Indium phosphide",
+            "Indium nitride",
+            "Bandgap",
+            "Current-matching",
+            "Pseudomorphic InGaP window",
+            "Dislocations",
+            "Radiation resistance"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "HJ Science & Technology (HJS & T) and the Joint BioEnergy Institute (JBEI) propose to develop an automated, software-controlled, programmable, low-cost, and compact platform capable of running rapid and complex bioengineering processes and optimization of new biomanufacturing systems. Our approach combines the microfluidic automation technology of HJS & T with the novel synthetic biology technologies of combinatorial gene library generation, host transfection, and gene product screening at JBEI. Compared with conventional approaches, the integrated microfluidic technology has these advantages: 1) on-chip automation, eliminating the need for bulky and expensive sample handling robots, 2) small volume, reducing reagent consumption, and 3) multifunctional integration on a microchip level. In Phase I, we will establish the feasibility of the microfluidic automation technology by performing 1) construction of a combinatorial library of Green Fluorescent Protein and Red Fluorescent Protein gene expression cassettes, and 2) subsequent transformation into yeast cells/chromosomal integration and screening of expression products, on the same microfluidic chip in a fully automated format. In Phase II, we will realize a fully automated and programmable platform for the biological design-build-test cycle that encompasses 4 basic steps: 1) software DNA design; 2) DNA synthesis and assembly; 3) transfection/chromosomal integration and product screening; and 4) real-time feedback and control.less",
+        "end_year": "2013",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "99,912",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4383188?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Pollack",
+        "key_highlights": [
+            "Development of an automated and programmable microfluidic platform",
+            "Integration of microfluidic technology with synthetic biology techniques",
+            "Advantages of on-chip automation, small volume, and multifunctional integration",
+            "Phases I and II will focus on feasibility and realization of a fully automated platform for biological design-build-test cycle."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3101 Biochemistry and Cell Biology",
+            "3106 Industrial Biotechnology",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Biotechnology",
+            "Genetics",
+            "Cancer Types",
+            "Not Site-Specific Cancer",
+            "Common Scientific Outline (CSO)",
+            "4.1 Technology Development and/or Marker Discovery"
+        ],
+        "section_details": "Funding amount\nUSD 99,912\nFunding period\n2013\n27 Jan\n\u2010\n2013\n26 Jul\nResulting DOD publications\n1",
+        "start_year": "2013",
+        "title": "An automated and programmable microfluidic platform for combinatorial gene assembly and biosynthesis applications",
+        "tldr": "HJ Science & Technology and the Joint BioEnergy Institute are developing an automated and programmable microfluidic platform for bioengineering processes and biomanufacturing optimization. This platform will have advantages such as on-chip automation, small volume, and multifunctional integration. In Phase I, they will establish feasibility by constructing a combinatorial gene library and transforming it into yeast cells on the same chip. In Phase II, they will create a fully automated platform for the design-build-test cycle of DNA synthesis and assembly, transfection, and product screening.",
+        "top_keywords": [
+            "Automated",
+            "Programmable",
+            "Microfluidic platform",
+            "Combinatorial gene assembly",
+            "Biosynthesis",
+            "Synthetic biology",
+            "Biomanufacturing",
+            "Automation technology",
+            "Gene library generation",
+            "DNA synthesis"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "This project will develop and apply a plug-in electric vehicle fleet management and optimization tool and implement the hardware needed for a DoD installation to conduct the complex task of managing an electrified fleet of non-tactical vehicles. The demonstration at Los Angeles Air Force Base, California, will enable DoD fleet managers to schedule charging and discharging of electric vehicles to take optimal economic advantage of demand response and ancillary services (DR+AS) markets, while ensuring the vehicles operate in conjunction with other base electrical loads and generation resources to maintain energy security and a minimal carbon footprint at the installation.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2012",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9183519?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Douglas Black",
+        "key_highlights": [
+            "Development of a plug-in electric vehicle fleet management and optimization tool",
+            "Implementation of hardware for DoD installation to manage electrified fleet",
+            "Utilization of demand response and ancillary services markets for economic advantage",
+            "Focus on energy security and minimal carbon footprint at Los Angeles Air Force Base"
+        ],
+        "research_categories": [
+            "35 Commerce, Management, Tourism and Services",
+            "40 Engineering",
+            "4005 Civil Engineering"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2012\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Optimal Scheduling of Air Force Demonstration Plug-in Electric Vehicles",
+        "tldr": "This project aims to create a tool for managing and optimizing a fleet of plug-in electric vehicles at a DoD installation. The tool will allow for scheduling of charging and discharging to take advantage of economic markets while maintaining energy security and reducing carbon footprint.",
+        "top_keywords": [
+            "Optimal scheduling",
+            "Air Force",
+            "Demonstration",
+            "Plug-in electric vehicles",
+            "Fleet management",
+            "Optimization tool",
+            "DoD installation",
+            "Demand response",
+            "Ancillary services",
+            "Energy security"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The objective of this project was to demonstrate that a multi-sensor active electromagnetic (AEM) system can be built to detect and extract essential information about a metallic object in the ground so as to discriminate unexploded ordnance (UXO)-like bodies from non-UXO scrap. The demonstration was conducted as part of the ESTCP UXO Discrimination Study, which was designed to test and validate UXO detection and discrimination capabilities of currently available and emerging technologies on real sites under operational conditions. In addition, the ESTCP Office and their demonstrators investigated, in cooperation with regulators and program managers, how UXO discrimination technologies can be implemented in cleanup operations.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "Summarize",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184617?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Erika Gasperikova",
+        "key_highlights": [
+            "Development of a multi-sensor active electromagnetic (AEM) system",
+            "Detection and characterization of metallic objects in the ground",
+            "Discrimination of unexploded ordnance (UXO) from non-UXO scrap",
+            "Investigation of implementation of UXO discrimination technologies in cleanup operations"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4005 Civil Engineering"
+        ],
+        "section_details": "Funding amount\n-",
+        "title": "A Multisensor System for the Detection and Characterization of UXO",
+        "tldr": "This research grant aims to develop a multi-sensor system using active electromagnetic technology to detect and differentiate between unexploded ordnance (UXO) and non-UXO scrap in the ground. The project is part of a larger study to test and validate UXO detection and discrimination capabilities, and explore ways to implement these technologies in cleanup operations.",
+        "top_keywords": [
+            "Multisensor system",
+            "Detection",
+            "Characterization",
+            "UXO",
+            "Metallic object",
+            "Discrimination",
+            "AEM system",
+            "Unexploded ordnance",
+            "Scrap",
+            "Cleanup operations"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Building on an earlier SERDP SEED project (), this project sought to design an optimum active electromagnetic (EM) system that can extract, from the measurements, the best possible estimates of the location, depth, size, shape and metal content of a buried metallic object in the presence of the interfering response of non-unexploded ordnance (UXO) metallic objects. Discrimination can be achieved through selective filtering of the response inherent to the system design followed by post acquisition data processing. The parameters of the object are obtained by an inversion of the measurements to establish the principal EM moments of the detected object. These are never determined perfectly because of a fundamental non-uniqueness in the solutions (the response of the target) to the governing diffusion equation. Limitations introduced by depth of the target, the response of the ground, and the presence of other non-UXO metallic objects combine with constraints of weight and power considerations to restrict what is achievable. An optimum system is bounded by these theoretical and practical considerations and, in the end, represents a compromise that detects, discriminates, and classifies to an agreed upon specification.The project performed basic research to develop a systematic approach for the design and fabrication of an optimum active EM system based on the methodology employed in the minerals exploration industry in the search for metallic ore bodies. The intent of the optimum system, bounded by practical and theoretical limitations, is to detect, discriminate, and classify buried ordnance.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "Summarize",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184683?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Frank Morrison",
+        "key_highlights": [
+            "Designing an optimum active electromagnetic (EM) system",
+            "Extracting location, depth, size, shape, and metal content of buried metallic objects",
+            "Discrimination through selective filtering and post acquisition data processing",
+            "Development of a systematic approach for the design and fabrication of the optimum system based on minerals exploration methodology."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4006 Communications Engineering"
+        ],
+        "section_details": "Funding amount\n-",
+        "title": "Detection and Classification of Buried Metallic Objects",
+        "tldr": "This research project aims to design an active electromagnetic system that can accurately detect, discriminate, and classify buried metallic objects, while taking into account practical and theoretical limitations. The system will use a systematic approach based on methods used in the minerals exploration industry.",
+        "top_keywords": [
+            "Detection",
+            "Classification",
+            "Buried Metallic Objects",
+            "Active Electromagnetic System",
+            "Non-unexploded Ordnance",
+            "Discrimination",
+            "Filtering",
+            "Inversion",
+            "Diffusion Equation",
+            "Minerals Exploration Industry"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Because handheld systems are lightweight, compact, portable, and deployable under most site conditions, they are particularly useful in areas of dense vegetation or challenging terrain. In heavily wooded areas or areas with steep or uneven terrain, handheld sensors may be the only suitable device for UXO detection and discrimination because they can be carried through spaces that the operator can walk through or at least approach. Furthermore, it is desirable to find and characterize a metallic object without the need to accurately locate the sensors at multiple positions around the target. The ideal system would thus locate and characterize the target from a single position of the sensor and indicate to the operator where to flag the target for subsequent study. The objective of this project was to design and build a prototype handheld UXO discriminator.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2009",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184564?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Erika Gasperikova",
+        "key_highlights": [
+            "Handheld UXO discriminator",
+            "Lightweight, compact, portable, and deployable",
+            "Suitable for areas with dense vegetation or challenging terrain",
+            "Single position sensor for locating and characterizing targets"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2009\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Handheld UXO Discriminator",
+        "tldr": "A prototype handheld UXO discriminator is being developed to detect and characterize metallic objects in challenging terrain, such as heavily wooded areas. The system aims to accurately locate and flag targets from a single position, making it more efficient and portable for use in UXO detection.",
+        "top_keywords": [
+            "Handheld",
+            "UXO (Unexploded Ordnance)",
+            "Discriminator",
+            "Lightweight",
+            "Portable",
+            "Deployable",
+            "Vegetation",
+            "Terrain",
+            "Detection",
+            "Characterization"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This project will demonstrate and validate the Lawrence Berkley National Laboratory (LBNL) handheld UXO discriminator as part of the live site demonstration at the former Camp Beale. This research instrument was designed under SERDP project and is the direct descendant of the original Berkley UXO Discriminator (BUD) developed under ESTCP project . The handheld UXO discriminator (14-in (0.35 m) cube) has been designed to discriminate small (20 mm) objects at depths up to 0.45 m and large (105 and 155 mm) objects at depths up to 0.85 m and to detect targets at depths up to 1.15 m. At this demonstration, the sensor will be used to classify targets in a cued mode.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2011",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184518?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Erika Gasperikova",
+        "key_highlights": [
+            "The project involves a demonstration and validation of the Lawrence Berkley National Laboratory (LBNL) handheld UXO discriminator.",
+            "The demonstration will take place at the former Camp Beale.",
+            "The handheld UXO discriminator was designed under SERDP project and is the direct descendant of the original Berkley UXO Discriminator (BUD) developed under ESTCP project.",
+            "The sensor is designed to discriminate small and large objects at various depths and will be used to classify targets in a cued mode at the demonstration."
+        ],
+        "research_categories": [
+            "33 Built Environment and Design",
+            "3302 Building",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2011\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Handheld BUD Demonstration",
+        "tldr": "This project will showcase the effectiveness of the LBNL handheld UXO discriminator, a research instrument designed to detect and discriminate small and large objects at varying depths. It is a descendant of the original Berkley UXO Discriminator and will be used to classify targets in a cued mode at the former Camp Beale site.",
+        "top_keywords": [
+            "Handheld BUD",
+            "Demonstration",
+            "Lawrence Berkley National Laboratory",
+            "UXO discriminator",
+            "SERDP project",
+            "ESTCP project",
+            "Research instrument",
+            "Discrimination",
+            "Targets",
+            "Cued mode"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "13 Climate Action",
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "The goal of this project was to verify the feasibility of employing a model-based approach to central plant operation and diagnostics at U.S. Department of Defense (DoD) facilities, and to quantify the associated benefits. This field demonstration was designed to validate: effectiveness in reducing electricity consumption and associated greenhouse gas (GHG) emissions; user satisfaction; cost-effectiveness and viability of system economics; and validity of model calibration.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2012",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9183546?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Mary Ann Piette",
+        "key_highlights": [
+            "The project aims to optimize operational efficiency.",
+            "The project focuses on integrating energy information systems and model-based diagnostics.",
+            "The project is specifically targeted towards U.S. Department of Defense facilities.",
+            "The project aims to validate the effectiveness, user satisfaction, cost-effectiveness, and validity of model calibration in reducing electricity consumption and associated greenhouse gas emissions."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4609 Information Systems",
+            "Research, Condition, and Disease Categorization",
+            "Cost Effectiveness Research"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2012\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Optimizing Operational Efficiency: Integrating Energy Information Systems and Model-Based Diagnostics",
+        "tldr": "This project aims to use a model-based approach to improve central plant operation and diagnostics at DoD facilities. The goal is to reduce electricity consumption and associated GHG emissions, while also ensuring user satisfaction and cost-effectiveness. The effectiveness and validity of the model will be validated through a field demonstration.",
+        "top_keywords": [
+            "Operational efficiency",
+            "Energy information systems",
+            "Model-based diagnostics",
+            "Central plant operation",
+            "U.S. Department of Defense",
+            "Feasibility",
+            "Electricity consumption",
+            "Greenhouse gas emissions",
+            "User satisfaction",
+            "Cost-effectiveness"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Perchlorate contamination of ground and surface water has occurred at a number of sites, principally in the western United States. The contamination is a result of historical activities such as previously acceptable disposal procedures and the testing of solid rocket motors. The health effects of low exposure levels to perchlorate are not well known, but state action levels for perchlorate in drinking water are as low as 1 part per billion. The responsibility for perchlorate remediation at many of these sites falls to the Department of Defense, and the development of innovative remedial approaches has been an active area of research. The most widely used approach for perchlorate remediation is ion exchange using strong-base anion exchange resins and traditional pump-and-treat technology. One drawback is the relatively low perchlorate selectivity of commercial resins, which renders a large fraction of their anion exchange capacity unusable. Highly selective anion exchange resins have been prepared, but they are much more expensive. Bioremediation by perchlorate-reducing bacteria is an attractive approach for the in-situ degradation of perchlorate in groundwater; however, it is ineffective if other electron acceptors, especially oxygen and nitrate, are present.The primary research objective was to modify activated carbon by creating additional quaternary ammonium sites and measure the capacity and selectivity of these activated carbons for perchlorate adsorption. The secondary research objective was to determine whether granular modified activated carbon (GMAC) anion exchange materials could be prepared using only gaseous reagents under conditions similar to those used to prepare conventional gas-activated carbon.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "Summarize",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184196?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Wayne Lukens",
+        "key_highlights": [
+            "Perchlorate contamination of ground and surface water is a significant issue in the western United States.",
+            "The Department of Defense is responsible for remediation of many of these sites.",
+            "The most commonly used approach for remediation is ion exchange, but it has limitations.",
+            "The research objective is to modify activated carbon to improve its capacity and selectivity for perchlorate adsorption."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4011 Environmental Engineering",
+            "41 Environmental Sciences"
+        ],
+        "section_details": "Funding amount\n-",
+        "title": "Modified Activated Carbon Perchlorate Sorbents",
+        "tldr": "This research grant aims to develop modified activated carbon sorbents for the remediation of perchlorate contamination in water sources. The modified activated carbon will have increased selectivity for perchlorate and can be prepared using gaseous reagents, making it a cost-effective solution for remediation efforts.",
+        "top_keywords": [
+            "Perchlorate",
+            "Contamination",
+            "Remediation",
+            "Activated carbon",
+            "Ion exchange",
+            "Bioremediation",
+            "Groundwater",
+            "Quaternary ammonium sites",
+            "Adsorption",
+            "Gaseous reagents"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "13 Climate Action"
+        ],
+        "abstract": "The means and extremes of surface air temperature and precipitation have changed significantly in the last 50 years, and may change more in the 21st Century. These changes may be without a historical analogue, and this nonstationarity presents a challenge for Department of Defense (DoD) infrastructure planning and operations, wherein historical distributions are used as the basis for managing infrastructure and operations risk from flooding, drought, heat waves, and other weather phenomena. The objective of this project was to use a combination of climate models, observations, and analysis to develop robust, defensible projections of the range of distributions of temperature and precipitation that DoD infrastructure and operations will face.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2018",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184786?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Daniel Feldman",
+        "key_highlights": [
+            "The research grant aims to determine the temporal and spatial scales of nonstationarity in temperature and precipitation in the continental United States.",
+            "The changes in surface air temperature and precipitation in the last 50 years have been significant and may continue to change in the 21st century.",
+            "These changes may not have a historical precedent, making it challenging for Department of Defense (DoD) infrastructure planning and operations.",
+            "The project will use a combination of climate models, observations, and analysis to develop projections of temperature and precipitation distributions that will impact DoD infrastructure and operations."
+        ],
+        "research_categories": [
+            "37 Earth Sciences",
+            "3701 Atmospheric Sciences"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2018\n31 Dec\nResulting DOD publications\n1",
+        "start_year": "\u2010",
+        "title": "Determining the Temporal and Spatial Scales of Nonstationarity in Temperature and Precipitation across the Continental United States for a Given Emissions Scenario",
+        "tldr": "This research aims to determine the changes in temperature and precipitation patterns across the United States in the past 50 years and in the future. The goal is to provide accurate projections for the Department of Defense to manage infrastructure and operations risk related to extreme weather events.",
+        "top_keywords": [
+            "Nonstationarity",
+            "Temperature",
+            "Precipitation",
+            "Emissions scenario",
+            "Surface air temperature",
+            "Extreme events",
+            "Climate models",
+            "Observations",
+            "Analysis",
+            "DoD infrastructure"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Permafrost environments are a unique setting for built infrastructure, an environment in which small thermal perturbations can have dramatic impacts on structural stability ranging from foundation settling to catastrophic failure of roads, bridges, and runways due to thermokarst generation. A substantial global temperature change is expected within the next century with a higher degree of variability predicted in arctic regions (approximately 4\u00b0C) where substantial Department of Defense (DoD) resources are currently located. The non-linear coupling of future changes in air temperature, surface insolation, and surface/subsurface hydrology to soil mechanics generates a high degree of uncertainty as to the environmental changes that built infrastructure will actually experience.The objective of this project is to develop and validate a fiber-optic geophysical sensing package capable of providing real-time information on subsurface conditions relevant to infrastructure performance and failure in permafrost environments. The system will consist of a combination of three fiber-based distributed sensing methods\u2014distributed temperature sensing (DTS), distributed strain sensing (DSS), and distributed acoustic sensing (DAS)\u2014designed to be embedded in, or near, built infrastructure and to detect regions of progressive permafrost thaw induced by subsurface flow, surface water accumulation, or changes in system thermal behavior. Seismic noise generated by infrastructure utilization (e.g., planes, automobiles, and railway activity) will be measured by DAS and inverted to generate real-time shear modulus profiles across the length of the installed component. Pre-failure deformation will be measured using DSS, allowing characterization of the early phases of consolidation. These profiles will be coupled to DTS-detected thermal perturbations to identify zones likely to be experiencing thawing and to flag such regions for inspection before infrastructure failure occurs. The resulting information will be provided on a quasi-real time basis to system decision-makers for incorporation into maintenance planning.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2014",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184841?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Jonathan Ajo-Franklin",
+        "key_highlights": [
+            "The research grant is focused on developing smart infrastructure for a changing Arctic environment.",
+            "The project aims to use distributed fiber-optic sensing methods to provide real-time information on subsurface conditions relevant to infrastructure performance and failure in permafrost environments.",
+            "The sensing system will consist of three fiber-based methods: distributed temperature sensing (DTS), distributed strain sensing (DSS), and distributed acoustic sensing (DAS).",
+            "The information gathered from the sensing system will be used to identify potential areas of infrastructure failure and inform maintenance planning."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2014\n31 Dec\nResulting DOD publications\n4",
+        "start_year": "\u2010",
+        "title": "Developing Smart Infrastructure for a Changing Arctic Environment Using Distributed Fiber-Optic Sensing Methods",
+        "tldr": "This research project aims to develop a fiber-optic sensing system that can provide real-time information on subsurface conditions in permafrost environments. The system will use three different methods to detect potential areas of permafrost thaw and provide early warning to prevent infrastructure failure. This information will be used by decision-makers for maintenance planning.",
+        "top_keywords": [
+            "Smart infrastructure",
+            "Arctic environment",
+            "Distributed fiber-optic sensing",
+            "Permafrost",
+            "Infrastructure performance",
+            "Real-time information",
+            "Subsurface conditions",
+            "Thawing",
+            "Shear modulus",
+            "Maintenance planning"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Testing of discrimination technology has been primarily limited to test sites, with little application at live sites. For discrimination technologies to be validated they must be demonstrated at real sites with unexploded ordnance (UXO) and real world conditions. ESTCP has invested in munitions response demonstration and validation efforts to understand the applicability and limitations of these pilot technologies at live sites under the Live Site Program. ESTCP has also assembled an Advisory Group to address the regulatory, programmatic, and stakeholder acceptance issues associated with the implementation of discrimination in the munitions response process. The continued involvement of regulators within the demonstration process aids technology development and relevance for decision makers.The two primary demonstration objectives of this study were to (1) determine the discrimination capabilities of the Berkely UXO Discriminator (BUD) at San Luis Obispo (SLO), California, and (2) investigate, in cooperation with regulators and program managers, how discrimination technologies can be implemented in cleanup operations.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2009",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184560?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Erika Gasperikova",
+        "key_highlights": [
+            "Demonstration of the Berkeley UXO Discriminator at live sites",
+            "Importance of testing discrimination technology at real sites with unexploded ordnance and real world conditions",
+            "Investment in munitions response demonstration and validation efforts by ESTCP",
+            "Objectives of the study: determining discrimination capabilities and investigating implementation of discrimination technologies in cleanup operations."
+        ],
+        "research_categories": [
+            "35 Commerce, Management, Tourism and Services",
+            "3509 Transportation, Logistics and Supply Chains"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2009\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Demonstration of the Berkeley UXO Discriminator at Live Sites",
+        "tldr": "The Berkeley UXO Discriminator (BUD) will be tested at live sites to validate its discrimination capabilities for unexploded ordnance (UXO) and understand its limitations. This study aims to demonstrate the applicability of discrimination technologies in cleanup operations with the involvement of regulators and program managers.",
+        "top_keywords": [
+            "UXO Discriminator",
+            "Live Sites",
+            "Discrimination Technology",
+            "Real Sites",
+            "Unexploded Ordnance",
+            "ESTCP",
+            "Munitions Response",
+            "Validation",
+            "Advisory Group",
+            "Cleanup Operations"
+        ],
+        "units_of_assessment": [
+            "C17 Business and Management Studies"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "14 Life Below Water"
+        ],
+        "abstract": "An improved version of the Marine Berkeley Unexploded Ordnance Discriminator characterization system (MBUD), called MBUD2, has been built and tested. The improved version incorporates technical modifications to eliminate the noise encountered in seawater with the MBUD1 version and a new data acquisition system.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2013",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9184450?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Erika Gasperikova",
+        "key_highlights": [
+            "Development and testing of an engineering prototype",
+            "Marine version of the Berkeley Unexploded Ordnance Discriminator (BUD)",
+            "Improved version called MBUD2",
+            "Incorporation of technical modifications and new data acquisition system to eliminate noise in seawater"
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "51 Physical Sciences",
+            "5106 Nuclear and Plasma Physics"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2013\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Development and Testing of an Engineering Prototype for a Marine Version of the Berkeley Unexploded Ordnance Discriminator (BUD): Phase II",
+        "tldr": "The MBUD2, an improved version of the Marine Berkeley Unexploded Ordnance Discriminator, has been developed and tested. It includes technical modifications to eliminate noise in seawater and a new data acquisition system.",
+        "top_keywords": [
+            "Engineering Prototype",
+            "Marine Version",
+            "Berkeley Unexploded Ordnance Discriminator (BUD)",
+            "Phase II",
+            "Improved Version",
+            "MBUD2",
+            "Technical Modifications",
+            "Seawater",
+            "Noise Elimination",
+            "Data Acquisition System"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The objective of this project is to demonstrate the ability to efficiently cool high heat density electronics used in data centers by open bath immersion (OBI) cooling. The demonstration will be conducted at the Naval Research Laboratory in Washington, D.C.less",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2013",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9183571?order=funding&or_facet_research_org=grid.184769.5&not_facet_funder=grid.496791.4",
+        "investigator": "to Magnus Herrlin",
+        "key_highlights": [
+            "Objective: The main goal of the research grant is to demonstrate the effectiveness of open bath immersion (OBI) cooling in efficiently cooling high heat density electronics used in data centers.",
+            "Methodology: The demonstration will be conducted at the Naval Research Laboratory in Washington, D.C., indicating that the researchers will be using this facility to carry out their experiments.",
+            "Targeted Application: The research is focused on cooling electronics used in data centers, which are commonly found in Department of Defense (DoD) installations.",
+            "Innovation: The use of immersion cooling, specifically OBI, is a novel approach to cooling electronics and has the potential to improve efficiency and reduce costs in DoD installations."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3215 Reproductive Medicine",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\n-\nFunding period\n2013\n31 Dec",
+        "start_year": "\u2010",
+        "title": "Immersion Cooling of Electronics in DoD Installations",
+        "tldr": "This research grant aims to show the effectiveness of open bath immersion cooling in efficiently cooling high heat density electronics used in data centers. The demonstration will take place at the Naval Research Laboratory in Washington, D.C.",
+        "top_keywords": [
+            "Immersion cooling",
+            "Electronics",
+            "DoD installations",
+            "Data centers",
+            "High heat density",
+            "Open bath immersion (OBI) cooling",
+            "Naval Research Laboratory",
+            "Washington, D.C.",
+            "Efficient cooling",
+            "Demonstration"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    }
+]

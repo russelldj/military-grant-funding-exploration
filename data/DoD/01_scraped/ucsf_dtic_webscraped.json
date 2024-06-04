@@ -1,0 +1,271 @@
+[
+    {
+        "abstract": "TourniTek and the University of California at San Francisco propose to design, build, and test a portable chiller for the prolonged field care of traumatic limb injuries. Using thermal regulation, injured limbs may be preserved in the field until patientsless",
+        "end_year": "2025",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "1,749,219",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13976021?order=funding&or_facet_research_org=grid.266102.1&not_facet_funder=grid.496791.4",
+        "investigator": "to Shahram Aarabi",
+        "key_highlights": [
+            "Development of a portable chiller for prolonged field care of traumatic limb injuries",
+            "Collaboration between TourniTek and University of California at San Francisco",
+            "Use of thermal regulation to preserve injured limbs in the field",
+            "Aim to improve care for patients with traumatic injuries in the field"
+        ],
+        "research_categories": [
+            "37 Earth Sciences",
+            "3705 Geology",
+            "42 Health Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Physical Injury - Accidents and Adverse Effects",
+            "Health Category (HRCS)",
+            "Injuries and accidents"
+        ],
+        "section_details": "Funding amount\nUSD 1,749,219\nFunding period\n2023\n6 Sep\n\u2010\n2025\n6 Mar",
+        "start_year": "2023",
+        "title": "TourniTek: Pre-Hospital Thermal Regulation For The Prolonged Field Care of Traumatic Injuries",
+        "tldr": "TourniTek and UCSF are collaborating to create a portable chiller for preserving injured limbs in the field, allowing for prolonged care of traumatic injuries. This technology aims to improve pre-hospital treatment for patients with limb injuries.",
+        "top_keywords": [
+            "TourniTek",
+            "Pre-hospital",
+            "Thermal regulation",
+            "Prolonged field care",
+            "Traumatic injuries",
+            "Portable chiller",
+            "University of California, San Francisco",
+            "Design",
+            "Build",
+            "Test"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "3 Good Health and Well Being"
+        ],
+        "abstract": "Scientific Objective and Rationale: Identifying and characterizing biomarkers of post traumatic stress disorder (PTSD) is critically important in basing diagnoses on biological criteria rather than only self-report and in developing targeted therapies for personalized and more effective treatments. Considerable progress has already been made under two recent principal DOD grants, which have identified several promising biomarkers of PTSD in combat-exposed males. These initial findings require validation in separate male cohorts as well as expansion to female populations with combat-related PTSD. Both of these studies are already recruiting subjects for other analyses, and blood samples will be available for the proposed work. The objective of the proposed research is to expand and validate putative biomarkers for PTSD that we have investigated under previous DOD grants. Methods: The investigators will perform plasma metabolomic assays on both male and female samples. They will determine mitochondrial DNA copy number and will assay mitochondrial function. They will use flow cytometery and other methods to identify and validate signatures of accelerated immune cell aging in post traumatic stress disorder. They will determine the level of inflammation, oxidative stress and metabolic syndrome in post traumatic stress disorder samples. They will measure allopregnanolone and related neurosteroids. Contributions to Advancing the Field of PTSD Research: We aim to apply these assays and analyses to future larger, and in some cases, longitudinal cohorts as well as pre/post deployment and pre/post-intervention cohorts. Pre/post designs would be especially meaningful in assessing causality between these biomarkers and PTSD symptoms, potentially allowing us to develop better early diagnosis markers and novel therapeutic targets.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,399,842",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7080589?order=funding&or_facet_research_org=grid.266102.1&not_facet_funder=grid.496791.4",
+        "investigator": "to Owen Wolkowitz",
+        "key_highlights": [
+            "The research grant focuses on identifying and characterizing biomarkers of post traumatic stress disorder (PTSD) in combat-related individuals.",
+            "The study will validate and expand on previous findings of promising biomarkers in male populations, as well as include female populations with combat-related PTSD.",
+            "The methods used will include plasma metabolomic assays, determination of mitochondrial function and DNA copy number, and identification of signatures of accelerated immune cell aging.",
+            "The ultimate goal is to develop better early diagnosis markers and novel therapeutic targets for PTSD through future larger and longitudinal cohorts, as well as pre/post deployment and intervention cohorts."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "52 Psychology",
+            "5203 Clinical and Health Psychology",
+            "Research, Condition, and Disease Categorization",
+            "Anxiety Disorders",
+            "Brain Disorders",
+            "Mental Health",
+            "Mental Illness",
+            "Post-Traumatic Stress Disorder (PTSD)",
+            "Women's Health",
+            "Health Category (HRCS)",
+            "Mental health",
+            "Research Activity Codes (HRCS)",
+            "2.1 Biological and endogenous factors",
+            "4.1 Discovery and preclinical testing of markers and technologies"
+        ],
+        "section_details": "Funding amount\nUSD 1,399,842\nFunding period\n2016\n5 Jun\n\u2010\n2021\n4 Jun",
+        "start_year": "2016",
+        "title": "Cell Aging and Metabolism in Combat-Related PTSD: Validation and Female Studies",
+        "tldr": "This research grant aims to validate and expand biomarkers for PTSD in combat-exposed males and females. The study will use plasma metabolomic assays, determine mitochondrial function and immune cell aging, and measure inflammation and neurosteroids. The results could lead to better early diagnosis and targeted therapies for PTSD.",
+        "top_keywords": [
+            "Cell Aging",
+            "Metabolism",
+            "Combat-Related PTSD",
+            "Biomarkers",
+            "Validation",
+            "Female Studies",
+            "Mitochondrial DNA",
+            "Immune Cell Aging",
+            "Inflammation",
+            "Neurosteroids"
+        ],
+        "units_of_assessment": [
+            "A01 Clinical Medicine"
+        ]
+    },
+    {
+        "abstract": "RESEARCH PROBLEM: Molecular engineering holds great promise to create novel bio-inspired materials and devices that will exceed the performance and sustainability of many existing military technologies.Preliminary research efforts have generally focused on adapting individual biopolymers found in living organisms and coaxing them to self-assemble in a customizable fashion. We now understand\" many of the subtleties of crafting simple shapes with these materials, as evidenced by the number and variety of nanostructures tha\"\"t have been produced in the past decade. To date, most shapes have been designed to fold from a single type of biopolymer, and only\" a handful of hybrid nanostructures have been created. The next challenge is to extend and generalize hybrid design methods to const\"ruct more sophisticated molecular nanostructures that draw inspiration not only from Nature~s raw building materials, but also the d\"ynamic formation of multi-polymer complexes. Overcoming this challenge is a crucial step toward realizing the goal of engineering biopolymers to create powerful new technologies that are completely unprecedented in nature.TECHNICAL APPROACHES: To create devices t\"hat can perform useful work, we must learn to leverage natural machines that have evolved catalytic behavior. The scope of this proj\"ect is to develop methods to integrate nucleic acid nanostructures with dynamic protein machines. Our project has three objectives:(1) -Extend our computer-aided design (CAD) tools to accommodate hybrid nanostructures made from combinations of nucleic acids and p\"oteins in a unified graphical interface. (2) Design, synthesize, and characterize a set of molecular building blocks that can be use\"\"d to construct hybrid nanostructures of various sizes, shapes, and functions. (3) Build a proof-of-concept device that leverages DNA\" origami for structural patterning of protein modules capable of seeding the growth of microtubule filaments. Our technical approach\" for this 5-year project is to focus concurrently on objectives 1 and 2 during budget periods 1~5, culminating in publications and l\"\"imited beta software testing. We will mostly dedicate budget periods 3~6 to advanced application of our methods for objective 3, and\"\" dissemination via additional publications and open-source software release. ANTICIPATED OUTCOMEOF THE RESEARCH, IF SUCCESSFUL: The\" proposed project will produce a series of peer-reviewed papers describing the research outcomes and methods developed. FUTURE NAVAL RELEVANCE: Macromolecules have tremendous potential for adaptation into military-relevant technologies such as high-performance mat\"erials, environmental sensors, or artificial muscles. PRINCIPAL INVESTIGATOR: Shawn M. Douglas, Ph.D. University of California, San\" Francisco. TITLE OF PROPOSAL: Tools for Design and Engineering of Hybrid Nanostructures.less",
+        "end_year": "2022",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078576?order=funding&or_facet_research_org=grid.266102.1&not_facet_funder=grid.496791.4",
+        "investigator": "to Shawn Douglas",
+        "key_highlights": [
+            "The research aims to develop tools for designing and engineering hybrid nanostructures.",
+            "The project will focus on integrating nucleic acid nanostructures with dynamic protein machines.",
+            "The anticipated outcome of the research is the production of peer-reviewed papers and the development of new methods.",
+            "The potential military relevance of the research includes the creation of high-performance materials, environmental sensors, and artificial muscles."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Biotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 1,000,000\nFunding period\n2017\n18 Jul\n\u2010\n2022\n30 Jul\nResulting DOD publications\n5",
+        "start_year": "2017",
+        "title": "Tools for Design and Engineering of Hybrid Nanostructures",
+        "tldr": "This research project aims to develop tools for designing and engineering hybrid nanostructures using a combination of nucleic acids and proteins. The goal is to create novel bio-inspired materials and devices with potential military applications. The project will focus on three objectives, including extending computer-aided design tools, synthesizing molecular building blocks, and building a proof-of-concept device. The anticipated outcomes include publications and open-source software release, with potential future naval relevance.",
+        "top_keywords": [
+            "Hybrid Nanostructures",
+            "Molecular Engineering",
+            "Bio-inspired Materials",
+            "Biopolymers",
+            "Nucleic Acids",
+            "Protein Machines",
+            "DNA Origami",
+            "Military Technologies",
+            "Macromolecules",
+            "High-performance Materials"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "TourniTek and the University of California at San Francisco propose to design, build, and test a portable chiller for the prolonged field care of traumatic limb injuries. Using thermal regulation, injured limbs may be preserved in the field until patients can be transported to definitive surgical care. By treating these injuries prior to surgical care, amputation and disability can be prevented. This technology will improve the range of deployment and efficiency of air evacuation of warfighters. TourniTek can be applied to injuries due to asymmetric warfare, traditional warfare, traditional tourniquet use, and REBOA use.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "749,827",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13507683?order=funding&or_facet_research_org=grid.266102.1&not_facet_funder=grid.496791.4",
+        "investigator": "to Shahram Aarabi",
+        "key_highlights": [
+            "Development of a portable chiller for prolonged field care of traumatic limb injuries",
+            "Use of thermal regulation to preserve injured limbs in the field",
+            "Prevention of amputation and disability by treating injuries prior to surgical care",
+            "Potential application to various types of injuries, including those caused by asymmetric warfare and traditional tourniquet use."
+        ],
+        "research_categories": [
+            "42 Health Sciences",
+            "4201 Allied Health and Rehabilitation Science",
+            "Research, Condition, and Disease Categorization",
+            "Physical Injury - Accidents and Adverse Effects",
+            "Health Category (HRCS)",
+            "Injuries and accidents"
+        ],
+        "section_details": "Funding amount\nUSD 749,827\nFunding period\n2022\n9 Mar\n\u2010\n2023\n9 Apr",
+        "start_year": "2022",
+        "title": "TourniTek: Pre-Hospital Thermal Regulation For The Prolonged Field Care of Traumatic Injuries",
+        "tldr": "TourniTek and UCSF are collaborating to create a portable chiller that can preserve injured limbs in the field, preventing amputation and disability. This technology will improve the efficiency of air evacuation for warfighters and can be used in various types of injuries.",
+        "top_keywords": [
+            "TourniTek",
+            "Pre-hospital",
+            "Thermal regulation",
+            "Prolonged field care",
+            "Traumatic injuries",
+            "Portable chiller",
+            "Definitive surgical care",
+            "Amputation prevention",
+            "Air evacuation",
+            "Warfighters"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "3 Good Health and Well Being"
+        ],
+        "abstract": "TourniTek and the University of California at San Francisco propose to demonstrate the feasibility of using our novel 3D ultrasound technique with machine learning ultrasound image analysis to diagnose internal hemorrhage and guide blood product resuscitation in the field with our novel technology, VascuSight. Using artificial intelligence-based techniques, severe injuries and burns may be rapidly triaged and treated in the field until patients can be transported to definitive surgical care. By diagnosing and treating patients at the point of injury, disability and mortality will be reduced and precious blood products will be conserved. This technology may improve the range of deployment and efficiency of Aeromedical Evacuation. VascuSight will provide minimally invasive and accurate monitoring of resuscitation in the field, will be usable by soldiers and medics, and will be able to communicate remotely with advanced medical providers.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "74,263",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13976289?order=funding&or_facet_research_org=grid.266102.1&not_facet_funder=grid.496791.4",
+        "investigator": "to Shahram Aarabi",
+        "key_highlights": [
+            "Development of a wearable machine-learning ultrasound monitor called VascuSight",
+            "Use of 3D ultrasound technique and machine learning ultrasound image analysis to diagnose internal hemorrhage and guide blood product resuscitation in the field",
+            "Potential to rapidly triage and treat severe injuries and burns in the field using artificial intelligence-based techniques",
+            "Ability to provide minimally invasive and accurate monitoring of resuscitation in the field, usable by soldiers and medics, and able to communicate remotely with advanced medical providers."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3202 Clinical Sciences",
+            "46 Information and Computing Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Biomedical Imaging",
+            "Machine Learning and Artificial Intelligence",
+            "Networking and Information Technology R&D (NITRD)",
+            "Patient Safety",
+            "Physical Injury - Accidents and Adverse Effects",
+            "Research Activity Codes (HRCS)",
+            "4.1 Discovery and preclinical testing of markers and technologies"
+        ],
+        "section_details": "Funding amount\nUSD 74,263\nFunding period\n2022\n3 Nov\n\u2010\n2023\n3 Feb",
+        "start_year": "2022",
+        "title": "VascuSight: Wearable Machine-Learning Ultrasound Monitor",
+        "tldr": "VascuSight is a wearable ultrasound monitor that uses machine learning to diagnose internal hemorrhage and guide blood product resuscitation in the field. This technology aims to improve the efficiency and accuracy of treating severe injuries and burns, reducing disability and mortality, and conserving precious blood products. It can be used by soldiers and medics and can communicate remotely with advanced medical providers.",
+        "top_keywords": [
+            "VascuSight",
+            "Wearable",
+            "Machine learning",
+            "Ultrasound",
+            "Internal hemorrhage",
+            "Blood product resuscitation",
+            "Artificial intelligence",
+            "Triage",
+            "Aeromedical evacuation",
+            "Minimally invasive"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "TourniTek and the University of California at San Francisco propose to demonstrate the feasibility of using thermal regulation for the prolonged field care of traumatic limb injuries. Using thermal regulation, injured limbs may be preserved in the field until patients can be transported to definitive surgical care. By treating these injuries prior to surgical care, amputation and disability can be prevented. This technology will improve the range of deployment and efficiency of air evacuation of warfighters.  TourniTek can be applied to injuries due to asymmetric warfare, traditional warfare, traditional tourniquet use, and REBOA use.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "49,590",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.10038844?order=funding&or_facet_research_org=grid.266102.1&not_facet_funder=grid.496791.4",
+        "investigator": "to Shahram Aarabi",
+        "key_highlights": [
+            "TourniTek: a proposed technology for thermal regulation in the field care of traumatic limb injuries.",
+            "Aim to prevent amputation and disability by treating injuries prior to surgical care.",
+            "Potential to improve range of deployment and efficiency of air evacuation for warfighters.",
+            "Applicable to various types of injuries, including those from asymmetric warfare, traditional warfare, traditional tourniquet use, and REBOA use."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3202 Clinical Sciences",
+            "42 Health Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Patient Safety",
+            "Physical Injury - Accidents and Adverse Effects",
+            "Health Category (HRCS)",
+            "Injuries and accidents"
+        ],
+        "section_details": "Funding amount\nUSD 49,590\nFunding period\n2021\n11 Apr\n\u2010\n2021\n18 Jul",
+        "start_year": "2021",
+        "title": "TourniTek: Pre-hospital thermal regulation for the prolonged field care of traumatic injuries",
+        "tldr": "TourniTek and the University of California at San Francisco are proposing a thermal regulation technology to preserve injured limbs in the field until patients can receive surgical care, preventing amputation and disability. This will improve the efficiency of air evacuation for warfighters and can be used for various types of injuries.",
+        "top_keywords": [
+            "TourniTek",
+            "Pre-hospital",
+            "Thermal regulation",
+            "Prolonged field care",
+            "Traumatic injuries",
+            "Limb preservation",
+            "Definitive surgical care",
+            "Amputation prevention",
+            "Warfighters",
+            "REBOA use"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    }
+]

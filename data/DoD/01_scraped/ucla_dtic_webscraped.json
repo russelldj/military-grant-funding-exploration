@@ -1,0 +1,817 @@
+[
+    {
+        "abstract": "Semiconductor spin qubits have satisfied the DiVincenzo criteria for scalable quantum computing. Several research groups have recently demonstrated high-fidelity spin state initialization, readout, single-qubit and two-qubit control. This research program is focused on demonstrating fast control and readout of spin qubit arrays, as well as developing a modular spin qubit architecture, wherein two spatially separated two-qubit modules are coherently coupled through a quantum interconnect. Several promising approaches exist for long-range coupling of spin qubits, including exchange coupling through large intermediary quantum dots, circuit quantum electrodynamics (cQED), and the physical transfer of spin-based quantum information through charge shuttling. We will demonstrate coherent coupling of two or more two-qubit modules using spin shuttling. In parallel, the theory team will estimate the fidelity of various spin transfer protocols that are based on cQED. The theory team will also develop quantum characterization verification and validation (QCVV) protocols that can be applied to characterize the overall fidelity of our modular spin qubit architecture. In the area of quantum control and readout, the research team has two major objectives. The first is to build upon recent gains in single- and two-qubit control fidelities through fundamental investigations of the fidelity-limiting mechanisms. Current bottlenecks are limitations in the maximum Rabi frequency that can be achieved with electric dipole spin resonance, crosstalk during single qubit control due to microwave cross-coupling and residual exchange, limited dynamic range of the exchange coupling, and slow gate calibration times. A second objective is to develop cutting-edge quantum control and readout protocols that have the potential to greatly reduce the required qubit drive times and powers, significantly reduce the readout time, and enable multiplexed readout of spin qubit arrays. The team will focus on implementations involving Loss-DiVincenzo (LD) spin qubits, where quantum information is encoded in the spin of a single electron. LD qubits are generally controlled using electric dipole spin resonance (EDSR) in a magnetic field gradient and coherently coupled using the exchange interaction. While impressive progress has been made in controlling LD qubits with high fidelity, most demonstrations involve just single or two-qubit devices. Our team has been at the forefront of efforts to develop scalable semiconductor quantum devices, including pioneering demonstrations of resonant two-qubit gates, as well as spin coupling and readout using cQED.less",
+        "end_year": "2027",
+        "funder": "National Security Agency",
+        "funding_amount_usd": "7,705,307",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13488848?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Jason Petta",
+        "key_highlights": [
+            "The research program is focused on demonstrating fast control and readout of spin qubit arrays and developing a modular spin qubit architecture.",
+            "The team will demonstrate coherent coupling of two or more two-qubit modules using spin shuttling and develop quantum characterization verification and validation protocols.",
+            "The research team has two major objectives in the area of quantum control and readout: to investigate the fidelity-limiting mechanisms and to develop cutting-edge protocols to reduce qubit drive times and powers and enable multiplexed readout.",
+            "The team will focus on implementing Loss-DiVincenzo spin qubits and has made significant progress in developing scalable semiconductor quantum devices, including resonant two-qubit gates and spin coupling and readout using cQED."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "51 Physical Sciences",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 7,705,307\nFunding period\n2023\n30 Apr\n\u2010\n2027\n29 Apr",
+        "start_year": "2023",
+        "title": "Fast and Modular Spin Qubit Arrays (FMSpins)",
+        "tldr": "The FMSpins research program aims to demonstrate fast control and readout of spin qubit arrays and develop a modular spin qubit architecture. This will involve coherent coupling of two or more two-qubit modules using spin shuttling and developing quantum control and readout protocols. The team will focus on implementing Loss-DiVincenzo spin qubits and addressing current limitations in fidelity and scalability.",
+        "top_keywords": [
+            "Spin qubits",
+            "Scalable quantum computing",
+            "Spin state initialization",
+            "Quantum interconnect",
+            "Spin shuttling",
+            "Quantum characterization verification and validation (QCVV)",
+            "Quantum control",
+            "Readout protocols",
+            "Loss-DiVincenzo (LD) spin qubits",
+            "Electric dipole spin resonance (EDSR)"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "4 Quality Education"
+        ],
+        "abstract": "Project Summary Problem Statement The goal of this MURI team is to develop machines that have the following capabilities: i) Achieve deep understanding of scenes and events through joint parsing and cognitive reasoning about appearance, geometry, functions, physics, causality, intents and belief of agents, and use joint and long-ranged reasoning to fill the performance gap with human vision; ii) Represent visual knowledge in probabilistic compositional models across the spatial, temporal, and causal hierarchies augmented with rich relations, which are task-oriented, support efficient task-dependent inference from an agent\u00d5s perspective, and preserve uncertainties; iii) Acquire massive visual commonsense through web scale continuous lifelong learning from heterogeneous sources through weakly supervised HCI and dialogue with humans; and iv) Understand human needs and values to interact with humans effectively and answer human queries about what, who, where, when, why and how in storylines through Turing tests. Technical Approach We take a multi-disciplinary approach that integrates four areas illustrated by the four layers: (a) Psychology and cognitive experiments; (b) knowledge representation; (c) lifelong learning; and (d) computer vision tasks in an inference engine. The four areas will be studied in tight loops shown by the arrows in 3 colors. Human experiments bring new paradigms to transform computer vision and machine learning; and the latter drive human experiments to probe the brain mechanisms for representation, inference and learning. Each area consists of a spectrum of tasks which we organize in three levels of increasing depth and complexity: (i) Categorical recognition; (ii) joint parsing; (iii) Cognitive reasoning. We have assembled a multidisciplinary team from both the US and UK to achieve our goals, including: Experimental psychology and cognition, computer vision and learning, Cognitive and mathematical modeling. Outcome and Impact Our proposed research tackles challenges of pressing importance in the following DoD missions. 1) Persistent surveillance with ground and aerial sensors. Our approach will achieve deep understanding, generate narrative text descriptions, and answer human queries. 2) Web scale commonsense knowledge acquisition and information gathering. We will expand our lifelong learning engine to discover visual and common sense knowledge from heterogeneous sources on the web, organize them into deep structured knowledge on a unified graphical representation. This will fill the semantic gaps, overcome the shortcomings of machine learning approaches. 3) Robot autonomy and situation awareness. We will develop task-oriented representations and learning, so that machines understand the underlying physics, causal-effects, functionality of objects, the use of tools, and human intents, needs and values. This will improve robot autonomy in civil and military tasks in collaboration with humans.less",
+        "end_year": "2017",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "7,550,262",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7076904?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Song-Chun Zhu",
+        "key_highlights": [
+            "The research grant aims to develop machines with deep understanding of scenes and events through joint parsing and cognitive reasoning.",
+            "The project will focus on representing visual knowledge in probabilistic compositional models and acquiring massive visual commonsense through lifelong learning.",
+            "The team will take a multi-disciplinary approach, integrating psychology, knowledge representation, lifelong learning, and computer vision tasks.",
+            "The proposed research will have a significant impact on DoD missions, including persistent surveillance, web scale knowledge acquisition, and robot autonomy."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "4611 Machine Learning",
+            "Research, Condition, and Disease Categorization",
+            "Machine Learning and Artificial Intelligence",
+            "Networking and Information Technology R&D (NITRD)"
+        ],
+        "section_details": "Funding amount\nUSD 7,550,262\nFunding period\n2015\n4 Nov\n\u2010\n2017\n30 Sep\nResulting DOD publications\n191",
+        "start_year": "2015",
+        "title": "Understanding Scenes and Events through Joint Parsing, Cognitive Reasoning and Lifelong Learning",
+        "tldr": "This research grant aims to develop machines with deep understanding of scenes and events through joint parsing and cognitive reasoning, as well as lifelong learning from various sources. The team will take a multi-disciplinary approach and focus on four areas: psychology, knowledge representation, lifelong learning, and computer vision tasks. The outcome and impact of this research will benefit DoD missions such as persistent surveillance, web scale knowledge acquisition, and robot autonomy.",
+        "top_keywords": [
+            "Joint parsing",
+            "Cognitive reasoning",
+            "Lifelong learning",
+            "Scenes",
+            "Events",
+            "Probabilistic compositional models",
+            "Human experiments",
+            "Computer vision",
+            "Machine learning",
+            "Robot autonomy"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "This is a 3+2=5 years (requested funds 4.5M+3.0M=7.5M) ONR MURIproposal, entitled ~Fundamental Studies of Nonlinear Optics and Lase\"\"r-plasma Phenomena inGases and Solids Using High-Power LWIR Lasers~. The main goal of the project is to explorethrough experiment,\" theory and simulations basic physics of laser-matter/plasma interactions inthe LWIR region at intensities of 1-100 TW/cm2using pic\"osecond, multiterawatt power andsubpicosecond, multigigawatt power lasers while doing innovative research on developing highpeak a\"nd average power laser sources in the 8-12 ~m wavelength range. The former willinvestigate nonlinear optics and laser-plasma physics in the long wavelength limit relevant tofilamentation in air while the latter will explore the main elements of a compact high-en\"ergy allsolid-state LWIR OPA system. The MURI team, led by PI Prof. Chan Joshi from UCLA,includes University of Michigan, Universi\"\"ty of Maryland, University of Arizona, University ofCentral Florida-CREOL, and State University of New York at Stony Brook ~SUNY.N\"\"onlinear Optics. We have recently measured for the first time nonlinear refractive index,less",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "7,500,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078647?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Chan Joshi",
+        "key_highlights": [
+            "The research grant is for a 3+2=5 year project with a requested fund of 4.5M+3.0M=7.5M from ONR MURI.",
+            "The project aims to study nonlinear optics and laser-plasma phenomena in gases and solids using high-power LWIR lasers.",
+            "The research will be conducted through experiments, theory, and simulations, with a focus on developing high peak and average power laser sources in the 8-12 ~m wavelength range.",
+            "The MURI team, led by PI Prof. Chan Joshi from UCLA, includes multiple universities and will investigate nonlinear optics and laser-plasma physics in the long wavelength limit and develop a compact high-energy all-solid-state LWIR OPA system."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5106 Nuclear and Plasma Physics"
+        ],
+        "section_details": "Funding amount\nUSD 7,500,000\nFunding period\n2017\n12 Jul\n\u2010\n2020\n30 Jul\nResulting DOD publications\n69",
+        "start_year": "2017",
+        "title": "fundamental studies of nonlinear optics and laser-phenomena in gases and solids using high-power lwir lasers",
+        "tldr": "This research grant aims to study the physics of laser-matter interactions in gases and solids using high-power LWIR lasers. The project will investigate nonlinear optics and laser-plasma phenomena in the long wavelength limit and develop a compact high-energy all-solid-state LWIR OPA system. Led by PI Prof. Chan Joshi, the MURI team includes multiple universities and will focus on developing high peak and average power laser sources in the 8-12 \u03bcm wavelength range.",
+        "top_keywords": [
+            "Nonlinear optics",
+            "Laser-phenomena",
+            "Gases",
+            "Solids",
+            "High-power LWIR lasers",
+            "Laser-matter interactions",
+            "Plasma physics",
+            "Filamentation",
+            "All-solid-state OPA system",
+            "Nonlinear refractive index"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "The objective of the proposed research is, through theory and experiment, to achieve atomic level understanding of interfacial spin-orbit-coupling (SOC) and exchange coupling of magnetic topological insulator (TI) heterostructures and superlattices and to discover new phenomena that are critical not only for fundamental science but also for enabling energy efficient DoD\u00d5s applications such as spintronics. In particular, the research will strive to uncover new physics emerging from: (1) the interplay of topological surface states of TIs with ferromagnets (FMs) and anti-ferromagnets (AFMs); (2) topological valley coupling as well as nanostructure-created pseudo local magnetic field in graphene and other 2D materials when coupled with TIs; (3) axion electrodynamics and emerging physics in TI-based heterostructures. The proposed research will plan to: (1) engineer strongly SOC materials by growing several different kinds of heterostructures and superlattices containing TI/nonTI, TI/AFM, TI/FM and TI/TMD interfaces in various combinations; (2) pattern the films into various structures to explore the SOC-enabled new physics and effects. The proposed research activities will be organized into 4 thrusts around SOC materials: (1) Synthesizing and patterning SOC heterostructures and superlattices using TI/nonTI and 2D materials; (2) Spin textures, spin-orbit torques and THz spin-dynamics; (3) Spin-valley- tronics; (4) Axion electrodynamics & other emerging physics and devices.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "6,250,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7080665?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Kang Wang",
+        "key_highlights": [
+            "The research aims to understand the interfacial spin-orbit coupling and exchange coupling in magnetic topological insulator heterostructures and superlattices.",
+            "The research will focus on uncovering new physics and phenomena in these structures, particularly in relation to the interplay of topological surface states with ferromagnets, anti-ferromagnets, and 2D materials.",
+            "The proposed research will involve engineering and patterning different types of heterostructures and superlattices to explore the effects of strong spin-orbit coupling.",
+            "The research will be organized into four thrusts, including synthesizing and patterning SOC heterostructures, studying spin textures and dynamics, exploring spin-valleytronics, and investigating axion electrodynamics and other emerging physics and devices."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 6,250,000\nFunding period\n2016\n8 Aug\n\u2010\n2021\n7 Aug",
+        "start_year": "2016",
+        "title": "Magnetoelectrics and Spinorbitronics in Topological Heterostructures and Superlattices",
+        "tldr": "This research aims to understand the interfacial spin-orbit coupling and exchange coupling in magnetic topological insulator heterostructures and superlattices. The focus is on discovering new phenomena that can be applied in energy efficient spintronics. The research will involve engineering different heterostructures and superlattices and exploring their effects through various structures.",
+        "top_keywords": [
+            "Magnetoelectrics",
+            "Spinorbitronics",
+            "Topological heterostructures",
+            "Superlattices",
+            "Spin-orbit coupling",
+            "Magnetic topological insulators",
+            "Interfacial spin-orbit coupling",
+            "Exchange coupling",
+            "Spintronics",
+            "Topological valley coupling"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "Mammals are comprised of trillions of microorganisms, together called the microbiome, that respond to environmental factors, such as diet and stress, and have the remarkable capacity to modulate host brain activity and behavior. Despite increasing evidence that the gut microbiome influences brain development and function, the molecular mechanisms that enable microbiota-gut-brain interactions remain unclear. Fundamental principles are lacking for how complex microbial communities develop and respond to external stimuli, and unified models are needed to map the dynamic microbial, enteric, metabolic, immune and neural signaling networks that comprise the microbiota-gut-brain axis. To address this need, we will investigate how the gut microbiome alters cognitive sensorimotor and spatial learning behavior in response to variations in dietary fat: carbohydrate intake and exposure to oxygen deprivation stress. Technical Approaches. We will conduct controlled gnotobiotic and microfluidic experiments to determine how the microbiome is altered as a function of fat: carbohydrate intake and physical hypoxic stress and to uncover how these microbiome changes causally impact host physiology. These experimental data will be used to develop a multilayered mathematical model of the microbiome-gut-brain axis that examines system architecture, performance, sensitivity and robustness. Altogether, the proposed project integrates advances in functional genomics, microfluidics, gnotobiotics, metabolic modeling, optogenetics, and control theory. Anticipated Outcome: Through iterative in vivo, in vitro and in silico experiments, with cross-referenced testing of predictions across experimental systems, we will extract fundamental biological insights for i) how nutrition and physical stress modify microbial community structure and function, ii) how microbial products biotransformed through the gastrointestinal tract modulate metabolic, immune and vagal signaling, and iii) how metabolic, immune and vagal activity determine cognitive performance. Impact on DoD Capabilities: The mathematical models we develop would enable predictions of microbiome, immune, metabolic, vagal and behavioral responses based on quantitative inputs of dietary fat vs. carbohydrate intake and physical stress (oxygen) levels. This could inform cognitive and physiological performance of individuals based on diet and stress.less",
+        "end_year": "2022",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "6,249,215",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7674053?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Elaine Hsiao",
+        "key_highlights": [
+            "The study aims to understand how the gut microbiome influences brain activity and behavior in response to diet and stress.",
+            "The research will investigate the molecular mechanisms and develop models to map the complex interactions between microbiota, gut, metabolism, immune system, and brain.",
+            "The study will use controlled experiments and advanced techniques such as gnotobiotics, microfluidics, and optogenetics to uncover the causal impact of microbiome changes on host physiology.",
+            "The outcomes of the research could potentially inform the cognitive and physiological performance of individuals based on their diet and stress levels, which could have implications for the Department of Defense."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3107 Microbiology",
+            "Research, Condition, and Disease Categorization",
+            "Basic Behavioral and Social Science",
+            "Behavioral and Social Science",
+            "Bioengineering",
+            "Complementary and Integrative Health",
+            "Genetics",
+            "Microbiome",
+            "Neurosciences",
+            "Nutrition",
+            "Health Category (HRCS)",
+            "Oral and gastrointestinal",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning",
+            "2.1 Biological and endogenous factors"
+        ],
+        "section_details": "Funding amount\nUSD 6,249,215\nFunding period\n2017\n13 Aug\n\u2010\n2022\n12 Aug\nResulting DOD publications\n2",
+        "start_year": "2017",
+        "title": "Dissecting microbiome-gut-brain circuits for microbial modulation of host cognition in response to diet and stress",
+        "tldr": "This research grant aims to understand how the gut microbiome interacts with the brain and influences cognition in response to diet and stress. The project will use various experimental approaches and mathematical modeling to uncover the mechanisms behind these interactions and their impact on cognitive and physiological performance.",
+        "top_keywords": [
+            "Microbiome",
+            "Gut-brain circuits",
+            "Microbial modulation",
+            "Diet",
+            "Stress",
+            "Brain activity",
+            "Behavior",
+            "Gnotobiotics",
+            "Metabolic modeling",
+            "Control theory"
+        ],
+        "units_of_assessment": [
+            "A03 Allied Health Professions, Dentistry, Nursing and Pharmacy"
+        ]
+    },
+    {
+        "abstract": "Problem: Object-oriented languages such as C++, C#, and Java have brought us software libraries that are large, well tested, and eas\"\"y to use. As programmers continue to develop layers of useful libraries, the security and efficiency of application software decreas\"e. The problem is that the massive libraries usually add complexity to even simple tasks and increase attack surfaces.Objective: Th\"e goal of our project is to show how we can address the security and inefficiency problems with novel, automatic software tools. Our\"\" tools will remove little used functionality, decrease run-time bloat, and specialize libraries to what is actually used. A unique s\"\"trength of our project is that we will actively leverage the synergy between the three research thrusts on functionality reduction,\"\" de-bloating, and de-layering.Approach:On functionality reduction (FR), our goal is to select features and code regions to be remo\"ved from applications and underlying libraries. In order not to require any kinds of human effort in tagging features or functionali\"ty, we propose a completely automated approach to detect (1) unused functionality by finding never-invoked APIs or discovering defac\"\"touse of the interfaces, (2) inefficient objects by determining which faster performing type could replace a slower performing type\"\", and (3) redundant program logic evidenced by code duplication in binaries. On de-bloating (DB), our goal is to permanently and sta\"tically remove the unnecessary features and code regions. We propose a set of static techniques that merge functionalities of related types with the goal of removing unnecessary types and propose an automated clone removal technique that factorizes redundant code\" in bytecode. On de-layering (DL), our goal is toreduce indirections and layers of abstractions through static inlining and partial\"\" evaluation. Our specializationtechnique will remove redundant features, partially evaluate generic code, and change allocation sit\"es to use the fastest-performing type. The proposed work builds on the PIs~ foundational work on runtime bloat detection and removal\", code clone analysis and removal, and type-safe inlining. We see tremendous potential for the synergy across the above three resear\"ch thrusts. We will design a synergistic approach where the results of one thrust are actively fedto the other two thrusts. As a re\"sult, we will produce a single, completely automated, integrated, end-user friendly infrastructure that combines the three thrusts.\"\"Mission/Relevance: As software development has evolved, additional layers of abstraction have been continually added resulting in in\"creased complexity and inefficiencies. The research integrates well with an important thrust within ONR~s cyber research program to perform late-stage software transformation to de-bloat and de-layer the exceedingly complex modern software. This research will contribute to ONR~s vision of building a transformative ecosystem for bloat-free software with reduced attack surfaces.less",
+        "end_year": "2022",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "4,924,195",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7153570?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Miryung Kim",
+        "key_highlights": [
+            "The problem of decreased security and efficiency in application software due to large and complex libraries.",
+            "The goal of the project is to address these issues through novel, automatic software tools that remove unused functionality, decrease bloat, and specialize libraries.",
+            "The project will leverage the synergy between three research thrusts: functionality reduction, de-bloating, and de-layering.",
+            "The proposed work builds on previous research on runtime bloat detection and removal, code clone analysis and removal, and type-safe inlining, and aligns with ONR's cyber research program to transform software for improved security and efficiency."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4604 Cybersecurity and Privacy",
+            "4612 Software Engineering",
+            "Health Category (HRCS)",
+            "Generic health relevance"
+        ],
+        "section_details": "Funding amount\nUSD 4,924,195\nFunding period\n2017\n13 Nov\n\u2010\n2022\n30 Dec\nResulting DOD publications\n37",
+        "start_year": "2017",
+        "title": "Synergistic Software Customization: Framework, Algorithms, Tools",
+        "tldr": "This research project aims to address security and efficiency issues in software development by creating automated tools to remove unused functionality, decrease bloat, and specialize libraries. The project will leverage the synergy between three research thrusts and contribute to ONR's goal of building a transformative ecosystem for bloat-free software.",
+        "top_keywords": [
+            "Synergistic software customization",
+            "Object-oriented languages",
+            "Security",
+            "Efficiency",
+            "Functionality reduction",
+            "De-bloating",
+            "De-layering",
+            "Automation",
+            "Code duplication",
+            "Abstractions"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Computers have led to an information revolution and artificial intelligent systems that simulate the learning functions of the human brain. The world\u2019s fastest supercomputer, Summit, may have a computing capacity comparable to that of the human brain. However, Summit consumes the equivalent power of 7000 homes (~15 MW), and the brain only consumes a power of a light bulb (~20 W). Computers execute algorithms on physically separated logic and memory units in digital serial mode, which fundamentally restrains computers from handling \u201cbig data\u201d efficiently in complex dynamic environments, and limits the developments of emerging intelligent systems such as self piloted unmanned aerial vehicles (UAVs). By contrast, the brain simultaneously processes and learns from \u201cbig data\u201d via trillions of synapses and neurons in analog parallel mode, and facilitates parallel processing and real time learning with an energy efficiency more than five orders of magnitude superior to that of the supercomputer. The proposed study intends to perform research on devices including synaptic resistors (synstors), memory resistors (memristors), and neuristors to emulate the analog short and long term memory, convolutional signal processing, and correlative learning functions of synapses, and the nonlinear dynamic functions of neurons.less",
+        "end_year": "2022",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "4,300,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12939694?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Yong Chen",
+        "key_highlights": [
+            "The research grant focuses on developing brain-inspired networks for multifunctional intelligent systems in aerial vehicles.",
+            "The human brain is more energy efficient than the world's fastest supercomputer, Summit, which consumes a significant amount of power.",
+            "The brain processes and learns from \"big data\" in an analog parallel mode, while computers use digital serial mode, limiting their ability to efficiently handle complex dynamic environments.",
+            "The proposed study will research devices such as synstors, memristors, and neuristors to emulate the functions of synapses and neurons in order to improve the capabilities of intelligent systems."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "4605 Data Management and Data Science",
+            "4611 Machine Learning",
+            "Research, Condition, and Disease Categorization",
+            "Neurosciences",
+            "Health Category (HRCS)",
+            "Neurological"
+        ],
+        "section_details": "Funding amount\nUSD 4,300,000\nFunding period\n2019\n31 May\n\u2010\n2022\n30 May\nResulting DOD publications\n32",
+        "start_year": "2019",
+        "title": "Brain Inspired Networks for Multifunctional Intelligent Systems in Aerial Vehicles",
+        "tldr": "This research grant aims to develop brain-inspired networks for multifunctional intelligent systems in aerial vehicles. By emulating the analog processing and learning capabilities of the human brain, these systems could greatly improve efficiency and performance compared to traditional computers. The study will focus on developing devices such as synstors, memristors, and neuristors to mimic the functions of synapses and neurons.",
+        "top_keywords": [
+            "Brain-inspired networks",
+            "Multifunctional intelligent systems",
+            "Aerial vehicles",
+            "Artificial intelligence",
+            "Learning functions",
+            "Supercomputer",
+            "Energy efficiency",
+            "Analog parallel mode",
+            "Synaptic resistors",
+            "Neuristors"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Social instability is increasingly connected to a dynamic interplay between online and offline systems. Such instability is causally complex, multiscale in nature, and is traced to spillover, in both directions, between online and offline domains. Indeed, the complexity of offline and online systems on their own is amplified by the potential that problems or grievances incubated in one domain will spontaneously spread to the other. Threats that arise through coupled online-offline dynamics may reach a critical point faster, jump spatial or community boundaries with little constraint, and thrive on complex beliefs that readily mix fact and fiction. The inherent complexity of coupled online-offline systems motivates our proposed MURI. We will develop new data-driven methods for learning the dynamics of coupled online-offline systems and model-driven approaches for determining when spillover between systems is causally significant. Rapidly detecting patterns and knowing when those patterns are not spurious is central to maintaining agility and readiness in the face of heterogeneous threats.less",
+        "end_year": "2025",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "4,171,875",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13488692?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to P. BRANTINGHAM",
+        "key_highlights": [
+            "Social instability is connected to a dynamic interplay between online and offline systems.",
+            "The complexity of offline and online systems is amplified by the potential for problems or grievances to spread between domains.",
+            "The proposed MURI aims to develop data-driven methods for learning the dynamics of coupled online-offline systems.",
+            "The MURI also aims to develop model-driven approaches for determining when spillover between systems is causally significant."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "47 Language, Communication and Culture",
+            "4701 Communication and Media Studies",
+            "Health Category (HRCS)",
+            "Generic health relevance",
+            "Infection"
+        ],
+        "section_details": "Funding amount\nUSD 4,171,875\nFunding period\n2022\n14 Aug\n\u2010\n2025\n13 Aug\nResulting DOD publications\n16",
+        "start_year": "2022",
+        "title": "(MURI-FY22) LEARNING DYNAMICS AND DETECTING CAUSAL PATHWAYS IN COUPLED ONLINE-OFFLINE SYSTEMS",
+        "tldr": "This research grant aims to study the complex dynamics and causal pathways between online and offline systems, which have been linked to social instability. The project will develop data-driven and model-driven methods to detect and understand spillover between these systems, with the goal of improving readiness against diverse threats.",
+        "top_keywords": [
+            "Social instability",
+            "Dynamic interplay",
+            "Online-offline systems",
+            "Causal pathways",
+            "Spillover",
+            "Multiscale",
+            "Coupled systems",
+            "Data-driven methods",
+            "Model-driven approaches",
+            "Heterogeneous threats"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "4 Quality Education"
+        ],
+        "abstract": "SUMMARY/ABSTRACT Critical to the Navy is its ability to maintain ships in mission-ready condition at all times. Recognizing and troubleshooting problems on board ship is a crucial skill for technicians, and is essential for a ship\u2019s viability and the safety of its crew. Much of the knowledge and skills required of engineering technicians is to effectively utilize situational and diagnostic cues from the engineering plant to determine potential or actual problems early on, and address them in time before they can escalate to costly and/or dangerous levels. Training to be proficient in such skills requires more than just content understanding and system knowledge, but also necessitates being able to blend this knowledge in hands-on, realworld contexts. A virtualized training environment in which key systems of a ship can be replicated in authentic ways, and in which a student is enabled to interact both physically and cognitively with the system, affords great benefits for training and assessing for engineering related skills/ratings. In such an environment, the student would practice tasks and decisionmaking in authentic, simulated contexts, and be able to use his or her senses to detect abnormal conditions such as excessive heat, unusual sounds, or odors emanating from certain pieces of equipment \u2013 all of which could be indicators of problems that can be triaged appropriately and addressed. The National Center for Research on Evaluation, Standards, and Student Testing (CRESST) proposes to develop an engineering-skills virtual reality test bed. It will combine interface technologies to support advanced sensing modalities (including motion and gesture recognition), advanced feedback modalities (including tactile and olfactory feedback), advanced adaptive training technology, and automated performance assessment capabilities. This proposal outlines the research that we will conduct to examine the effects of multisensory stimuli in an instructional/training setting on learning and performance. This will include looking at adapting task complexity both within and between scenarios, and other supplemental training modules, including perceptual learning modules, and modules on selfmonitoring and creative thinking that focus on troubleshooting.less",
+        "end_year": "2018",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "3,592,910",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7076331?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Eva L. Baker",
+        "key_highlights": [
+            "The research grant is focused on developing adaptive immersive training for engineering technicians in the Navy.",
+            "The training will utilize a virtualized environment with authentic simulations and advanced interface technologies.",
+            "The goal is to improve the ability of technicians to detect and troubleshoot problems on board ships.",
+            "The research will also examine the effects of multisensory stimuli and supplemental training modules on learning and performance."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4015 Maritime Engineering",
+            "Research, Condition, and Disease Categorization",
+            "Behavioral and Social Science",
+            "Clinical Research"
+        ],
+        "section_details": "Funding amount\nUSD 3,592,910\nFunding period\n2016\n22 Mar\n\u2010\n2018\n30 Sep",
+        "start_year": "2016",
+        "title": "Adaptive Immersive Training Research",
+        "tldr": "This research grant aims to develop a virtual reality training environment for engineering technicians in the Navy, allowing them to practice hands-on skills and decision-making in simulated contexts. The project will also examine the effects of multisensory stimuli on learning and performance, including adapting task complexity and incorporating supplemental training modules.",
+        "top_keywords": [
+            "Adaptive",
+            "Immersive",
+            "Training",
+            "Navy",
+            "Engineering",
+            "Virtual reality",
+            "Multisensory",
+            "Performance assessment",
+            "Troubleshooting",
+            "Self-monitoring"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "(Approved for Public Release)The goal of the proposed work is to establish a new field of extreme aerodynamics that describes the hi,ghly unsteady nature of turbulent flows around air vehicles in severe weather, urban canyons, and wakes of ships and complex terrain,s.Motivation: Operating air vehicles, especially those that are smaller in size, in highly adverse atmospheric conditions is a major, technological challenge with essentially no available theory. Currently, aircraft avoid operating in such extreme aerodynamic scen,arios, leaving a void in the operational capability. This is due to the fact that traditional aerodynamics are largely based on lin,ear analysis about a steady operating condition with nonlinear extensions for modest levels of perturbations. Understanding flight,in extreme aerodynamic environments calls for innovative perspectives to analyze, model, predict, and control extreme levels of unst,eadiness over lifting bodies. Recent advancements in computational hardware and data-science libraries present a unique opportunity, to develop next-generation aircraft achieving air dominance in extreme weather.Objectives: The ultimate objective here is to establ,ish a novel framework to detect the approach of unknown large-scale perturbations in the atmosphere, determine how such disturbances, affect the dynamics of the aircraft, and perform flow control or maneuvers to achieve stable flight. One of the major challenges i,s that turbulent disturbances in the atmosphere take various forms affecting the vehicle performance in strongly nonlinear manners., If these disturbance dynamics are naively considered, the investigation would require an astronomical number of parametric studies., For these reasons, the study of extreme aerodynamics requires a shift in our scientific perspective from traditional aerodynamics t,o an innovative approach to extracting the dominant extreme response of flying bodies from a massive collection of data. To achieve, the goals of this proposal, we will utilize ultramodern concepts in dynamical systems, network science, and data science. In the p,resent effort, we will (1) numerically simulate extreme aerodynamic model flows with large potential, vortical, and turbulent distur,bances for 2D and 3D wings as well as a tailless UAV model; (2) reveal the universal extreme aerodynamic features through manifold i,dentification using machine learning; (3) model extreme aerodynamics using cluster network analysis and identify key vortical featu,res responsible for transient force generation; (4) assess control effectors for extreme aerodynamic conditions and develop control,techniques based on generalized phased-based and model predictive control; (5) train graduate students and postdoctoral scholars in,an interdisciplinary manner to be leading experts in extreme aerodynamics; and (6) disseminate findings through publications, confer,ences presentations, and workshop organizations to form a research community in the field of extreme aerodynamics.Impact on DoD Capa,bilities: A focused research investment for this orchestrated work will establish the theoretical and computational framework for a,new field of extreme aerodynamics and support the designs and operations of next-generation air vehicles in adverse atmospheric cond,itions. The novel approaches developed from this effort can also be extended to highly unsteady marine environments.less",
+        "end_year": "2027",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "3,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12959462?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Kunihiko Taira",
+        "key_highlights": [
+            "Establishing a new field of extreme aerodynamics to understand turbulent flows around air vehicles in severe weather, urban canyons, and wakes of ships and complex terrain.",
+            "Developing a novel framework to detect and control large-scale perturbations in the atmosphere to achieve stable flight.",
+            "Utilizing modern concepts in dynamical systems, network science, and data science to study extreme aerodynamics.",
+            "Impact on DoD capabilities by supporting the design and operation of next-generation air vehicles in adverse atmospheric conditions and potentially extending to marine environments."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4001 Aerospace Engineering",
+            "4012 Fluid Mechanics and Thermal Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 3,000,000\nFunding period\n2022\n31 Aug\n\u2010\n2027\n30 Aug\nResulting DOD publications\n6",
+        "start_year": "2022",
+        "title": "Extreme Aerodynamics: Grasping the Unknown Skies",
+        "tldr": "This research grant aims to establish a new field of extreme aerodynamics to understand and control turbulent flows around air vehicles in severe weather and other challenging environments. The study will utilize modern concepts in dynamical systems, network science, and data science to develop a framework for detecting and managing large-scale disturbances in the atmosphere. The ultimate goal is to support the design and operation of next-generation air vehicles in adverse conditions.",
+        "top_keywords": [
+            "Extreme aerodynamics",
+            "Turbulent flows",
+            "Air vehicles",
+            "Nonlinear analysis",
+            "Data science",
+            "Flow control",
+            "Dynamical systems",
+            "Network science",
+            "Manifold identification",
+            "Model predictive control"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Our objective is to identify and characterize environmental factors and the relationships between Bp and other ecosystem species, and to explore how these affect the presence and virulence of Bp, and consequently, the incidence of disease in humans and mammals. The aim of Task 1 is to investigate relationships between environmental conditions, strain diversity, and virulence in mammals. In Task 2, we employ parallel HTS metagenomic and metatranscriptomic analysis to identify predictors of endemicity as \"signatures\" of co-endemic fauna, followed by investigations of their associations with virulent Bp genotypes. The objective of Task 3 is to define the nature of various interactions between Bp and fauna. In Task 4, we will test our predictive and diagnostic tools from Tasks 1-3 on soil from endemic regions of the Americas, the Caribbean, Africa and Southeast Asia, some of which have previously hosted American military personnel, or are potential areas of future armed conflict. We will compare ecological signatures from geographically separate regions, incorporate our findings into a global model of Bp endemicity, and apply our biocontrol strategies to eradicate Bp from endemic soilless",
+        "end_year": "2020",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "2,999,782",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826294?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Christopher French",
+        "key_highlights": [
+            "Identification and characterization of environmental factors related to the presence and virulence of Bp",
+            "Investigation of relationships between environmental conditions, strain diversity, and virulence in mammals",
+            "Use of parallel HTS metagenomic and metatranscriptomic analysis to identify predictors of endemicity and associations with virulent Bp genotypes",
+            "Application of predictive and diagnostic tools to soil from endemic regions in the Americas, the Caribbean, Africa, and Southeast Asia to eradicate Bp."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "41 Environmental Sciences",
+            "4104 Environmental Management"
+        ],
+        "section_details": "Funding amount\nUSD 2,999,782\nFunding period\n2017\n31 Jan\n\u2010\n2020\n30 Jan",
+        "start_year": "2017",
+        "title": "Eco-environmental signatures of danger to identify melioidosis-endemic hotzones",
+        "tldr": "This research aims to identify and understand the environmental factors that contribute to the presence and virulence of the bacteria responsible for melioidosis, a dangerous disease. By studying the relationships between the bacteria and other species in various regions, the researchers hope to develop predictive and diagnostic tools to eradicate the bacteria from endemic areas.",
+        "top_keywords": [
+            "Eco-environmental signatures",
+            "Melioidosis",
+            "Endemic hotzones",
+            "Bp (Burkholderia pseudomallei)",
+            "Ecosystem species",
+            "Virulence",
+            "Disease incidence",
+            "Task 1-4",
+            "Metagenomic analysis",
+            "Biocontrol strategies"
+        ],
+        "units_of_assessment": [
+            "C14 Geography and Environmental Studies"
+        ]
+    },
+    {
+        "abstract": "A team led by UCLA will develop a unique and heretofore unrealized approach to cooling hypersonic leading edges that primarily exploits two synergistic phenomena: thermionic electron emission, and evaporative transpiration cooling by a molten oxide specifically selected for its low work function and hence highly effective thermionic emission. This synergistic approach could be potentially transformative in both the total cooling capacity and the possibility for actively controlling the cooling rate. However, the successful realization of these outcomes will require unraveling numerous unknowns, including thermophysical properties of the oxide across its phase space as well as its thermionic behavior at projected operating conditions. The team includes complementary, world-leading domain experts on these crucial topics, as well as partners that are well equipped to fabricate and field the technology toward maturation: aerospace heat transfer and mechanics of materials under extreme conditions; established manufacturer of high-temperature materials and devices for government and commercial applications; hypersonic reacting and ionized flow modeling; profiles and relevant platforms and thermal management architectures; and advanced, high-current thermionic materials and devices. The program with quantify and clarify critical issues early in the program with an aggressive test and modeling campaign that involves rapid development of basic fabrication processes, thermophysical property characterization, and thermionic emission testing of molten oxide.less",
+        "end_year": "2024",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "2,931,628",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8970476?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Timothy Fisher",
+        "key_highlights": [
+            "Development of a unique approach to cooling hypersonic leading edges",
+            "Utilization of thermionic electron emission and evaporative transpiration cooling",
+            "Potential for transformative impact on cooling capacity and control",
+            "Collaboration with world-leading experts and partners for successful realization of outcomes"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 2,931,628\nFunding period\n2020\n31 Mar\n\u2010\n2024\n30 Mar",
+        "start_year": "2020",
+        "title": "Dual-effect thermionic and transpiration ultra-high-flux cooling of leading edges",
+        "tldr": "UCLA is leading a team to develop a new cooling method for hypersonic leading edges using thermionic electron emission and evaporative transpiration cooling. This approach has the potential to greatly increase cooling capacity and allow for active control of cooling rate, but further research is needed to understand the properties of the selected oxide and its behavior under operating conditions. The team includes experts in relevant fields and will conduct a thorough testing and modeling campaign to advance the technology.",
+        "top_keywords": [
+            "Dual-effect",
+            "Thermionic",
+            "Transpiration",
+            "Ultra-high-flux",
+            "Cooling",
+            "Leading edges",
+            "Synergistic",
+            "Thermophysical properties",
+            "Hypersonic",
+            "Thermionic emission"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Funding is provided to address the problem of using reduced-order models for the description, understanding and prediction of atmospheric, oceanic and sea ice variability on time scales of 1-12 months and beyond.less",
+        "end_year": "2016",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,475,496",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7076937?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Ghil",
+        "key_highlights": [
+            "This grant is a continuation of a previous project, N00014-12-1-0911.",
+            "The focus of the grant is on using reduced-order models for atmospheric, oceanic, and sea ice variability.",
+            "The time scale of interest is 1-12 months and beyond.",
+            "The approach used is data-driven."
+        ],
+        "research_categories": [
+            "37 Earth Sciences",
+            "3708 Oceanography"
+        ],
+        "section_details": "Funding amount\nUSD 2,475,496\nFunding period\n2015\n12 Nov\n\u2010\n2016\n30 Sep\nResulting DOD publications\n40",
+        "start_year": "2015",
+        "title": "THIS GRANT IS A CONTINUATION OF N00014-12-1-0911 Extended-Range Prediction with Low-Dimensional, Stochastic Dynamic Models: A Data-driven Approach",
+        "tldr": "This grant aims to use data-driven approaches to develop low-dimensional, stochastic dynamic models for predicting atmospheric, oceanic, and sea ice variability on time scales of 1-12 months and beyond. It is a continuation of a previous project and focuses on extended-range prediction.",
+        "top_keywords": [
+            "Grant",
+            "Continuation",
+            "N00014-12-1-0911",
+            "Extended-Range Prediction",
+            "Low-Dimensional Models",
+            "Stochastic Dynamic Models",
+            "Data-driven Approach",
+            "Atmospheric Variability",
+            "Oceanic Variability",
+            "Sea Ice Variability"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Battery electrode materials are based traditionally on cationic redox processes with 3d transition metals being the most widely investigated. The anions that make up the rest of the material have generally been considered inactive and do not contribute to energystorage. Thus, utilizing redox processes of anions can lead to a potentially large increase in Li-ion battery capacity and energy density, helping to guide the development of next generation Li-ion battery materials. The overarching objective of the research isto use amorphous transition metal sulfides as the basis for obtaining electrode materials which exhibit both cationic and anionic redox. As our initial studies show, amorphous materials benefit from facile bond stretching and overall structural flexibility whichcan be traced to the greater free volume of an amorphous environment. The open architecture of the amorphous system enables the metal-ion coordination to change, which is likely to be a critical feature for the S-S bond breaking and formation processes which are involved in charge storage. To realize this goal, the research will address several fundamental questions regarding amorphous transition metal sulfides. This includes the role of covalency in achieving anion redox, the importance of short-range order in influencing redox reactions and Li-ion diffusion, and identifying compositions which exhibit the highest levels of anion redox. Another objective is to better understand the reasons that amorphous and crystalline transition metal sulfides with the same nominal composition exhibit different redox properties. The proposed research on amorphous transition metal sulfides is intended to be a coordinated program which combines synthesis, electrochemical characterization, synchrotron XAS and computational simulations. By having a critical mass of individual investigators with complementary strengths, we will be able to obtain fundamental understanding of amorphous transition metal sulfides and assess their ability to achieve significantly greater energy density through the combination of anion and cation redox processes. We expect the outcome of this project to not only provide a detailed understanding of anionic redox but also to identify compositions and charge storage mechanisms which lead to high performance battery materials. The potential impact ofthis research on the DoD is that it is directed at identifying new electrochemical materials aimed at improving lithium-ion and sodium-ion battery performance.Approved for Public Releaseless",
+        "end_year": "2027",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,400,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13539890?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Bruce Dunn",
+        "key_highlights": [
+            "The research aims to utilize anion redox processes in amorphous transition metal sulfides to increase Li-ion battery capacity and energy density.",
+            "The study will address fundamental questions about the role of covalency, short-range order, and composition in achieving anion redox in these materials.",
+            "The research will involve a coordinated program of synthesis, electrochemical characterization, synchrotron XAS, and computational simulations.",
+            "The expected outcome of the project is a better understanding of anionic redox and the identification of high-performance battery materials."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3406 Physical Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 2,400,000\nFunding period\n2023\n30 Jun\n\u2010\n2027\n29 Jun\nResulting DOD publications\n1",
+        "start_year": "2023",
+        "title": "Anion Redox in Amorphous Transition Metal Sulfides",
+        "tldr": "This research aims to utilize anion redox processes in amorphous transition metal sulfides to increase the capacity and energy density of Li-ion batteries. The study will address questions about covalency, short-range order, and composition in achieving anion redox. The research team will use a combination of synthesis, electrochemical characterization, and computational simulations to gain a better understanding of these materials and their potential impact on battery performance.",
+        "top_keywords": [
+            "Anion redox",
+            "Amorphous transition metal sulfides",
+            "Cationic redox",
+            "Li-ion battery",
+            "Energy density",
+            "Electrode materials",
+            "Covalency",
+            "Short-range order",
+            "Synchrotron XAS",
+            "Computational simulations"
+        ],
+        "units_of_assessment": [
+            "B08 Chemistry"
+        ]
+    },
+    {
+        "abstract": "Thin-film magnetic materials, such as yttrium iron garnet (YIG), are naturally nonlinear and dispersive in microwave regime, which can be utilized for RF signal-processing components such as frequency-selective limiters (FSL) or signal-to-noise enhancers (SNE). The state of the art in modeling RF magnetic components is significantly lagging components consisting only electric material with most commercial software being limited to modeling simple, linear material behaviors which are not representative of material response in actual hardware. Moreover, the intrinsic material properties are critically important such as the excitation of the internal spin waves through the exchange of the magnetic domains. These are important mechanisms contributing to power-dependent insertion loss and frequency-selective limitation observed in FSL and SNE. Modeling of such effects in a comprehensive way requires unifying of governing physics from material level in nanometer scales to component level in centimeter scales, where rigorous modeling of such physics spanning six orders of magnitude is impossible even with the fastest supercomputer in the world. In this project, UCLA and UMN researchers team up to attack this grand challenge through development of a multi-physics, multi-scale time-domain solver that can model the seven orders of magnitudes scale difference from nanometers to centimeters, including the physics from electromagnetic waves, acoustic waves to the nonlinear generation of dipole-exchange spin waves into one unified framework. The ultimate goal of the proposed effort is to provide a comprehensive and precise modeling solution for nonlinear magnetics. Furthermore, the program focuses on providing a design kit that is physically solid, computationally efficient, and conveniently implementable to commercial simulation software such as ADS. This later is achieved through innovative interpretations of the motions of magnetic spins and their mutual coupling, as well as comprehensive and accurate mathematical representations of the underlying physics. A compact model will be delivered as the outcome of this project that is capable of predicting the performances of magnetic components using equivalent circuits. This model for the first time enables designers to develop circuit architectures that will optimize FSL and SNE performance, and enables system designers to determine the impact of these devices would have on the overall system. Moreover, the model translates the complex magnetic behaviors into equivalent electrical behaviors, which facilitates the understanding of micro-magnetics and allows invention of novel magnetic devices.less",
+        "end_year": "2021",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "2,399,961",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826902?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Yuanxun Wang",
+        "key_highlights": [
+            "Development of a multi-physics, multi-scale time-domain solver to model nonlinear magnetics",
+            "Unification of governing physics from material level to component level",
+            "Creation of a compact model for predicting performance of magnetic components",
+            "Translation of complex magnetic behaviors into equivalent electrical behaviors for understanding and invention of novel magnetic devices"
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 2,399,961\nFunding period\n2017\n31 Jan\n\u2010\n2021\n29 Jun",
+        "start_year": "2017",
+        "title": "Modeling of Nonlinear Magnetics with A Multiscale, Unconditionally Stable Time-Domain Solver Unifying Electrodynamics, Elastodynamics and Spin Dynamics",
+        "tldr": "This research project aims to develop a comprehensive and precise modeling solution for nonlinear magnetic materials, including the physics from electromagnetic waves, acoustic waves, and spin dynamics. The ultimate goal is to provide a design kit that can be easily implemented in commercial simulation software and enable the optimization of magnetic components for improved performance. The project will also deliver a compact model that translates complex magnetic behaviors into equivalent electrical behaviors, allowing for the invention of novel magnetic devices.",
+        "top_keywords": [
+            "Nonlinear magnetics",
+            "Multiscale",
+            "Time-domain solver",
+            "Electrodynamics",
+            "Elastodynamics",
+            "Spin dynamics",
+            "Thin-film magnetic materials",
+            "RF signal-processing components",
+            "Nanometer to centimeter scale",
+            "Equivalent circuits"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Catalysis has become the key in solving challenges of developing new energy resources withimproved efficiency and sustainability wh\"ile dramatically reducing environmental impact. Inparticular, dramatically improved fuel cells catalysts are essential to enable th\"\"e conversion ofautomobiles from fossil energy based technologies to fuel cells. In particular, polymer electrolytemembrane fuel ce\"lls (PEMFC) using hydrogen as a fuel could provide alternative clean powersources for zero-emission transportation and stationery a\"pplications. In addition, fuel cells cangenerate power in the range of mW to MW. This versatility makes them suitable for a broad r\"\"angeof applications, such as portable devices and vehicles, helpful in increasing human and systemefficiencies for naval operation\"\".However, the slow kinetics of the oxygen reduction reaction (ORR) at the cathode combinedwith the high cost of Pt catalysts, has\" made the costs far too high for broad dissemination of fuelcells. While due to intensive efforts various catalysts have been devel\"oped and demonstrated greatpotential for fuel cell application, the state of the art designer catalysts are typically evaluated wit\"\"hthe half-cell, typically rotating disk electrode (RDE) setup, setting. The full cell based evaluations,challenged primarily by sc\"ale-up synthesis of these designer catalysts and correspondingly furtheroptimization and design of catalytic materials targeting pr\"actical setting, are critically needed tomove the field forward but severely lacking. To effectively address these challenges and m\"\"ove thefuel cell technology critically forward, this project bring together an interdisciplinary teamencompassing four synergistic\" Thrust areas. Thrust 1: Design and synthesis of nanoscale catalystwith atomically precise composition and intricate structure for\" exceptional activity and chemicalrobustness, in both experimental and practical settings. (Huang). Thrust 2: Design, synthesis and\"assembly of unique carbon support that can facilitate mass transport with fuel cell catalyst layerand explore potentially noble me\"tal free catalysts. (Duan) Thrust 3: Atomic scale characterization,understanding and correlation between the catalyst composition,\" structure and the chemicalfunctionalities under fuel cell operation conditions. (Jia). Thrust 4: Use multiscale models tocapture and understand the fundamental nanoscale interactions at the level of quantum mechanics(limited to 100s of atoms) through the range of 10 to 100s of nm constituting the important scalesunderlying the fundamental performance determinant to the scale of optimizin\"g the fuel cellperformance. This will enable the design of new materials and approaches, and enable theexperiments to focus on the\"\" best predicted candidates. (Goddard)Together, we expect these efforts will contribute significantly to the development of full cel\"\"lsthat can provide performance far exceeding current technology, and provides much more accurateand practical information to guide\" the further development and optimization of novel catalyticmaterials for actual device applications. This project will also contribute to the education andtraining of the next generation of individuals ready to meet the challenges of the 21st centuryincluding maintaining a competitive advantage for US energy safety.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,100,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7442222?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Yu Huang",
+        "key_highlights": [
+            "The research grant aims to develop advanced and highly efficient cells using designer catalysts.",
+            "The focus is on improving fuel cell catalysts to enable the conversion of automobiles to fuel cells.",
+            "The project will bring together an interdisciplinary team to address challenges in scaling up and optimizing catalysts for practical use.",
+            "The goal is to develop full cells with significantly improved performance and contribute to the education and training of individuals in the field."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 2,100,000\nFunding period\n2018\n25 Jan\n\u2010\n2021\n27 Feb\nResulting DOD publications\n44",
+        "start_year": "2018",
+        "title": "Advanced Highly Efficient Cells Based on Designer Catalysts",
+        "tldr": "This research grant aims to develop advanced and highly efficient fuel cells through the use of designer catalysts. The interdisciplinary team will focus on designing and synthesizing nanoscale catalysts, understanding their composition and structure, and using multiscale models to optimize their performance. The goal is to create fuel cells that surpass current technology and contribute to US energy safety.",
+        "top_keywords": [
+            "Catalysis",
+            "Fuel cells",
+            "Designer catalysts",
+            "Efficiency",
+            "Sustainability",
+            "Polymer electrolyte membrane fuel cells (PEMFC)",
+            "Oxygen reduction reaction (ORR)",
+            "Nanoscale catalysts",
+            "Atomic scale characterization",
+            "Multiscale models"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Octopus Neuromuscular-Inspired Autonomous Arms for Soft Robots with adaptive MotionsWe propose to borrow the octopus~ wisdom used in its neuromuscular distributed sensing and actuation to design, rapid prototype and control robust, energy-efficient, autonomous soft arms. The soft arms composed of force-sensitive hydrogel ~muscles~ with an embedded silver ~neuron~ network can adaptively interact with local environment by local sensing and continuous deformation. The dynamic control via built-in local sensing-actuation feedback loop enablesadaptive reconfiguration to perform high-level tasks - grasping, twisting and propulsion without central control.We propose to create a framework for rapid prototyping and control of robust, energyefficient, autonomous soft tentacles with distributed neuromuscular-inspired sensing and actuation. The tentacles will be capable of continuous deformation through the use of hydrogel~muscles~ and distributed sensing through the use of embedded silver ~neuron~ interconnections. Such a unique octopus-inspired design avoids multiplexed electronic units and high energy input. In addition, the proposed design forms a built-in local ~sensing-actuation~ feedback loop to achieve adaptive reconfiguration and perform high-level tasks such as locomotion and reversible adhesion without direct control from a central nervous system. Our interdisciplinary team consists of a biologist with specialization in functional anatomy (Fisher), a material scientist with specialization in stimuli-responsive polymers and multi-material 3D printing (He), a bio-inspired roboticist (Marvi), a specialist in design and rapid prototyping (Aukes), a specialist in the dynamics and scalable control of bio-inspired robotic swarms (Berman), and a specialist in control of PDEs and infinite-dimensional systems (Peet). To achieve the proposed outcome, our team will execute the following proposed tasks: Biology (Aim 1) We will characterize theneuromuscular structure of octopus tentacles and investigate the roles of distributed sensing, dynamics, and control in their adaptive control-based motions; Material Science (Aim 2) We will fabricate hybrid polymer-based flexible structures using stimuli-responsive hydrogel ~muscles~ with embedded metallic ~neurons~ via a novel additive-manufacturing,stereolithographic 3D-printing technique, which can print both polymeric and metallic materials into highly complex architectures at resolution of up to 3 ~m; Distributed Sensing, Dynamics, and Control (Aims 3-4) We will develop a PDE-based control-theoretic representation of tentacle motion and environmental interaction which is inherently infinite-dimensional and isbased on anatomical studies of octopus tentacles. We will design scalable, consensus-based localfeedback strategies for autonomous performance of high-level tasks such as locomotion in unstructured environments and optimal switchable adhesion. Design Integration (Aim 5) We will design a robust framework for integration of multiple tentacles with a central mantle for high-level communication of commands. We will conduct computational simulations to optimize the system integration. We will also investigate the ways in which material and geometric design considerations of this hybrid material influence the actuation and control capabilities of a design. This work will provide the foundations for soft robotic applications that require safe operation close to humans and resilience to contact with obstacles or falls, as well as improved, compliantsensing surfaces for grasping, manipulation, propulsion, and prosthetics applications.less",
+        "end_year": "2017",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,098,880",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078091?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Ximin He",
+        "key_highlights": [
+            "The research grant is focused on developing octopus-inspired autonomous arms for soft robots with adaptive motions.",
+            "The arms will be composed of force-sensitive hydrogel muscles and embedded silver neuron networks for distributed sensing and actuation.",
+            "The team consists of experts in biology, material science, bio-inspired robotics, design and rapid prototyping, and control systems.",
+            "The proposed tasks include characterizing the neuromuscular structure of octopus tentacles, fabricating hybrid polymer-based flexible structures, developing control strategies for autonomous performance, and designing a framework for integrating multiple tentacles."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "46 Information and Computing Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 2,098,880\nFunding period\n2016\n8 Dec\n\u2010\n2017\n31 Mar\nResulting DOD publications\n53",
+        "start_year": "2016",
+        "title": "BRC FY17 Topic 5 Octopus-Inspired Autonomous Arms for Soft Robots with Adaptive Motions",
+        "tldr": "This research grant aims to design and control soft robotic arms inspired by the neuromuscular structure of octopus tentacles. The arms will use hydrogel muscles and embedded silver neurons for distributed sensing and actuation, allowing for adaptive motions and high-level tasks without central control. The interdisciplinary team will also develop a framework for integration and optimization of the arms.",
+        "top_keywords": [
+            "Octopus-inspired",
+            "Autonomous arms",
+            "Soft robots",
+            "Adaptive motions",
+            "Neuromuscular-inspired",
+            "Distributed sensing",
+            "Rapid prototyping",
+            "Control",
+            "Energy-efficient",
+            "Hydrogel muscles"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Overview and problem statement: This project will create a new comprehensive research field of one-dimensional (1D) quantum materials consisting of individual atomic chains and few-chain threads of van-der-Waals (vdW) materials, and composites comprised of bulk polymer matrix with 1D atomic chain fillers. Thereby, it will shift the current paradigm by taking one step down in dimensionality from 2D vdW materials and creating truly 1D quantum materials. The proposed research focuses on unfettered, beyond-conventional approaches to the discovery of materials that exhibit previously unattainable functionalities. Limited experimental work is available onlyfor bundles of atomic chains of such 1D vdW materials, suggesting extraordinary electrical current densities and unusual electron-phonon coupling. Computational machine learning studies indicate that there are hundreds of vdW materials with true-1D or quasi-1D crystalline structures consisting of 1D atomic threads weakly bound in bundles. Exfoliated to a few-chain atomic thread, these materials become genuinely quantum: owing to their atomic scale dimensions and atomically sharp interfaces, the electron states are quantumconfined; in addition, many quasi-1D vdW materials are strongly-correlated quantum systems, which reveal non-trivial quantum phenomena, such as charge-density-wave (CDW) condensate phases, magnetic phases, superconductivity, strong spin-orbit coupling, and non-trivial topology. Project goals and objectives: We propose to perform a comprehensive study of 1D quantum materials with the goals of understanding the limits of downscaling of 1D vdW crystals; fine-tuning electron and phonon transport, quasi-particle interactions; and controlling strongly-correlated quantum phenomena in 1D materials. We anticipate discoveries of unique electronic, thermal, and optical properties of 1D quantum materials, resulting from the ultimate quantum confinement of elemental excitations and collective quantum states. We will apply perspectives from physics, chemistry, materials science, and engineering to provide high-payoff research results. Project objectives include: 1) exfoliating 1D vdW materials down to the ultimate single-atomic chain limit; 2) determining the electrical, thermal, magnetic, and optical characteristics of 1D materials; 3) establishing the electrical control of these characteristics; and 4) understanding and engineering the properties of quantum composites comprised of the polymer matrix and 1D vdWfillers. Innovative technical approaches include nanofabrication of capped and suspended 1D vdW devices to study single quantum phase-slip events; electronic \"noise spectroscopy\" for monitoring CDW and magnetic phase transitions; Brillouin-Mandelstam-Raman spectroscopy of confined elemental excitations; polarization photoluminescence spectroscopy of excitons; thermal measurements of heat conduction properties; and electromagnetic testing of dielectric constants of composites with 1D vdWfillers. The experimental research will be supported by the world-class ab-initio theory. Anticipated project outcomes and impact on DoD capabilities: The long-term outcomes of this project will create a foundation for the new class of 1D quantum materials and composites based on such materials withnumerous potential applications to DoD scientific priorities and operational needs. The proposed 1D vdW quantum materials will leadto revolutionary innovations in electronics, sensors, and energy conversion, areas that are of importance to DoD. These materials will impact the DoD capabilities in low-power memory and logic, nanoelectronics, antenna design, and communications, as well as energy conversion and thermal management. Additionally, this project will educate and train researchers for the defense workforce at a highly-ranked research-intensive institution with unique experimental facilities.less",
+        "end_year": "2026",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,812,636",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13685561?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Alexander Balandin",
+        "key_highlights": [
+            "Creation of a new research field of one-dimensional quantum materials",
+            "Focus on discovering materials with previously unattainable functionalities",
+            "Anticipated outcomes include potential applications in electronics, sensors, energy conversion, and thermal management",
+            "Use of innovative technical approaches and world-class ab-initio theory to support experimental research"
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 1,812,636\nFunding period\n2023\n30 Sep\n\u2010\n2026\n29 Sep",
+        "start_year": "2023",
+        "title": "One-Dimensional Quantum Materials",
+        "tldr": "This research project aims to create a new field of one-dimensional quantum materials, which have potential applications in electronics, sensors, and energy conversion. The project will involve experimental and theoretical studies to understand the properties and potential uses of these materials. The ultimate goal is to develop innovative technologies that can benefit the Department of Defense in areas such as low-power memory, nanoelectronics, and energy conversion.",
+        "top_keywords": [
+            "One-dimensional quantum materials",
+            "Van-der-Waals materials",
+            "Atomic chains",
+            "Quantum confinement",
+            "Strongly-correlated quantum phenomena",
+            "Nanofabrication",
+            "Electrical control",
+            "Composite materials",
+            "Ab-initio theory",
+            "DoD capabilities"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Non-von Neumann computing systems, especially the so-called brain-inspired systems (also called cognitive and neuromorphic systems), have potential to be game changing in computing capability per unit power. The underlying technologies of computer chips have advanced to the point that functional neuromorphic architectures of increasing complexity are being reported; continuing evolution of technologies is expected to expand the practicality and functional levels of neuromorphic architectures. Such computational capability at very low power levels has tremendous potential benefit for DoD applications. A great deal is known about the response of semiconductor technologies (esp. silicon-based) to radiation; somewhat less so for emerging technologies (non-silicon, 2D materials, non-charge based memories, etc.), but in many cases is the subject of ongoing research. However, very little is known about the impact of radiation environments on the robustness of neuromorphic circuit architectures implemented in advanced technologies. This multi-disciplinary project will bring together researchers with expertise in non-conventional computer architecture, device engineering, novel circuit design and radiation effects, and leverage unique access to hardware and simulation capabilities, to advance the understanding of the radiation science of this computing paradigm. Moving forward, novel hardware/circuit specifically designed and optimized for neuromorphic computing are required to unlock the ultra-low power and massively parallel processing power of such brain-inspired systems. Among the many options, novel non-volatile mutlilevel memory elements are essential for the construct of artificial synapses. A novel charge trapped transistors (CTT) and the associated artificial synapse circuit are currently being developed at UCLA in collaboration with GlobalFoundries. In this program, we will examine the radiation effects on these CTT and quantitatively examine the effects of radiation on the neuromorphic computing architecture realized using these novel memory elements.less",
+        "end_year": "2022",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "1,749,925",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7075628?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Subramanian Iyer",
+        "key_highlights": [
+            "Brain-inspired computing systems have potential to greatly increase computing capability per unit power.",
+            "The advancement of computer chip technologies is expected to expand the practicality and functional levels of neuromorphic architectures.",
+            "The impact of radiation environments on the robustness of neuromorphic circuit architectures is not well understood.",
+            "This multi-disciplinary project aims to advance the understanding of the radiation science of brain-inspired computing and develop novel hardware and circuit designs for neuromorphic systems."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "46 Information and Computing Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 1,749,925\nFunding period\n2017\n17 Apr\n\u2010\n2022\n16 Apr",
+        "start_year": "2017",
+        "title": "Radiation Effects of Brain Inspired Computing Systems",
+        "tldr": "This research grant aims to study the effects of radiation on brain-inspired computing systems, which have the potential to greatly increase computing capabilities while using minimal power. The project will bring together experts in computer architecture, device engineering, circuit design, and radiation effects to advance the understanding of this computing paradigm. Specifically, the team will examine the impact of radiation on novel non-volatile memory elements essential for the construction of artificial synapses in brain-inspired systems.",
+        "top_keywords": [
+            "Radiation effects",
+            "Brain-inspired computing systems",
+            "Non-von Neumann computing systems",
+            "Neuromorphic architectures",
+            "Semiconductor technologies",
+            "Radiation environments",
+            "Robustness",
+            "Novel circuit design",
+            "Non-volatile multilevel memory elements",
+            "Artificial synapses"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The University of California will develop haptics-enabled capabilities for field deployable mobile manipulation robots that support human-in-the-loop missions. The university will combine multimodal sensing and machine learning, informed by human strategies and granular media research, to develop new capabilities for remote human operators of field deployable mobile manipulation robots. The university will identify strategies used by humans in haptic search and retrieval tasks within granular media; identify key features in visual, tactile, and proprioceptive feedback that distinguish finger-object contact with granular media and objects, and develop a computer-based interface that can support high-level decision-making by remote human operators of bimanual robot grippers, wrists, and arms for haptic search and retrieval tasks within granular media.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,645,193",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7077296?order=funding&or_facet_research_org=grid.19006.3e&not_facet_funder=grid.496791.4",
+        "investigator": "to Veronica Santos",
+        "key_highlights": [
+            "Development of haptics-enabled capabilities for field deployable mobile manipulation robots",
+            "Utilization of multimodal sensing and machine learning",
+            "Incorporation of human strategies and granular media research",
+            "Creation of a computer-based interface to support high-level decision-making by remote human operators"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "4608 Human-Centred Computing"
+        ],
+        "section_details": "Funding amount\nUSD 1,645,193\nFunding period\n2016\n31 May\n\u2010\n2020\n30 Sep\nResulting DOD publications\n8",
+        "start_year": "2016",
+        "title": "Haptic search and retrieval of objects buried within granular media",
+        "tldr": "The University of California is developing haptic capabilities for mobile robots to assist in human-in-the-loop missions. This will involve combining sensing and machine learning techniques to mimic human strategies and improve remote operation of robots in tasks involving searching and retrieving objects buried in granular media.",
+        "top_keywords": [
+            "Haptic search",
+            "Retrieval",
+            "Objects",
+            "Buried",
+            "Granular media",
+            "Mobile manipulation robots",
+            "Human-in-the-loop missions",
+            "Multimodal sensing",
+            "Machine learning",
+            "Bimanual robot grippers"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    }
+]

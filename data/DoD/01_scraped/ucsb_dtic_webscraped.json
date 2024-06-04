@@ -1,0 +1,792 @@
+[
+    {
+        "abstract": "?-Ga2O3 is the largest bandgap (~4.5 eV) semiconductor that can be grown directly from themelt in single crystal form. The ease of n-type doping with tetravalent cations, and a widevariety of bulk single crystal and epitaxial film growth techniques have triggered worldwideinterest in ?-Ga2O3. The predicted breakdown electric field (6-8 MV/cm) is higher than that ofGaN or SiC (~3 MV/cm), which when combined with electron mobility (predicted 250-350cm2/Vs) yields amongst the best figures of merit for power electronic devices. As a result, ?-Ga2O3 possesses transformative potential for not only power electron devices but also highfrequency devices, and deep UV optoelectronics.less",
+        "end_year": "2021",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "7,500,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7827168?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to James Speck",
+        "key_highlights": [
+            "?-Ga2O3 is a semiconductor with a large bandgap and can be grown in single crystal form.",
+            "It can be easily doped with tetravalent cations and has a wide variety of growth techniques.",
+            "It has a predicted breakdown electric field higher than other semiconductors, making it suitable for power electronic devices.",
+            "?-Ga2O3 has potential for use in high frequency devices and deep UV optoelectronics."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics"
+        ],
+        "section_details": "Funding amount\nUSD 7,500,000\nFunding period\n2018\n14 Aug\n\u2010\n2021\n13 Aug\nResulting DOD publications\n156",
+        "start_year": "2018",
+        "title": "(MURI 18) Gallium Oxide Materials Science and Engineering GAME",
+        "tldr": "The research grant focuses on studying gallium oxide, a semiconductor with a large bandgap and high breakdown electric field, making it promising for power electronic and high frequency devices. Its ease of doping and various growth techniques have sparked global interest.",
+        "top_keywords": [
+            "Gallium Oxide",
+            "Materials Science",
+            "Engineering",
+            "Bandgap",
+            "Semiconductor",
+            "Single crystal",
+            "Doping",
+            "Breakdown electric field",
+            "Power electronic devices",
+            "Optoelectronics"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The objective of this proposal is to characterize expertise in terms of the changes within and between the neural systems that support decision-making and the closely related process of habit formation (effective action selection), the physical control of skilled action (reliable execution) and the adaptive control of stress responses (resilience). Tasking to acheive the stated objective of this proposal will include a suite of experimental tools applied to humans and non-human primate (NHP) subjects and computational approaches applied to the resulting multimodal datasets. Proposers hypothesize that integration across the decision-making, physical control of skilled action and adaptive control of stress neural systems can be observed as a function of training at the anatomic, neural, behavioral and computational levels of analysis. Proposers plan to combine commonly used neural and physiological sensing modalities (e.g., single unit and LFP electrophysiology, fMRI, heart rate, skin conductance, and pupillometry), and recently developed methods (fast scan cyclic voltammetry for dopamine neurotransmitter sensing and neurotropic viral methodologies) while subjects participate in a longitudinal approach-avoidance decision-making learning paradigm. The longitudinal behavioral study will be combined with neurochemical detection of the neurotransmitter dopamine, functional neuroimaging, electrophysiology, and cortical mapping of stress responses in decision-making neural networks in non-human primates and humans. This approach enables a systematic study of various neural contributors to the process of skill learning entailing theoretically well-grounded and hypothesis-driven experiments to assess the contribution of these various factors to learning. The proposed approach also includes a strong data analysis and modeling effort to help guide the design and interpretation of the experiments. The proposal also emphasizes the implementation of network control theory and less traditional methods from \"pure\" mathematics, such as algebraic topology, to identify neural networks controlling brain network dynamics and neurophysiological mechanisms responsible for skill learning.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "6,250,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7080667?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Scott Grafton",
+        "key_highlights": [
+            "The objective of the research grant is to study expertise in terms of changes within and between neural systems related to decision-making, habit formation, physical control of skilled action, and adaptive control of stress responses.",
+            "The research will use a combination of experimental tools and computational approaches applied to both human and non-human primate subjects.",
+            "The study will involve longitudinal behavioral research combined with neurochemical detection, functional neuroimaging, electrophysiology, and cortical mapping of stress responses.",
+            "The research will also utilize network control theory and less traditional mathematical methods to identify neural networks and mechanisms responsible for skill learning."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "52 Psychology",
+            "5202 Biological Psychology",
+            "Research, Condition, and Disease Categorization",
+            "Basic Behavioral and Social Science",
+            "Behavioral and Social Science",
+            "Bioengineering",
+            "Mental Health",
+            "Neurosciences",
+            "Health Category (HRCS)",
+            "Neurological",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning"
+        ],
+        "section_details": "Funding amount\nUSD 6,250,000\nFunding period\n2016\n31 Aug\n\u2010\n2021\n30 Aug\nResulting DOD publications\n2",
+        "start_year": "2016",
+        "title": "Neural Foundations of Expertise Based on Optimal Decision-making, Physical Control and Responses to Stress",
+        "tldr": "This research grant aims to study the neural foundations of expertise by examining changes in decision-making, physical control, and stress response systems. The study will use a combination of experimental tools and computational approaches to analyze data from humans and non-human primates. The goal is to understand how these neural systems work together to contribute to skill learning.",
+        "top_keywords": [
+            "Expertise",
+            "Optimal decision-making",
+            "Physical control",
+            "Stress responses",
+            "Neural systems",
+            "Habit formation",
+            "Skilled action",
+            "Resilience",
+            "Neurochemical detection",
+            "Network control theory"
+        ],
+        "units_of_assessment": [
+            "A04 Psychology, Psychiatry and Neuroscience"
+        ]
+    },
+    {
+        "abstract": "This proposal aims to demonstrate and comprehensively explore nonabelian anyons via an interdependent investigation of solid-state materials and ultracold atoms. Success would constitute a landmark basic-science achievement and mark a critical step towards new quantum technologies, as nonabelian anyons form the basis of fault-tolerant quantum computing architectures. Nonabelian excitations arise in two distinct contexts. First, they can appear \u00d4intrinsically\u00d5 as quasiparticles in strongly correlated topological phases of matter, notably fractional quantum Hall states and quantum spin liquids. Second, nonabelian statistics can appear \u00d4extrinsically\u00d5 from defects engineered in comparatively simple 2D abelian topological phases. In either case, a successful approach must feature widely tunable microscopic interactions, enabling global control over the phase diagram and local control over quasiparticles and defects. Recent advances pioneered by our team in the control of ultra-cold atoms and van der Waals heterostructures provide a timely opportunity to engineer both abelian and nonabelian anyons in conceptually novel and experimentally accessible configurations. Our proposed efforts utilize the shared virtues of cold atoms and van der Waals heterostructures\u00d1widely tunable interactions and physical geometries\u00d1while leveraging the special advantages of each platform, namely graphene\u00d5s unique electronic structure and the ability to tune microscopic cold-atom Hamiltonians with time-dependent potentials. We will develop three experimental avenues to nonabelian physics, focusing on the most promising cold-atom and solid-state candidates: realizing intrinsic nonabelian ground states, engineering synthetic nonabelian defects via Cooper pairing, and creating related defects by purely geometric means. Our general approach is to develop ground states proximal to nonabelian states, and then induce nonabelian behavior using tunable coupling between systems, introduction of defects, or periodic modulation. An important feature of the proposed work is the mutually complementary nature of our solidstate and cold-atom approaches. As an example, cold atoms straightforwardly realize disorder-free systems but often suffer from relatively high temperatures, while solid-state systems can be easily cooled but preclude total control over sample disorder. Even as we advance both fields through innovations in atomic cooling and fabrication of ultra-clean heterostructures, our joint effort will provide ample opportunity for reciprocal quantum emulation: atomic systems can simulate anyonic signatures in disordered solid-state systems using tunable disorder, while finite-temperature effects can be controllably simulated in solid-state systems. In many cases, our proposed platforms admit new probes that have never been applied to anyonic systems, including spatially resolved transport, thermodynamics, and spectroscopic measurements\u00d1facilitating an unprecedented characterization of nonabelian anyons not possible in either setting by itself. PUBLICLY RELEASABLEless",
+        "end_year": "2023",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "6,250,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826289?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Andrea Young",
+        "key_highlights": [
+            "The proposal aims to explore nonabelian anyons through an investigation of solid-state materials and ultracold atoms.",
+            "Success in this research would be a significant achievement in basic science and a step towards new quantum technologies.",
+            "The approach will utilize the tunable interactions and physical geometries of both cold atoms and van der Waals heterostructures.",
+            "The research will focus on three experimental avenues: realizing intrinsic nonabelian ground states, engineering synthetic nonabelian defects, and creating related defects through geometric means."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5102 Atomic, Molecular and Optical Physics",
+            "5104 Condensed Matter Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 6,250,000\nFunding period\n2017\n31 Jul\n\u2010\n2023\n30 Mar\nResulting DOD publications\n10",
+        "start_year": "2017",
+        "title": "Abelian Bridge to Non-Abelian Anyons in Ultra-Cold Atoms and Graphene",
+        "tldr": "This research grant aims to explore and demonstrate nonabelian anyons through the use of solid-state materials and ultracold atoms. The team will focus on three experimental avenues to achieve this, utilizing the unique advantages of both platforms. The complementary nature of the approaches will allow for reciprocal quantum emulation and new probes to characterize nonabelian anyons.",
+        "top_keywords": [
+            "Nonabelian anyons",
+            "Ultra-cold atoms",
+            "Graphene",
+            "Solid-state materials",
+            "Quantum computing",
+            "Topological phases of matter",
+            "Van der Waals heterostructures",
+            "Microscopic interactions",
+            "Defect engineering",
+            "Quantum emulation"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "Large scale dynamical systems (e.g. many nonlinear coupled differential equations) can often be summarized in terms of only a few state variables (a few equations), a trait that reduces complexity and facilitates exploration of behavioral aspects of otherwise intractable models. High model dimensionality and complexity makes symbolic, pen\u00d0and\u00d0paper model reduction tedious and impractical, a difficulty addressed by recently developed frameworks that computerize reduction. Symbolic work has the benefit, however, of identifying both reduced state variables and\u00c9less",
+        "end_year": "2022",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "6,250,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826266?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Igor Mezic",
+        "key_highlights": [
+            "Development of data-driven operator theoretic schemes",
+            "Application to prediction, inference, and control of systems",
+            "Use of few state variables to reduce complexity of large scale dynamical systems",
+            "Comparison of computerized reduction methods to traditional symbolic methods"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4007 Control Engineering, Mechatronics and Robotics"
+        ],
+        "section_details": "Funding amount\nUSD 6,250,000\nFunding period\n2017\n31 Jul\n\u2010\n2022\n30 Jul\nResulting DOD publications\n3",
+        "start_year": "2017",
+        "title": "From Data-Driven Operator Theoretic Schemes to Prediction, Inference, and Control of Systems",
+        "tldr": "This research aims to develop data-driven methods for reducing the complexity of large-scale dynamical systems, making it easier to analyze and control their behavior. This will be achieved through computerized model reduction techniques, which can identify key state variables and simplify the system without the need for manual calculations.",
+        "top_keywords": [
+            "Data-driven",
+            "Operator theoretic schemes",
+            "Prediction",
+            "Inference",
+            "Control",
+            "Systems",
+            "Dynamical systems",
+            "Nonlinear",
+            "Model reduction",
+            "Complexity"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This Multi-University Research Initiative will advance the development of the Network Science of Teams by creating Quantitative Network-based Models of Adaptive Team Behavior. The overarching contribution of this research is to build quantifiable infonnative models of team behavior as dynamical systems interacting over multiple networks, develop rigorous models that relate interaction patterns and network evolution to task performance, break new ground in the learning of optimal design of teams, scaling teams to complex tasks, and advancing social science theories of team performance. This research will produce methods to optimize team performance under different contexts and resource constraints. The research team will identify bottom-up approaches for improving team performance. They will identify meso-level approaches to get teams to adapt and increase their robustness. And finally, they will develop 'top-down' strategies for effectively assigning individuals to teams, and teams to tasks. The proposed effort brings together seven academics from five universities and pulls together an excellent balance of multidisciplinary scholars from sociology, cognitive and social psychology, health and behavioral sciences, computer science, statistics, controls and dynamical systems, and network science. Thrust 1 (teams as networks of interacting entities) will model teams as semantically-labeled multilevel networks with attributes on nodes, edges, and subgroups and these conceptual models will be experimentally validated; develop statistical models of team performance as information flows; and examine the relationship between influence networks, collective intelligence, task perfonnance, and robustness and optimization. Thrust 2 (analysis and models of dynamic team behavior) will examine the perfonnance of teams on a sequence of tasks. They will examine changes in social influence networks resulting from repeated tasks and examine team adaptability using methods from computational learning and data-driven optimization. Thrust 3 (network science of teams-of-teams) will examine the scalability of teams and tasks. This thrust will consider how to decompose a complex task into subtasks, the effect of inter-task dependencies, and how to assign teams to such tasks.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "6,249,506",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7080338?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Ambuj Singh",
+        "key_highlights": [
+            "The research grant aims to develop quantitative network-based models of adaptive team behavior.",
+            "The research team consists of seven academics from five universities with a multidisciplinary background.",
+            "The research will focus on modeling teams as networks, analyzing dynamic team behavior, and examining the scalability of teams and tasks.",
+            "The ultimate goal of the research is to optimize team performance under different contexts and resource constraints."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4608 Human-Centred Computing",
+            "Research, Condition, and Disease Categorization",
+            "Behavioral and Social Science",
+            "Networking and Information Technology R&D (NITRD)"
+        ],
+        "section_details": "Funding amount\nUSD 6,249,506\nFunding period\n2015\n14 Sep\n\u2010\n2020\n13 Sep",
+        "start_year": "2015",
+        "title": "QUANTA: Quantitative Network-based Models of Adaptive Team Behavior",
+        "tldr": "This research grant aims to develop quantitative network-based models of adaptive team behavior, with a focus on understanding the relationship between team interaction patterns, network evolution, and task performance. The research team will use multidisciplinary approaches to optimize team performance and identify strategies for effectively assigning individuals and teams to tasks.",
+        "top_keywords": [
+            "Quantitative Network-based Models",
+            "Adaptive Team Behavior",
+            "Network Science of Teams",
+            "Task Performance",
+            "Optimal Design",
+            "Social Science Theories",
+            "Team Performance",
+            "Resource Constraints",
+            "Multidisciplinary Scholars",
+            "Network Science"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Metallic materials are foundational components in a vast array of navalsystems, including ships, submarines, sea-based aircraft and hypersonic vehicles. While some metallic alloy systems are perceived as mature, new computational methodologies, emerging informatics tools and new high throughput experimental innovations are greatly expanding the scope for discovery and implementation of new alloys for future generations of advanced engineering components. Most recently, multi-principal element (MPE) alloys have emerged as a promising new class of advanced metallic materials. With five or more elements present in nondilute quantities, exceptional properties (strength, toughness, magnetization, fatigue endurance) have been observed, though mostly in small quantities of material that are far from optimized compositionally or structurally. A lack of fundamental understanding of the mechanistic origins of exceptional MPE properties, thought originally to be due to high configurational entropy, remains as a major barrier. Critical gaps in the computational and experimental infrastructure for exploration of the extraordinary large compositional design space also strongly inhibit progress.The overarching goal of this proposed effort is to revolutionize our ability todesign, explore and fundamentally understand the processing, properties andenvironmental behavior of refractory body centered cubic (bcc) MPE alloys.Compared to face centered cubic (fcc) MPE systems based on Ni, Fe and Co, farfewer investigations exist on refractory MPE alloys comprised of mixtures of higher temperature metallics, such as Ta, W, Nb, Mo, Hf. While refractory MPEs promise high strength, in combination with high melting temperature, the tendency for brittle fracture at low temperature, the difficult processing paths, and the breadth of the unexplored compositional space, make discovery of new compositions via a purely experimental approach completely prohibitive. To succeed in this endeavor, we have brought together an interdisciplinary, multi-institutional team, called MPE.EDU. The proposed MPE.EDU team has a long track record of successful collaboration and deep expertise in metallic materials and integrated computational materials engineering from UCSB, UCSD and UVa, supported by collaborations with GE, ATI Specialty Alloys and Citrine Informatics. Together, MPE.EDU will launch new computational, high throughput experimental and informatics approaches, and integrate these tools to 1) explore the vast refractory MPE compositional space and 2) build the needed fundamental understanding of the properties of this new class of materials.The MPE.EDU team specifically aims to: (1) develop and deploy acomputational infrastructure complemented with combinatorial approaches forexploration of the MPE refractory alloy space; (2) simultaneously build open-source databases for refractory MPEs; (3) employ unique processing approaches for MPE synthesis; (4) integrate emerging computational and experimental approaches to understand the unique aspects of dislocation motion, diffusion and mechanical behavior in MPEs and; (5) address fundamental issues underpinning the strong influence of interstitial elements on mechanical behavior and their interplay with oxidation. With extensive experience in alloy design and integrated computational material science and engineering, MPE.EDU will remove empiricism from the design process and lay the foundation for rapid MPE alloy discovery and development.less",
+        "end_year": "2022",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "5,400,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7674274?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Tresa Pollock",
+        "key_highlights": [
+            "The research grant is focused on exploring and understanding multi-principal element (MPE) alloys for use in advanced engineering components.",
+            "The team, called MPE.EDU, consists of experts from multiple institutions and industries, with a track record of successful collaboration.",
+            "The goal of the research is to develop new computational, experimental, and informatics approaches to explore the vast compositional space of refractory MPE alloys and gain a fundamental understanding of their properties.",
+            "The team aims to remove empiricism from the alloy design process and lay the foundation for rapid discovery and development of MPE alloys."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 5,400,000\nFunding period\n2018\n31 May\n\u2010\n2022\n30 May\nResulting DOD publications\n32",
+        "start_year": "2018",
+        "title": "Multi-Principal Element Alloys: Exploration, Design and Understanding (MPE.EDU)",
+        "tldr": "The MPE.EDU team aims to revolutionize the design and understanding of multi-principal element (MPE) alloys, a promising new class of advanced metallic materials. Through the use of computational methodologies, informatics tools, and high throughput experimental innovations, they will explore the vast compositional space and build fundamental understanding of MPE properties. This will lead to the rapid discovery and development of new MPE alloys for advanced engineering components.",
+        "top_keywords": [
+            "Multi-principal element alloys",
+            "Computational methodologies",
+            "High throughput experimental innovations",
+            "Refractory body centered cubic alloys",
+            "Combinatorial approaches",
+            "Open-source databases",
+            "Alloy design",
+            "Integrated computational material science and engineering",
+            "Interstitial elements",
+            "Rapid alloy discovery and development"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "N-polar Nitrogen-polar Gallium Nitride deep recess high electron mobility transistors have demonstrated record high power density with high efficiency in the W-band frequency range \u2013 over double the power density reported from other technologies. This achievement is thanks to simultaneous achievement of three factors: high breakdown voltage with dispersion well-controlled, high large signal current swing, and high gain. Nitrogen-polar devices have also demonstrated impressive linearity at 10 GHz as determined from the OIP3 to DC power ratio. These achievements will be leveraged as a starting point to significantly improve the power density, efficiency, and linearity at 30 GHz. The improvements will stem from a combination of increased device voltage swing and current swing at 30 GHz large signal conditions, as well as a method to increase the intrinsic linearity of the device. Those improvements will be based on improved epitaxy and new device processes and layout. Power cells with high absolute power will also be demonstrated. The metrics will be characterized by single-tone and two-tone load pull at the wafer level. These devices today seem to have good OIP3 to DC power ratio due to the device configuration. Further improvements to this linearity metric with simultaneous low noise figure will be achieved by a combination of reduction of the intrinsic nonlinearity, plus a novel incorporation of nonlinearity cancellation methods. These methods will be guided by experimental data and nonlinear device models, and realized by improvements to epitaxy in combination with appropriate device layout and processes. The device linearity will be characterized by two-tone load pull at the wafer level. Noise will be characterized by swept frequency noise parameters measured at the wafer level. The improvements to the device which are anticipated under this program will be beneficial for a wide range of transmitter and receiver applications.devices for ultra-high power and linearity at millimeter-waveless",
+        "end_year": "2023",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "3,617,720",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7153581?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Umesh Mishra",
+        "key_highlights": [
+            "N-polar Nitrogen-polar Gallium Nitride deep recess high electron mobility transistors have demonstrated record high power density with high efficiency in the W-band frequency range.",
+            "Nitrogen-polar devices have also demonstrated impressive linearity at 10 GHz as determined from the OIP3 to DC power ratio.",
+            "The improvements will stem from a combination of increased device voltage swing and current swing at 30 GHz large signal conditions, as well as a method to increase the intrinsic linearity of the device.",
+            "The improvements to the device which are anticipated under this program will be beneficial for a wide range of transmitter and receiver applications."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware"
+        ],
+        "section_details": "Funding amount\nUSD 3,617,720\nFunding period\n2017\n21 Nov\n\u2010\n2023\n30 Jan",
+        "start_year": "2017",
+        "title": "N-polar devices for ultra-high power and linearity at millimeter-wave",
+        "tldr": "N-polar devices have shown record high power density and impressive linearity at 10 GHz. This research aims to further improve these metrics at 30 GHz through increased voltage and current swing, as well as incorporating nonlinearity cancellation methods. The improvements will be characterized by load pull and noise measurements at the wafer level. These advancements will have a wide range of applications in transmitters and receivers.",
+        "top_keywords": [
+            "N-polar",
+            "Nitrogen-polar",
+            "Gallium Nitride",
+            "high power density",
+            "linearity",
+            "millimeter-wave",
+            "high efficiency",
+            "large signal current swing",
+            "OIP3",
+            "device configuration"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The goals of this project are to develop (i) highly-perfect, three-dimensional (3D) Dirac materialswith extremely high carrier mobilities using molecular beam epitaxy and (ii) heterostructureengineering approaches that achieve unprecedented control over their unique electronic states.The ultimate objective is a new class of electronic materials and devices that are based oncontrolling unique nontrivial topological electronic states. Using approaches such as strain,electrostatic confinement, and symmetry engineering, as well as fine-tuning of the Fermi levelusing electric field effect and modulation doping, we will achieve unprecedented control over theunique electronic states of 3D Dirac materials. These give rise to unique phenomena such asspin-Hall effects, chiral excitations, chiral magnetic currents, unusually largemagnetoresistances, topological protection against scattering, and true Fermi arcs, which cannotbe found in any other materials class. Using heterostructure engineering, which is completelynew to the field of 3D Dirac materials, we will tune between different 3D topological states, suchas Weyl semimetal, topological insulator, and quadratic band touching. The control achievedusing these approaches will enable entirely new opportunities and device paradigms forspintronics, quantum computing, sensors, chiral, and high-speed electronics.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "3,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7077632?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Susanne Stemmer",
+        "key_highlights": [
+            "Development of highly-perfect, three-dimensional (3D) Dirac materials with high carrier mobilities using molecular beam epitaxy.",
+            "Utilization of heterostructure engineering approaches to achieve unprecedented control over unique electronic states.",
+            "Implementation of various techniques such as strain, electrostatic confinement, and symmetry engineering to fine-tune the Fermi level and achieve control over electronic states.",
+            "Potential for new electronic materials and devices based on controlling unique nontrivial topological electronic states, leading to phenomena such as spin-Hall effects, chiral excitations, and topological protection against scattering."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics"
+        ],
+        "section_details": "Funding amount\nUSD 3,000,000\nFunding period\n2016\n6 Jul\n\u2010\n2020\n30 Apr\nResulting DOD publications\n24",
+        "start_year": "2016",
+        "title": "Engineered 3D Dirac Materials",
+        "tldr": "This research project aims to develop highly-perfect 3D Dirac materials with exceptional electronic properties through molecular beam epitaxy and heterostructure engineering. By utilizing techniques such as strain, electrostatic confinement, and symmetry engineering, the goal is to achieve unprecedented control over the unique electronic states of these materials, leading to potential applications in spintronics, quantum computing, and high-speed electronics.",
+        "top_keywords": [
+            "Engineered",
+            "3D Dirac materials",
+            "Molecular beam epitaxy",
+            "Heterostructure engineering",
+            "Topological electronic states",
+            "Fermi level",
+            "Electric field effect",
+            "Modulation doping",
+            "Spintronics",
+            "Quantum computing"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "Rapid advances in high performance computing, the ability to generate and harness large-scale 3D materials data and the emergence of advanced directed energy processing approaches promise new pathways for the design and synthesis of a broad array of previously inaccessible advanced materials. These new capabilities will enable highly architectured structural components, which in the future, may be printed layer-by-layer or voxel by voxel, on demand. This proposed research program aims to dramatically expand our ability to discover and synthesize high temperature intermetallic-containing structural materials that are amenable to additive manufacturing approaches. To explore the materials design space, which is extraordinarily large and relatively sparsely explored, theory-guided density functional theory tools will be combined with a unique suite of 3D processing and characterization platforms. A novel TriBeam tomography platform will be deployed for acquisition of 3D high resolution, multimodal (chemical, crystallographic and structural) data on materials at the melt pool scale, to obtain new insights on solidification, defect formation and the thermodynamic stability of intermetallic phases and to guide alloy design. An open-source laser-based experimental platform capable of operating in either layer-by-layer additive mode or combinatorial chemical mode will be developed for exploration for new materials systems. The materials focus of the program will be on (a) discovery and synthesis of multicomponent Co-base alloys strengthened by L12 intermetallics and (b) theory-guided exploration of the ternary and higher order Nb systems likely to contain cubic B2, Heusler or Half-Heusler intermetallics. Student internships and workshops with DoD collaborators will result in uniquely trained personnel for future DoD research in the areas of 3D materials science and additive manufacturing. The infrastructure will also more broadly pave the way for discovery of new compositionally and structurally complex crystalline materials with unique properties and functionalitiesless",
+        "end_year": "2018",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "3,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078982?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Tresa Pollock",
+        "key_highlights": [
+            "The research program aims to discover and synthesize high temperature intermetallic-containing structural materials that are amenable to additive manufacturing approaches.",
+            "Theory-guided density functional theory tools will be combined with a unique suite of 3D processing and characterization platforms to explore the materials design space.",
+            "A novel TriBeam tomography platform will be used to obtain 3D high resolution, multimodal data on materials at the melt pool scale, to guide alloy design.",
+            "The program will focus on the discovery and synthesis of multicomponent Co-base alloys strengthened by L12 intermetallics and the theory-guided exploration of ternary and higher order Nb systems likely to contain cubic B2, Heusler or Half-Heusler intermetallics."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "40 Engineering",
+            "4014 Manufacturing Engineering",
+            "Health Category (HRCS)",
+            "Generic health relevance",
+            "Research Activity Codes (HRCS)",
+            "1.3 Chemical and physical sciences"
+        ],
+        "section_details": "Funding amount\nUSD 3,000,000\nFunding period\n2017\n15 Oct\n\u2010\n2018\n29 Nov\nResulting DOD publications\n23",
+        "start_year": "2017",
+        "title": "A 3D Platform for Discovery of New Structural Materials",
+        "tldr": "This research grant aims to use advanced computing and processing techniques to discover and synthesize new structural materials that can be printed on demand. The focus will be on Co-base alloys and Nb systems containing intermetallics, with the goal of training personnel for future DoD research in 3D materials science and additive manufacturing.",
+        "top_keywords": [
+            "3D platform",
+            "Structural materials",
+            "High performance computing",
+            "Additive manufacturing",
+            "Intermetallics",
+            "Density functional theory",
+            "Multicomponent alloys",
+            "Directed energy processing",
+            "Tomography",
+            "Crystallography"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Heusler compounds are a large group of intermetallic compounds with ~1500 memberswith similar crystal structures having a vast array of tunable properties. This offers the possibilityof engineering novel materials and heterostructures possessing properties far beyond what bandgap engineering has done for III-V semiconductor technology. These properties depend on thenumber of valence electrons per formula unit allowing tuning of properties through compositionand alloying. Tuning of Heusler compound properties include semiconducting band gap,metallicity, magnetism, half-metallicity, superconductivity, shape memory, and, potentially,piezoelectricity. Combining Heusler compounds with different properties into heterostructuresand superlattices allows for fundamental studies as well as engineered applications ofmagnetoresistance and superconducting proximity effects coupled with shape memory andpiezoelectricity. Despite the wealth of tunable properties and potential for tailored dissimilarproperties heterostructures, studies of heterostructures and superlattices have not beenperformed. In this proposed study, molecular beam epitaxy and chemical beam epitaxy will beused to grow and tailor Heusler heterostructures and superlatttices combining magnetic, halfmetallic, superconducting, shape memory, topological and semiconducting Heusler compoundsto develop a fundamental scientific understanding of coupling and engineering of theirproperties. Control of composition, structure and defects is essential to gain knowledge ofintrinsic properties and their tailoring. In-situ and ex-situ atomic level structural, electronic andmagnetic characterization techniques including superconducting tunneling spectroscopy will beused to study and provide feedback control of surface, interface and bulk properties. The use ofchemical beam epitaxy is to develop a growth process that will enable a self-limiting growthcondition to improve stoichiometry control. By growing on III-V semiconductor and Perovskitecomplex oxides, the Heusler heterostructures will be coupled to materials and heterostructureswith additional multifunctional properties. The ultimate goal is to develop the new field ofmultifunctional Heusler compound heterostructures and superlattices.less",
+        "end_year": "2016",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,999,738",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7076810?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Christopher Palmstrom",
+        "key_highlights": [
+            "Heusler compounds are a large group of intermetallic compounds with tunable properties.",
+            "Combining Heusler compounds with different properties into heterostructures and superlattices allows for fundamental studies and engineered applications.",
+            "The proposed study will use molecular beam epitaxy and chemical beam epitaxy to grow and tailor Heusler heterostructures and superlattices.",
+            "The ultimate goal is to develop the new field of multifunctional Heusler compound heterostructures and superlattices."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics"
+        ],
+        "section_details": "Funding amount\nUSD 2,999,738\nFunding period\n2015\n7 Sep\n\u2010\n2016\n2 Aug\nResulting DOD publications\n16",
+        "start_year": "2015",
+        "title": "Engineered Heusler Compound Heterostructures and Superlattices",
+        "tldr": "This research grant aims to use molecular and chemical beam epitaxy to engineer novel heterostructures and superlattices using Heusler compounds, which have a wide range of tunable properties. By combining different Heusler compounds, the goal is to develop a new field of multifunctional heterostructures with properties such as magnetism, superconductivity, and shape memory. The study will also focus on controlling composition, structure, and defects to gain a better understanding of these materials and their potential applications.",
+        "top_keywords": [
+            "Heusler compounds",
+            "Heterostructures",
+            "Superlattices",
+            "Bandgap engineering",
+            "III-V semiconductor technology",
+            "Molecular beam epitaxy",
+            "Chemical beam epitaxy",
+            "Magnetoresistance",
+            "Superconductivity",
+            "Multifunctional properties"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "4 Quality Education"
+        ],
+        "abstract": "For the average high-schooler, education is synonymous with memorization and regurgitation of curriculum, whose concepts often have unclear links to real-world scenarios and that seldom, if ever, require an original contribution. SciTrekBiotech is about breaking this mold. SciTrekBiotech engages teams of K-12 students in structured but self-driven explorations of bio-science/technology questions, using multi-tiered mentoring involving peers, K-12 teachers, university students and faculty. Importantly, SciTrekBiotech \u2019s model of engagement allows the program to simultaneously impact distinct points of the STEM pipeline: from K-12 students, to teachers and teachers in training, to university students. This uncommon feature in the landscape of education programs, which typically have a single stakeholder, coupled with the PI\u2019s past record of success and the program access to world-class STEM and Biotechnology research programs, facilities and personnel, aligns SciTrekBiotech with multiple goals of the Federal and DoD STEM strategy and represents a unique addition to DoD\u2019s portfolio, with the potential to create a national model for K-12 education and teacher training. Briefly, in SciTrekBiotech, teams of 4-6 K-12 students investigate a scientific question prompted by an experimental observation presented to them by university students, trained in the SciTrekBiotech method. This is the start of a journey of discovery that sets the SciTrekBiotech experience apart from other K-12 programs: K-12 student teams are not passive spectators, but are given full ownership of the project. They formulate \u201ctestable questions,\u201d and decide on an experimental plan, which is then implemented over several days. Teams are also asked to present posters, discuss their findings, and provide an argument for their conclusions. Each class engages in two distinct \u201cmodules\u201d each year; assessments occur before and after the modules. For some modules, these investigations culminate in a classroom-wide optimization project involving competition between classes. The implementation of SciTrekBiotech\u2019s pedagogic model is made possible by extensive use of STEM undergraduate students (volunteers and core team). Volunteers are trained to lead authentic science inquiry: an uncommon experience in an educational path still mostly based on memorization. Core team members (Team SciTrekBiotech) carry out science education research, present their research at local and national science meetings, and help design modules and train volunteers. We propose a new course, open to all undergraduates, to foster appreciation of the scientific process, critical thinking skills, and students\u2019 attitudes towards science. A new seminar series, featuring industry and DoD speakers, will explore career paths in biotechnology. SciTrekBiotech has a built in sustainability plan through teachers\u2019 professional development: elementary and secondary teachers are empowered to independently lead their classrooms in the SciTrekBiotech modules, using workbooks and experimental materials provided by the program free of charge (secondary teachers are also supported by university students). In addition, SciTrekBiotech will develop a Master program (now a pilot) that will teach credential students (School of Education) how to incorporate this innovative program into their classroom. SciTrekBiotech leverages the successful track record of our outreach program SciTrek, which reaches 1,500-2,000 K-12 students each year (40-60% URMs): we propose to triple the number of K-12 student participants over the duration of the grant. In addition, we propose to expand the program beyond UCSB, through partnerships with other colleges and universities, towards creating a national model of K-12 education and teacher training.less",
+        "end_year": "2024",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "2,990,288",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9958832?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Norbert Reich",
+        "key_highlights": [
+            "SciTrekBiotech is an educational program aimed at engaging K-12 students in bio-science/technology questions.",
+            "The program uses a multi-tiered mentoring approach involving peers, K-12 teachers, university students, and faculty.",
+            "The program has the potential to impact multiple points of the STEM pipeline and aligns with federal and DoD STEM strategies.",
+            "The program has a built-in sustainability plan through teachers' professional development and plans to expand nationally through partnerships with other colleges and universities."
+        ],
+        "research_categories": [
+            "39 Education",
+            "3901 Curriculum and Pedagogy",
+            "3903 Education Systems",
+            "Research, Condition, and Disease Categorization",
+            "Biotechnology",
+            "Health Disparities"
+        ],
+        "section_details": "Funding amount\nUSD 2,990,288\nFunding period\n2021\n14 Sep\n\u2010\n2024\n13 Sep",
+        "start_year": "2021",
+        "title": "SciTrek Biotech",
+        "tldr": "SciTrekBiotech is a program that aims to engage K-12 students in bio-science and technology through self-driven explorations and multi-tiered mentoring. It has the potential to impact multiple points in the STEM pipeline and create a national model for K-12 education and teacher training. The program involves teams of students investigating scientific questions and culminates in a classroom-wide optimization project. It also includes a sustainability plan through teacher professional development and partnerships with other universities.",
+        "top_keywords": [
+            "SciTrekBiotech",
+            "K-12 education",
+            "STEM pipeline",
+            "Bio-science/technology",
+            "Mentoring",
+            "Pedagogic model",
+            "Professional development",
+            "Undergraduate students",
+            "Sustainability",
+            "Outreach program"
+        ],
+        "units_of_assessment": [
+            "C23 Education"
+        ]
+    },
+    {
+        "abstract": "It has recently become clear that our current understanding of recombination processes at localized defects or impurities in solids,is incomplete. Such recombination events govern loss mechanisms and reliability of devices and the quantum efficiency of light emit,ters, including single-photon sources for quantum information science. Work by the PI has revealed that excited states play a decis,ive role in nonradiative recombination, and hitherto neglected ?impurity Auger? processes have a large impact. The proposed project,is aimed at rigorously calculating the rate of these processes; using the acquired knowledge to significantly improve device perform,ance; and validating the approach through experimental collaborations. Correct inclusion of these mechanisms is particularly import,ant in wide-bandgap materials, where current recombination models greatly underestimate the rates. Building on the PI?s expertise, f,irst-principles approaches for accurately calculating transition rates involving excited states and Auger processes will be develope,d. A fundamental understanding of these mechanisms is essential to suppress nonradiative recombination in wide-bandgap light emitte,rs and power electronics. The methodologies will also support the characterization and design of efficient centers for applications,in which radiative recombination underlies the functionality; these include phosphors, scintillators, and single-photon emitters for, quantum information science.Computational approaches will include density functional theory, hybrid functionals, the random phase a,pproximation, and many-body perturbation theory. Experimental validation will be enabled through funded and unfunded collaborations,. Nitride semiconductors will constitute the main materials platform used to construct and validate the approach, but applications a,re much broader. The ability to predict radiative and nonradiative rates will provide a framework for analyzing and controlling loss, mechanisms in devices and emission processes in single-photon emitters. The proposed basic research on a transformative science iss,ue will open new ways of thinking about recombination phenomena and lay a foundation for future new capabilities for DoD.As an educa,tional institution, UCSB performs fundamental and unclassified research. Any data or information developed or provided by UCSB, incl,uding but not limited to publications and reports, shall be unclassified fundamental research exempt from dissemination control or r,eview requirements.less",
+        "end_year": "2027",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,679,644",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12979076?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Christian Van de Walle",
+        "key_highlights": [
+            "The research grant is focused on controlling recombination in wide-bandgap materials.",
+            "The current understanding of recombination processes at localized defects or impurities in solids is incomplete.",
+            "The proposed project aims to calculate the rate of nonradiative recombination processes and improve device performance.",
+            "The research will use computational approaches and experimental collaborations to understand and control loss mechanisms in devices and emission processes in single-photon emitters."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "51 Physical Sciences",
+            "5102 Atomic, Molecular and Optical Physics",
+            "5108 Quantum Physics",
+            "Research, Condition, and Disease Categorization",
+            "Biotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 2,679,644\nFunding period\n2022\n30 Sep\n\u2010\n2027\n29 Sep\nResulting DOD publications\n2",
+        "start_year": "2022",
+        "title": "Controlling recombination in wide-bandgap materials",
+        "tldr": "This research grant aims to improve our understanding of recombination processes in wide-bandgap materials, which play a crucial role in the performance of devices and light emitters. The project will use computational and experimental approaches to accurately calculate and control these processes, with a focus on nitride semiconductors. This research has the potential to greatly impact various applications, including quantum information science.",
+        "top_keywords": [
+            "Recombination",
+            "Wide-bandgap materials",
+            "Nonradiative recombination",
+            "Excited states",
+            "Auger processes",
+            "Device performance",
+            "Quantum information science",
+            "Density functional theory",
+            "Nitride semiconductors",
+            "Emission processes"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The development of epitaxial oxide structures that combine unprecedented high electron densities and high dielectric strengths has the potential to create a new class of extreme powerdensity electronics for communications and energy applications. Modulation of the high carrier density in these structures will lead to next-generation plasmonics by enabling reconfigurable antennas, and plasmonic modulators. The objective of the multidisciplinary program \u00d2EXtreme Electron concentration oxide DEvices (EXEDE)\u00d3 is to enable this paradigm shift in electronic and plasmonic devices by (i) the control of extreme-density, two-dimensional electron gases at polar oxide interfaces, (ii) engineering the band separation at oxide interfaces and (iii) innovative approaches to increase electron mobility and carrier velocities. To achieve these objectives, EXEDE establishes a highly interconnected multidisciplinary effort that includes sophisticated materials growth approaches, theoretical and experimental investigations of transport and optical physics and advanced device engineering. The devices and applications at the center of the project include extreme charge density field-effect transistors, charge gain devices, nanoribbon field effect transistors, plasmonic antennas and modulators. Transistor development will focus on high frequency electronic devices for communication applications and ultracompact high voltage energy efficient power switching devices. The device research program is underpinned by advancing oxide materials physics to address challenges such as their low mobility due to high phonon scattering rates. First-principles calculations and transport theory will improve understanding of transport, and will closely collaborate with experimental investigations of electron velocity and high-field transport, relevant for high-speed devices. Innovative approaches to enable efficient transport include phonon engineering and reduced dimensionality to enhance transport, band engineering to reduce effective mass, and hybrid oxide/Si structures to transfer the electrons to high mobility materials. A strong materials effort will be focused on unprecedented quality of extreme-electron concentration heterostructures, including on high mobility substrates, band offset engineering, and on exploring new oxide material systems with higher intrinsic mobility. Another significant outcome will be a knowledge base of device fabrication techniques for oxides, including contacts, etching, surface passivation, and gate dielectrics, and a clear understanding of the critical device physics. The program will significantly impact DoD capabilities not only through the demonstration of superior and new electronic and plasmonics devices that could enhance communication, signal processing, and energy conversion applications, based on a new class of electronic materials, but also by catalyzing further research in this field.less",
+        "end_year": "2016",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,505,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7077077?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Susanne Stemmer",
+        "key_highlights": [
+            "The grant is a continuation of a previous project focused on developing epitaxial oxide structures with high electron densities and dielectric strengths.",
+            "The objective of the project is to enable a paradigm shift in electronic and plasmonic devices through the control of extreme-density, two-dimensional electron gases at polar oxide interfaces.",
+            "The project involves a multidisciplinary effort, including materials growth, theoretical and experimental investigations, and advanced device engineering.",
+            "The project aims to develop extreme charge density field-effect transistors, charge gain devices, nanoribbon field effect transistors, plasmonic antennas, and modulators for communication and energy applications, and to advance understanding of oxide materials physics and device fabrication techniques."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering",
+            "4018 Nanotechnology",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics"
+        ],
+        "section_details": "Funding amount\nUSD 2,505,000\nFunding period\n2016\n2 Feb\n\u2010\n2016\n7 Feb",
+        "start_year": "2016",
+        "title": "THIS GRANT IS A CONTINUATION OF N000141210976 - EXtreme Electron Concentration Oxide DEvices (EXEDE)",
+        "tldr": "This grant aims to develop high-density, high-dielectric strength oxide structures for extreme power-density electronics. The multidisciplinary program, EXEDE, will focus on controlling electron density, engineering band separation, and increasing electron mobility. The project will result in the development of high-frequency electronic devices for communication and energy applications, as well as a knowledge base for oxide device fabrication techniques.",
+        "top_keywords": [
+            "Epitaxial oxide structures",
+            "High electron densities",
+            "Dielectric strengths",
+            "Plasmonics",
+            "Extreme-density",
+            "Two-dimensional electron gases",
+            "Polar oxide interfaces",
+            "Electron mobility",
+            "Carrier velocities",
+            "Phonon engineering"
+        ],
+        "units_of_assessment": [
+            "B09 Physics",
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Project Abstract Cyber-physical systems (CPS), or systems that interact with the physical world through sensory input and cyber-control systems, are becoming increasing ubiquitous. Such systems are often deployed in safety-critical scenarios, e.g., managing power generation and delivery, controlling manufacturing processes, or coordinating automotive systems. As opposed to traditional cyber-systems, physical faults can easily lead to human harm, sometimes on a large scale. Therefore, the reliability, integrity, and availability of physical processes and their control are of paramount concern. We propose to defend cyber-physical systems through two complementary research thrusts: Inferring physical models for cyber-physical systems and federated learning. The goal of the model inference thrust is to identify behavioral models of cyber-physical systems that characterize the system's physical aspects. However, instead of deriving the physical model from engineering blueprints or expert knowledge, we propose to treat the physical process as a black box. We then learn models from observations of the CPS that are augmented with physical constraints that apply for the process under analysis (e.g., maximum values for velocity, acceleration, or other physical dimensions). Messages can then be identified as malicious if they would drive the inferred model into a state that violates the underlying physical constraints. Learning physical models will provide operators with real-time feedback of anomalous and potentially malicious control commands and sensory inputs to cyber-physical systems. However, machine learning in adversarial contexts -- that is, one in which attackers can supply inputs to the protected system that are evaluated by the model, and where an attacker might have knowledge of the model parameters -- has important limitations such as scarcity of training data and concept drift. We propose to address these concerns using federated learning. The intuition behind federated learning is that global information can compensate for local deficiencies. In particular, federated learning involves the use of inputs, behaviors, and models gathered from outside the local system. We propose several instantiations of this idea to provide (i) distributed identification of \"black sheep,\" or systems that behave differently from a community of similar systems (a \"flock\"); flock behavior as a mechanism for suppressing local false positives; and, compensation for local training data scarcity. Protecting existing and next-generation cyber-physical systems will require significant research that is informed by real-world issues such as limited resources and real-time constraints. Our proposed approach integrates high-fidelity physical models for local cyber-physical systems with federated learning that exploits global information for improved detection capability and minimal false positives. This novel approach will fill a crucial gap in our ability to defend the cyber-physical systems that power our infrastructure and our society.less",
+        "end_year": "2017",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,233,928",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7077998?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Giovanni Vigna",
+        "key_highlights": [
+            "The research grant is focused on defending cyber-physical systems.",
+            "The proposed approach involves using federated learning and physical models.",
+            "The goal is to identify and learn physical models of cyber-physical systems.",
+            "The research will address concerns such as limited resources and real-time constraints."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 2,233,928\nFunding period\n2016\n16 Nov\n\u2010\n2017\n31 Dec\nResulting DOD publications\n19",
+        "start_year": "2016",
+        "title": "Defending Cyber-Physical Systems using Federated Learning of Physical Models",
+        "tldr": "This research grant aims to defend cyber-physical systems through two approaches: inferring physical models and using federated learning. By learning physical models and utilizing global information, the goal is to improve detection capability and minimize false positives in order to protect these systems that are crucial to our infrastructure and society.",
+        "top_keywords": [
+            "Cyber-physical systems",
+            "Federated learning",
+            "Physical models",
+            "Safety-critical scenarios",
+            "Reliability",
+            "Integrity",
+            "Availability",
+            "Anomalous behavior",
+            "Adversarial contexts",
+            "Real-time constraints"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "x\u00df-Ga2O3 has emerged as a potentially disruptive semiconductor with a predicted breakdown field of ~8 MV/cm which is more than twice the breakdown field for the incumbent wide bandgap semiconductors GaN and SiC. The availability of \u00df-Ga2O3 bulk substrates sets this material apart from other wide bandgap materials for power electronic applications. However, the challenge is to find suitable epitaxial film growth techniques that allows fast growth rates and reasonable p- and n-type doping. In Phase I, we used virtual reactor modeling to identify suitable precursors and reactor geometries for fast growth rates. Actual film growth using close coupled showerhead MOCVD was also conducted and \u00df-Ga2O3 thin film with growth rate up to 9.8 \u00b5m/hr was obtained. In Phase II, we will continue to build on our achievements in Phase I and study all aspects of \u00df-Ga2O3 MOCVD growth processes including precursor types, process dynamics, reactor designing and building. The final MOCVD reactor will incorporate in situ characterization tools and control software, and be capable of growing at a minimum 4 \u00b5m/hr. With this reactor, both thick (> 30\u00b5m), n-type Ga2O3 drift layers and n- or p-type doped device layers (< 100nm) can be achieved in the same growth run.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,999,916",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8450918?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Andrei Osinskky",
+        "key_highlights": [
+            "\u00df-Ga2O3 has a predicted breakdown field of ~8 MV/cm, making it a potentially disruptive semiconductor for power electronic applications.",
+            "The availability of \u00df-Ga2O3 bulk substrates sets it apart from other wide bandgap materials.",
+            "The challenge is to find suitable epitaxial film growth techniques that allow for fast growth rates and reasonable p- and n-type doping.",
+            "The research grant aims to study all aspects of \u00df-Ga2O3 MOCVD growth processes and develop a reactor capable of growing thick drift layers and doped device layers in the same run."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,999,916\nFunding period\n2018\n11 Jan\n\u2010\n2023\n30 Apr",
+        "start_year": "2018",
+        "title": "Epitaxial Technologies for Gallium Oxide Ultra High Voltage Power Electronics",
+        "tldr": "This research grant aims to develop epitaxial film growth techniques for \u00df-Ga2O3, a promising semiconductor with high breakdown field for power electronic applications. Phase I successfully identified suitable precursors and achieved a growth rate of 9.8 \u00b5m/hr. In Phase II, the focus will be on optimizing the MOCVD growth process and building a reactor capable of growing thick drift layers and doped device layers simultaneously.",
+        "top_keywords": [
+            "Epitaxial technologies",
+            "Gallium oxide",
+            "Ultra high voltage",
+            "Power electronics",
+            "\u00df-Ga2O3",
+            "Wide bandgap semiconductors",
+            "MOCVD growth",
+            "Precursors",
+            "Reactor design",
+            "In situ characterization"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Software has become complex, layered, and interconnected. Software systems control almost every aspect of ourcritical infrastructur\"\"e from the power grid, to air traffic, to financial networks.Software engineers are relying increasingly on third-party libraries a\"nd software frameworks to implement complexfunctionality and perform code re-use. Even though the use of frameworks and reusable co\"mponents helps inmanaging the complexity of modern software systems, this trend has had a negative impact on both security andperf\"\"ormance. Like any other pieces of code, libraries and frameworks contain bugs, and some of these bugs can beexploited, introducing\" vulnerabilities in applications using these components.Since third-party libraries and frameworks are made to be used by a wide va\"riety of applications, the common case isthat an application does not use all of the functionality provided by these components. Th\"\"at is, there exists functionalityin the third-party library or framework that is \"\"dead code\"\" because of how the component is used b\"\"y the application.This dead code increases the security exposure of an application.On the performance side of the equation, excess\"\"ive use of third-party frameworks and libraries causes \"\"API bloat\"\",draining performance as control flow makes its way through layer\"s of API abstraction before triggering actualfunctionality.The bloat problem does not only affect programs and applications in iso\"lation. Clients and servers are usuallydeveloped to interact with a very diverse set of counterparts, since all the possible intera\"ctions are unknown.It is clear that the problem of code bloat and security exposure can be attacked along two axes: one axis is the\" \"\"type\"\"of the transformation, while the other axis is the \"\"scope\"\" of the transformation. More precisely, a type of transformationc\"\"an \"\"trim\"\" code, or can \"\"reshape\"\" the code being executed while preserving the desired functionality. On the other axis,an approach\"\" can operate on a single program (including the associated libraries and frameworks), or a group ofprograms. In the latter case, th\"\"e approach is deployment-specific, as it takes into account which programs will interactand how they will interact.To address the\"\" problem of code bloating, we propose to develop novel binary trimming and binary shaping statictechniques that can operate on sing\"le programs or groups of programs to reduce their security exposure and improvetheir performance.The research is focus on four mai\"n thrusts, defined by the composition of types and scopes of the possibletransformations.1. Bintrimmer: Static binary trimming for\"\" programs.As a first thrust of the research, we will alleviate the code bloat that leads to an increased attack surface. We propose\"to design an approach that uses static analysis to identify and remove unused regions of code.2. Binshaper: Static binary shaping for programs.The second thrust of the project focuses on an approach that automatically identifies and minimizes both bloated APIcall-chains and redundant or insufficiently optimized series of instructions.3. Binstemmer: Binary trimming for program groups.The\" third thrust of the proposed research focuses on analyzing, in an integrated fashion, interacting programs. Theapproach will lever\"\"age static analysis techniques to infer how the programs interact using specific protocols, andremove protocol-handling code that i\"s unused.4. Binplexer: Binary shaping for program groups.The fourth thrust of the research focuses on reshaping the code of interacting programs so that server~sprotocolhandling code can be reshaped in a client-aware fashion.The outcome of this research will b\"e tools and techniques that will improve the security of binaries without requiringaccess to source code, and, by relying on static\"\" analysis techniques, will guarantee that the functionality of the codewill be preserved.less",
+        "end_year": "2022",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,990,042",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078832?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Giovanni Vigna",
+        "key_highlights": [
+            "The research grant is focused on developing techniques to improve the security and performance of software systems that rely on third-party libraries and frameworks.",
+            "The proposed approach involves static analysis to identify and remove unused code, as well as minimize bloated API call-chains and redundant instructions.",
+            "The research will also focus on analyzing and reshaping the code of interacting programs to improve security and performance.",
+            "The outcome of the research will be tools and techniques that can improve the security of binaries without requiring access to source code, while preserving the functionality of the code."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4604 Cybersecurity and Privacy",
+            "4606 Distributed Computing and Systems Software",
+            "4612 Software Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,990,042\nFunding period\n2017\n3 Aug\n\u2010\n2022\n29 Sep\nResulting DOD publications\n11",
+        "start_year": "2017",
+        "title": "Trimming and Shaping Binaries for Improved Security",
+        "tldr": "This research aims to develop techniques to improve the security and performance of software systems by trimming and shaping unused or bloated code in third-party libraries and frameworks. The proposed approach will operate on single programs or groups of programs and will use static analysis to preserve functionality while reducing security exposure. The outcome will be tools that can improve the security of binaries without requiring access to source code.",
+        "top_keywords": [
+            "Binary trimming",
+            "Binary shaping",
+            "Security",
+            "Performance",
+            "Third-party libraries",
+            "Static analysis"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Building on prior ONR-sponsored work on real-time 3D scene understanding and Glanceable Augmented Reality (AR), we propose to study,technical and user experience components enabling context-aware input interfaces for future mobile AR users. Our work is geared towa,rds enhancing the interaction abilities of decision makers in the field. Two groups of Navy personnel might specifically benefit fro,m \"always-on\" interactive AR knowledge enhancements: dismounted Marine squad leaders in training or combat environments, and small c,ommand-post teams who aggregate, interpret, and plan with, information coming in from various sources, including highly mobile AR-su,pported squads. Addressing the needs of dismounted Marines, this fundamental context modeling and augmented reality interaction rese,arch will be demonstrated in civilian search-and-rescue and emergency response scenarios that involve emergency workers and field-wo,rk supervisors in natural and urban environment, task, and user contexts.Three interdependent research questions define the core of,this proposal. For Research Question 1 (RQ1: Input Modalities), we will assess what input modalities are available for mobile AR con,trol and how we can best utilize user and environment sensing for AR interaction. For RQ2 (Input Techniques), we will design and imp,lement novel mobile AR input techniques. We will design and conduct controlled experiments to determine how input modalities can be,best combined into novel interaction techniques relevant to our emergency response use cases. For RQ3 (Seamless Control and Task Swi,tching), we will enable mobile AR users to seamlessly choose and combine different input modalities and switch among their tasks. O,ur work will culminate in an integrated proof-of-concept demonstration of context-aware input methodologies for mobile AR, increasin,g mobile users' situational interaction capabilities towards increased knowledge and awareness.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,632,767",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13046103?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Tobias Hollerer",
+        "key_highlights": [
+            "The research grant focuses on multi-input control in mobile augmented reality.",
+            "The goal is to enhance the interaction abilities of decision makers in the field, specifically dismounted Marine squad leaders and small command-post teams.",
+            "The research will address three interdependent research questions: input modalities, input techniques, and seamless control and task switching.",
+            "The ultimate goal is to develop context-aware input methodologies for mobile AR that increase situational interaction capabilities and knowledge for users."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4608 Human-Centred Computing"
+        ],
+        "section_details": "Funding amount\nUSD 1,632,767\nFunding period\n2022\n30 Nov\n\u2010\n2023\n29 Nov\nResulting DOD publications\n3",
+        "start_year": "2022",
+        "title": "Multi-Input Control in Mobile Augmented Reality",
+        "tldr": "This research grant aims to improve the interaction abilities of decision makers in the field through the development of context-aware input interfaces for mobile augmented reality. The focus is on enhancing the capabilities of dismounted Marine squad leaders and small command-post teams in emergency response scenarios. The research will address three main questions related to input modalities, techniques, and seamless control and task switching, with the goal of increasing situational interaction capabilities for mobile AR users.",
+        "top_keywords": [
+            "Multi-Input Control",
+            "Mobile Augmented Reality",
+            "Context-Aware Input Interfaces",
+            "Decision Makers",
+            "Dismounted Marines",
+            "Emergency Response",
+            "Input Modalities",
+            "Input Techniques",
+            "Seamless Control",
+            "Task Switching"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Existing transmon designs utilize a very small tunnel junction with a large shunt capacitor to limit the participation factor of the lossy junction dielectric . We describe a new approach that allows for integration of the junction capacitance and non-linear effective inductance. The integration hinges on developing ultra-low loss tunnel barriers and dielectrics. The core of this proposal is to develop a fabrication process that independently optimizes the growth of the superconducting electrodes and the tunnel barrier. A wafer bonding solution will be explored in order to simultaneously achieve scalability in fabrication and investigate a wide range of materials . The project is divided into three general plans: 1) fabrication or test-structures for admittance metrology of different epitaxially grown junctions at gigahertz frequencies, 2) realization merged-element transmon qubits with an optimized materials set, and finally 3) investigation of multi-qubit systemes that utilize this new hardware, including operation of two-qubit gates.less",
+        "end_year": "2021",
+        "funder": "National Security Agency",
+        "funding_amount_usd": "1,576,250",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826170?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Christopher Palmstrom",
+        "key_highlights": [
+            "Development of a new approach for transmon design using ultra-low loss tunnel barriers and dielectrics.",
+            "Fabrication process optimization for superconducting electrodes and tunnel barriers.",
+            "Investigation of wafer bonding solution for scalability and material exploration.",
+            "Focus on three main plans: admittance metrology, realization of merged-element transmon qubits, and investigation of multi-qubit systems."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics"
+        ],
+        "section_details": "Funding amount\nUSD 1,576,250\nFunding period\n2018\n14 Apr\n\u2010\n2021\n13 Apr\nResulting DOD publications\n2",
+        "start_year": "2018",
+        "title": "Merged element transmons",
+        "tldr": "This research grant aims to develop a new type of transmon design that integrates the junction capacitance and non-linear effective inductance. This will be achieved through the development of ultra-low loss tunnel barriers and dielectrics, and a wafer bonding solution will be explored for scalability and material investigation. The project is divided into three plans: fabrication and testing of different junctions, realization of merged-element transmon qubits, and investigation of multi-qubit systems.",
+        "top_keywords": [
+            "Merged element transmons",
+            "Transmon designs",
+            "Tunnel junction",
+            "Shunt capacitor",
+            "Lossy junction dielectric",
+            "Non-linear effective inductance",
+            "Ultra-low loss tunnel barriers",
+            "Dielectrics",
+            "Fabrication process",
+            "Superconducting electrodes"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This project will extend connections between quantum information and gravitational holography by elucidating the conditions under which quantum error correcting codes define holographic systems, and by incorporating further elements of gravitational holography into simple quantum information models. Chief among these is a symmetry called diffeomorphism invariance, which is a key feature of gravitational dynamics and is required for gravitational holography. We will also add dynamics to existing quantum codes to model time dependent bulk physics of the sort found in the interiors of black holes. Finally, we will use the fact that the boundary theory is often a local quantum field theory and associated tools from the so called Tomita Takesaki theory to further expand the bulk-boundary dictionary.less",
+        "end_year": "2022",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "1,500,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12939799?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to XI DONG",
+        "key_highlights": [
+            "Extending connections between quantum information and gravitational holography",
+            "Incorporating diffeomorphism invariance into quantum information models",
+            "Adding dynamics to existing quantum codes to model time dependent bulk physics",
+            "Utilizing tools from Tomita Takesaki theory to expand the bulk-boundary dictionary"
+        ],
+        "research_categories": [
+            "49 Mathematical Sciences",
+            "4902 Mathematical Physics",
+            "51 Physical Sciences",
+            "5107 Particle and High Energy Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 1,500,000\nFunding period\n2019\n30 Jun\n\u2010\n2022\n29 Jun\nResulting DOD publications\n47",
+        "start_year": "2019",
+        "title": "Quantum Codes, Tensor Networks, and Quantum Spacetime",
+        "tldr": "This research project aims to explore the connections between quantum information and gravitational holography by studying quantum error correcting codes and incorporating elements of gravitational dynamics. The goal is to better understand the relationship between the boundary theory and the bulk physics, particularly in the context of black holes.",
+        "top_keywords": [
+            "Quantum codes",
+            "Tensor networks",
+            "Quantum spacetime",
+            "Gravitational holography",
+            "Diffeomorphism invariance",
+            "Time dependent bulk physics",
+            "Black holes",
+            "Local quantum field theory",
+            "Tomita Takesaki theory",
+            "Bulk-boundary dictionary"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Transphorm proposes to demonstrate a normally off fast high voltage Gallium Nitride power switch solution. The switch would block to 1200V, have a threshold voltage greater than 5 V, and the phase 2 switch will target an on resistance less than 15 ohm-mm and current more than 1 Amp. To accomplish these targets, Transphorm will combine the design requirements of realizing a high (and positive) threshold voltage while maintaining a low total on resistance while maintain a low switching resistance. The device will target low dc to rf dispersion or achieve a dynamic on resistance which is within 2x of the static performance. The switch would ultimately be capable of switching at high frequencies (1 MHz or higher) with efficiency in excess of 97%.less",
+        "end_year": "2013",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,496,500",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4439303?order=funding&or_facet_research_org=grid.133342.4&not_facet_funder=grid.496791.4",
+        "investigator": "to Robert Coffie",
+        "key_highlights": [
+            "Development of a normally off, fast high voltage Gallium Nitride power switch",
+            "Targeting a threshold voltage greater than 5 V and on resistance less than 15 ohm-mm",
+            "Focus on achieving high efficiency and low switching resistance",
+            "Capable of switching at high frequencies (1 MHz or higher) with efficiency in excess of 97%"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4008 Electrical Engineering",
+            "4009 Electronics, Sensors and Digital Hardware"
+        ],
+        "section_details": "Funding amount\nUSD 1,496,500\nFunding period\n2010\n29 Sep\n\u2010\n2013\n27 Dec",
+        "start_year": "2010",
+        "title": "Planar, High Frequency, Power Conversion Device Technology",
+        "tldr": "Transphorm aims to develop a high voltage Gallium Nitride power switch with a threshold voltage of 5V and on resistance of less than 15 ohm-mm and current of 1 Amp. The device will have low dc to rf dispersion and be capable of switching at high frequencies with high efficiency.",
+        "top_keywords": [
+            "Planar",
+            "High frequency",
+            "Power conversion",
+            "Device technology",
+            "Gallium Nitride",
+            "Power switch",
+            "Threshold voltage",
+            "On resistance",
+            "Switching resistance",
+            "Efficiency"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    }
+]

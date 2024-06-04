@@ -1,0 +1,778 @@
+[
+    {
+        "abstract": "We propose to design, fabricate, and benchmark planar 2D superconducting processors with = 8 qubits and 2-qubit gate fidelities = 0.99. We leverage a toolbox containing submicron Josephson junctions/arrays and high-coherence, passive microwave circuit elements including capacitors, superinductors, and co-planar waveguide resonators. Our approach does not rely on circuit elements for which robust fabrication techniques have not been developed (eg. phase-slip elements and cos(2\u00c0) elements) or qubit architectures where a clear route to logical gate operation has not been proven (eg. 0-p or other topological qubits). We adjust the ratios of EJ/EC and EJ/EL to realize two unexplored noise-resilient qubits: The High-Coherence Fluxonium that encodes quantum information in matter and the Multi-Photon Cat where, in the presence of an intense 2-photon microwave drive, information is encoded in photonic degrees of freedom. We have thoroughly simulated both designs and have also fabricated proof-of-concept devices. We will (i) pair these next-generation matter and photonic superconducting 2D circuits with a robust, high-fidelity CZ gate (originally developed for transmons in the HiPS program); (ii) quantify and mitigate decoherence due to dielectric loss and non-equilibrium quasiparticles, integrating our recently demonstrated Q > 5M Nb co-planar resonators into qubit circuits and establishing coherence limits due to these mechanisms; (iii) use charge-sensitive sensor qubits for characterizing correlated quasiparticle errors; (iv) mitigate quasiparticle losses by fabricating circuitry on suspended membranes; (v) use both quantum-information and condensed matter methods to characterize many-body noise processes\u00d1including correlated logical errors\u00d1in a multi-qubit processor; and (vi) execute standard quantum algorithms such as the quantum Fourier transform to validate quantum processor performance. Our integrated theory effort will support and extend these experimental efforts. We will (i) optimize gate performance and qubit lifetimes using machine learning techniques and realistic models of the environmental noise and drive cross-talk; (ii) optimize readout fidelity by accounting for nonidealities such as memory effects and basis hybridization; (iii) characterize and model the environmental noise by mapping its spectral density using correlated sensor-qubit data; and, (iv) study and develop protocols to mitigate sources of dynamical dephasing. For High-Coherence Fluxonium qubits, we will (i) simulate 2-qubit gates with a charge multi-path coupler; (ii) explore implementations of the 2-qubit fSim gate family that includes CZ and iSWAP as special cases; and (iii) design tunable 2-qubit gates that use both charge and flux couplers, as well as multi-path interference. For Multi-Photon Cat qubits, we will (i) model coherence limitations and analyze alternate circuit designs that address those limitations; (ii) design faster, noise-biased single-qubit gates; and, (iii) explore novel interactions suitable for implementing multi-qubit gates. We will also close the loop in the qubit design innovation chain by correlating the following: materials imperfections, measured coherence, logical gate fidelities, measured noise-spectra, and error reconstruction based on quantum verification/validation protocols. This is a fundamental research project that is not expected to produce any developmental items. Should any developmental items result from this work they will have both civilian and military applications.less",
+        "end_year": "2026",
+        "funder": "National Security Agency",
+        "funding_amount_usd": "11,918,116",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12979119?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Irfan Siddiqi",
+        "key_highlights": [
+            "Design, fabricate, and benchmark 2D superconducting processors with 8 qubits and high gate fidelities.",
+            "Utilize submicron Josephson junctions/arrays and high-coherence, passive microwave circuit elements.",
+            "Develop two unexplored noise-resilient qubits: High-Coherence Fluxonium and Multi-Photon Cat.",
+            "Use quantum-information and condensed matter methods to characterize noise processes and execute standard quantum algorithms to validate performance."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 11,918,116\nFunding period\n2022\n27 Sep\n\u2010\n2026\n26 Sep",
+        "start_year": "2022",
+        "title": "High-Fidelity, 2D Noise-Resilient Superconducting Quantum Processors",
+        "tldr": "This research project aims to design, fabricate, and benchmark 2D superconducting processors with high fidelity and noise resilience. The team will use advanced circuit elements and techniques to create two unexplored qubit designs and will also work on mitigating decoherence and optimizing gate performance. The project will also involve an integrated theory effort to support and extend the experimental work.",
+        "top_keywords": [
+            "Superconducting quantum processors",
+            "2D circuits",
+            "Qubits",
+            "High-fidelity",
+            "Noise-resilient",
+            "Coherence",
+            "Microwave circuit elements",
+            "Quantum algorithms",
+            "Environmental noise",
+            "Machine learning"
+        ],
+        "units_of_assessment": [
+            "B09 Physics",
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "In this project we will develop a planar chip with multiple superconducting qubits that display long lived quantum coherence and high-fidelity simultaneous readout. In this architecture we will study continuous qubit state monitoring and parity stabilization methods that eventually enable alternative quantum error correction methods.less",
+        "end_year": "2019",
+        "funder": "National Security Agency",
+        "funding_amount_usd": "10,245,016",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7916456?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Irfan Siddiqi",
+        "key_highlights": [
+            "Development of a planar chip with multiple superconducting qubits",
+            "Focus on long-lived quantum coherence and high-fidelity simultaneous readout",
+            "Study of continuous qubit state monitoring",
+            "Exploration of parity stabilization methods for alternative quantum error correction methods"
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 10,245,016\nFunding period\n2015\n24 Aug\n\u2010\n2019\n23 Dec",
+        "start_year": "2015",
+        "title": "Continuous Quantum State Tracking and Error correction(CQSTEC)",
+        "tldr": "This research project aims to develop a planar chip with multiple superconducting qubits for continuous quantum state tracking and error correction. The focus will be on studying methods for qubit state monitoring and parity stabilization to enable more efficient error correction techniques.",
+        "top_keywords": [
+            "Continuous quantum state tracking",
+            "Error correction",
+            "Planar chip",
+            "Superconducting qubits",
+            "Quantum coherence",
+            "Simultaneous readout",
+            "Architecture",
+            "Qubit state monitoring",
+            "Parity stabilization",
+            "Quantum error correction"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "The scope of this effort is to research the interactions between three different kinds of learning mechanisms to construct computational models of the learning technique and their interactions. In parallel, this effort will research the nature of these learning mechanisms to enhance AI approaches to learning, such as deep learning and classic reinforcement learning.less",
+        "end_year": "2024",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "9,477,951",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9982040?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Alexei Efros",
+        "key_highlights": [
+            "The research focuses on the interactions between three different learning mechanisms.",
+            "The goal is to construct computational models of these learning techniques and their interactions.",
+            "The research will also investigate the nature of these learning mechanisms.",
+            "The findings will be used to enhance AI approaches to learning, specifically deep learning and classic reinforcement learning."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4611 Machine Learning",
+            "Research, Condition, and Disease Categorization",
+            "Behavioral and Social Science",
+            "Machine Learning and Artificial Intelligence",
+            "Networking and Information Technology R&D (NITRD)"
+        ],
+        "section_details": "Funding amount\nUSD 9,477,951\nFunding period\n2019\n8 Sep\n\u2010\n2024\n28 Feb",
+        "start_year": "2019",
+        "title": "MESS: Model-Building, Exploratory, Social System",
+        "tldr": "This research grant aims to study the interactions between three types of learning mechanisms and their impact on computational models. It also seeks to enhance AI approaches to learning, such as deep learning and reinforcement learning, through understanding the nature of these mechanisms.",
+        "top_keywords": [
+            "Model-building",
+            "Exploratory",
+            "Social system",
+            "Learning mechanisms",
+            "Computational models",
+            "Learning technique",
+            "Interactions",
+            "AI approaches",
+            "Deep learning",
+            "Reinforcement learning"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "The proposed research aims at optimizing three types of two-qubit quantum logical gates in a planar superconducting transmon processor: the cross-resonance gate, the geometric phase gate (M\u00bflmer-S\u00bfrensen Gate), and the controlled phase gate (Zeno gate). The first is implemented via microwave irradiation of one qubit at the excitation frequency of its capacitively coupled neighbor. With improvements in coherence times at the level of 100 \u00c0\u00c0s and beyond, and quantum control methods to suppress spurious couplings. These improvements will take us from our current value of 93.7% two-qubit gate fidelity to an ultimate operation fidelity of 99.9%. The two other proposed gates are novel circuits which, on the basis of preliminary numerical simulations, are predicted to exhibit raw fidelities in excess of 90%. A research focus is to demonstrate the first realization of these gates, followed by subsequent optimization to achieve fidelities at the 99% level. The geometric phase gate developed is a novel superconducting qubit implementation of the M\u00bflmer-S\u00bfrenson gate\u00d1a work horse in the atomic physics community\u00d1based on the generation of cavity mediated coupling between two transmon qubits using additional microwave sideband drive tones, analogous to the laser light induced mechanically mediated coupling of the electronic degrees of freedom of ions in a Paul trap. Finally, using extensions of the quantum Zeno effect, we propose a new controlled phase gate in which the higher levels of the transmon are excited and strongly measured to inhibit certain inter-level transitions, effectively inducing a \"pi\" phase shift on a target two-qubit state. Improvements to superconducting quantum processor hardware include the design and integration of multiple stages of frequency specific Purcell filtering to permit the strong coupling of control lines to qubits, thereby minimizing crosstalk, without a significant increase in environment induced decoherence. Additionally, quasiparticle reduction techniques based on engineering the on-chip phonon density of states will be incorporated into multi-qubit chips. These designs modifications will be co-introduced with materials improvements targeting the removal and passivation of lossy surface dielectric layers introduced at each step of the qubit fabrication process. To further enhance performance, quantum control methods to (i) optimize drive pulses utilizing gradient based routines and machine learning algorithms, (ii) suppress crosstalk and spurious operating frequency shifts using dynamical decoupling sequences, and (iii) randomly compile gate sequences to suppress coherent errors will be developed and implemented. Finally, to diagnose the performance of the quantum processes described, extensions of randomized benchmarking techniques which yield information about specific noise models and consider coherent and non-Markovian effects are proposed for evaluation. In addition to these projective measurement based routines, simultaneous, continuous measurements of two coupled qubits will be performed to diagnose the onset of gate infidelity, particularly targeting correlated errors.less",
+        "end_year": "2022",
+        "funder": "National Security Agency",
+        "funding_amount_usd": "5,019,212",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7916789?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Irfan Siddiqi",
+        "key_highlights": [
+            "Implementation of novel benchmarking and error management protocols",
+            "Optimization of three types of two-qubit quantum logical gates in a planar superconducting transmon processor",
+            "Development of novel circuits for geometric phase gate and controlled phase gate",
+            "Improvements to superconducting quantum processor hardware, including design and integration of multiple stages of frequency specific Purcell filtering and incorporation of quasiparticle reduction techniques."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 5,019,212\nFunding period\n2018\n4 Jul\n\u2010\n2022\n3 Jul",
+        "start_year": "2018",
+        "title": "OPTION 1: Implementation of novel benchmarking and error management protocols in planar transmon processors",
+        "tldr": "This research aims to optimize quantum logical gates in a planar superconducting transmon processor, with a focus on improving coherence times and control methods. The proposed gates have predicted fidelities of over 90% and efforts will be made to achieve fidelities at the 99% level. Improvements to hardware and materials will also be incorporated, along with the development of quantum control methods and diagnostic techniques.",
+        "top_keywords": [
+            "Planar transmon processors",
+            "Benchmarking",
+            "Error management protocols",
+            "Quantum logical gates",
+            "Superconducting qubits",
+            "Coherence times",
+            "Quantum control methods",
+            "Fidelity",
+            "Purcell filtering",
+            "Dynamical decoupling sequences"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "Although it is reasonable to extrapolate that diversifying RHP sidechain chemistry in a controlled manner may lead to catalytically active membranes as barrier layer for PPEs against CWA, there are many unanswered questions. There are clear needs to develop insights of RHPs at various length scales and time scales once adsorbed onto the porous particles and form a monolayer membrane and characterize the phase behavior of RHP-covered nanoparticles. It is also important to understand their 2-D self-assembly and correlate with the macroscopic properties including catalytic activity, gas permeability and mechanical properties. Here, we assemble a team with complementary expertise in RHP-covered nanoparticles, MOF nanocrystal synthesis and mixed matrix membrane, computation, quantification of mechanical properties of RHP-MOF monolayer membranes, and structural characterization.less",
+        "end_year": "2026",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "2,500,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13046034?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Ting Xu",
+        "key_highlights": [
+            "Development of catalytically active membranes as barrier layers for PPEs against CWA",
+            "Understanding the behavior of RHPs at various length and time scales",
+            "Characterization of the phase behavior of RHP-covered nanoparticles",
+            "Correlation between 2-D self-assembly of RHPs and macroscopic properties such as catalytic activity, gas permeability, and mechanical properties."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering",
+            "4018 Nanotechnology",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Nanotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 2,500,000\nFunding period\n2021\n12 Dec\n\u2010\n2026\n11 Dec\nResulting DOD publications\n6",
+        "start_year": "2021",
+        "title": "Design Rules of Monolayer Composite Thin Films As Catalytic Protective Barriers",
+        "tldr": "This research aims to understand the design rules of monolayer composite thin films as catalytic protective barriers against chemical warfare agents. The team will study the behavior of RHP-covered nanoparticles and their self-assembly, as well as the correlation between their properties and catalytic activity, gas permeability, and mechanical properties.",
+        "top_keywords": [
+            "Monolayer composite thin films",
+            "Catalytic protective barriers",
+            "RHP sidechain chemistry",
+            "Catalytically active membranes",
+            "PPEs",
+            "RHPs",
+            "Porous particles",
+            "Phase behavior",
+            "2-D self-assembly",
+            "Mixed matrix membrane"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Chemical and biological warfare agents (CBWAs) pose a severe safety threat to mankind. Due to their extreme toxicity at ultra-low concentration, high sensitivity/selectivity detection and on-demand neutralization without transportation and minimal handling are particularly important yet challenging. Bioremediation using bacteria, protein binders and enzymes are proven effective, but are not suitable for in-field application due to poor stability. Recently, we demonstrated that by encoding statistic pattern of monomer distribution in random heteropolymers (RHPs), it is feasible to generate polymers mimicking intrinsically disordered proteins (IDPs). RHPs succeed in stabilizing proteins in non-native environment, assisting protein folding during translation, and fabrication of enzyme-containing fabrics for in-field organophosphorus degradation in both aqueous and organic solvents. In nature, abundant IDPs are found to catalyze reactions and bind substrate for signal transduction. Here, our Berkeley/MIT joint team proposes a synergized experiment/computation effort toward iterative design of RHPs capable of catalyzing and selectively binding toxin molecules in both aqueous and organic solvents.less",
+        "end_year": "2024",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "2,484,465",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636222?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Ting Xu",
+        "key_highlights": [
+            "The research grant aims to design statistical heteropolymers that mimic enzymes and binders.",
+            "The focus is on developing methods for detecting and neutralizing chemical and biological warfare agents.",
+            "The use of random heteropolymers has been shown to stabilize proteins and assist in enzyme-containing fabrics for in-field degradation.",
+            "The proposed research will involve a collaboration between Berkeley and MIT to iteratively design heteropolymers capable of catalyzing and selectively binding toxins in various solvents."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "34 Chemical Sciences",
+            "3406 Physical Chemistry"
+        ],
+        "section_details": "Funding amount\nUSD 2,484,465\nFunding period\n2019\n6 Feb\n\u2010\n2024\n5 Feb\nResulting DOD publications\n9",
+        "start_year": "2019",
+        "title": "Rational Design of Statistical Heteropolymers as Biomimetic Enzymes and Binders",
+        "tldr": "This research grant aims to design statistical heteropolymers that mimic the functions of enzymes and binders found in nature, specifically for the detection and neutralization of chemical and biological warfare agents. These heteropolymers have been shown to stabilize proteins, assist in protein folding, and degrade organophosphorus compounds in both aqueous and organic solvents. The team plans to use a combination of experiments and computational methods to iteratively design these heteropolymers for optimal catalytic and binding capabilities.",
+        "top_keywords": [
+            "Rational design",
+            "Statistical heteropolymers",
+            "Biomimetic enzymes",
+            "Binders",
+            "Chemical and biological warfare agents",
+            "Bioremediation",
+            "Intrinsically disordered proteins",
+            "Random heteropolymers",
+            "Organophosphorus degradation",
+            "Signal transduction"
+        ],
+        "units_of_assessment": [
+            "B08 Chemistry"
+        ]
+    },
+    {
+        "abstract": "Based on the success demonstrated in the Phase I programs, this Phase II program will transition AINS technology developed in the universities into various compelling demonstrations that demonstrate the robust advantages of AINS. In the four Phase Iprograms we were able to perform significant initial AINS technologyless",
+        "end_year": "2003",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,981,567",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4394129?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Anthony Mulligan",
+        "key_highlights": [
+            "Real-time multimedia communications",
+            "Highly mobile networks",
+            "Transition of AINS technology from universities",
+            "Demonstrations showcasing the advantages of AINS technology"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "46 Information and Computing Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 1,981,567\nFunding period\n2002\n30 Sep\n\u2010\n2003\n29 Sep",
+        "start_year": "2002",
+        "title": "Real-time Multimedia Communications in Highly Mobile Networks.",
+        "tldr": "This Phase II program aims to demonstrate the robust advantages of AINS technology in real-time multimedia communications in highly mobile networks, building on the success of Phase I programs. The focus will be on transitioning AINS technology developed in universities into compelling demonstrations.",
+        "top_keywords": [
+            "Real-time",
+            "Multimedia Communications",
+            "Highly Mobile Networks",
+            "Phase II program",
+            "AINS technology",
+            "Compelling demonstrations",
+            "Robust advantages",
+            "Phase I programs",
+            "Initial technology"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "16 Peace, Justice and Strong Institutions"
+        ],
+        "abstract": "Abstract: Developing countries around the world increasingly face violent irregular threats in the form of insurgency and terrorism. Many developing countries, however, have proven unable to effectively deploy their security institutions, military and civilian, in responding to those threats. The problem for U.S. policymakers and military planners is that existing research cannot explain much of the cross-national variation in the performance of security institutions in tackling violent irregular threats. The Program on Security Institutions and Violent Instability seeks to advance our understanding of how the design of security institutions (e.g., military, police, paramilitary, militia) can affect the capacity of countries to combat violent irregular threats. We specifically propose to assess how the institutional features of state security forces, including structure factors (such as inter-service coordination rules) and system factors (such as promotion policies), shape their ability to undertake sustained counterinsurgency and counterterrorism campaigns. We will examine how such institutional differences influence whether countries can deter the onset of violent irregular threats, defeat existing violent groups, reduce the number of civilian and combatant deaths, and increase the duration of periods without violent activity. The Program on Security Institutions and Violent Instability will pursue its research objectives through a multi-method approach. First, we propose to assemble and statistically analyze a cross-national Domestic Security Institutions (DSI) database with systematically coded information on security institutions and their inter-service relationships. Second, we propose to produce paired case studies of six countries that share a common set of threats, but exhibit considerable variation in their success combating those threats: Colombia and Mexico; Ethiopia and Nigeria; and Burma/Myanmar and the Philippines. Third, we propose to conduct a survey of security personnel in the Philippines, where multiple types of security institutions have been employed in combatting insurgency and terrorism with varying degrees of success. This study will have direct implications for U.S. defense missions across command regions and across services. By accounting empirically for differences in the performance of critical security institutions, this project will contribute to the development of objective diagnostic metrics for anticipating how partner countries, particularly in fragile and transitional states, might respond to the outbreak of insurgency or the emergence of a terrorist network within its borders. Additionally, the data and analysis generated by this project will enable policymakers and military planners to better target security sector assistance and reform programs to the institutions within partner countries most likely to respond positively.less",
+        "end_year": "2020",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "1,836,044",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826039?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Leonardo Arriola",
+        "key_highlights": [
+            "The research grant is focused on understanding how the design of security institutions can affect a country's ability to combat violent irregular threats.",
+            "The study will use a multi-method approach, including statistical analysis, case studies, and a survey of security personnel.",
+            "The research will specifically assess how institutional features, such as inter-service coordination and promotion policies, impact a country's ability to undertake sustained counterinsurgency and counterterrorism campaigns.",
+            "The findings of this research will have direct implications for U.S. defense missions and can contribute to the development of objective diagnostic metrics for anticipating how partner countries will respond to violent threats."
+        ],
+        "research_categories": [
+            "44 Human Society",
+            "4408 Political Science"
+        ],
+        "section_details": "Funding amount\nUSD 1,836,044\nFunding period\n2017\n22 Jan\n\u2010\n2020\n21 Jan",
+        "start_year": "2017",
+        "title": "Program on Security Institutions and Violent Instability",
+        "tldr": "The Program on Security Institutions and Violent Instability aims to understand how the design of security institutions affects a country's ability to combat insurgency and terrorism. Through a multi-method approach, the study will analyze a cross-national database, conduct case studies, and survey security personnel in the Philippines. The findings will have implications for U.S. defense missions and can help target security sector assistance and reform programs.",
+        "top_keywords": [
+            "Security institutions",
+            "Violent instability",
+            "Developing countries",
+            "Counterinsurgency",
+            "Counterterrorism",
+            "Institutional features",
+            "Inter-service coordination",
+            "Military planners",
+            "Fragile states",
+            "Security sector assistance"
+        ],
+        "units_of_assessment": [
+            "C19 Politics and International Studies"
+        ]
+    },
+    {
+        "abstract": "Environmental structures of interest like mountains, tunnels, and deposits of minerals, oil or gas produce distortions in the local gravitational field. Sensing gravity anomalies and comparing them to a gravity map can provide positioning immune to theless",
+        "end_year": "2022",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "1,499,986",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.10036794?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Richard Parker",
+        "key_highlights": [
+            "Development of a Fiber-laser based Mobile Atom Sensor (FiMAS)",
+            "Detection of gravity anomalies caused by environmental structures such as mountains, tunnels, and mineral/oil/gas deposits",
+            "Comparison of detected anomalies to a gravity map",
+            "Potential for providing immune positioning using gravity sensing technology"
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\nUSD 1,499,986\nFunding period\n2021\n17 Mar\n\u2010\n2022\n18 Sep",
+        "start_year": "2021",
+        "title": "Fiber-laser based Mobile Atom Sensor (FiMAS)",
+        "tldr": "FiMAS is a mobile atom sensor that uses fiber-laser technology to detect and measure gravity anomalies caused by environmental structures like mountains, tunnels, and mineral deposits. This can provide accurate positioning that is immune to external disturbances.",
+        "top_keywords": [
+            "Fiber-laser",
+            "Mobile",
+            "Atom sensor",
+            "Environmental structures",
+            "Gravitational field",
+            "Gravity anomalies",
+            "Gravity map",
+            "Positioning",
+            "Immunity",
+            "Sensing"
+        ]
+    },
+    {
+        "abstract": "Uncertainty on the modern battlefield makes mission planning and decision making extremely complex for field commanders. Mission planners can be aided by initial and ongoing situation assessment, future state estimation, assessment of the current plan\"s probability of success, what-if analysis, and suggestions for decisions. At present, few automated tools exist to provide mission planners with the required information. An automated tool to assist mission planners must deal with both the inherent uncertainty and the complexity of the situation. Charles River Analytics proposes a system for Probabilistic and Relational Inferences in Dynamic Environments (PRIDE), an approach based on probabilistic relational models (PRMs). PRMs use probabilities to handle uncertainty while capturing the logical and relational structure of a situation to handle complexity. We base our implementation of PRMs on probabilistic programming (PP), which provides a powerful and flexible way to represent probabilistic models using the power of programming languages. We propose to design and develop a full-fledged prototype of our PRM and PP engine, to design and develop temporal reasoning capabilities, and to design and develop decision-theoretic reasoning capabilities.less",
+        "end_year": "2011",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "1,499,383",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4441568?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Avi Pfeffer",
+        "key_highlights": [
+            "Uncertainty on the modern battlefield makes mission planning and decision making complex for field commanders.",
+            "Automated tools are needed to assist mission planners with initial and ongoing situation assessment, future state estimation, and decision making.",
+            "The proposed system, PRIDE, is based on probabilistic relational models (PRMs) and probabilistic programming (PP).",
+            "The project aims to design and develop a prototype of the PRM and PP engine, as well as temporal and decision-theoretic reasoning capabilities."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\nUSD 1,499,383\nFunding period\n2011\n17 Jan\n\u2010\n2011\n29 Sep",
+        "start_year": "2011",
+        "title": "Probabilistic and Relational Inferences in Dynamic Environments (PRIDE)",
+        "tldr": "PRIDE is a proposed automated tool that uses probabilistic relational models and probabilistic programming to assist mission planners in dealing with uncertainty and complexity in dynamic environments. It aims to provide initial and ongoing situation assessment, future state estimation, and decision-making suggestions for field commanders.",
+        "top_keywords": [
+            "Probabilistic",
+            "Relational Inferences",
+            "Dynamic Environments",
+            "Uncertainty",
+            "Mission Planning",
+            "Decision Making",
+            "Automated Tools",
+            "Probabilistic Relational Models",
+            "Probabilistic Programming",
+            "Temporal Reasoning"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "\"Vacuum Electronics Manufacturing: W-band Additive Vacuum Electronics (WAVE)\". Researching development of innovative approaches to modeling, advanced manufacturing, theory and design of components, and other focus areas that enable revolutionary advances in vacuum electron output at millimeter wave (mm-wave) frequencies ranging from 75 to110 GHz. in investigation of traveling wave tube amplifiers for satellite communications and mobile and ground uplinks.less",
+        "end_year": "2019",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "1,259,695",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7079830?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Liwei Lin",
+        "key_highlights": [
+            "The research grant is called INVEST BAA Grant and the project is titled \"Vacuum Electronics Manufacturing: W-band Additive Vacuum Electronics (WAVE)\".",
+            "The focus of the research is on developing innovative approaches to modeling, advanced manufacturing, theory and design of components.",
+            "The goal is to enable revolutionary advances in vacuum electron output at millimeter wave (mm-wave) frequencies ranging from 75 to 110 GHz.",
+            "The specific application of this research is in investigating traveling wave tube amplifiers for satellite communications and mobile and ground uplinks."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,259,695\nFunding period\n2016\n12 Apr\n\u2010\n2019\n9 Apr\nResulting DOD publications\n3",
+        "start_year": "2016",
+        "title": "INVEST BAA Grant, Project: Vacuum Electronics Manufacturing: W-band Additive Vacuum Electronics (WAVE)",
+        "tldr": "The INVEST BAA grant project, WAVE, focuses on developing innovative approaches to modeling, manufacturing, and design of components for vacuum electronics at mm-wave frequencies. This research aims to improve vacuum electron output for satellite communications and mobile and ground uplinks.",
+        "top_keywords": [
+            "Vacuum Electronics Manufacturing",
+            "W-band",
+            "Additive Vacuum Electronics",
+            "Modeling",
+            "Advanced Manufacturing",
+            "Theory",
+            "Design",
+            "Components",
+            "Millimeter wave",
+            "Traveling wave tube amplifiers"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "K2 Space is developing the Giga Class satellite bus, an ultra-high-power spacecraft capable of delivering over 115kW of power and 15,000kg of payload mass to enable previously unattainable capabilities spanning ISR (Intelligence, Surveillance, and Reconnaless",
+        "end_year": "2025",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "1,249,626",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13975878?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Matthew Croce",
+        "key_highlights": [
+            "Development of Giga Class satellite bus",
+            "Ultra-high-power spacecraft capable of delivering over 115kW of power",
+            "Payload mass of 15,000kg",
+            "Enable previously unattainable capabilities in ISR (Intelligence, Surveillance, and Reconnaissance)"
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5109 Space Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 1,249,626\nFunding period\n2023\n19 Sep\n\u2010\n2025\n23 Mar",
+        "start_year": "2023",
+        "title": "Precision Pointing for High Resolution Optical and RF Remote Sensing Satellites",
+        "tldr": "K2 Space is creating a powerful satellite capable of delivering high resolution images and data through precise pointing technology. This will greatly enhance capabilities for intelligence, surveillance, and reconnaissance missions.",
+        "top_keywords": [
+            "Precision pointing",
+            "High resolution",
+            "Optical",
+            "RF remote sensing",
+            "Satellites",
+            "Giga Class satellite bus",
+            "Ultra-high-power",
+            "Payload mass",
+            "ISR",
+            "Intelligence, Surveillance, and Reconnaissance"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Advances in DNA sequencing technology have generated a rapid expansion of human genome information and the revelation of extraordinary individual-level genetic variation.  Individual genome sequencing will soon be routine and cost-effective.  To exploit this resource to the benefit of warfighters, we propose an approach for identifying and characterizing genetic variants that compromise metabolic efficiency (and ultimately physical and cognitive performance) yet are amenable to nutritional optimization.  There are 600+ cofactor-dependent enzymes in the human proteome, and preliminary studies provide ample precedence for the remediation of dysfunctional enzyme variants by simple vitamin/mineral supplementation. We describe a technology platform in which all possible enzyme variants are functionally assessed and pre-determined for each enzyme/gene.  These datasets will serve to rapidly identify carriers of variant enzymes who can metabolically benefit from cofactor supplementation.  In Phase I, the key technical aspects of the approach have been validated.  These include:  1) generating comprehensive variant libraries of target genes through a simple, minimal-step process for functional testing, and 2) assessing function of all possible single-nucleotide variants simultaneously by quantitative complementation in a model organism (the yeast, Saccharomyces cerevisiae).  The validation of these processes makes gene atlas generation achievable at a scale large enough to provide meaningful data for genome interpretation.  In a first-use scenario, these studies will facilitate Phase II efforts to query all genes (N = 13) related to clearance of homocysteine, an intermediary metabolite in methionine/one-carbon pathways.  Elevated homocysteine levels can have adverse effects on physical performance and cardio-respiratory fitness, though the metabolic steps surrounding homocysteine are amenable to nutritional \u201ctuning\u201d.  Specifically, we will define the functional impact of all possible single-nucleotide changes within this metabolic cassette to serve as an information resource used to identify at-risk individuals.  These finding will spur a field trial in which individual genotype and metabolite profile are diagnostic for potential performance enhancement, as well as define a first product for subsequent commercialization.  This pioneering work will render genome sequence an asset to improve health, fitness and readiness.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,094,874",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.10038607?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Nicholas Marini",
+        "key_highlights": [
+            "Exploiting single nucleotide polymorphisms for performance enhancement",
+            "Identification and characterization of genetic variants that affect metabolic efficiency",
+            "Use of vitamin/mineral supplementation to remediate dysfunctional enzyme variants",
+            "Creation of a technology platform to assess all possible single-nucleotide variants and identify at-risk individuals for performance enhancement."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3102 Bioinformatics and Computational Biology",
+            "3105 Genetics",
+            "Research, Condition, and Disease Categorization",
+            "Biotechnology",
+            "Genetics",
+            "Human Genome",
+            "Nutrition",
+            "Health Category (HRCS)",
+            "Generic health relevance",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning"
+        ],
+        "section_details": "Funding amount\nUSD 1,094,874\nFunding period\n2021\n10 Feb\n\u2010\n2023\n27 Feb",
+        "start_year": "2021",
+        "title": "Exploiting Single Nucleotide Polymorphisms for Extreme Performance",
+        "tldr": "This research grant aims to use DNA sequencing technology to identify and characterize genetic variants that affect metabolic efficiency and can be improved through nutritional supplementation. The team plans to validate their approach by studying genes related to homocysteine clearance and use this information to identify individuals who can benefit from personalized supplementation for improved physical and cognitive performance.",
+        "top_keywords": [
+            "Single Nucleotide Polymorphisms",
+            "Genetic Variation",
+            "Metabolic Efficiency",
+            "Nutritional Optimization",
+            "Enzyme Variants",
+            "Cofactor Supplementation",
+            "Gene Atlas",
+            "Homocysteine",
+            "Methionine/One-Carbon Pathways",
+            "Performance Enhancement"
+        ],
+        "units_of_assessment": [
+            "A01 Clinical Medicine"
+        ]
+    },
+    {
+        "abstract": "Recent advances in the fabrication of detector materials and readouts, machine vision, and autonomous systems and their control enable unprecedented capabilities in the search, localization, and characterization of nuclear and radiological materials. The integration of these advancements into autonomous platforms, such as small, unmanned aerial systems (sUAS), will significantly enhance the speed and accuracy in the detection and mapping of nuclear materials, particularly in complex and inaccessible environments while minimizing the exposure of the warfighter to hazards. We propose to study the fundamental properties of the relevant sensing and control components to enable a network of mobile sensors. The sensing components consist of new generations of organic scintillators along with solid-state photodetectors. Fundamental properties in the design, fabrication, and operation of these new materials will be explored to enhance the sensitivity and specificity in the detection of gamma rays and neutrons associated with special nuclear materials. Techniques to 3D print these materials will be explored and their utilization as structural components of detection systems and platforms as well as their arrangement to modulate and moderate incident radiation to improve localization capabilities. These basic aspects will be studied in combination with machine vision concepts required for the control of the mobile detection units to enable the mapping and reconstruction of 3-D environments and the fusion with radiological data. The control components entail new concepts in the effective deployment of mobile networks to minimize the search time utilizing algorithms to compute theoretic quantities represented as probability distributions over the environment states. New concepts in the localization, mapping, and visualization will be explored along with the multi-dimensional set of data to optimize the real-time control of multiple sensing platforms employing information theoretical control concepts.less",
+        "end_year": "2021",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "1,048,641",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636323?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Kai Vetter",
+        "key_highlights": [
+            "Recent advances in detector materials, machine vision, and autonomous systems have improved capabilities in detecting and mapping nuclear and radiological materials.",
+            "Integration of these advancements into autonomous platforms, such as small unmanned aerial systems, can enhance speed and accuracy while minimizing exposure to hazards.",
+            "The study will focus on fundamental properties of sensing and control components to enable a network of mobile sensors.",
+            "Techniques such as 3D printing and machine vision will be explored to improve the sensitivity and specificity of detection, as well as the control and mapping capabilities of the mobile units."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\nUSD 1,048,641\nFunding period\n2018\n22 Mar\n\u2010\n2021\n21 Mar",
+        "start_year": "2018",
+        "title": "New Concepts for Mobile Radiation Detection and Mapping Systems",
+        "tldr": "This research grant aims to develop new concepts for mobile radiation detection and mapping systems using advanced detector materials, machine vision, and autonomous platforms. The focus is on enhancing speed, accuracy, and safety in detecting and mapping nuclear materials in complex and inaccessible environments. The study will explore the fundamental properties of sensing and control components, including new generations of organic scintillators and solid-state photodetectors, as well as techniques such as 3D printing and machine vision. The goal is to optimize real-time control of multiple sensing platforms and improve localization capabilities through the fusion of radiological data.",
+        "top_keywords": [
+            "Mobile radiation detection",
+            "Mapping systems",
+            "Detector materials",
+            "Autonomous systems",
+            "Nuclear materials",
+            "Unmanned aerial systems (sUAS)",
+            "Organic scintillators",
+            "Solid-state photodetectors",
+            "Machine vision",
+            "Control components"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Understanding the dynamics of strongly-interacting systems composed of many particles is a prerequisite for controlling complex quantum phenomena. While the equations of motion governing these dynamics have been known for almost a century, solving them in full generality is simply too difficult. Fortunately, a combination of analytic, numerical and experimental progress has led to the development of insights and tools that bridge the gap between microscopic quantum dynamics and macroscopic quantum behavior. These insights suggest a remarkable proposition: that out-of-equilibrium systems can stabilize many-body entanglement and exhibit phenomena fundamentally richer than their static counterparts. However, predicting and measuring the non-equilibrium dynamics of strongly correlated quantum systems remains a central open challenge in physics. Part of this challenge stems from the fact that many-body systems can be taken out of equilibrium in a variety of different ways, each with its own set of expectations and guiding intuition. Among others, this plenitude of non-equilibrium strategies include: periodic driving, prethermalization, strong disorder, quantum quenches, and dissipation. To this end, the overarching goal of this proposal is to explore quantum phenomena, which can only be realized via the cooperative synergy between multiple non-equilibrium techniques. In particular, we propose to investigate two intertwined questions: first, what are the novel types of emergent quantum order that can arise in systems, which exhibit a combination of disorder, driving, and dissipation. And second, how do the microscopic dynamics of quantum information in such systems lead to late-time, macroscopic steady-states. We will address these long-standing questions by developing: 1) analytical techniques which bound the speed-limit for quantum information flow, 2) massively-parallel computational methods which enable large-scale quantum dynamics simulations, and 3) a novel experimental platform composed of two different species of strongly-interacting spin-defects in the solid-state. In addition to answering fundamental questions in the broad landscape of quantum physics, our results will directly impact a number of applications - such as quantum metrology, computing, and communication - which rely upon the production, preservation, and manipulation of far-from-equilibrium quantum systems.less",
+        "end_year": "2026",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9709973?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Norman Yao",
+        "key_highlights": [
+            "Understanding dynamics of strongly-interacting systems composed of many particles",
+            "Bridging the gap between microscopic quantum dynamics and macroscopic quantum behavior",
+            "Investigating novel types of emergent quantum order in systems with a combination of disorder, driving, and dissipation",
+            "Developing analytical techniques, computational methods, and experimental platforms to study non-equilibrium quantum phenomena and their potential applications in quantum metrology, computing, and communication."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5102 Atomic, Molecular and Optical Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 1,000,000\nFunding period\n2021\n19 May\n\u2010\n2026\n18 May\nResulting DOD publications\n3",
+        "start_year": "2021",
+        "title": "Emergent Order and Quantum Information Flow in Non-equilibrium Systems",
+        "tldr": "This research grant aims to understand the dynamics of strongly-interacting systems and their quantum behavior. The goal is to explore the emergence of quantum order and information flow in non-equilibrium systems using a combination of analytical, computational, and experimental methods. The results will have implications for various applications in quantum physics.",
+        "top_keywords": [
+            "Emergent order",
+            "Quantum information flow",
+            "Non-equilibrium systems",
+            "Strongly-interacting systems",
+            "Many-body entanglement",
+            "Non-equilibrium dynamics",
+            "Strongly correlated quantum systems",
+            "Periodic driving",
+            "Quantum quenches",
+            "Quantum metrology"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "In Phase I, our team of Kitware and UC-Berkeley developed Scale-MAE by adding ground sample distance (GSD) to positional encodings, and produced a multiscale representation that achieves state-of-the art results across image classification, semantic segmentation, and object detection tasks. In Phase II, we will create a remote sensing pretraining toolkit to enable fast and easy experimentation with multiple self supervised pertaining techniques that create foundational deep neural network models applicable across NGA. The foundational networks will be tested on the tasks as Scale-MAE in Phase I, and we will also benchmark performance for key point matching. Phase II will extend our Scale-MAE work by integrating additional metadata into the network to increase accuracy by providing it with more information; we will extend the approach to handle inputs including NTM, multi-spectral, and SAR data. Finally, the downstream task networks will be transitioned into NGA SAFFIRE for integration and evaluation. This system will enable NGA to quickly train and deploy new detectors to quickly respond to shifting needs and reduce the time from the analyst\u2019s demand for a new task capability to the execution and availability of said capability.less",
+        "end_year": "2025",
+        "funder": "National Geospatial-Intelligence Agency",
+        "funding_amount_usd": "999,867",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13977663?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Christopher Funk",
+        "key_highlights": [
+            "Development of Scale-MAE, a multiscale representation for image classification, semantic segmentation, and object detection tasks.",
+            "Creation of a remote sensing pretraining toolkit for experimentation with self supervised pertaining techniques.",
+            "Integration of additional metadata into the network to increase accuracy.",
+            "Transition of downstream task networks into NGA SAFFIRE for integration and evaluation."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Networking and Information Technology R&D (NITRD)"
+        ],
+        "section_details": "Funding amount\nUSD 999,867\nFunding period\n2023\n13 Sep\n\u2010\n2025\n16 Sep",
+        "start_year": "2023",
+        "title": "Multi-Task Scale -aware Continuous and Localizable Embeddings",
+        "tldr": "Phase I developed Scale-MAE, a multiscale representation that achieved state-of-the-art results in image classification, semantic segmentation, and object detection. Phase II will create a remote sensing pretraining toolkit to experiment with self-supervised techniques and integrate additional metadata to increase accuracy. This system will allow for quick training and deployment of new detectors for NGA.",
+        "top_keywords": [
+            "Multi-Task",
+            "Scale-aware",
+            "Continuous",
+            "Localizable",
+            "Embeddings",
+            "Ground sample distance (GSD)",
+            "Positional encodings",
+            "Remote sensing",
+            "Pretraining toolkit",
+            "Self supervised learning"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "In this report, we review progress towards a framework for understanding the foundations of machine learning systems that can interact with their physical environment. We will discuss new results on robust system identification algorithms and methods for safely exploring new policies in uncertain environments. We will describe new progress on collaboration between learning modalities, highlighting techniques for adapting learning systems to new, unseen domains. And we will provide new understanding of machine learning systems that operate on nonconvex losses, showing that these systems necessarily require more computational resources than their linear counterparts.less",
+        "end_year": "2018",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "950,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826256?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Ben Recht",
+        "key_highlights": [
+            "The research focuses on understanding the foundations of machine learning systems that interact with their physical environment.",
+            "The report discusses new results on robust system identification algorithms and methods for safely exploring new policies in uncertain environments.",
+            "Collaboration between learning modalities is highlighted, with techniques for adapting learning systems to new, unseen domains.",
+            "The study also provides new understanding of machine learning systems operating on nonconvex losses, showing that they require more computational resources than linear counterparts."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4611 Machine Learning",
+            "Research, Condition, and Disease Categorization",
+            "Machine Learning and Artificial Intelligence",
+            "Networking and Information Technology R&D (NITRD)"
+        ],
+        "section_details": "Funding amount\nUSD 950,000\nFunding period\n2016\n31 Aug\n\u2010\n2018\n30 May",
+        "start_year": "2016",
+        "title": "Fundamental Limits of the Action-Perception Loop",
+        "tldr": "This research grant aims to understand the fundamental limits of machine learning systems that interact with their physical environment. It will focus on developing robust system identification algorithms, safe exploration methods, and collaboration between learning modalities. The study also reveals that nonconvex losses require more computational resources than linear counterparts.",
+        "top_keywords": [
+            "Action-perception loop",
+            "Machine learning systems",
+            "Physical environment",
+            "Robust system identification",
+            "Uncertain environments",
+            "Learning modalities",
+            "Adapting learning systems",
+            "Nonconvex losses",
+            "Computational resources",
+            "Linear counterparts"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "The goal is to answer the question of under which circumstances quantum information can be sent through noisy channels. Answering this question is a particularly relevant prerequisite for quantum cryptography and quantum computing.less",
+        "end_year": "2018",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "895,804",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7081267?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Hartmut Haeffner",
+        "key_highlights": [
+            "The research grant is focused on the transport of quantum correlations through noisy channels.",
+            "The goal is to determine the circumstances under which quantum information can be successfully transmitted through noisy channels.",
+            "The results of this research will have implications for quantum cryptography and quantum computing.",
+            "Understanding the conditions for successful transmission of quantum information through noisy channels is an important prerequisite for further advancements in quantum technology."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "51 Physical Sciences",
+            "5102 Atomic, Molecular and Optical Physics"
+        ],
+        "section_details": "Funding amount\nUSD 895,804\nFunding period\n2015\n30 Jun\n\u2010\n2018\n29 Jun\nResulting DOD publications\n3",
+        "start_year": "2015",
+        "title": "Transport of Quantum Correlations through Noisy Channels",
+        "tldr": "This research aims to determine the conditions under which quantum information can be successfully transmitted through noisy channels, which is crucial for applications in quantum cryptography and computing.",
+        "top_keywords": [
+            "Quantum correlations",
+            "Noisy channels",
+            "Quantum information",
+            "Quantum cryptography",
+            "Quantum computing",
+            "Transport",
+            "Circumstances",
+            "Relevance",
+            "Prerequisite"
+        ]
+    },
+    {
+        "abstract": "This projects supports the development of a new approach to trapped-atom interferometry, named quantum adiabatic interferometry, and its application toward precise sensing of acceleration, rotation, and other effects. The project is divided into three main tasks. First, project researchers will develop advanced optical systems for producing optical box potentials, in which atoms are trapped in a dark, un-illuminated volume, while being surrounded with a \"wall\" of high intensity light. When this light is blue-detuned from atomic transitions, these walls confine the atoms in the dark volume, within which they experience no potential energy variations or other disturbances from the trapping light. A goal of this task is to produce box potentials with high contrast of light intensity between the trapping volume and the optical walls, to confirm that optical trapping can be performed with light close to atomic resonance, thereby reducing the optical power requirements, and to develop optical systems with a small footprint in terms of size, weight and power. A second task is to provide a near-perfect microgravity environment for trapped atoms within stationary on-Earth setups. For this, a precise electromagnet set, to provide a magnetic field gradient whose force on atoms cancels the gravitational force, will be modeled, wound, tested, and demonstrated to produce residual accelerations at the micro-g level. The third task is to demonstrate long-lived coherence in a box-trap atom interferometer, in which a quantum-coherent gas of atoms is adiabatically divided into two separate containers, allowed to evolve freely for variable time, and then used for phase-sensitive matter-wave interference. An overall goal of the project is to demonstrate all the necessary techniques and principles to use quantum adiabatic interferometers for inertial sensing.less",
+        "end_year": "2022",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "885,698",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9290294?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Dan Stamper-Kurn",
+        "key_highlights": [
+            "Development of a new approach to trapped-atom interferometry called quantum adiabatic interferometry",
+            "Application of this approach towards precise sensing of acceleration, rotation, and other effects",
+            "Development of advanced optical systems for producing optical box potentials with high contrast and small footprint",
+            "Demonstration of long-lived coherence in a box-trap atom interferometer for phase-sensitive matter-wave interference."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5102 Atomic, Molecular and Optical Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 885,698\nFunding period\n2020\n14 Jun\n\u2010\n2022\n13 Jun\nResulting DOD publications\n8",
+        "start_year": "2020",
+        "title": "Quantum Adiabatic Interferometry",
+        "tldr": "This project aims to develop a new approach to trapped-atom interferometry called quantum adiabatic interferometry. It involves creating advanced optical systems for trapping atoms, providing a microgravity environment, and demonstrating long-lived coherence in an atom interferometer. The ultimate goal is to use this technique for precise sensing of acceleration, rotation, and other effects.",
+        "top_keywords": [
+            "Quantum adiabatic interferometry",
+            "Trapped-atom interferometry",
+            "Optical box potentials",
+            "Microgravity environment",
+            "Electromagnet set",
+            "Coherence",
+            "Matter-wave interference",
+            "Inertial sensing",
+            "Atomic transitions",
+            "Optical trapping"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "This effort aims to extend the application of laser and evaporative cooling to a new family of elements. The specifi c aim of this project is to create an ultracold, quantum degenerate gas of titanium atoms. A scheme is proposed wherein titanium atoms are excited to a metastable state, the a5F5 atomic state. Two closed optical transitions are identified, at wavelengths near 498 and 1040 nm, that permit the application of standard laser-cooling methods to metastable titanium atoms. A four-phase research effort is outlined, with the goals of (1) assembling and testing a titanium atomic beam apparatus, and applying optical pumping to prepare atoms in the a5F5 state, (2) Zeeman slowing and magneto-optical trapping of titanium atoms in the metastable state, (3) magnetic or optical trapping of atoms in the metastable state or in one of the fine-structure states of the a3F electronic ground level, and (4) preparation of quantum degenerate gases in the fine-structure ground state. Success in this project will open the door to new scientifi c directions, such as the study of ultracold gases in mixtures of different angular-momentum states and subject to polarization-dependent off-resonant light fields, the study of long-lived spin-orbit-coupled Fermi gases and their possible topological low-energy phases, new variations on atom interferometry enabled by the polarization-dependent optical interactions and the plethora of metastable states in the titanium spectrum, and the study of stable spin-2 spinor Bose-Einstein condensates. The success of this effort will also demonstrate a path toward cooling several other transition-metal atomic gases. This abstract is intended for public release.less",
+        "end_year": "2024",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "873,278",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9290438?order=funding&or_facet_research_org=grid.47840.3f&not_facet_funder=grid.496791.4",
+        "investigator": "to Dan Stamper-Kurn",
+        "key_highlights": [
+            "The research aims to extend laser and evaporative cooling to a new family of elements.",
+            "The specific goal is to create an ultracold, quantum degenerate gas of titanium atoms.",
+            "A four-phase research effort is outlined, with the ultimate goal of preparing quantum degenerate gases in the fine-structure ground state.",
+            "Success in this project will open the door to new scientific directions and demonstrate a path towards cooling other transition-metal atomic gases."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5102 Atomic, Molecular and Optical Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 873,278\nFunding period\n2020\n30 Jun\n\u2010\n2024\n29 Jun\nResulting DOD publications\n1",
+        "start_year": "2020",
+        "title": "Degenerate quantum gases of transition metal atoms",
+        "tldr": "This research aims to create an ultracold, quantum degenerate gas of titanium atoms using laser and evaporative cooling methods. The project outlines a four-phase approach to achieve this goal and hopes to open up new scientific directions in the study of ultracold gases. Success in this project could also pave the way for cooling other transition-metal atomic gases.",
+        "top_keywords": [
+            "Degenerate quantum gases",
+            "Transition metal atoms",
+            "Laser cooling",
+            "Evaporative cooling",
+            "Ultracold gases",
+            "Metastable state",
+            "Optical trapping",
+            "Fine-structure states",
+            "Spin-orbit coupling",
+            "Bose-Einstein condensates"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    }
+]

@@ -1,0 +1,810 @@
+[
+    {
+        "abstract": "As software systems keep evolving, we have witnessed that modern software is increasingly complex and bloated. Aprimary reason for\"\" this phenomenon is because current software engineering practices, such as object-orientedprogramming and code reuse, introduce la\"\"yers of abstractions. As a result, software becomes more extensible andversatile. However, on the flip side, increasing complexity\"\" leads to worse performance and larger attack surface.At the same time, commodity applications, such as office suites and web brows\"\"ers, are built with performance in mind.Given the sophisticated functionalities they provide, it is standard to use languages that\"\" provide sufficient levels ofabstraction with a minimal performance penalty. Therefore, low-level object-oriented languages, such a\"\"s C++, aretypically the choice for their implementation which are difficult to reverse-engineer and present challenges when itcome\"\"s to recognizing the types and data structures due to aliasing.In this project, we would like to develop a set of techniques to rev\"\"erse this trend. For commercialoff- the-shelf (COTS)binary programs, we would like to automatically identify important features in\"\" it, remove unnecessary features (uponuser~s selection), and further harden the pruned binary (to defeat potential exploitation att\"acks).less",
+        "end_year": "2022",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "4,686,131",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078828?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Heng Yin",
+        "key_highlights": [
+            "The research grant is focused on developing techniques to reverse the trend of increasing complexity in modern software systems.",
+            "The use of object-oriented programming and code reuse has led to software becoming more extensible and versatile, but also more complex and vulnerable.",
+            "Commodity applications, such as office suites and web browsers, prioritize performance and often use low-level object-oriented languages like C++.",
+            "The project aims to automatically identify and remove unnecessary features in commercial off-the-shelf binary programs, and further harden them to prevent exploitation attacks."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4606 Distributed Computing and Systems Software",
+            "4612 Software Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 4,686,131\nFunding period\n2017\n13 Sep\n\u2010\n2022\n29 Sep\nResulting DOD publications\n6",
+        "start_year": "2017",
+        "title": "Leapfrog: Learn and Prune Features in Binary Programs",
+        "tldr": "This research project aims to develop techniques to improve the performance and security of complex software systems by identifying and removing unnecessary features in binary programs. This will be particularly useful for commercial off-the-shelf programs, which often have a high level of abstraction and are difficult to reverse-engineer.",
+        "top_keywords": [
+            "Leapfrog",
+            "Learn",
+            "Prune",
+            "Binary Programs",
+            "Software Engineering",
+            "Object-Oriented Programming",
+            "Code Reuse",
+            "Abstractions",
+            "Performance",
+            "Reverse-Engineering"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Overview and problem statement: This project will create a new comprehensive research field of one-dimensional (1D) quantum materials consisting of individual atomic chains and few-chain threads of van-der-Waals (vdW) materials, and composites comprised of bulk polymer matrix with 1D atomic chain fillers. Thereby, it will shift the current paradigm by taking one step down in dimensionality from 2D vdW materials, and creating truly 1D quantum materials. The proposed research focuses on unfettered, beyond-conventional approaches to the discovery of materials that exhibit previously unattainable functionalities. Limited experimental work is available only for bundles of atomic chains of such 1D vdW materials, suggesting extraordinary electrical current densities and unusual electron-phonon coupling. Computational machine learning studies indicate that there are hundreds of vdW materials with true-1D or quasi-1D crystalline structures consisting of 1D atomic threads weakly bound in bundles. Exfoliated to a few-chain atomic threads, these materials become genuinely quantum: owing to their atomic scale dimensions and atomically sharp interfaces, the electron states are quantum confined; in addition, many of 1D vdW materials are strongly-correlated quantum systems, which reveal non-trivial quantum phenomena, such as charge-density-wave (CDW) condensate phases, magnetic phases, superconductivity, strong spin orbit coupling, and non-trivial topology. Project goals and objectives: We propose to perform a comprehensive study of 1D quantum materials with the goals of understanding the limits of downscaling of 1D vdW crystals; fine tuning electron and phonon transport, quasi-particle interactions; and controlling strongly correlated quantum phenomena in 1D materials. We anticipate discoveries of unique electronic, thermal, and optical properties of 1D quantum materials, resulting from the ultimate quantum confinement of elemental excitations and collective quantum states. We will apply perspectives from physics, chemistry, materials science and engineering to provide high-payoff research results. Project objectives include: 1) exfoliating 1D vdW materials down to the ultimate single-atomic chain limit; 2) determining the electrical, thermal, magnetic, and optical characteristics of 1D materials; 3) establishing the electrical control of these characteristics; and 4) understanding and engineering the properties of quantum composites comprised of the polymer matrix and 1D vdW fillers. Innovative technical approaches include nanofabrication of capped and suspended 1D vdW devices to study single quantum phase-slip events; electronic \u201cnoise spectroscopy\u201d for monitoring CDW and magnetic phase transitions; Brillouin-Mandelstam-Raman spectroscopy of confined elemental excitations; polarization photoluminescence spectroscopy of excitons; thermal bridge measurements of heat conduction properties; and electromagnetic testing of dielectric constants of composites with 1D vdW fillers. The experimental research will be supported by the world-class ab-initio theory. Anticipated project outcomes and impact on DoD capabilities: The long-term outcomes of this project will create a foundation for the new class of 1D quantum materials and composites based on such materials with numerous potential applications to DoD scientific priorities and operational needs. The proposed 1D vdW quantum materials will lead to revolutionary innovations in the electronics, sensors, and energy conversion, areas which are of importance to DoD. These materials will impact the DoD capabilities in low-power memory and logic, nanoelectronics, antenna design and communications, as well as energy conversion and thermal management. Additionally, this project will educate and train researchers for the defense workforce at a University with a rare combination of being an accredited Hispanic Serving Institution and a highly ranked research-intensive institless",
+        "end_year": "2026",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,999,458",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13539330?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to ALexandar Balandin",
+        "key_highlights": [
+            "Creation of a new research field of one-dimensional quantum materials",
+            "Focus on discovering materials with previously unattainable functionalities",
+            "Goals of understanding the limits of downscaling, fine tuning electron and phonon transport, and controlling quantum phenomena in 1D materials",
+            "Anticipated impact on DoD capabilities in areas such as electronics, sensors, and energy conversion."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 2,999,458\nFunding period\n2021\n31 Aug\n\u2010\n2026\n30 Aug\nResulting DOD publications\n16",
+        "start_year": "2021",
+        "title": "One-Dimensional Quantum Materials",
+        "tldr": "This project aims to create a new field of one-dimensional quantum materials, which have potential applications in electronics, sensors, and energy conversion. The research will focus on understanding the properties and potential of these materials, and developing innovative approaches to studying them. The ultimate goal is to impact DoD capabilities and train researchers in this field.",
+        "top_keywords": [
+            "One-dimensional quantum materials",
+            "Van-der-Waals materials",
+            "Atomic chains",
+            "Quantum confinement",
+            "Strongly correlated quantum systems",
+            "Nanofabrication",
+            "Electrical control",
+            "Composite materials",
+            "DoD capabilities",
+            "Revolutionary innovations"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "3 Good Health and Well Being"
+        ],
+        "abstract": "Viral hemorrhagic fevers (VHF) are a group of viral diseases representing persistent threats to the national defense of the U.S. due to their lethality, potential for weaponization and endemic nature to areas of U.S. strategic interest. Of particular threat to our nation\u2019s warfighters are Bioterrorism Category A VHFs such as the Ebola, Marburg, Lassa, Lujo, and Crimean-Congo Hemorrhagic fever virus (CCHFV). Currently, no CCHFV vaccine candidates have reached Phase I clinical trials curtailing the understanding of immunity build against CCHFV versus other VHFs. The objective of this work will be to define the correlates of protection associated with immunity against a broad-spectrum of CCHFV strains using a CCHFV viral replicon particle system (VRP).less",
+        "end_year": "2024",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "2,221,146",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13046035?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Scott Pegan",
+        "key_highlights": [
+            "The research grant is focused on identifying host pathways important for protective immunity against CCHFV.",
+            "CCHFV is a viral hemorrhagic fever that poses a threat to national defense due to its lethality, potential for weaponization, and endemic nature.",
+            "CCHFV is classified as a Bioterrorism Category A virus, along with other VHFs such as Ebola, Marburg, Lassa, and Lujo.",
+            "The research will use a CCHFV viral replicon particle system (VRP) to define the correlates of protection associated with immunity against a broad-spectrum of CCHFV strains."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3207 Medical Microbiology",
+            "Research, Condition, and Disease Categorization",
+            "Biodefense",
+            "Emerging Infectious Diseases",
+            "Immunization",
+            "Infectious Diseases",
+            "Rare Diseases",
+            "Tickborne Diseases",
+            "Vector-Borne Diseases",
+            "Health Category (HRCS)",
+            "Infection"
+        ],
+        "section_details": "Funding amount\nUSD 2,221,146\nFunding period\n2022\n3 Jan\n\u2010\n2024\n2 Jan\nResulting DOD publications\n5",
+        "start_year": "2022",
+        "title": "Identifying Host Pathways Important to Protective Immunity Against CCHFV",
+        "tldr": "This research aims to identify the pathways in the host that are important for developing protective immunity against CCHFV, a highly lethal and potentially weaponized virus. Currently, there are no vaccines for CCHFV and this study will use a viral replicon particle system to understand the immune response against various strains of the virus.",
+        "top_keywords": [
+            "Host pathways",
+            "Protective immunity",
+            "CCHFV",
+            "Viral hemorrhagic fevers",
+            "Bioterrorism",
+            "Vaccine candidates",
+            "Phase I clinical trials",
+            "Correlates of protection",
+            "Immunity",
+            "Viral replicon particle system (VRP)"
+        ],
+        "units_of_assessment": [
+            "A01 Clinical Medicine"
+        ]
+    },
+    {
+        "abstract": "In this project we will utilize a comprehensive and combined experimental-computational approach to develop mechanistic descriptions of catalysis by metal nanostructures when excited via a non-thermal energy sources (photons, electrons and ions). The overall objective is to mechanistically characterize the most efficient and bond-selective selective approaches for driving chemical conversion processes at metal nanoparticle surfaces through non-thermal excitation mechanisms. A few common metal nanostructures (Ag, Pt, Ru nanoparticles) and extensively studied chemical systems (NO, CO, N2, CH4, and CH3OH desorption and dissociation) will be studied under non-thermal excitation conditions - using photon or electron excitation - or their combination (using a non-thermal low-temperature plasma excitation). There is a mounting body of scientific evidence suggesting that such mechanisms can provide improvements with respect to both yield and reaction selectivity for catalytic reactions on nanostructured metal surfaces, but further developments will only be accessible once a fundamental understanding of chemical reaction induced by non-thermal excitation of metal nanostructures is reached. Carefully designed experiments will be conducted to investigate the reactivity of metal nanostructures under photon irradiation and e-beam exposure. A non-thermal plasma reactor will be used to investigate their reactivity under the more complex scenario in which multiple non-thermal excitation processes are simultaneously occurring. Finally, a combination of ab-initio, non-adiabatic molecular dynamics, and time-dependent density functional theory calculations to complement experiments will be used to gain a fundamental, theoretical understanding of the processes under investigation. By correlating these findings with theoretical analysis of the non-thermal chemical processes, we expected to develop henomenological insights into properties of molecules, metals, and excitation sources that are critical for enabling bond selective chemistry in non-thermal processes on metal nanostructure surfaces.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,975,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826357?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Lorenzo Mangolini",
+        "key_highlights": [
+            "Utilizing experimental-computational approach to develop mechanistic descriptions of catalysis by metal nanostructures",
+            "Investigating efficient and bond-selective approaches for chemical conversion processes at metal nanoparticle surfaces through non-thermal excitation mechanisms",
+            "Studying common metal nanostructures and extensively studied chemical systems under non-thermal excitation conditions",
+            "Using a combination of experiments and theoretical analysis to gain a fundamental understanding of non-thermal chemical processes on metal nanostructure surfaces."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3406 Physical Chemistry",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 1,975,000\nFunding period\n2017\n14 Jul\n\u2010\n2020\n13 Jul",
+        "start_year": "2017",
+        "title": "Quantitative and Mechanistic Analyses of Bond Selective Chemistry via Non-Thermal Excitation of Metal Nanostructures",
+        "tldr": "This research project aims to understand the mechanisms behind bond-selective chemistry on metal nanostructures when excited by non-thermal energy sources. Through a combination of experiments and theoretical analysis, the goal is to gain a fundamental understanding of these processes and potentially improve catalytic reactions on metal surfaces.",
+        "top_keywords": [
+            "Bond-selective chemistry",
+            "Non-thermal excitation",
+            "Metal nanostructures",
+            "Catalysis",
+            "Chemical conversion",
+            "Excitation mechanisms",
+            "Non-thermal plasma",
+            "Photon irradiation",
+            "E-beam exposure",
+            "Theoretical analysis"
+        ],
+        "units_of_assessment": [
+            "B08 Chemistry",
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Dynamic networks are critical in multiple operating theaters of interest to the U.S. Air Force. These distributed systems have achieved great levels of autonomy, which guarantee success under nominal operating conditions in different time critical missions. Unfortunately, despite recent efforts to characterize attack vectors and countermeasures, research studies and real world incidents have demonstrated how capable adversaries can severely disrupt the operation of dynamic networks, thereby questioning their resiliency to operate in uncertain and adversarial environments. Novel theories and tools are critically needed to guarantee resiliency of dynamic networks, where both the network protocols and the attack strategy adapt over time as in an intricate game. In this project we characterize vulnerabilities of dynamic networks to attackers with different capabilities, knowledge, and objectives, and design rigorous methods to protect dynamic networks and adapt them to ensure resiliency to attacks. In particular, the PIs will (i) characterize fundamental resiliency limitations of networks against partially informed attackers, (ii) design topology adaptation algorithms to enhance resiliency of dynamic networks, and (iii) design strategies for the network operator to detect and adapt to adversaries. This project will undertake a rigorous approach based on dynamics, control, graph, and game theories, and will validate the findings through simulations and experiments with state of the art facilities. In addition to allowing the deployment of reliable networks and distributed systems in hostile environments, the theories and methods developed in this project will have far reaching implications and applicability across science and engineering, including medical, automotive, and energy sectors, as already demonstrated by the PIs' work.less",
+        "end_year": "2022",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "1,499,113",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12939705?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Fabio Pasqualetti",
+        "key_highlights": [
+            "The project aims to analyze, design, and operate resilient networks against localized, strategic, and dynamic adversaries.",
+            "The research will focus on characterizing vulnerabilities of dynamic networks to different types of attackers and designing methods to protect and adapt the networks to ensure resiliency.",
+            "The project will use theories and tools from dynamics, control, graph, and game theories, and will validate findings through simulations and experiments.",
+            "The results of this project will have implications and applicability in various fields, including medical, automotive, and energy sectors."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4606 Distributed Computing and Systems Software"
+        ],
+        "section_details": "Funding amount\nUSD 1,499,113\nFunding period\n2019\n30 Jun\n\u2010\n2022\n29 Jun\nResulting DOD publications\n40",
+        "start_year": "2019",
+        "title": "Analysis, Design, and Operation of Resilient Networks Against Localized, Strategic, and Dynamic Adversaries",
+        "tldr": "This research project aims to analyze and design methods to protect dynamic networks from attacks by adversaries. The project will use theories and tools from various fields to enhance the resiliency of these networks and validate the findings through simulations and experiments. The results will have implications for various industries beyond the military.",
+        "top_keywords": [
+            "Resilient networks",
+            "Dynamic networks",
+            "Adversaries",
+            "Attack vectors",
+            "Countermeasures",
+            "Network protocols",
+            "Attack strategy",
+            "Game theory",
+            "Topology adaptation",
+            "Network operator"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Principal Investigator: Amit Roy-Chowdhury, University of California, RiversideThis project will focus on foundational principles to enable integrated sensing and analysis in large multi-modal, multi-agent networks with weak supervision, leading to reliable decision-making in complex, dynamic and uncertain environments while being resilient to adversarial interactions. This will be achieved through two broad research objectives: A) learning multi-agent, multi-modal data association models with limited supervision, and B) reliable decision-making in collaborative, decentralized teams. We will build upon existing low-level feature extraction and classification methods, and focus onthe high-level machine learning and decision making processes. Obj. A will be achieved through three tasks. First, we will show how data association modelsbetween multiple visual sensors can be learned with a small fraction of the labeling cost in current methods by taking into account the global characteristics of the multi-agent network (A1). Associations across modalities can also be learned with limited supervision by leveraging upon side information, possibly from the web; the challenge is to identify the most relevant side information (A2). The models need to be updated over time based on their performance. Information-theoretic methods for selecting the most informative samples will be used for model update, and sparse and low-rank structures inherent in the data will be exploited (A3). Obj. B will build upon the models learned in Obj. A to identify the portions most relevant to a task considering the correlations in the information between various sensors and modalities (B1). B2 will focus on identifying adversarial attacks on the data, first with known dynamical models offeature evolution to set performance bounds, followed by the more practical situation where models are only partially known. B3 closes the loop between perception and planning by acquiring the data that maximizes performance of the analysis modules. The proposed research builds upon recent advances in computer vision, machine learning, signal processing, robotics, and controls. The team of PIs reflects this blend of expertise. All the tasks will involve solid theoretical analysis and algorithm development focusing on optimizationstrategies, computational complexity, and performance bounds, and will be complemented with a rigorous evaluation phase for individual tasks, as well as their integration. Our existing facilities, along with equipment purchased through two new DURIP grants, will enable the experimental evaluation. The results will be presented in top-tier international conferences and journals, as well as in reports and presentations to the sponsor. The project directly addresses the need for understanding an environment from large volumes of heterogeneous streaming data collected by a team of autonomous agents. This has important Naval applications in field operations ranging from national security to disaster response. Our proposed methods will enable continuous and efficient learning of models that represent the data across sensors and modalities without the need for strong supervision, making decisions about the most task-relevant portions of the data along with detection of any adversarial attacks, and collaborative planning to acquire additional data to maximize the decision making accuracy. Overall, the project addresses some of the fundamental limitations of current autonomous systems by requiring only limited supervision, having the ability to identify relevant and reliable portions of large data volumes, and integrating the analysis and acquisition phasesless",
+        "end_year": "2023",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,200,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8454371?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Amit Roy Chowdhury",
+        "key_highlights": [
+            "The project focuses on integrated perception and planning in multi-modal, multi-agent networks.",
+            "The research objectives include learning data association models with limited supervision and reliable decision-making in collaborative teams.",
+            "The project will utilize existing methods in low-level feature extraction and classification, while focusing on high-level machine learning and decision-making processes.",
+            "The proposed methods will enable continuous and efficient learning of models, identification of relevant and reliable data, and collaborative planning to maximize decision-making accuracy."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "4605 Data Management and Data Science",
+            "4611 Machine Learning",
+            "Research, Condition, and Disease Categorization",
+            "Machine Learning and Artificial Intelligence"
+        ],
+        "section_details": "Funding amount\nUSD 1,200,000\nFunding period\n2019\n31 Mar\n\u2010\n2023\n30 Mar\nResulting DOD publications\n47",
+        "start_year": "2019",
+        "title": "Integrated Perception and Planning in Resilient Multi-Modal, Multi-Agent Networks",
+        "tldr": "This research project aims to develop principles for integrated sensing and decision-making in large multi-modal, multi-agent networks with limited supervision. The team will focus on learning data association models and reliable decision-making in collaborative teams, with applications in national security and disaster response. The project will address limitations of current autonomous systems by requiring limited supervision, identifying relevant data, and integrating analysis and acquisition phases.",
+        "top_keywords": [
+            "Integrated Perception",
+            "Planning",
+            "Multi-Modal",
+            "Multi-Agent Networks",
+            "Weak Supervision",
+            "Decision-Making",
+            "Resilience",
+            "Adversarial Interactions",
+            "Machine Learning",
+            "Data Association Models"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Photosynthesis is remarkable, achieving nearly perfect light harvesting efficiency in spite of dynamic light conditions, rapidly fluctuating molecular structure, and highly intricate energy transfer pathways. Yet, it remains unknown whether there exists a fundamental organizing principle that gives rise to robust photosynthetic light harvesting. Here, we predict that light harvesting antennae can be finely tuned to maximize power conversion efficiency by passively minimizing excitation noise, thus providing a unified theoretical basis for the experimentally observed wavelength dependence of light absorption in green plants, purple bacteria, and green sulfur bacteria. The research objectives of this proposal are two-fold: First, we propose to fabricate and characterize a novel microscope capable of measuring growth dynamics of light harvesting bacteria at the single cell limit. Second, by combining strong synergy between experiment and theory, we will use this microscope to achieve our main scientific and technical objectives: (I) demonstrate massively parallel high throughput microfluidic arrays for real-time, high data-density measurements of bacterial growth in light, (II) demonstrate a robust paradigm for photosynthetic efficiency and explore bacterial growth using data-intensive video imaging and single cell recognition, and (III) demonstrate a new optical multi-band correlation spectroscopy technique to examine the physics of noisy antennae in the light harvesting network of photosynthetic bacteria. We anticipate that measurements conducted using the proposed apparatus \u2013 the Ultra-Parallelized Microfluidic Photobiology Microscope - will give remarkably rich insight into microbial processes under illumination. In its simplest form, we will gain precise control of optical excitation at the single cell level. Our work focuses on exposing basic operating principles in complex biological networks, a burgeoning field of study that bridges physics, biology, and chemistry. No current field of research utilizes the synergistic approaches here, and the expected impact of our work may upend the current state of knowledge of light sensing in biosystems.less",
+        "end_year": "2025",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "1,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9764262?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Nathaniel Gabor",
+        "key_highlights": [
+            "The research focuses on understanding the fundamental organizing principle of robust photosynthetic light harvesting.",
+            "The proposal aims to fabricate and characterize a novel microscope for measuring growth dynamics of light harvesting bacteria at the single cell limit.",
+            "The research will use a combination of experiment and theory to achieve objectives such as demonstrating high throughput microfluidic arrays for real-time measurements and exploring bacterial growth using video imaging and single cell recognition.",
+            "The expected impact of the research may significantly contribute to the current understanding of light sensing in biosystems."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "51 Physical Sciences",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 1,000,000\nFunding period\n2020\n31 May\n\u2010\n2025\n30 May\nResulting DOD publications\n3",
+        "start_year": "2020",
+        "title": "PECASE: MICROFLUIDIC PHOTOBIOLOGY MICROSCOPY OF LIGHT HARVESTING BACTERIA AT THE SINGLE CELL LIMIT",
+        "tldr": "This research grant aims to develop a novel microscope to study the growth dynamics of light harvesting bacteria at the single cell level. By combining experiment and theory, the researchers hope to gain insight into the fundamental principles of photosynthetic efficiency and light sensing in biological networks. This interdisciplinary approach has the potential to greatly impact our understanding of these processes.",
+        "top_keywords": [
+            "Photosynthesis",
+            "Light harvesting bacteria",
+            "Single cell limit",
+            "Microfluidic microscopy",
+            "Power conversion efficiency",
+            "Wavelength dependence",
+            "Bacterial growth",
+            "Multi-band correlation spectroscopy",
+            "Ultra-Parallelized Microfluidic Photobiology Microscope",
+            "Light sensing in biosystems"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "This research tackles the issues regarding multicore platforms. As the number of cores grows, and the number has been growing exponentially in the past few years, issues to be handled include improving the performance, scalability and reliability of Parallel Discrete Event Simulation. So, as the number of cores rises, there are some issues to contend with, specifically, algorithm challenges to scalability, the hardware bottlenecks that can prevent scalability and run-time bottlenecks that effect scalability. This research will study these issues with the objective to create innovative solutions.less",
+        "end_year": "2019",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "950,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7081397?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Nael Abu-Ghazaleh",
+        "key_highlights": [
+            "Tackling issues regarding multicore platforms",
+            "Improving performance, scalability, and reliability of Parallel Discrete Event Simulation",
+            "Challenges in scalability due to increasing number of cores",
+            "Studying and creating innovative solutions to address these issues"
+        ],
+        "research_categories": [
+            "33 Built Environment and Design",
+            "3301 Architecture",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 950,000\nFunding period\n2015\n31 Aug\n\u2010\n2019\n30 Aug\nResulting DOD publications\n13",
+        "start_year": "2015",
+        "title": "Parallel Discrete Event Simulation on Emerging High-performance Multicore Clusters",
+        "tldr": "This research aims to address challenges in Parallel Discrete Event Simulation on multicore platforms, such as improving performance, scalability, and reliability. The study will focus on algorithm and hardware bottlenecks that can hinder scalability, with the goal of developing innovative solutions.",
+        "top_keywords": [
+            "Parallel Discrete Event Simulation",
+            "Multicore Clusters",
+            "High-performance",
+            "Scalability",
+            "Reliability",
+            "Algorithm challenges",
+            "Hardware bottlenecks",
+            "Run-time bottlenecks",
+            "Performance",
+            "Innovative solutions"
+        ],
+        "units_of_assessment": [
+            "C17 Business and Management Studies"
+        ]
+    },
+    {
+        "abstract": "The high strength to weight and elasticity properties of spider silk make it of significant interest for the production of advanced fibers for military and civilian applications. Plants may offer the only feasible mechanism to produce quantities of spider silk proteins sufficient to sustain large scale manufacturing of these high performance fibers. Successful implementation of bioengineered spider silks requires appropriate genetic constructs, crop plants that can be successfully transformed with the constructs, and the technology and protocols necessary to produce high yields of the expressed protein. This project proposes to bring together plants transformed with spider dragline silk constructs from the University of California-Riverside with advanced environmental control technologies and protocols developed by Orbital Technologies Corporation to provide a system capable of high yield spider silk protein production.less",
+        "end_year": "2008",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "750,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4420440?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Robert Morrow",
+        "key_highlights": [
+            "High-yield plant based manufacturing",
+            "Bioengineered spider silk",
+            "Use of genetic constructs and transformed crop plants",
+            "Collaboration between University of California-Riverside and Orbital Technologies Corporation"
+        ],
+        "research_categories": [
+            "30 Agricultural, Veterinary and Food Sciences",
+            "40 Engineering",
+            "4014 Manufacturing Engineering",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 750,000\nFunding period\n2007\n20 Sep\n\u2010\n2008\n18 Sep",
+        "start_year": "2007",
+        "title": "High-yield plant based manufacturing of bioengineered spider silk (Phytosilk)",
+        "tldr": "This research grant aims to develop a high-yield plant-based method for producing bioengineered spider silk, which has strong and elastic properties that make it useful for various applications. The project will utilize genetically modified plants and advanced technologies to achieve large-scale production of the silk protein.",
+        "top_keywords": [
+            "High-yield",
+            "Plant-based",
+            "Bioengineered",
+            "Spider silk",
+            "Phytosilk",
+            "Military",
+            "Civilian",
+            "Genetic constructs",
+            "Transformed plants",
+            "Environmental control technologies"
+        ],
+        "units_of_assessment": [
+            "A05 Biological Sciences"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "4 Quality Education"
+        ],
+        "abstract": "This project will connect the Navy\u2019s ongoing need for a larger and more diverse science and engineering workforce with the State of California\u2019s strategic plan to encourage young people to begin their postsecondary careers at community colleges and then transfer to four-year institutions. The University of California, Riverside (UCR) \u2013 one of America\u2019s few accredited research-intensive Hispanic Serving Institutions (OPEID-00131600) \u2013 has active programs in partnership with nearby community colleges that enable students to transfer and complete a bachelor\u2019s degree in science or engineering in four years. This project will expand on those efforts to enlarge and sustain the pipeline with a series of services to students that begin in the first year of college and continue beyond their transfer to UCR. These will include academic advising, tutoring, engagement with professional engineering organizations, events and lectures, and undergraduate research opportunities at UCR. Students will build expertise and enthusiasm in many areas of engineering that are important to the Navy by participating in UCR research projects (many of which are supported by the Office of Naval Research or other Navy organizations) and in-classroom exercises that allow for independent discovery and innovation. A major strength of this project is its foundation on well-established approaches and relationships, based on the literature and on our experiences over several years. It builds on projects that have been successful, but that have operated only intermittently, rising and falling with the availability of grants from various sources. Now, with California\u2019s new emphasis on the postsecondary transfer pipeline, we will be able to solidify our relationships with community colleges in the region under support from this ONR program and sustain these programs for long-term benefits. The outcome will be a steady flow of students from Southern California community colleges (all of which are also accredited Hispanic Serving Institutions) to UCR, where they will complete bachelor\u2019s degrees and research/design projects based in part on current research projects sponsored by the Office of Naval Research and the Naval Surface Warfare Center, Corona Division. These students will be prepared to move on to graduate school, careers as engineers with the Navy, or careers with technology companies that produce technology innovations that contribute to U.S. military superiority.less",
+        "end_year": "2019",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "750,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7825766?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Marko Princevac",
+        "key_highlights": [
+            "The project aims to connect the Navy's need for a diverse science and engineering workforce with California's strategic plan to encourage community college students to transfer to four-year institutions.",
+            "The University of California, Riverside (UCR) is a research-intensive Hispanic Serving Institution and has existing partnerships with nearby community colleges to facilitate transfer and completion of science and engineering degrees in four years.",
+            "The project will provide services to students starting in their first year of college, including academic advising, tutoring, engagement with professional engineering organizations, events and lectures, and undergraduate research opportunities at UCR.",
+            "The project will result in a steady flow of students from Southern California community colleges to UCR, where they will complete bachelor's degrees and research/design projects based on current research projects sponsored by the Office of Naval Research and the Naval Surface Warfare Center, Corona Division. These students will be prepared for graduate school, careers as engineers with the Navy, or careers with technology companies."
+        ],
+        "research_categories": [
+            "39 Education",
+            "3903 Education Systems"
+        ],
+        "section_details": "Funding amount\nUSD 750,000\nFunding period\n2018\n31 Jul\n\u2010\n2019\n30 Jul",
+        "start_year": "2018",
+        "title": "Training from Undergraduate through Navy Engagement (TUNE)",
+        "tldr": "The TUNE project aims to increase diversity in the science and engineering workforce by connecting the Navy's need for skilled individuals with California's plan to encourage community college students to transfer to four-year institutions. Through academic advising, tutoring, and research opportunities, students will gain expertise and enthusiasm in engineering fields important to the Navy. This project builds on successful approaches and relationships and will result in a steady flow of students from community colleges to the University of California, Riverside, where they will complete their degrees and potentially pursue careers with the Navy or technology companies.",
+        "top_keywords": [
+            "Training",
+            "Undergraduate",
+            "Navy",
+            "Engagement",
+            "Science",
+            "Engineering",
+            "Community colleges",
+            "Transfer",
+            "Research",
+            "Pipeline"
+        ],
+        "units_of_assessment": [
+            "C23 Education"
+        ]
+    },
+    {
+        "abstract": "The increasing use of video in force protection, autonomous vehicles reconnaissance, and surveillance in general has created a great demand for automated analysis and monitoring. It is infeasible to have humans monitoring and analyzing the vast amount of video used in such surveillance, and automated analysis yields hope to ease the burden and increase the amount of information extracted from collected video. Motivated by this and ongoing advances in the state-of-the-art in machine vision, we have been developing a basic system for automatically extracting useful information from video and making relevant data quickly available to a user. In particular we aimed to progress beyond typical scenarios presented in automated video analysis of a small set of pre-determined simple activities in high-resolution data. In completing the first phase we have answered many key questions and found many promising avenues to proceed in developing a complete system. From this, we have developed a second phase research plan building on and extending the work done. We plan to develop a complete operational prototype by focusing on yet more realistic data collections, increasingly complex activities, difficult tracking cases, and finally designing a fully integrated system.less",
+        "end_year": "2013",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "749,995",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4437891?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Kenneth Sullivan",
+        "key_highlights": [
+            "The need for automated video analysis in military operations due to the increasing use of video in surveillance.",
+            "The infeasibility of having humans manually monitor and analyze the vast amount of video used in surveillance.",
+            "The development of a basic system for automatically extracting useful information from video and making it quickly available to a user.",
+            "The plan to develop a complete operational prototype by focusing on realistic data collections, complex activities, difficult tracking cases, and designing a fully integrated system."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence"
+        ],
+        "section_details": "Funding amount\nUSD 749,995\nFunding period\n2010\n20 Oct\n\u2010\n2013\n30 Jan\nResulting DOD publications\n4",
+        "start_year": "2010",
+        "title": "Automated Video Activity Analysis for Military Operations",
+        "tldr": "This research grant aims to develop an automated video analysis system for military operations, in order to ease the burden of human monitoring and increase the amount of information extracted from collected video. The first phase has yielded promising results and the second phase will focus on developing a complete operational prototype by incorporating more realistic data and complex activities.",
+        "top_keywords": [
+            "Automated video analysis",
+            "Military operations",
+            "Force protection",
+            "Autonomous vehicles",
+            "Surveillance",
+            "Machine vision",
+            "Data extraction",
+            "Operational prototype",
+            "Realistic data collections",
+            "Complex activities"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Higher efficiency solar cells are needed to reduce solar-array mass, volume, and cost. This project proposes: (i) Reliable, validated models for simulation, analysis, and design of Quantum Dot Superlattice (QDS) based nano-materials for high-efficiency, radiation-hardened photovoltaic cells and photodetectors; (ii) Verify and demonstrate models by experiments; (iii) Implement novel models in CFDRC's three-dimensional (3D) device simulator, NanoTCAD. The developed models will be validated with experiments of participants: University of California Riverside Nano-Device Laboratory, Rochester Institute of Technology, and University of New Mexico. Novel models and simulation tools open a way to high-efficiency rad-hard solar cells and photodetectors. It is anticipated that QDS solar cells can achieve efficiencies of 60% via optimization of the light absorption (\"multicolor\" cell), optical selection-rule relaxation, confinement-enhanced carrier transport (mini-band formation), and phonon dispersion. The proposed tools can be used for the QDS optimization for photovoltaic, photodetector, and laser applications. Specific issues include: (i) quantum dot ordering and size dispersion, (ii) enhanced photogenerated carrier separation and drift mobility; (iii) improved electric conductivity and increased collection efficiency. Phase I demonstrated prototype physics-based models for QDS and their preliminary validation. In Phase II, we will complete the development of physics-based models, implement them in CFDRC's NanoTCAD, and demonstrate for analysis and development of more efficient, rad-hard photovoltaic nano-technology for space solar cells and improved photodetectors.less",
+        "end_year": "2009",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "749,865",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4424540?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Alex Fedoseyev",
+        "key_highlights": [
+            "Development of reliable models for simulation, analysis, and design of Quantum Dot Superlattice (QDS) based nano-materials for high-efficiency photovoltaic cells and photodetectors.",
+            "Validation of models through experiments conducted by participating institutions.",
+            "Anticipated efficiency of 60% for QDS solar cells through optimization of light absorption, optical selection-rule relaxation, confinement-enhanced carrier transport, and phonon dispersion.",
+            "Use of proposed tools for QDS optimization in various applications such as photovoltaic, photodetector, and laser technologies."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering",
+            "4018 Nanotechnology",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 749,865\nFunding period\n2007\n25 Jun\n\u2010\n2009\n25 Jun\nResulting DOD publications\n3",
+        "start_year": "2007",
+        "title": "Optimized Quantum Dot Superlattice Structures for Ultra-High Efficiency Photovoltaic Cells and Photodetectors",
+        "tldr": "This research project aims to develop reliable models and simulation tools for designing high-efficiency, radiation-hardened photovoltaic cells and photodetectors using Quantum Dot Superlattice (QDS) structures. The models will be validated through experiments and implemented in a 3D device simulator. The goal is to achieve 60% efficiency through optimization of light absorption, carrier transport, and other factors.",
+        "top_keywords": [
+            "Quantum Dot Superlattice",
+            "Ultra-High Efficiency",
+            "Photovoltaic Cells",
+            "Photodetectors",
+            "Nano-materials",
+            "Radiation-hardened",
+            "Simulation",
+            "Optimization",
+            "NanoTCAD",
+            "Solar cells"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "4 Quality Education"
+        ],
+        "abstract": "In response to an ever-increasing technological demand for faster and more energy efficient ways to manipulate and control magnetism, this research project will discover methods for controlling magnetism with heat and light. Specifically, we will quantify the motion of magnetic moments of metal alloys in response to heat-currents and laser irradiation. This will allow for the identifications of atomic-composition/magnetic-transport-property relationships in magnetic metal systems. Understanding these relationships will allow us to design material systems with novel functionalities for electronically or optically writing information at ultrafast speeds and with ultralow powers. An innovative force that will help drive these discoveries is the development of a unique scientific tool-kit at UCR. We will combine high-throughput materials synthesis, characterization, and big-data computational analysis. This tool-kit will dramatically accelerate scientific discoveries in the domain of magnetic transport phenomena and therefore strengthen DoD research capabilities at UCR. A key component of this research project is its integration with research education at the K-12, undergraduate, and graduate student levels. The emphasis of the research educational efforts will be on the Hispanic communities of Southern California\u00d5s Inland Empire region. Our location in the Inland Empire provides us opportunities for STEM research education outreach to Hispanic communities. At the K-12 level, we will work with wellestablished programs to provide demonstrations and hands-on-learning opportunities at localscience fairs and campus-sponsored public events, e.g. Bourns Engineering day, STEMapalooza, and UCR/CTY outreach. At the undergraduate level, we will directly involve undergraduate researchers in hands-on-projects to improve existing experimental apparatuses with highthroughput methodologies. For graduate education, this project will have spill-over effects on the students in our research groups. Furthermore, this project will help provide them with experience and skills in cutting-edge scientific methods that are coveted by industry.less",
+        "end_year": "2023",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "654,688",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9308407?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Richard Wilson",
+        "key_highlights": [
+            "The research project aims to discover methods for controlling magnetism with heat and light.",
+            "The project will use a unique scientific tool-kit at UCR, including high-throughput materials synthesis, characterization, and big-data computational analysis.",
+            "The research project will have a focus on research education at the K-12, undergraduate, and graduate student levels, with an emphasis on Hispanic communities in Southern California.",
+            "The project will provide students with experience and skills in cutting-edge scientific methods that are sought after by industry."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 654,688\nFunding period\n2020\n31 Jul\n\u2010\n2023\n30 Jul",
+        "start_year": "2020",
+        "title": "Combinatorial Discovery of Metallic Systems with Superior Magnetic Transport Properties",
+        "tldr": "This research project aims to discover methods for controlling magnetism with heat and light in order to design material systems with novel functionalities for faster and more energy efficient manipulation of magnetism. The project will utilize a unique scientific tool-kit and involve research education efforts for K-12, undergraduate, and graduate students, with a focus on Hispanic communities in Southern California.",
+        "top_keywords": [
+            "Combinatorial Discovery",
+            "Metallic Systems",
+            "Magnetic Transport Properties",
+            "Heat and Light Control",
+            "Magnetism",
+            "High-throughput Materials Synthesis",
+            "Big Data Computational Analysis",
+            "Research Education",
+            "Hispanic Communities",
+            "STEM Research Outreach"
+        ],
+        "units_of_assessment": [
+            "C23 Education"
+        ]
+    },
+    {
+        "abstract": "Air-Breathing combustion either subsonic or supersonic has received renewed interest but is still challenged by some fundamental limitations. In the case of super-to-hypersonic combustion, oxidizer starvation is a major consideration. As a result, solid-fuel ram/scramjets are plagued with a very narrow operating envelope and unstable combustion properties. This arises due to poor flame holding characteristics, high ignition temperature, short residence times of particles, and mass transfer limitation of the oxidizer. Most efforts to mitigate these constraints focus on fluid dynamic effects.In this proposal we will consider alternative chemical approaches and fabrication methods to enable a new class of propellent which may offer wider operational windows and more efficient combustion. We will utilize nanomaterials as fuel constituents and develop assembly methods toallow bulk scale fabrication. We will test these new materials and develop optimized formulation and we will apply advanced diagnostics to interrogate these processes from a fundamental point of view so that eth knowledge bases gained will be of utility to further research by others.less",
+        "end_year": "2024",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "635,701",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9523817?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Zachariah",
+        "key_highlights": [
+            "Use of nanocluster and mesoparticle composites as additives for solid-fuel air-breathing propulsion",
+            "Challenges faced in air-breathing combustion, particularly in super-to-hypersonic combustion",
+            "Focus on alternative chemical approaches and fabrication methods to improve combustion efficiency and widen operational windows",
+            "Utilization of nanomaterials as fuel constituents and advanced diagnostics to gain fundamental knowledge for further research."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4002 Automotive Engineering",
+            "4017 Mechanical Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 635,701\nFunding period\n2020\n10 Dec\n\u2010\n2024\n9 Dec\nResulting DOD publications\n1",
+        "start_year": "2020",
+        "title": "Nanocluster and their Mesoparticle Composites as Additives for Solid-Fuel Air-Breathing Propulsion",
+        "tldr": "This research grant aims to develop new additives for solid-fuel air-breathing propulsion, specifically targeting the limitations of oxidizer starvation and unstable combustion properties. The proposed approach involves using nanomaterials as fuel constituents and developing assembly methods for bulk scale fabrication, with the goal of achieving wider operational windows and more efficient combustion. Advanced diagnostics will also be used to gain fundamental knowledge for future research.",
+        "top_keywords": [
+            "Nanoclusters",
+            "Mesoparticle composites",
+            "Additives",
+            "Solid-fuel",
+            "Air-breathing propulsion",
+            "Combustion",
+            "Oxidizer starvation",
+            "Ram/scramjets",
+            "Flame holding characteristics",
+            "Nanomaterials"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Light-matter interactions at the nanoscale involving strongly bound excited states form an intriguing yet practical route to controlling the energy in light. Here, the energy in photons is stored, exchanged and transferred in the form of spin-active excited states. This fundamental research will establish for the first time, the basis for the transfer of spin-doublet energy between semiconductor quantum dots (QD) and organic radicals. Once the physical parameters governing doublet energy transfer have been established, then these open-shell molecules will be able to augment the weak absorption of indirect gap silicon QDs in the near-infrared window I for photon upconversion. This ubiquitous and environmentally benign hybrid system has great potential for many applications in the life-sciences where blue or violet light is required in living tissue, for example, pain mitigation, oxygen detection, optogenetics and sensing. Here, important structure-property relationships will be obtained from well-defined CdSe QDs functionalized with specially designed open-shell molecules to have the appropriate wavefunction overlap and driving force for doublet energy transfer. Zinc blende and wurtzite CdSe QDs of different sizes will be investigated for the efficacy of spin-doublet photosensitization to surface bound organic radicals. Subsequent doublet-triplet energy transfer to emissive molecules by these organic radicals provides a simple yet accurate way to quantify the efficiency of this doublet photosensitization and energy transfer. Photon upconversion via the fusion of triplet excited states of diphenylanthracene or tetra(tert-butyl)perylene will report on the electronic communication within this hybrid nanostructure.less",
+        "end_year": "2023",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "600,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9982058?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Ming Tang",
+        "key_highlights": [
+            "Investigating spin-doublet energy transfer between semiconductor quantum dots and organic radicals",
+            "Potential for photon upconversion in the near-infrared window for various applications in the life-sciences",
+            "Establishing structure-property relationships between CdSe quantum dots and open-shell molecules",
+            "Measuring the efficiency of doublet photosensitization and energy transfer through photon upconversion."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3406 Physical Chemistry",
+            "40 Engineering",
+            "4018 Nanotechnology",
+            "51 Physical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Nanotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 600,000\nFunding period\n2020\n2 Jun\n\u2010\n2023\n1 Jun\nResulting DOD publications\n3",
+        "start_year": "2020",
+        "title": "SPIN-DOUBLET EXCITON EXCHANGE IN HYBRID ORGANIC-QUANTUM DOT NANOSTRUCTURES",
+        "tldr": "This research aims to study the transfer of spin-doublet energy between semiconductor quantum dots and organic radicals, which could potentially enhance the weak absorption of indirect gap silicon QDs. By investigating different sizes and structures of CdSe QDs, the efficiency of this energy transfer will be quantified. This could have applications in the life-sciences, such as pain mitigation and sensing, where blue or violet light is needed in living tissue.",
+        "top_keywords": [
+            "Spin-doublet exciton exchange",
+            "Hybrid organic-quantum dot nanostructures",
+            "Light-matter interactions",
+            "Spin-active excited states",
+            "Semiconductor quantum dots",
+            "Open-shell molecules",
+            "Energy transfer",
+            "Photon upconversion",
+            "Life-sciences applications",
+            "Electronic communication"
+        ],
+        "units_of_assessment": [
+            "B08 Chemistry"
+        ]
+    },
+    {
+        "abstract": "We will explore at approx. microsecond time and approx. micrometer spatial resolution the reaction front and chemistry of Additive Manufactured (AM) composites, so as to relate the composition and microstructure to the burning properties at both the micro and macro scale. This approach will enable us to develop conceptual models, data for quantitative models, and test out new concepts for better understanding and new insights. We will employ a new high-speed (Vis-IR) microscopy-thermometry capability as well as high speed mass spectrometry. The results of this work will provide a very rigorous test matrix for model development that are important to the US Air Force\u2019s development of new munitions and propellants. In Task 1 we will fabricate by sputtering highly refined reactive material architectures, (nanolaminates, checkboards, porosity, etc) which will provide the most precisely defined arrangement of fuel-oxidizer ever produced. These will be evaluated to obtain reaction font thickness, temperature profile, micro burn rates and velocity distributions, suitable for model validation. In Task 2 we will, using 3-D printing methods to fabricate polymer nanocomposites. We will be exploring the reaction front and the pre-heat zone by imaging, and chemistry by mass spectrometry. One focus is how to change the nature of the reaction front to increase energy delivery rate and minimize particle sintering. We will also be exploring a new concept using 'unzipping polymers' to generate more gas and minimize particle sintering as well as change the pre-heat zone. In Task 3 Another approach to manipulate the reaction front will use low temperature reactive gas generators, specifically metal hydrides to generate hydrogen to promote combustion and to propel particles away from each other to minimize sintering. In summary, using AM we will explore structure-function relationships. This approach will provide a window into evaluating reaction fronts in propellants and energetics at an unprecedented scale.less",
+        "end_year": "2025",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "598,648",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12898810?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Zachariah",
+        "key_highlights": [
+            "The research grant aims to study the structure-function relationships in advanced manufacturing using fast microscopic imaging and mass spectrometry.",
+            "The focus of the research is on Additive Manufactured (AM) composites and their burning properties at both the micro and macro scale.",
+            "The research will employ a new high-speed microscopy-thermometry capability and high-speed mass spectrometry.",
+            "The results of this research will provide important data for model development and testing for the US Air Force's development of new munitions and propellants."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3406 Physical Chemistry",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 598,648\nFunding period\n2021\n30 Sep\n\u2010\n2025\n29 Sep\nResulting DOD publications\n1",
+        "start_year": "2021",
+        "title": "Structure-Function Relationships in Advanced Manufacturing from Fast Microscopic Imaging and Mass Spectrometry",
+        "tldr": "This research grant aims to use advanced imaging and mass spectrometry techniques to study the structure-function relationships in Additive Manufacturing (AM) composites. The results will be used to develop models and concepts for better understanding and improving the burning properties of munitions and propellants. The study will involve fabricating highly refined reactive materials and exploring different methods to manipulate the reaction front for increased energy delivery and reduced particle sintering.",
+        "top_keywords": [
+            "Advanced manufacturing",
+            "Microscopic imaging",
+            "Mass spectrometry",
+            "Additive manufacturing",
+            "Reaction front",
+            "Chemistry",
+            "Microstructure",
+            "Model development",
+            "Propellants",
+            "Energetics"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Deep neural networks (DNNs) are being increasingly used in several sensitive applications such as surveillance, autonomous vehicles, malware classification, and network intrusion detection. However, the robustness of DNNs and their effectiveness have raised significant concerns; for example, there has been a surge in adversarial example attacks against them. Currently most DNNs do not account for a rich variety of information that is available in the input. For example, in images, they do not recognize if an object is out of place in a scene or in relation to other objects in that scene; similarly, inappropriate values in packet fields, or across a train of packets, are not accounted for by ML based network intrusion detection systems (NIDS). In this project we propose to develop robust ML models that learn relationships across the components of an input (e.g., objects in an image, or header fields in a packet), which we refer to as context, and check for consistencies when making inferences relating to security. We believe, as supported by our preliminary experiments, that context can significantly harden ML models, and also improve their effectiveness in security applications. First, the project will make significant leaps beyond our initial endeavors to consider multiple visual sensors and multi-modal sensing (e.g., visual and LiDAR). Extracting context from multiple sources, is expected to significantly improve the fidelity of the inferences, and increase robustness to adversarial subversion. Second, a deep exploration into what types of context will be effective, and what can be easily defeated by attackers will be carried out, via developing an understanding of the attack surface projected by context-based defenses, and a principled approach to tune and evaluate different forms of context. Finally, the lessons learned in the visual and sensor spaces, will be carried over to the cyber-space, where the structure of the inputs, and the constraints imposed in terms of what types of context can be extracted, make the problem more challenging, but has promise in the development of secure ML based solutions to cyber-security. The project includes an extensive validation plan involving multiple datasets (including multi-sensor/modal sets, network intrusion detection and malware datasets) and emulations on an in house camera networks vehicles and a large scale software defined network testbed. The proposed work is expected to significantly enhance the army capabilities in terms of robust surveillance and security, especially given that future ISR and command and control applications will heavily deploy machine learning. The research in the attack space, can also provide the army with an understanding of threats, and also gain the first mover advantage in tactical cyber- warfare.less",
+        "end_year": "2025",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "592,151",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12959494?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Srikanth Krishnamurthy",
+        "key_highlights": [
+            "The project aims to develop robust ML models that learn relationships across the components of an input, referred to as \"context\", to improve the effectiveness and security of DNNs in sensitive applications.",
+            "The project will consider multiple visual sensors and multi-modal sensing to extract context from multiple sources, increasing robustness to adversarial attacks.",
+            "The project will explore different types of context and their effectiveness in defending against attacks, with a focus on understanding the attack surface and developing a principled approach to evaluate context-based defenses.",
+            "The project has potential to enhance army capabilities in terms of robust surveillance and security, particularly in future applications that heavily rely on machine learning, and can also provide insights into threats and tactical cyber-warfare."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4604 Cybersecurity and Privacy",
+            "4611 Machine Learning",
+            "Research, Condition, and Disease Categorization",
+            "Machine Learning and Artificial Intelligence"
+        ],
+        "section_details": "Funding amount\nUSD 592,151\nFunding period\n2022\n20 Sep\n\u2010\n2025\n19 Sep",
+        "start_year": "2022",
+        "title": "Context learning for security",
+        "tldr": "This research project aims to develop robust machine learning models that can improve security applications by considering context and relationships between components of an input. The project will explore multiple visual sensors and multi-modal sensing, as well as the effectiveness of different types of context in defending against attacks. The ultimate goal is to enhance army capabilities in surveillance and security, particularly in the use of machine learning in future ISR and command and control applications.",
+        "top_keywords": [
+            "Context learning",
+            "Security",
+            "Deep neural networks",
+            "Adversarial attacks",
+            "ML models",
+            "Network intrusion detection",
+            "Cyber-security",
+            "Multi-modal sensing",
+            "Attack surface",
+            "Machine learning"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Funding is requested for a dual Energy Dispersive Spectrometer/STEM system with large area mapping capabilities coupled with a 3D surface rendering system that is integrated into a new scanning electron microscope, a TESCAN MIRA3 XMU Field Emission SEM. This tandem instrument, which is readily expandable for in-situ thermal and mechanical testing, will provide high-resolution 3D reconstruction and concurrent elemental mapping of large samples including biological, biomimetic and traditional composites as well as thin film semiconducting materials. The equipment will greatly enhance the PI\u00d5s contribution to ARO (W911NF-15-1-0306) and MURI projects (FA9550-15-1-0009) on the investigation of the presence and effects of chemical (organic and inorganic) as well as structural elements on strengthening and toughening in impact and abrasion resistant biological composites. Additional projects are being created that investigate structure-property relationships of nanomaterials to develop energy conversion and storage systems. The impact and abrasion resistant structures, their mimics as well as nanostructures for energy conversion and storage all have utility for DoD missions. This integrated system will provide the PI, fellow researchers, and students with unprecedented opportunities for research and will enhance undergraduate students\u00d5 interest and understanding in materials science by facilitating research opportunities. This will take place in conjunction with the interdisciplinary degree program in Materials Science and Engineering at UCR, an accredited Hispanic Serving Institution (HSI) and one of America\u00d5s most diverse research-intensive universities. Additionally, the vendors, TESCAN Company and Oxford Instruments, will present a special enrichment program for students explaining operating principles of the instrumentation and their relevance to the design of new materials. Finally, this support will contribute to the PI\u00d5s unique program, which conducts both experimental research on synthesis-structure-property relationships in biological and biomimetic composites and on biologically inspired synthesis of nanostructural materials \u00d0 an area of extreme relevance to the DoD applications.less",
+        "end_year": "2016",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "531,672",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8454359?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to David Kisailus",
+        "key_highlights": [
+            "Funding requested for a Tandem EDS/STEM Mapping, SEM and 3D-Rendering System",
+            "System is expandable for in-situ thermal and mechanical testing",
+            "System will enhance research on chemical-structural analysis of biological composites and nanomaterials for energy conversion and storage",
+            "System will also enhance undergraduate students' interest and understanding in materials science and will be used in conjunction with an interdisciplinary degree program at a diverse research-intensive university."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering",
+            "Research, Condition, and Disease Categorization",
+            "Biotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 531,672\nFunding period\n2016\n17 Apr\n\u2010\n2016\n16 Dec",
+        "start_year": "2016",
+        "title": "Procurement of a Tandem EDS/STEM Mapping, SEM and 3D-Rendering System for Chemical-Structural Analysis of Biological Composites",
+        "tldr": "Funding is requested for a new scanning electron microscope with advanced mapping and 3D rendering capabilities to analyze biological composites and nanomaterials. This equipment will enhance research opportunities for the PI and students at a diverse research university and contribute to the development of impact and abrasion resistant structures for DoD missions.",
+        "top_keywords": [
+            "Tandem EDS/STEM Mapping",
+            "SEM",
+            "3D-Rendering System",
+            "Chemical-Structural Analysis",
+            "Biological Composites",
+            "Large Area Mapping",
+            "In-situ Thermal and Mechanical Testing",
+            "High-Resolution 3D Reconstruction",
+            "Elemental Mapping",
+            "Nanomaterials"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The rare earth cuprate oxide family of unconventional superconductors has the potential to revolutionize superconducting electronics for numerous defense applications. The underlying physics of the electrical transport in thin films of these materials is not well-understood, particularly within the plane of the crystal where superconductivity is an order of magnitude stronger than that out-of-plane. The research in this proposal is targeted at increasing our knowledge regarding the physical mechanisms that govern these unconventional superconductors. We aim to use a novel tunnel technique, to conduct in-plane tunnel spectroscopy measurements in unconventional layered superconductors. Specifically, we will use nanowire Josephson junctions to directly probe electrical transport within the a-b plane of different high-Tc single crystal thin films. The information obtained will guide material synthesis to improve important properties for electronics, such as critical current, critical temperature, and material homogeneity.less",
+        "end_year": "2023",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "524,998",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9764299?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Shane Cybart",
+        "key_highlights": [
+            "Investigation of in-plane anisotropy in unconventional superconductors",
+            "Potential for revolutionizing superconducting electronics for defense applications",
+            "Use of a novel tunnel technique to conduct in-plane tunnel spectroscopy measurements",
+            "Direct probing of electrical transport within the a-b plane of high-Tc single crystal thin films to improve important properties for electronics."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics"
+        ],
+        "section_details": "Funding amount\nUSD 524,998\nFunding period\n2020\n7 Jun\n\u2010\n2023\n6 Jun\nResulting DOD publications\n14",
+        "start_year": "2020",
+        "title": "TUNNELING INVESTIGATION OF THE IN-PLANE ANISOTROPY OF UNCONVENTIONAL SUPERCONDUCTORS",
+        "tldr": "This research aims to use a novel tunnel technique to investigate the in-plane anisotropy of unconventional superconductors, specifically in the rare earth cuprate oxide family. The results will guide material synthesis to improve important properties for electronics.",
+        "top_keywords": [
+            "Tunneling",
+            "In-plane anisotropy",
+            "Unconventional superconductors",
+            "Rare earth cuprate oxide",
+            "Electrical transport",
+            "Thin films",
+            "Crystal",
+            "Superconductivity",
+            "Tunnel spectroscopy",
+            "Nanowire Josephson junctions"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The objective of this project is to develop multiscale simulation tools for coupled carrier-phonon transport in micro/optoelectronic devices and to explore novel concepts of phonon engineering for heat removal and termal management in advancedsemiconductor devices. The phase I effort resulted in a prototype software modules for multiscale simulation of phonon dynamics in LD semiconductors and proven feasibility of using phonon annihilation for heat reduction in electronic devices. It has beenobserved that if phonon waves of different phase interact, they could, under the right set of circumstances, cause either constructive or destructive interference. CFDRC and UCR team plans to use existing commercial Multiphysics CFD-ACE+ softwareenvironment as a platform to implement comprehensive multiscale (quantum to continum) modeling tools for phonon engineering and couple it to existing carrier, optical and thermal models. We will utilize the tools for detailed examination of new methods ofheat reduction by phonon engineering such as generation of coherent confined acoustic phonons by drifting electrons in LD structures, investigation of the effects of the acoustic impedance mismatch, phonon filters by using Q dots/wire gratings, periodicphonon bandgap structures,less",
+        "end_year": "2001",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "497,705",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4423301?order=funding&or_facet_research_org=grid.266097.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Carl Wordelman",
+        "key_highlights": [
+            "Development of multiscale simulation tools for coupled carrier-phonon transport in micro/optoelectronic devices",
+            "Exploration of novel concepts of phonon engineering for heat removal and thermal management in advanced semiconductor devices",
+            "Feasibility of using phonon annihilation for heat reduction in electronic devices",
+            "Utilization of existing commercial Multiphysics CFD-ACE+ software environment as a platform for implementing comprehensive multiscale modeling tools for phonon engineering."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 497,705\nFunding period\n2000\n30 Sep\n\u2010\n2001\n29 Sep",
+        "start_year": "2000",
+        "title": "Heat Reduction in Semiconductors by Phonon Annihilation",
+        "tldr": "This research project aims to develop simulation tools for managing heat in semiconductor devices through phonon engineering. The team plans to use existing software to model phonon dynamics and explore methods such as phonon annihilation and phonon filters to reduce heat.",
+        "top_keywords": [
+            "Heat reduction",
+            "Semiconductors",
+            "Phonon annihilation",
+            "Multiscale simulation",
+            "Carrier-phonon transport",
+            "Thermal management",
+            "Phonon engineering",
+            "Electronic devices",
+            "Multiphysics modeling",
+            "Quantum to continuum modeling"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    }
+]

@@ -1,0 +1,792 @@
+[
+    {
+        "abstract": "Ultrasensitive low light level detection and sensing in the near infrared (NIR) is critical for many military applications. Night vision devices (NVD) will greatly benefit from extremely sensitive CMOS-compatible focal plane arrays (FPAs). Current NVD intensifier technology has substantial size, weight, and power (SWaP) requirements, and does not lend itself to being fused with typical infrared (IR) sensors. There is an urgent demand for NIR FPA technology that can provide extreme sensitivity at low NIR light levels and allow direct integration with CMOS readout integrated circuits (ROICs). Nanohmics, Inc., teaming with Dr. Jennifer Hollingsworth at Los Alamos National Laboratory (LANL), is developing low-SWaP, uncooled ultrasensitive NIR FPAs based on a graphene phototransistor architecture photosensitized with NIR-absorbing colloidal quantum dot (QD) nanocrystals (NCs). This architecture combines the high IR absorption of the QD thin film with the inherent device gain of graphene gated by photogenerated carriers. This gain leads to ultrahigh photoresponsivity and specific detectivity D*. These FPAs should achieve performance parity with analog night vision (NV) systems, while leveraging the advantages of digital imaging, such as compatibility with data sharing, augmented reality (AR), and machine learning (ML) for targeting. The use of graphene and QDs allows direct integration with CMOS ROICs and will enable low-cost mass production of FPAs. The Phase I program successfully demonstrated the feasibility of uncooled ultrasensitive FPAs through the design, fabrication, and testing of photodetectors based on QD-sensitized graphene, operating in the spectral range 0.8-1.3 \u00b5m. The team established methods for graphene transfer, QD fabrication, graphene-QD integration, and scale-up to manufacturing. Nanohmics also designed a CMOS-based FPA prototype to be fabricated and tested during the Phase II program, and identified CMOS ROIC foundry services for initial low-cost prototyping and longer-term production scale-up. During Phase II the team will fabricate a compact, uncooled, graphene-QD FPA prototype by integrating QD-sensitized graphene photodetectors with a CMOS ROIC, achieving TRL 4. The team will increase sensitivity, spectral range, frame rate, and device ruggedness by improving the QD sensitizer, optimizing ROIC integration, and developing an encapsulation process. Graphene-CMOS integration will be addressed early in Phase II using foundry services that will provide a direct path to increasing imaging resolution and production volume while maintaining low costs \u2013 accelerating technology transition and follow-on commercialization. The Phase II IR FPA prototype will be delivered to the Army sponsor for testing and transition to an Army partner during Phase III. The FPA technology can be extended into other bands, including SWIR, MWIR, and LWIR, making it extremely valuable for a wide variety of military and civilian applications.less",
+        "end_year": "2025",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,199,992",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13978057?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Mark Lucente",
+        "key_highlights": [
+            "Development of an ultrasensitive near-infrared detector based on a graphene-nanocrystal heterostructure",
+            "Integration with CMOS readout integrated circuits (ROICs) for low-SWaP and compatibility with digital imaging technologies",
+            "Potential for performance parity with analog night vision systems and advantages for targeting through data sharing, augmented reality, and machine learning",
+            "Possibility for extension into other infrared bands, making it valuable for both military and civilian applications."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4018 Nanotechnology",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science",
+            "51 Physical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Nanotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 1,199,992\nFunding period\n2023\n31 May\n\u2010\n2025\n30 May",
+        "start_year": "2023",
+        "title": "Ultrasensitive Near-Infrared Detector Based on Graphene-Nanocrystal Heterostructure",
+        "tldr": "This research grant aims to develop an ultrasensitive near-infrared detector using a graphene-nanocrystal heterostructure. The detector will have low size, weight, and power requirements and can be integrated with CMOS readout integrated circuits. The team has successfully demonstrated the feasibility of the detector and will continue to improve its sensitivity, spectral range, and ruggedness in Phase II. The technology has potential for use in other bands and can have various military and civilian applications.",
+        "top_keywords": [
+            "Ultrasensitive",
+            "Near-infrared",
+            "Detector",
+            "Graphene",
+            "Nanocrystal",
+            "Heterostructure",
+            "Night vision",
+            "CMOS-compatible",
+            "Focal plane array",
+            "Phototransistor"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This STTR project will develop and validate a robust, scalable computational capability for the simulation of weapon-target interactions of interest to the Army. The proposed algorithm is based on the FLIP (Fluid Implicit Particle) - MPM (Material Point Method) - MFM (Multiphase Flow Method) approach and CartaBlanca nonlinear solver environment developed at Los Alamos National Laboratory. CartaBlanca can solve coupled problems involving (a) failure and penetration of solids, (b) heat transfer, (c) phase change, (d) chemical reactions, and (e) multiphase flow. It is designed with GUI capabilities to utilize multiple processors on a single computer or on computer clusters. In Phase I, we demonstrated the feasibility of using CartaBlanca to simulate a bullet perforating a metal plate and bullet penetrating a metal plate backed by high explosives. In Phase II, we plan to improve CartaBlanca performance in parallel computers and compare CartaBlanca predictions with legacy codes such as EPIC. Then we plan to perform a formal model validation of CartaBlanca by comparing its predictions with experimental data using ACTA's Nonlinear Model V&V Toolbox for projectiles penetrating metal and concrete targets. In Phase III, we plan to use CartaBlanca to train a Fast Running Model for predicting weapon-target interaction problems.less",
+        "end_year": "2005",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "749,973",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12827936?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to G. Wije Wathugala",
+        "key_highlights": [
+            "Development and validation of a computational capability for simulating weapon-target interactions",
+            "Use of FLIP-MPM-MFM approach and CartaBlanca nonlinear solver environment",
+            "Ability to solve coupled problems involving failure, heat transfer, phase change, chemical reactions, and multiphase flow",
+            "Plans for performance improvement, comparison with legacy codes, and formal model validation in Phase II and III."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4601 Applied Computing"
+        ],
+        "section_details": "Funding amount\nUSD 749,973\nFunding period\n2004\n9 Sep\n\u2010\n2005\n11 Sep",
+        "start_year": "2004",
+        "title": "Advanced Computational Algorithms for Simulating Weapon-Target Interaction",
+        "tldr": "This research grant aims to develop and validate a computational capability for simulating weapon-target interactions, using a FLIP-MPM-MFM approach and CartaBlanca nonlinear solver. The project will involve improving performance and comparing predictions with legacy codes, as well as validating the model with experimental data. The ultimate goal is to create a Fast Running Model for predicting weapon-target interactions.",
+        "top_keywords": [
+            "Computational algorithms",
+            "Weapon-target interaction",
+            "Simulation",
+            "FLIP-MPM-MFM approach",
+            "CartaBlanca nonlinear solver",
+            "Multiphase flow",
+            "Phase change",
+            "Chemical reactions",
+            "Model validation",
+            "Fast Running Model"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "We propose to realize a new class of microbolometer FPA technology with significantly reduced 1/f noise by replacing the sensing material (e.g. VOx) with colossal magnetoresistive (CMR) oxides. The program uniquely combines Agiltron\u2019s experience in novel IR imager development and leading academic research on CMR at Los Alamos National Lab (LANL). The LANL Team has developed breakthrough processing technique for CMR film deposition. Agiltron will further advance LANL\u2019s CMR film fabrication techniques and develop a film transfer technology, allowing formation of microbolometers on top of CMOS circuitry as practiced in current technology. We anticipate reducing the NETD of state of the art bolometers based on VOx and amorphous silicon from 29 mK to 12 mK. Functional microbolometers based on CMR oxides and a performance comparison with state of the art devices will be produced in Phase II.less",
+        "end_year": "2011",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "749,903",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4437356?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Wang",
+        "key_highlights": [
+            "Development of a new microbolometer FPA technology with reduced 1/f noise",
+            "Replacement of traditional sensing material (e.g. VOx) with colossal magnetoresistive (CMR) oxides",
+            "Collaboration between Agiltron and Los Alamos National Lab (LANL) for development and research",
+            "Anticipated reduction of NETD (noise equivalent temperature difference) from 29 mK to 12 mK and comparison with current state of the art devices in Phase II."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 749,903\nFunding period\n2010\n16 Sep\n\u2010\n2011\n16 Sep",
+        "start_year": "2010",
+        "title": "CMR Oxides Based Microbolometer Focal Plane Array with Reduced 1/f Noise",
+        "tldr": "This research grant aims to develop a new type of microbolometer focal plane array using CMR oxides, which will significantly reduce 1/f noise. The project will combine Agiltron's expertise in IR imager development with LANL's breakthrough processing technique for CMR film deposition. The goal is to improve the sensitivity of current bolometers from 29 mK to 12 mK and compare their performance with state-of-the-art devices in Phase II.",
+        "top_keywords": [
+            "CMR oxides",
+            "Microbolometer",
+            "Focal plane array",
+            "1/f noise",
+            "Sensing material",
+            "Colossal magnetoresistive",
+            "IR imager",
+            "Film deposition",
+            "NETD",
+            "Amorphous silicon"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "We propose to realize a new class of microbolometer FPA technology with significantly reduced 1/f noise by replacing the sensing material (e.g. VOx) with colossal magnetoresistive (CMR) oxides. The program uniquely combines Agiltron's experience in novel IR imager development and leading academic research on CMR at Los Alamos National Lab (LANL). The LANL Team has developed breakthrough processing technique for CMR film deposition. Agiltron will further advance LANL's CMR film fabrication techniques and develop a film transfer technology, allowing formation of microbolometers on top of CMOS circuitry as practiced in current technology. We anticipate reducing the NETD of state of the art bolometers based on VOx and amorphous silicon from 29 mK to 12 mK. Functional microbolometers based on CMR oxides and a performance comparison with state of the art devices will be produced in Phase II.less",
+        "end_year": "2010",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "749,903",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4448484?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Wang",
+        "key_highlights": [
+            "Development of a new microbolometer FPA technology",
+            "Use of colossal magnetoresistive (CMR) oxides to reduce 1/f noise",
+            "Collaboration between Agiltron and Los Alamos National Lab (LANL)",
+            "Anticipated reduction of NETD from 29 mK to 12 mK and comparison with current technology in Phase II."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 749,903\nFunding period\n2009\n30 Sep\n\u2010\n2010\n29 Sep",
+        "start_year": "2009",
+        "title": "CMR Oxides Based Microbolometer Focal Plane Array with Reduced 1/f Noise",
+        "tldr": "This research grant aims to develop a new type of microbolometer focal plane array using CMR oxides, which will significantly reduce 1/f noise. The project will combine Agiltron's expertise in IR imager development with LANL's breakthrough processing technique for CMR film deposition. The goal is to improve the sensitivity of current bolometers from 29 mK to 12 mK and compare their performance with state-of-the-art devices in Phase II.",
+        "top_keywords": [
+            "CMR oxides",
+            "Microbolometer",
+            "Focal plane array",
+            "1/f noise",
+            "Sensing material",
+            "Colossal magnetoresistive",
+            "IR imager",
+            "Film deposition",
+            "NETD",
+            "Amorphous silicon"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Laser frequency and amplitude stabilization will be demonstrated at laser pulse repetition rates of over 20 KHz, as the wavelength of each pulse is changed. Over 40 different wavelengths will be randomly accessed at these rates to perform differential scless",
+        "end_year": "2008",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "749,872",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4386023?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Diego Pierrottet",
+        "key_highlights": [
+            "Development of a high speed adaptive optics (AO) wavelength selector",
+            "Application to CO2 heterodyne remote sensing of aerosols",
+            "Demonstration of laser frequency and amplitude stabilization at pulse repetition rates of over 20 KHz",
+            "Random access to over 40 different wavelengths for differential spectroscopy."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "51 Physical Sciences",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 749,872\nFunding period\n2006\n5 Oct\n\u2010\n2008\n5 Oct",
+        "start_year": "2006",
+        "title": "High Speed AO Wavelength Selector for CO2 Heterodyne Remote Sensing of Aerosols",
+        "tldr": "A high-speed wavelength selector for CO2 heterodyne remote sensing of aerosols will be developed, allowing for laser frequency and amplitude stabilization at pulse repetition rates of over 20 KHz. This will enable the random access of over 40 different wavelengths for differential scattering measurements.",
+        "top_keywords": [
+            "High speed",
+            "AO (Adaptive Optics)",
+            "Wavelength selector",
+            "CO2",
+            "Heterodyne remote sensing",
+            "Aerosols",
+            "Laser frequency stabilization",
+            "Amplitude stabilization",
+            "Pulse repetition rate",
+            "Differential spectroscopy"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "To provide power for unmanned aircraft systems (UAS), we propose developing solar cells made using perovskite halide solar absorbers, such as those based upon methylammonium lead iodide (CH3NH3PbI3). Our phase I efforts produced flexible solar cells that exhibited power conversion efficiencies (PCE) of 8.1%, a landmark achievement. The proposed research details how to achieve 20% power conversion efficiency using the perovskite solar cells by tuning the process conditions and the composition of the solar absorber. To achieve the highest power conversion efficiencies, in excess of 20%, the cells will be subjected to a battery of tests to determine the stability of the material by performing industry standard tests, such as light soaking, humidity, and electrical bias stressing. The cells will be integrated into modules, and in order to determine the suitability of the technology for UAS, tests will be performed on the fully integrated module that measure the circuit capacitance-resistance (RC), mechanical strain tests, pressure/shock tests, and radiation damage exposure test. Finally, developing robust encapsulation technologies to seal the cells against moisture will involve tests of potential encapsulants. Manufacturing challenges will involve scaling up the technology to industrially relevant sizes and suitably protecting the modules via encapsulation.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "749,600",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8450913?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael R Squillante",
+        "key_highlights": [
+            "Developing solar cells using perovskite halide solar absorbers for unmanned aircraft systems (UAS)",
+            "Goal of achieving 20% power conversion efficiency by tuning process conditions and composition of solar absorber",
+            "Testing for stability and suitability for UAS through industry standard tests and integration into modules",
+            "Challenges in manufacturing and scaling up the technology, as well as developing robust encapsulation technologies for moisture protection."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "3406 Physical Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 749,600\nFunding period\n2018\n11 Mar\n\u2010\n2020\n15 Mar\nResulting DOD publications\n1",
+        "start_year": "2018",
+        "title": "Perovskite Solar Cells",
+        "tldr": "This research grant aims to develop perovskite solar cells with a target efficiency of 20% for use in powering unmanned aircraft systems. The project will involve testing the stability and durability of the cells, as well as developing encapsulation technologies for protection.",
+        "top_keywords": [
+            "Perovskite solar cells",
+            "Power conversion efficiency",
+            "Unmanned aircraft systems (UAS)",
+            "Solar absorbers",
+            "Stability testing",
+            "Encapsulation technologies",
+            "Manufacturing challenges",
+            "Flexible solar cells",
+            "Industry standard tests",
+            "Radiation damage exposure"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "In the Phase I STTR, N08-T029 \u201cNovel Fiber Optic Methods for Sensing Shape, Orientation and/or Heading of Undersea Arrays and Tethers\u201d a concept was developed for a fiber optic sensing array and shape reconstruction algorithm to be used for situation awareness of flexible undersea cable structures. Undersea cable structures are deployed in environments unsuitable for direct in-situ observation of shape or health monitoring. Therefore, the accurate monitoring of an undersea tether or array can simultaneously provide both performance enhancements and help to guard against catastrophic failure. The 3Pi team plans to extend the development of all efforts from the Phase I work with application to a specific target. Much of the Phase I effort was generalized to be applicable to any one of the four (4) length domains identified in the original topic. In addition, the tether structures used were simplified to thin-walled flexible hoses with no complicated geometry, materials, or internal structure. While shape reconstruction accuracy was maximized within a reasonable set of constraints, 3Pi will work with the program sponsor to provide the system performance necessary for the target application.less",
+        "end_year": "2011",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "500,300",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4447571?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Dickerson",
+        "key_highlights": [
+            "Development of a fiber optic sensing array and shape reconstruction algorithm for undersea cable structures.",
+            "Importance of accurate monitoring for performance enhancement and prevention of catastrophic failure.",
+            "Extension of Phase I work to a specific target application.",
+            "Generalization of Phase I effort to be applicable to four different length domains and simplified tether structures."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "40 Engineering",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\nUSD 500,300\nFunding period\n2010\n15 Mar\n\u2010\n2011\n14 Sep\nResulting DOD publications\n1",
+        "start_year": "2010",
+        "title": "Novel Fiber Optic Methods for Sensing Shape, Orientation and/or Heading of Undersea Arrays and Tethers",
+        "tldr": "This research grant aims to develop a fiber optic sensing array and shape reconstruction algorithm for monitoring undersea cable structures. The team plans to extend their work from Phase I to a specific target application, with a focus on accuracy and performance.",
+        "top_keywords": [
+            "Fiber optic",
+            "Sensing",
+            "Undersea arrays",
+            "Tethers",
+            "Shape reconstruction",
+            "Situation awareness",
+            "Health monitoring",
+            "Performance enhancements",
+            "Catastrophic failure",
+            "System performance"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Ultrasensitive low light level detection and sensing in the near infrared (NIR) is critical for many military applications. Specifically, night vision devices (NVD) would greatly benefit from extremely sensitive CMOS-compatible focal plane arrays (FPAs) capable of detecting a signal in the NIR. Current intensifier tube technology in NVDs is bulky in size and weight, and does not lend itself to being fused with typical infrared sensors. There is an urgent need for a NIR FPA technology that can address the following two fundamental challenges: direct integration with Si-based CMOS readout integrated circuits (ROICs) and extreme sensitivity at low NIR light levels. Nanohmics, Inc. teaming with Dr. Jennifer A. Hollingsworth at Los Alamos National Laboratory (LANL), proposes to develop uncooled ultrasensitive CMOS-based NIR FPAs based on a graphene phototransistor architecture photosensitized with NIR-absorbing semiconductor core/shell nanocrystals (NCs). This approach combines the high IR absorption of the NC thin film with the inherent device gain of graphene gated by the transfer of photogenerated carriers. This gain leads to ultrahigh photoresponsivity and specific detectivity D*. The use of graphene and colloidal NCs allows direct monolithic integration with Si-based ROICs and will enable low-cost mass production of NIR FPAs with large format and small pitch. Nanohmics has already demonstrated a preliminary NIR device operating at room temperature, which will be further optimized in this Phase I effort. In Phase I, the team will demonstrate a proof-of-concept uncooled ultrasensitive graphene-based NIR detector. The team will synthesize core/shell NCs, fabricate, and test single graphene-NC detector elements with responses in low light conditions in the NIR. The team will also develop engineering methods to design a ROIC for Phase II and demonstrate the feasibility of direct ROIC integration. The Phase II program will advance the design and performance of the proof-of-concept to improve detector-level metrics, including quantum efficiency, D*, and frame rate. Phase II will concentrate on optimization of the prototype design and monolithic integration of an appropriate array with a commercially available ROIC to form an FPA. This type of detector can be extended into other bands, including SWIR, MWIR, and LWIR. The advantages of uncooled operation of a low-cost, low-SWaP, high-speed graphene-based IR detectors will provide a multitude of market opportunities. It will be extremely valuable for a wide variety of military and civilian applications, including intelligence, surveillance, and reconnaissance (ISR); border security ISR for the Department of Homeland Security (DHS); chemical analysis of emissions; and detection of improvised explosive devices (IEDs).less",
+        "end_year": "2022",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "179,498",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13507323?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Mark Lucente",
+        "key_highlights": [
+            "Development of an ultrasensitive near-infrared detector based on a graphene-nanocrystal heterostructure",
+            "Direct integration with Si-based CMOS readout integrated circuits (ROICs)",
+            "Uncooled operation and extreme sensitivity at low NIR light levels",
+            "Potential for use in various military and civilian applications, including intelligence, surveillance, and reconnaissance (ISR) and detection of improvised explosive devices (IEDs)"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4018 Nanotechnology",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering",
+            "Nanotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 179,498\nFunding period\n2022\n26 May\n\u2010\n2022\n25 Nov",
+        "start_year": "2022",
+        "title": "Ultrasensitive Near-Infrared Detector Based on Graphene-Nanocrystal Heterostructure",
+        "tldr": "This research grant aims to develop an ultrasensitive near-infrared detector using a graphene-nanocrystal heterostructure. The detector will be integrated with Si-based CMOS readout circuits and have high sensitivity and low cost, making it useful for military and civilian applications such as night vision, border security, and chemical analysis.",
+        "top_keywords": [
+            "Ultrasensitive",
+            "Near-infrared detector",
+            "Graphene",
+            "Nanocrystal heterostructure",
+            "CMOS-compatible",
+            "Focal plane array",
+            "Night vision devices",
+            "Phototransistor",
+            "Semiconductor core/shell nanocrystals",
+            "Uncooled operation"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Measuring the response of explosives to a variety of thermal and mechanical inputs is important to understand and ultimately predict the reaction violence of an explosive in an accident scenario. Technically, there are many challenges to overcome in observing explosives response. For instance, secondary high explosives are heterogeneous and optically opaque and often need to be confined in metal cases. Furthermore, the reaction is typically accompanied by solid and gas products and light emission with extremes in temperature, pressure, and rate. This makes flash X-ray radiography an important probe as it can be used to image through smoke, flame, metal cases, and opaque solids. However, current flash radiography limits observation to a single image per observation axis. Single point flash measurements can provide an observation of state but not velocity. Therefore, in order to image dynamic events using X-rays, multiple flash X-ray sources are used to produce a series of X-ray images of the explosive event. The goal of the proposed research is to demonstrate the feasibility of developing an X-ray cinematography system for explosive events, by overcoming the limitations of current flash X-ray radiography systems. This will include new developments in hardware and software to achieve the desired goal.less",
+        "end_year": "2019",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "149,995",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9528049?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Bipin Singh",
+        "key_highlights": [
+            "The research grant is focused on developing an ultra-fast multiframe X-ray imaging system for explosive events.",
+            "The system will be used to measure the response of explosives to thermal and mechanical inputs in order to understand and predict their reaction violence.",
+            "Current flash radiography systems are limited to a single image per observation axis, but the proposed system will use multiple flash X-ray sources to capture a series of images.",
+            "The research will involve developing new hardware and software to overcome the technical challenges of observing explosive events, such as the opacity of secondary high explosives and the extreme conditions of temperature, pressure, and rate."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4017 Mechanical Engineering",
+            "51 Physical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 149,995\nFunding period\n2018\n14 Oct\n\u2010\n2019\n29 Sep",
+        "start_year": "2018",
+        "title": "Ultra-fast Multiframe X-ray Imaging System for Explosive Events",
+        "tldr": "This research grant aims to develop an ultra-fast multiframe X-ray imaging system to observe and understand the response of explosives to thermal and mechanical inputs. The system will overcome current limitations of single image observation and provide a series of images to capture the dynamic nature of explosive events.",
+        "top_keywords": [
+            "Ultra-fast",
+            "Multiframe",
+            "X-ray imaging",
+            "Explosive events",
+            "Flash radiography",
+            "Dynamic events",
+            "Thermal and mechanical inputs",
+            "Reaction violence",
+            "X-ray cinematography",
+            "Hardware and software development"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "3 Good Health and Well Being"
+        ],
+        "abstract": "U.S. Government personnel deployed in tropical and neotropical regions continue to be at risk for developing malaria. Drug resistant malaria parasites are becoming more common in these areas, increasing the risk of American personnel developing a serious, life-threatening disease. Cross resistance between drugs is becoming much more common. Due to the emergence of drug resistance, derivates of known anti-malarial drug classes are not long term solutions. Faced with the realities of the malaria threat, novel, unbiased technologies are required to prime the drug discovery programs. High-throughput techniques for lead compound generation are well known, but these techniques tend to be too expensive for use on tropical diseases, which do not affect rich populations. New techniques to bring down the costs are required. A method for measuring small molecules and molecule fragments will make tropical disease cures more affordable, and therefore allow the possibility of cures. This project will demonstrate the ability to of X-ray techniques to detect the interactions of cycloguanil, a known dihydrofolate reductase inhibitor, with wild-type and quadruple mutant P. falciparium DHFR-TS. This project will demonstrate automated x-ray data collection and processing to demonstrate the complete direct screening technology package.less",
+        "end_year": "2007",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "100,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4378849?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Benjamin Warner",
+        "key_highlights": [
+            "The research grant aims to develop a high-throughput direct structural screening method for drug lead compounds.",
+            "The focus of the research is on finding a cure for malaria, particularly in tropical and neotropical regions where drug-resistant parasites are becoming more common.",
+            "The current methods for lead compound generation are expensive and not suitable for tropical diseases, so new techniques are needed to make cures more affordable.",
+            "The project will use X-ray techniques to detect the interactions of a known inhibitor with malaria parasites and demonstrate the complete direct screening technology package."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3202 Clinical Sciences",
+            "3207 Medical Microbiology",
+            "34 Chemical Sciences",
+            "3404 Medicinal and Biomolecular Chemistry",
+            "Research, Condition, and Disease Categorization",
+            "Antimicrobial Resistance",
+            "Infectious Diseases",
+            "Malaria",
+            "Orphan Drug",
+            "Rare Diseases",
+            "Vector-Borne Diseases",
+            "Health Category (HRCS)",
+            "Infection",
+            "Research Activity Codes (HRCS)",
+            "5.1 Pharmaceuticals"
+        ],
+        "section_details": "Funding amount\nUSD 100,000\nFunding period\n2006\n22 Aug\n\u2010\n2007\n25 Aug",
+        "start_year": "2006",
+        "title": "High-throughput Direct Structural Screening for Drug Lead Compounds",
+        "tldr": "This research grant aims to develop a cost-effective method for identifying potential drug compounds to combat drug-resistant malaria in tropical and neotropical regions. The project will utilize X-ray techniques to detect interactions between known inhibitors and malaria parasites, demonstrating the potential for a complete direct screening technology package.",
+        "top_keywords": [
+            "High-throughput",
+            "Structural screening",
+            "Drug lead compounds",
+            "Malaria",
+            "Drug resistance",
+            "Anti-malarial drugs",
+            "Tropical diseases",
+            "X-ray techniques",
+            "Dihydrofolate reductase inhibitor",
+            "Direct screening technology"
+        ],
+        "units_of_assessment": [
+            "A03 Allied Health Professions, Dentistry, Nursing and Pharmacy"
+        ]
+    },
+    {
+        "abstract": "Beryllium and beryllium alloys are strategic to many defense/aerospace applications, but whose use is limited due to current and anticipated more stringent health and safety concerns which result in long lead times for fabrication and very high cost. An innovative approach that reduces fabrication time to a matter of hours to a few days results in low cost and produces net shapes without exposure of the workforce to Be. This paradigm for beryllium fabrication utilizes a melt forming solid free form fabrication process that will be performed at the Los Alamos National Laboratory (LANL) established beryllium facility in coordination with a beryllium fabricator/supplier and two MDA prime contractor system suppliers. Be/Be alloys will be net shape produced and charaterized as well as fabricating a demonstraion mirror and structural components.less",
+        "end_year": "2005",
+        "funder": "Missile Defense Agency",
+        "funding_amount_usd": "100,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4388865?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to James Withers",
+        "key_highlights": [
+            "Development of a process for rapid production of Be/Be alloys at low cost",
+            "Elimination of workforce exposure to beryllium during fabrication",
+            "Utilization of a melt forming solid free form fabrication process",
+            "Collaboration between Los Alamos National Laboratory, a beryllium fabricator/supplier, and two MDA prime contractor system suppliers."
+        ],
+        "research_categories": [
+            "35 Commerce, Management, Tourism and Services",
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 100,000\nFunding period\n2004\n4 Aug\n\u2010\n2005\n31 Jul",
+        "start_year": "2004",
+        "title": "A Process That Rapidly Produces Be/Be Alloys in Net Shape at Low Cost Without Exposure of the Workforce",
+        "tldr": "This research grant aims to develop a new process for producing beryllium and beryllium alloys quickly and at a low cost, without exposing workers to the hazardous material. The process will be carried out at Los Alamos National Laboratory and will involve collaboration with a beryllium fabricator and two MDA prime contractors. The goal is to produce net shapes and demonstrate the feasibility of using this process for creating mirrors and structural components.",
+        "top_keywords": [
+            "Beryllium",
+            "Alloys",
+            "Net shape",
+            "Low cost",
+            "Health and safety",
+            "Fabrication",
+            "Melt forming",
+            "Solid free form fabrication",
+            "Los Alamos National Laboratory",
+            "Defense/aerospace applications"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The U.S Army has identified the need to develop and demonstrate the technology necessary to characterize chemical aerosols and vapor clouds at stand-off ranges up to 5 km. Of interest is the capability to increase detection sensitivity and range for systems that may be incorporated into various stationary or moving platforms. Moving platforms could include ground vehicles, ships, helicopters, Tactical/Unmanned aerial vehicles (TUAV/UAV), and Tactical Unmanned Ground Vehicles (TUGV). Limitations in mobile platform resources call for the advancement of compact and efficient active sensors. Coherent heterodyne detection is a technology that has the potential to improve aerosol and vapor cloud detection sensitivity and range while reducing sensor size and weight. Coherent Applications, Inc. (CAI) and Los Alamos National Laboratories (LANL) have teamed to propose an analysis of the expected performance of Acousto-Optic (AO) tuners on waveguide and TEA lasers, and to design a laboratory system that will provide experimental testing of the predictions.less",
+        "end_year": "2006",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "99,912",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4415990?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Diego Pierrottet",
+        "key_highlights": [
+            "Development and demonstration of technology for characterizing chemical aerosols and vapor clouds at stand-off ranges up to 5 km.",
+            "Increasing detection sensitivity and range for systems that can be used on various stationary or moving platforms.",
+            "Advancement of compact and efficient active sensors due to limitations in mobile platform resources.",
+            "Utilizing coherent heterodyne detection technology to improve detection sensitivity and range while reducing sensor size and weight."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\nUSD 99,912\nFunding period\n2005\n10 Aug\n\u2010\n2006\n10 Aug",
+        "start_year": "2005",
+        "title": "High Speed AO Wavelength Selector for CO2 Heterodyne Remote Sensing of Aerosols",
+        "tldr": "This research grant aims to develop a high-speed wavelength selector for CO2 heterodyne remote sensing of aerosols, with the goal of improving detection sensitivity and range for various mobile platforms. The proposed technology involves using Acousto-Optic tuners on waveguide and TEA lasers, and will be tested in a laboratory setting.",
+        "top_keywords": [
+            "High Speed",
+            "AO Wavelength Selector",
+            "CO2 Heterodyne Remote Sensing",
+            "Aerosols",
+            "Detection Sensitivity",
+            "Range",
+            "Active Sensors",
+            "Coherent Heterodyne Detection",
+            "Acousto-Optic Tuners",
+            "TEA Lasers"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This STTR project will develop and validate a robust, scalable computational capability for the simulation of weapon-target interactions of interest to the Army. The proposed algorithm is based on the FLIP (Fluid Implicit Particle) - MPM (Material PointMethod) - MFM (Multiphase Flow Method) approach and the CartaBlanca nonlinear solver environment developed at Los Alamos National Laboratory. CartaBlanca can solve coupled problems involving (a) failure and penetration of solids, (b) heat transfer, (c)phase change, (d) chemical reactions, and (e) multiphase flow. It is designed with GUI capabilities to utilize multiple processors on a single computer or on computer clusters. It is written entirely in Java programming language, and is easily ported tomany computer platforms. In Phase I, we propose to demonstrate the capabilities of the FLIP-MPM-MFM approach by solving a classic problem where a lead bullet impacts and penetrates an aluminum plate, and compare results with experimental data. In PhaseII, we will validate the algorithm by simulating complex weapon-target interaction problems and comparing them to existing available experimental data using ACTA?s Nonlinear Model V&V Toolbox. In Phase III, we plan to use CartaBlanca to develop FastRunning Models for simulating weapon-target interaction in the Tri-Services Modular Effectiveness Vulnerability Assessment (MEVA)code. This project will result in a validated advanced computational algorithm that can be used for virtual testing ofmilitary systems for survivability and design studies. Full scale testing of weapon-target interaction problems is expensive and time consuming. In contrast, virtual testing using validated simulation software can be performed anywhere safely, quicklyand economically for multiple scenarios. Virtual testing also allows the Army to test future weapons with environments that may not be accessible for testing. Because of mesh tangling, commercially available Lagrangian codes are not suitable forsimulating the secondary debris created by impact detonation of army munitions on urban structures. The new algorithm developed by LANL overcomes these difficulties. The validated LANL code will be used to develop Fast Running Models (FRMs) that capturethe important aspects of HFPB (High Fidelity Physics Based) models. These FRMs can be used for quick assessments, including probabilistic Monte Carlo analysis, by personnel who are not computational mechanics experts.less",
+        "end_year": "2003",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "99,889",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4391826?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to G. Wije Wathugala",
+        "key_highlights": [
+            "Development and validation of a computational capability for simulating weapon-target interactions",
+            "Use of FLIP-MPM-MFM approach and CartaBlanca nonlinear solver environment",
+            "Potential for virtual testing of military systems for survivability and design studies",
+            "Development of Fast Running Models (FRMs) for quick assessments and probabilistic Monte Carlo analysis"
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4601 Applied Computing",
+            "Research, Condition, and Disease Categorization",
+            "Networking and Information Technology R&D (NITRD)"
+        ],
+        "section_details": "Funding amount\nUSD 99,889\nFunding period\n2002\n30 Sep\n\u2010\n2003\n29 Sep",
+        "start_year": "2002",
+        "title": "Advanced Computational Algorithms for Simulating Weapon-Target Interaction",
+        "tldr": "This research grant aims to develop a robust and scalable computational algorithm for simulating weapon-target interactions, using the FLIP-MPM-MFM approach and the CartaBlanca nonlinear solver. The algorithm will be validated through solving classic and complex problems and compared to experimental data. This will provide a cost-effective and safe alternative to full-scale testing for military systems.",
+        "top_keywords": [
+            "Computational algorithms",
+            "Weapon-target interaction",
+            "FLIP-MPM-MFM approach",
+            "CartaBlanca nonlinear solver",
+            "Virtual testing",
+            "Military systems",
+            "Fast Running Models (FRMs)",
+            "High Fidelity Physics Based (HFPB) models"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "ACTA Inc. and Los Alamos National Laboratory propose to develop a high fidelity physics based modeling and simulation toolset for use in evaluating the hazards and consequences associated with hypergol fuel accidents for use in missile defense applications. Los Alamos' CartaBlanca multi-physics code will be evaluated to determine its ability to model both small leaks (resulting in ppm toxic releases of a fuel or oxidizer) and large leak (resulting in turbulent mixing of hypergol fuel and oxidizer)leading to toxic releases, fireballs and/or explosions.less",
+        "end_year": "2008",
+        "funder": "Missile Defense Agency",
+        "funding_amount_usd": "99,694",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4409482?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Jon Chrostowski",
+        "key_highlights": [
+            "Development of a modeling and simulation toolset for hypergol fuel accidents",
+            "Evaluation of Los Alamos' CartaBlanca code for modeling small and large leaks",
+            "Focus on hazards and consequences associated with hypergol fuel accidents",
+            "Intended use in missile defense applications"
+        ],
+        "research_categories": [
+            "35 Commerce, Management, Tourism and Services",
+            "3505 Human Resources and Industrial Relations",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 99,694\nFunding period\n2007\n5 Sep\n\u2010\n2008\n4 Mar",
+        "start_year": "2007",
+        "title": "Hypergolic Safety Modeling & Simulation",
+        "tldr": "ACTA Inc. and Los Alamos National Laboratory are working together to create a modeling and simulation tool for evaluating the safety risks of hypergol fuel accidents in missile defense. The tool will be able to accurately model both small and large leaks, including toxic releases, fireballs, and explosions.",
+        "top_keywords": [
+            "Hypergolic",
+            "Safety",
+            "Modeling",
+            "Simulation",
+            "Hazards",
+            "Consequences",
+            "Missile defense",
+            "CartaBlanca",
+            "Multi-physics",
+            "Toxic releases"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Because on their high current carrying capacity in large magnetic fields, biaxially oriented superconducting films (coated superconductors) are the only superconducting materials that offer the possibility of operating in power applications at liquid-nitrogen temperatures in AC fields. Their use is predicated on the assumption that ac losses in these materials can be reduced to a very low level. To do so requires the use of innovative conductor geometries. Present superconductor loss theory is inadequate for predicting the loss in coated superconductors with these geometries under realistic conditions found in generators and transformers. New loss theory is required. This Phase I program will develop new ac loss models for coated superconductors. The program will: (a) extend ac loss theory to apply to coated conductors, (b) develop practical conductor geometries which minimize ac losses under conditions which exist in generators and transformers, (c) investigate generator and transformer designs which best take advantage of coated conductors, and (d) prepare a test plan for a Phase II demonstration of loss prediction and conductor performance in a short sample of YBCO and in a USAF generator presently under construction. The advanced ac loss models developed in this Phase I program and the novel new HTS coated superconductor geometries developed to minimize the combined transport current and applied magnetic field losses in these new conductors will allow us to determine if coated conductors can function at high temperatures in emerging AC hardware. The development of these analytical models and conductor geometries will be essential to the successful application of these HTS conductors to the lightweight generators and transformers that are needed for military (and ultimately commercial) applications of superconducting hardware.less",
+        "end_year": "2004",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "99,666",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4396310?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Lawrence Long",
+        "key_highlights": [
+            "The research grant is focused on reducing AC losses in high temperature superconductors.",
+            "The use of coated superconductors is necessary for operating in power applications at liquid-nitrogen temperatures in AC fields.",
+            "The current superconductor loss theory is inadequate for predicting losses in coated superconductors with innovative conductor geometries.",
+            "The program aims to develop new loss models and practical conductor geometries to minimize losses and investigate potential applications in generators and transformers."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics"
+        ],
+        "section_details": "Funding amount\nUSD 99,666\nFunding period\n2003\n5 Nov\n\u2010\n2004\n5 Aug",
+        "start_year": "2003",
+        "title": "Alternating Current (AC) Losses Associated with High Temperature Superconductors",
+        "tldr": "This research grant aims to develop new models and conductor geometries to minimize AC losses in high temperature superconductors, allowing for their use in power applications at liquid-nitrogen temperatures. The goal is to determine if these superconductors can function in emerging AC hardware, such as generators and transformers, for military and commercial use.",
+        "top_keywords": [
+            "Alternating Current (AC) Losses",
+            "High Temperature Superconductors",
+            "Coated Superconductors",
+            "Power Applications",
+            "Liquid-Nitrogen Temperatures",
+            "Conductor Geometries",
+            "Superconductor Loss Theory",
+            "Generators",
+            "Transformers",
+            "Military Applications"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This research investigates the feasibility of improving operational readiness, reliability and availability of high current cryogenic rf linear accelerators using a cryogenic compatible resonant coupling technique to couple all of the accelerator sections together, including any room temperature portion. This technique guarantees a single resonant frequency for the system insuring rapid turn on. The accelerator field amplitudes and phases are locked together without any critical tuning of individual components. This approach also makes the system inherently an ideal rf power combiner and allows operation even if an rf unit is off line.less",
+        "end_year": "2011",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "99,633",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4447317?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to James Potter",
+        "key_highlights": [
+            "Development of high-efficiency, high power electron beam accelerator technologies",
+            "Investigation of cryogenic compatible resonant coupling technique for improved operational readiness, reliability, and availability",
+            "Use of a single resonant frequency for the system to ensure rapid turn on",
+            "Inherent rf power combiner and ability to operate even if an rf unit is offline."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 99,633\nFunding period\n2010\n27 Jun\n\u2010\n2011\n31 Jul",
+        "start_year": "2010",
+        "title": "Development of High-Efficiency, High Power Electron Beam Accelerator Technologies",
+        "tldr": "This research aims to improve the efficiency and reliability of high-power electron beam accelerators by using a cryogenic compatible resonant coupling technique. This technique allows for rapid turn on and ensures that all accelerator sections are synchronized without the need for individual tuning. It also allows for operation even if one rf unit is offline.",
+        "top_keywords": [
+            "High-efficiency",
+            "High power",
+            "Electron beam accelerator",
+            "Cryogenic",
+            "Resonant coupling",
+            "Operational readiness",
+            "Reliability",
+            "Availability",
+            "Cryogenic compatible",
+            "Resonant frequency"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "An emerging consensus in engineering holds that aleatory uncertainty should be propagated by traditional methods of probability theory but that epistemic uncertainty may require methods that do not confuse incertitude with variability by requiring every possibility be associated with a probability that it occurs. Therefore, although Monte Carlo shells that re-run calculations many times while varying input values according to specified distributions are useful, they are insufficient to properly account for epistemic and aleatory uncertainty. Three things are needed to build on the new consensus. The first is a clear and comprehensive roadmap for how various important problems (e.g., arithmetic and logical evaluations, backcalculations, sensitivity analyses, etc.) can be solved under this view. The second is software that enables analysts to automatically propagate through simulations the uncertainty implied by the significant digits of the numbers specifying a model. Such software would require very little training in uncertainty analysis to be useful to analysts. The third need is a software library of recommended methods for common calculations that is usable by modelers and analysts who may not themselves be experts in uncertainty quantification but who recognize the need for and benefits from it.less",
+        "end_year": "2013",
+        "funder": "Missile Defense Agency",
+        "funding_amount_usd": "99,266",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4377758?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to SCOTT FERSON",
+        "key_highlights": [
+            "The need for proper quantification of both aleatory and epistemic uncertainty in engineering.",
+            "The limitations of traditional methods, such as Monte Carlo simulations, in accounting for both types of uncertainty.",
+            "The need for a clear roadmap and software to solve various problems under this new view.",
+            "The need for a software library of recommended methods that can be used by non-experts in uncertainty quantification."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4612 Software Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 99,266\nFunding period\n2013\n13 Feb\n\u2010\n2013\n17 Aug",
+        "start_year": "2013",
+        "title": "M&S Uncertainty Quantification",
+        "tldr": "This research grant aims to develop a clear roadmap and software tools for properly accounting for both aleatory and epistemic uncertainty in engineering problems. The goal is to provide easy-to-use tools for analysts to automatically propagate uncertainty through simulations and recommend methods for common calculations.",
+        "top_keywords": [
+            "M&S",
+            "Uncertainty Quantification",
+            "Aleatory Uncertainty",
+            "Epistemic Uncertainty",
+            "Probability Theory",
+            "Monte Carlo",
+            "Sensitivity Analysis",
+            "Software",
+            "Modelers",
+            "Analysts"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Vibration based structural health monitoring using Time Reversal Acoustics (TRA)represents a new approach to in-situ nondestructive evaluation of airspace structures. The proposed noncontact technique is based on TRA focusing of high frequency vibrations in tested structures produced by single or several external sources and surface vibration measurements by a scanning laser vibrometer. The application of TRA principles will significantly improve the vibration based NDE system's ability to detect the presence of structural faults and localize damage due to targeted focusing of the acousto-elastic waves. In contrast to conventional acoustic methods of NDE where the dispersion of elastic waves is viewed as an unfavorable phenomena, the TRA methodology takes advantage of this previously undesirable process. Scanning of the TRA focused signal over examined surface provides information necessary for tomographic mapping of damage and degradation. During Phase I, the principles of the TRA system with external sources and a laser vibrometer for damage detection will be developed and feasibility tests will be conducted on composite and metal parts with increasing level of damage including cracks, delamination, fiber breakage, corrosion, and battle damage. The developed TRA software and hardware will form a basis for the prototype that will be built in Phase II.less",
+        "end_year": "2005",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "98,546",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4396592?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Charles Farrar",
+        "key_highlights": [
+            "Vibration based structural health monitoring using Time Reversal Acoustics (TRA)",
+            "Noncontact technique using TRA focusing of high frequency vibrations and surface vibration measurements",
+            "TRA methodology takes advantage of dispersion of elastic waves for damage detection",
+            "Development of TRA system with external sources and laser vibrometer for damage detection and feasibility testing on various types of damage."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4005 Civil Engineering",
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\nUSD 98,546\nFunding period\n2004\n14 Sep\n\u2010\n2005\n14 Jun",
+        "start_year": "2004",
+        "title": "Vibration Based Structural Health Monitoring using Time Reversal Acoustics",
+        "tldr": "This research grant aims to develop a non-contact technique for structural health monitoring using Time Reversal Acoustics (TRA). By focusing high frequency vibrations and utilizing a scanning laser vibrometer, the TRA system will be able to detect and localize structural faults and damage. The prototype will be tested on various materials with different levels of damage, and if successful, will provide a new and improved method for non-destructive evaluation of airspace structures.",
+        "top_keywords": [
+            "Vibration",
+            "Structural health monitoring",
+            "Time Reversal Acoustics",
+            "Nondestructive evaluation",
+            "Acousto-elastic waves",
+            "Damage detection",
+            "Tomographic mapping",
+            "Composite materials",
+            "Metal parts",
+            "Prototype development"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "The goal of the proposed research is to develop light-weight, flexible, high efficiency solar cells made from perovskite halide light-harvesting materials for use on unmanned aircraft systems (UAS), for use in conjunction with an energy storage system. Solar cells have historically been heavy, costly, and inflexible. In this research, low-cost manufacturing methods will be used to make high efficiency (~20%) solar cells that are extremely lightweight. To achieve these goals, we turn to the perovskite halide solar cell materials, which have shown remarkable progress in the past six years as solution processable, low-cost solar cell materials that nonetheless exhibit high efficiencies. Among existing solar cell technologies, the perovskite halides present one of the most promising technologies for achieving efficiencies in excess of 20% at suitable costs and in a lightweight form factor because they are grown in thin film form, minimizing the material. In this proposal, we will explore two different methods of growing perovskite halide based solar cells: hot-casting of solutions, and physical vapor deposition. The approaches will be evaluated based on the efficiency of the resultant cell, the scalability of the manufacturing process, flexibility and the cost. An accompanying energy storage system will also be designedless",
+        "end_year": "2016",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "79,995",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.6481908?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Michael Squillante",
+        "key_highlights": [
+            "Development of light-weight, flexible, high efficiency solar cells made from perovskite halide light-harvesting materials",
+            "Use of these solar cells on unmanned aircraft systems (UAS) in conjunction with an energy storage system",
+            "Utilization of low-cost manufacturing methods to produce high efficiency (~20%) solar cells",
+            "Exploration of two different methods of growing perovskite halide based solar cells (hot-casting of solutions and physical vapor deposition) and evaluation based on efficiency, scalability, flexibility, and cost."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "3406 Physical Chemistry",
+            "40 Engineering",
+            "4016 Materials Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 79,995\nFunding period\n2016\n10 May\n\u2010\n2016\n29 Dec",
+        "start_year": "2016",
+        "title": "Perovskite Solar Cells",
+        "tldr": "This research aims to develop lightweight, flexible, and high-efficiency solar cells using perovskite halide materials for use on unmanned aircraft systems. The focus is on low-cost manufacturing methods and two different approaches will be explored: hot-casting of solutions and physical vapor deposition. The goal is to achieve efficiencies of over 20% at a suitable cost and in a lightweight form factor, with an accompanying energy storage system also being designed.",
+        "top_keywords": [
+            "Perovskite solar cells",
+            "Light-weight",
+            "Flexible",
+            "High efficiency",
+            "Unmanned aircraft systems (UAS)",
+            "Energy storage system",
+            "Low-cost manufacturing methods",
+            "Solution processable",
+            "Physical vapor deposition",
+            "Scalability"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The Global Information Grid (GIG) has access to massive amounts of data from a vast number of sensors and sources. Extracting information from this quantity of sensor data is a significant challenge. Sensor data is often large, which taxes limited-bandwidth GIG interconnections. Current approaches rely almost entirely on end-user analytics, which is inefficient in that it requires raw data to reach the analysts from distant nodes of the GIG before information is extracted. The proposed effort overcomes this issue, both saving limited bandwidth and improving analytic efficiency by extracting information close to the source. We apply concepts of both compressive sensing (CS) and compressive processing (CP) to the information-generating chain that flows from the sensor through the GIG to analytical resources, and then back to the GIG as a product. Objective, quantitative means are used to optimize state-of-the-art CS and CP services deployed at locations throughout the distributed sensor-GIG-analyst network. The result is a Distributed Compressive Sensing and Processing (DCSP) framework with a comprehensive joint application of CS and CP to a large, deployed network.less",
+        "end_year": "2012",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "79,977",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4412554?order=funding&or_facet_research_org=grid.148313.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Brecken Uhl",
+        "key_highlights": [
+            "The research grant focuses on the use of Wide-area Motion Imagery and RF Compressive Sensing in the Global Information Grid (GIG).",
+            "The GIG has access to massive amounts of data from various sensors and sources, making it challenging to extract useful information.",
+            "The proposed effort aims to improve efficiency by extracting information close to the source, rather than relying on end-user analytics.",
+            "The research will use concepts of compressive sensing and compressive processing to optimize the flow of information from sensors through the GIG to analytical resources, resulting in a Distributed Compressive Sensing and Processing framework."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4603 Computer Vision and Multimedia Computation",
+            "4605 Data Management and Data Science",
+            "4606 Distributed Computing and Systems Software"
+        ],
+        "section_details": "Funding amount\nUSD 79,977\nFunding period\n2012\n24 Jun\n\u2010\n2012\n29 Sep",
+        "start_year": "2012",
+        "title": "Wide-area Motion Imagery and RF Compressive Sensing Applications",
+        "tldr": "This research grant aims to improve the efficiency of extracting information from large amounts of sensor data by implementing compressive sensing and processing techniques at various points in the data flow. This will save bandwidth and optimize the use of resources in the distributed sensor-GIG-analyst network.",
+        "top_keywords": [
+            "Wide-area Motion Imagery",
+            "RF Compressive Sensing",
+            "Global Information Grid (GIG)",
+            "Sensor data",
+            "Compressive processing (CP)",
+            "Analytic efficiency",
+            "Compressive sensing (CS)",
+            "Distributed Compressive Sensing and Processing (DCSP)",
+            "Information-generating chain",
+            "State-of-the-art"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics",
+            "B12 Engineering"
+        ]
+    }
+]

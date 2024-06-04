@@ -1,0 +1,800 @@
+[
+    {
+        "abstract": "Continuing advances in solid state storage technology have enabled detachable storage devices that are inexpensive, high bandwidth and high capacity, making them practical for sharing even large amounts of data among devices that need not be networked.  For this reason, they are very attractive as a mechanism for secure data storage as well as transfer. Unfortunately the current generation of memory sticks expose risks that make them unsuitable for use by US government agencies. The primary concern with these devices is the attack surface presented by the micro-controller that is required to present the storage as a USB peripheral to the host operating system. Exploits have been demonstrated in which an attacker could, with brief physical access to a memory stick, reprogram its firmware so as to enable arbitrary privilege escalation on a host operating system without needing to exploit an OS-level software vulnerability.  A reprogrammed storage device could exploit the USB protocol, which multiplexes many physical devices on logical channels and permits devices to negotiate registration (and re-registration), to masquerade as a keyboard for long enough to capture the root password via physical keystrokes.  The flash can be reprogrammed with a laptop, making tamper-resistant designs ineffective. We describe the first year of work designing and implementing a secure operating system for memory sticks that is correct-by-construction as well as amenable to formal verification.  Several key features of Twizzler make it ideally suited to the task. It structures memory---whether persistent or volatile---into coarse grained objects that are the units of access control, reducing both the number and variety of access policies that must be considered when deploying the OS. Comprising only 5K lines of code and exposing only 20 system calls to user-space, Twizzler exposes a minimal attack surface and is small enough to be a reasonable target for embedded architecture as well as for systematic verification. Moving the kernel out of the I/O path, it exposes the raw I/O latency and bandwidth  of the memory to programs. To transform Twizzler into an appropriate target for detachable storage micro-controllers requires a research and development effort along three distinct but interrelated lines: Guaranteeing via a flat permission model with no superuser role, in which cryptographically signed capabilities persistently encode access rights. Providing isolation of untrusted code both within and across threads of control via \\emph{security contexts} that subsume UNIX roles, and  gated APIs that subsume system calls and IPC, providing fine-grained control of privileges without escape hatches. Ensure secure boot and integrity of trusted components via unforgeable, content-derived naming.less",
+        "end_year": "2025",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "1,494,236",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13508059?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Peter Alvaro",
+        "key_highlights": [
+            "The research grant is focused on developing a secure operating system for detachable storage devices.",
+            "The current generation of memory sticks present security risks due to the micro-controller used to present the storage as a USB peripheral.",
+            "The proposed operating system, called Twizzler, has several key features that make it suitable for securing memory sticks, including a flat permission model and isolation of untrusted code.",
+            "The research and development effort will focus on guaranteeing access rights, providing isolation of untrusted code, and ensuring secure boot and integrity of trusted components."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4604 Cybersecurity and Privacy",
+            "4606 Distributed Computing and Systems Software"
+        ],
+        "section_details": "Funding amount\nUSD 1,494,236\nFunding period\n2021\n28 Aug\n\u2010\n2025\n25 Jan",
+        "start_year": "2021",
+        "title": "Trust Worthy Information Storage Technology Enhanced Devices (TWISTED)",
+        "tldr": "The TWISTED project aims to develop a secure operating system for detachable storage devices, addressing concerns about potential attacks on the micro-controller. The system will have a flat permission model, isolation of untrusted code, and secure boot and integrity measures.",
+        "top_keywords": [
+            "Trustworthy",
+            "Information storage technology",
+            "Solid state storage",
+            "Secure data storage",
+            "Memory sticks",
+            "USB protocol",
+            "Formal verification",
+            "Access control",
+            "Cryptographically signed capabilities",
+            "Secure boot"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "This proposal ask for resources to improve the productivity of hardware designers. The resulting infrastructure aims at becoming the core of hardware designers tools by allowing large scale designs, incremental elaboration/synthesis/simulation, leverage multicores, and cloud. We call this project LGraph for the Live Graph that resides at its core. LGraph is designed to become the next LLVM-like infrastructure for hardware design with a focus on fast response time for large designs. Current tools, commercial and academic, do not scale well with large designs. This lack of scalability is shown in compilation, simulation, and verification. As the designs scale in size, the tools get very long compilation times, long synthesis feedback loops, and even slower simulations. While software flows are used to fast incremental flows, hardware designers need to wait hours to get feedback. The goal of this project is that for synthesis and simulation a small code change even for a large project should complete in a few seconds. In addition, other time consuming tasks like formal verification or design frequency improvement should also finish in few seconds. The proposal includes details by providing incremetal elaboration, scalable synthesis, incremental simulation with Hot Reload, scalable simulation. All these changes while providing more correct by construction transformations with elastic pipelines and third party tools. If funded, the team will be directed by PI Renau and co-PI Beamer at UC Santa Cruz.less",
+        "end_year": "2022",
+        "funder": "National Security Agency",
+        "funding_amount_usd": "1,151,439",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636909?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Jose Renau",
+        "key_highlights": [
+            "The proposal aims to improve the productivity of hardware designers.",
+            "The project, called LGraph, will be the core infrastructure for hardware designers' tools.",
+            "The focus is on fast response time for large designs, as current tools do not scale well.",
+            "The goal is for small code changes to complete in a few seconds, and other tasks to finish in a few seconds as well."
+        ],
+        "research_categories": [
+            "33 Built Environment and Design",
+            "3301 Architecture",
+            "46 Information and Computing Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 1,151,439\nFunding period\n2019\n15 Sep\n\u2010\n2022\n14 Sep\nResulting DOD publications\n3",
+        "start_year": "2019",
+        "title": "A Productive Open Source Hardware Development Flow",
+        "tldr": "The LGraph project aims to improve the productivity of hardware designers by creating a scalable infrastructure for large designs. This will allow for faster response times and shorter wait times for tasks such as compilation, simulation, and verification. The project will be led by PI Renau and co-PI Beamer at UC Santa Cruz.",
+        "top_keywords": [
+            "Open source",
+            "Hardware development",
+            "Productivity",
+            "Infrastructure",
+            "LGraph",
+            "LLVM-like",
+            "Scalability",
+            "Incremental flows",
+            "Fast response time",
+            "Large designs"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Underwater noise, most notably from shipping, seismic activities and naval sonars, has emerged as one of the most important and controversial stressors on marine mammal populations worldwide. Despite geo-spatial and temporal evidence linking such anthropogenic disturbances to mass stranding events by deep-diving cetaceans, causal mechanisms between oceanic noise and lethal or sublethal injuries have been difficult to identify. Currently, the leading hypotheses suggest a combination of extreme behavioral flight responses, cardiovascular instability and decompression syndromes. However, the question remains, what factors differentiate when an escape response by cetaceans due to noise exposure leads to benign avoidance or to death? An understanding of two critical elements of the escape response, physiological resiliency and recovery, are required to answer this question. To date, neither has been studied for any integration of key behavioral (dive duration, exercise level), environmental (water temperature), physiological (heart rate, metabolic demand, respiratory rate, heat flow), and biochemical (pH, lactate, blood oxygen, carbon dioxide, catecholamines/cortisol) triggers that control the three Rs of escape reactions in mammalian divers - response, resilience and recovery. We will focus on four physiological pathways to assess resiliency and recovery via the cardiovascular system, 1) thermal and metabolic homeostasis, 2) metabolite control, 3) neurological protection, and 4) behavioral-respiratory integration. This will be accomplished by pairing our current physiological and blood chemistry monitors with newly available, portable near-infrared spectroscopy (NIRS) monitors, heat flux tags and doppler ultrasound technology for assessing tissue blood flow. Using this multi-variable approach with trained cetaceans (bottlenose dolphins, beluga whales) performing controlled swims and dives, we will determine the hierarchy of blood flow to central and peripheral body sites to support local oxygenation and thermoregulation during submersion and surface recovery. Independent and sequential dives will be compared. Particular focus will be on central and peripheral thermal windows, and the hypoxia-sensitive vascular master switch, the brain. By correlating vascular events and blood chemistries with common physiological and behavioral markers used for recovery (i.e., breathing frequency, heart rate, stroke frequency, dive duration) in trained cetaceans under controlled conditions we will develop predictive metrics for determining the timeline for re-establishment of thermal, cardiovascular and metabolic homeostasis in wild diving mammals. This will be tested on both new and previously archived data for the elite deep diver, the narwhal, during control and noise-exposed periods in the wild. This project will be the most comprehensive analysis of diving physiology for cetaceans exposed to unanticipated noise to date. For the first time the cardiac, respiratory, and energetic responses of noise-impacted wild, deep-diving cetaceans will be followed throughout escape and recovery. As such, the study will provide a comparative foundation and key physiological metrics applicable to evaluating the effect of fear and submerged exercise on other marine mammal species and even human divers. Ultimately, these metrics will enable Navy personnel to, 1) develop environmentally-sensitive schedules for acoustic activities that account for the most likely lethal and sub-lethal effects on marine mammal populations, and 2) instigate measures that will promote rapid recovery and resumption of normal behaviors by affected animals.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "959,680",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9404494?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Terrie Williams",
+        "key_highlights": [
+            "The study aims to assess the role of vascular conflict and control in recovery from anthropogenic disturbances in mammalian divers.",
+            "The study will focus on four physiological pathways to assess resiliency and recovery via the cardiovascular system.",
+            "The study will use a multi-variable approach with trained cetaceans to determine the hierarchy of blood flow and support local oxygenation and thermoregulation during submersion and surface recovery.",
+            "The study will provide a comparative foundation and key physiological metrics applicable to evaluating the effect of fear and submerged exercise on other marine mammal species and even human divers."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3103 Ecology",
+            "Research, Condition, and Disease Categorization",
+            "Cardiovascular"
+        ],
+        "section_details": "Funding amount\nUSD 959,680\nFunding period\n2020\n31 Jul\n\u2010\n2023\n30 Jul\nResulting DOD publications\n6",
+        "start_year": "2020",
+        "title": "Physiological Resilience in Mammalian Divers: Assessing the role of vascular conflict and control in recovery from anthropogenic disturbances",
+        "tldr": "This research grant aims to study the physiological resilience of mammalian divers, specifically how they recover from anthropogenic disturbances such as underwater noise. By analyzing various physiological and biochemical factors, the study hopes to develop predictive metrics for determining the timeline of recovery for wild diving mammals. This information can be used to develop environmentally-sensitive schedules for acoustic activities and promote rapid recovery for affected animals.",
+        "top_keywords": [
+            "Physiological resilience",
+            "Mammalian divers",
+            "Vascular conflict",
+            "Anthropogenic disturbances",
+            "Escape response",
+            "Recovery",
+            "Cardiovascular system",
+            "Near-infrared spectroscopy",
+            "Blood flow",
+            "Marine mammals"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "14 Life Below Water"
+        ],
+        "abstract": "During the past two decades, oceanic noise including Navy sonar has remained one of the most controversial and debated stressors aff\"\"ecting marine mammal populations. Although it has been linked to numerous mass stranding events involving deep-diving cetaceans, ide\"ntifying the actual cause of injury has been difficult. This is due to the fact that scientists are just beginning to understand how\" marine mammals respond to anthropogenic disturbances. Specifically, we do not know how the suite of conflicting biological response\"s associated with escaping noise interacts in marine mammals to result in tissue injury or death. Only after determining the physiol\"ogical consequences of, 1) diving deep and fast, 2) performing escape maneuvers, and 3) surviving disrupted metabolic control during\" submerged flight will we be able to make the link between abnormal behaviors by marine mammals and harm by aversive oceanic noise.\" To address this, the main purpose of the pr\"\"oposed study is to determine the physiological consequences of escape responses in cetaceans, and to develop the key metrics for acc\"urately predicting short- and long-term energetic impacts of anthropogenic noise on diving mammals. Our approach considers that anth\"ropogenic disturbances that harm marine mammals are associated with extreme, conflicting physiological responses (high speed and ele\"vated stroke frequencies coupled to bradycardia and metabolic suppression) that occur with submerged escape. We focus on cetaceans d\"ue to the sensitivity of this group to oceanic noise, their vulnerability to developing decompression syndromes, the lack of biologi\"\"cal information regarding anthropogenic threats, and concern over the number of cetacean strandings attributed to Navy sonar. Usign\" a lab-to-field protocol with trained and wild odontocete cetaceans ranging in body mass from 50 kg porpoises to 3500 kg killer whal\"es, we will test the central hypothesis, that the unique biological adaptations that normally enable cetaceans to safely complete a\" dive are overridden during escape responses and pose a risk to metabolic and cardiovascular homeostasis. Four specific aims are pro\"posed, 1) determine energetic costs and physiological risks of evasive manuevers by dolphins and whales, 2) build allometric regress\"\"ions for predicting gait-specific stroking costs for small and large cetaceans, 3) assess the physiological effects of metabolic dia\"\"pause in diving cetaceans particularly for maintaining heart-brain integration, and 4) apply energetic/physiological metrics to pred\"ict the cost of escape in free-ranging cetaceans exposed to anthropogenic noise. Custom heart rate-accelerometer instruments and blood flow monitors combined with open-flow respirometry will be used to determine the capacity for submerged escape by cetacea\"ns. We will develop a suite of metrics (peformance costs, evidence of cardiovascular anomalies, relative risk to neural function, at\"ypical behaviors) to define acute and chronic impacts due to oceanic noise. By combining data for small and large cetaceans from thi\"s proposal and our previous work, we will complete an allometric analysis that will allow investigators to translate behavioral and\"\" accelerometer data collected previously or in the future into energetic impacts for animals responding to noise. Thus, results from\"\" this project will be directly applicable to all cetaceans, will represent the most comprehensive energetic analysis for free-rangin\"\"g cetaceans, will represent the most comprehensive energetic analysis for free-ranging cetaceans to date, and will provide critical\"\" data for population threat models. Importantly, the project will accomplish the overall objective of improving the protection of ma\"rine mammals during Naval operations by enabling Navy personless",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "910,997",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078677?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Terrie Williams",
+        "key_highlights": [
+            "The study aims to determine the physiological consequences of escape responses in cetaceans and develop metrics for predicting the impacts of anthropogenic noise on diving mammals.",
+            "The study will focus on cetaceans due to their sensitivity to oceanic noise and vulnerability to developing decompression syndromes.",
+            "The study will use lab-to-field protocols with trained and wild cetaceans ranging in body mass from 50 kg to 3500 kg.",
+            "The study will use custom heart rate-accelerometer instruments and blood flow monitors to determine the capacity for submerged escape by cetaceans and develop a suite of metrics to define acute and chronic impacts of oceanic noise."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3103 Ecology",
+            "41 Environmental Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Cardiovascular",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning"
+        ],
+        "section_details": "Funding amount\nUSD 910,997\nFunding period\n2017\n24 Jul\n\u2010\n2020\n30 Jul\nResulting DOD publications\n13",
+        "start_year": "2017",
+        "title": "Physiological Consequences of Flight Responses in Diving Mammals: Critical metrics for assessing the impacts of novel environmental stimuli on cetaceans and other marine living species",
+        "tldr": "This research grant aims to determine the physiological consequences of escape responses in diving mammals, specifically cetaceans, when exposed to anthropogenic noise. The study will develop key metrics for predicting the short- and long-term impacts of noise on these animals and will provide critical data for population threat models. The results will be directly applicable to all cetaceans and will improve the protection of marine mammals during Naval operations.",
+        "top_keywords": [
+            "Flight responses",
+            "Diving mammals",
+            "Environmental stimuli",
+            "Cetaceans",
+            "Marine living species",
+            "Anthropogenic disturbances",
+            "Physiological consequences",
+            "Energetic impacts",
+            "Oceanic noise",
+            "Navy sonar"
+        ],
+        "units_of_assessment": [
+            "B07 Earth Systems and Environmental Sciences"
+        ]
+    },
+    {
+        "abstract": "The objective of this work is to generate new fundamental science for hybrid dynamical systems that enables systematic design of algorithms for learning the parameters, dynamics, and constraints of such complex systems, using experimental data. Hybrid systems are dynamical systems with intertwined continuous and discrete behavior. Hybrid controllers are algorithms that involve logic variables, timers, memory states, along with the associated decision-making logic. The combination of such mixed behavior, both in the system to control and in the algorithms, is embodied in key future engineering systems. The future autonomous systems will have variables that change continuously according to physics laws, exhibit jumps due to controlled switches, replanning of maneuvers, on-the- y redesign, and failures, while the control algorithms require logic to adapt to such abrupt changes. Hybrid behavior also emerges in such engineering systems due to their complexity. In fact, communication events, abrupt changes in connectivity, and the cyber-physical interaction between vehicles, humans, robots, their environment, and communication networks lead to impulsive behavior that interacts with physics and computing. The intellectual impact of the proposed research plan stems from a novel use of hybrid control theory, one that leads to experimental data-driven learning algorithms for hybrid systems that are not only robust but also optimal. The proposed combination of hybrid control and optimization informed by real-time data exploits { in a holistic manner { key robust stabilization capabilities of hybrid feedback control and optimality guarantees of receding horizon control for complex autonomous systems of interest to AFOSR that are part of the broad mission of the DoD.less",
+        "end_year": "2027",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "795,503",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13511367?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Ricardo Sanfelice",
+        "key_highlights": [
+            "The objective of the research is to develop algorithms for learning parameters, dynamics, and constraints of hybrid dynamical systems using experimental data.",
+            "Hybrid systems have both continuous and discrete behavior, and hybrid controllers use logic variables, timers, and memory states.",
+            "The complexity of future engineering systems leads to hybrid behavior, which is influenced by communication events, changes in connectivity, and cyber-physical interactions.",
+            "The proposed research combines hybrid control theory and optimization to develop robust and optimal learning algorithms for complex autonomous systems of interest to the Department of Defense."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4007 Control Engineering, Mechatronics and Robotics",
+            "4010 Engineering Practice and Education",
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence"
+        ],
+        "section_details": "Funding amount\nUSD 795,503\nFunding period\n2023\n31 May\n\u2010\n2027\n30 May",
+        "start_year": "2023",
+        "title": "Learning Algorithms for Hybrid Dynamical Systems using Experimental Data",
+        "tldr": "This research aims to develop new algorithms for learning the parameters, dynamics, and constraints of hybrid dynamical systems using experimental data. These systems have both continuous and discrete behavior, making them complex and challenging to control. The proposed approach combines hybrid control theory and optimization to create robust and optimal algorithms for complex autonomous systems.",
+        "top_keywords": [
+            "Learning algorithms",
+            "Hybrid dynamical systems",
+            "Experimental data",
+            "Hybrid controllers",
+            "Logic variables",
+            "Cyber-physical interaction",
+            "Robust stabilization",
+            "Receding horizon control",
+            "Autonomous systems",
+            "Optimization"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics",
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "13 Climate Action",
+            "14 Life Below Water",
+            "15 Life on Land"
+        ],
+        "abstract": "The United States Navy#s position as one of the largest global maritime fleets and concurrent investment in the development and testing of sophisticated sonar technologies means negative interactions with marine wildlife are likely to occur. Identifying where marine organisms are most concentrated can reduce the frequency of negative Navy-wildlife interactions. Biological hotspots (areas of intense biological activity that promote feeding activity in higher trophic level species) have become an important monitoring tool for describing locations where certain species and environments are at greater risk. However, the research community lacks detailed information about the location of biological hotspots in the marine environment. Large marine vertebrates such as whales, seals, seabirds and sea turtles have been identified as ecosystem sentinels, or indicators of overall ecosystem processes and climate change impacts. Northern elephant seals (Mirounga angustirostris) are an ideal vesselfor detecting hotspots of biological activity in the ocean because they are fast, quiet, far-ranging, and deep diving. Our research group co-leads a long-term elephant seal monitoring program which contains the tools to review what is known about hotspots and to understand how hotspots vary across scales using drones, stable isotope analysis, and instruments attached to animals. The research program can facilitate valuable quantitative skills development for undergraduate students, highlight career opportunities in the DoD workforce, and train graduate students to facilitate a safe field environment for future scientists. The proposed work cannot take place without considering the ethics of animal handling and compensating young field researchers. Thus, we propose a holistic research program for conducting Navy-relevant research on biological hotspots grounded in ethical considerations and experiential learning. The characterization and subsequent avoidance of knownbiological hotspots pertaining to foraging, reproduction, migration, and multi-species aggregations of marine animals would be advantageous when planning Naval exercises. Avoiding these areas would not only reduce the direct impacts on the organisms, but also potential negative rippling effects to coastal communities dependent on ocean ecosystem services such as ecotourism and fisheries.Approved for public releaseless",
+        "end_year": "2026",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "750,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13511334?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Roxanne Beltran",
+        "key_highlights": [
+            "The United States Navy's potential negative interactions with marine wildlife due to their use of sophisticated sonar technologies.",
+            "The importance of identifying and monitoring biological hotspots in the marine environment to reduce these negative interactions.",
+            "The use of northern elephant seals as a tool for detecting hotspots of biological activity in the ocean.",
+            "The proposed research program aims to consider ethical practices and provide experiential learning opportunities while identifying and avoiding hotspots for the Navy's exercises."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3103 Ecology",
+            "41 Environmental Sciences",
+            "4101 Climate Change Impacts and Adaptation",
+            "4102 Ecological Applications",
+            "4104 Environmental Management"
+        ],
+        "section_details": "Funding amount\nUSD 750,000\nFunding period\n2023\n30 Apr\n\u2010\n2026\n29 Apr",
+        "start_year": "2023",
+        "title": "Identification of Navy-relevant oceanographic hotspots guided by ethical practices and experiential learning",
+        "tldr": "This research grant aims to identify hotspots of marine wildlife activity in order to reduce negative interactions with the US Navy. The study will use elephant seals as indicators and involve undergraduate and graduate students in a holistic research program that considers ethical practices and provides experiential learning opportunities. The results could inform Navy exercises and benefit coastal communities dependent on ocean ecosystem services.",
+        "top_keywords": [
+            "Navy-relevant",
+            "Oceanographic hotspots",
+            "Ethical practices",
+            "Experiential learning",
+            "Marine wildlife",
+            "Biological hotspots",
+            "Ecosystem sentinels",
+            "Northern elephant seals",
+            "DoD workforce",
+            "Ocean ecosystem services"
+        ],
+        "units_of_assessment": [
+            "B07 Earth Systems and Environmental Sciences"
+        ]
+    },
+    {
+        "abstract": "The ongoing military conflicts demonstrate the need to deploy skilled personnel equipped with advanced technology to provide medical and surgical attention as close as possible to the point of injury. A major problem is the occasional mismatch between the type of injury and the type of surgeon available to treat it. Telerobotic surgery is a means to mediate the narrow spectrum of available front line surgical expertise. To date, most R & D efforts on medical robotics for the battlefield have focused on the remote site (the manipulator) with little focus on the critical man-machine interface which is the surgical console. The objective of the proposed project is to develop, fabricate, integrate, and experimentally demonstrate the functionality of a multimodal surgical cockpit (surgical console) enabling telesurgery capabilities which expand the range of surgical expertise to the level dictated by the type and nature of wounds in the battlefield. Through the proposed cockpit, the one or multiple expert surgeons located in the continental US will be able to collaborate while interface with different manufacturers\"end effector robots through a universal interface and perform a surgical procedures on solider located anywhere around the globe with a reduced workload and enhanced situational awareness. While the proposed surgical cockpit will be designed specifically for controlling surgical manipulators, it can also provide a unique and innovative console design elements which could be beneficial to all warriors using remote systems, such as UAV, UGV, etc.less",
+        "end_year": "2011",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "749,942",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4441187?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Jacob Rosen",
+        "key_highlights": [
+            "Development of a multimodal surgical cockpit for telesurgery capabilities",
+            "Collaboration between expert surgeons located in the US and soldiers located globally",
+            "Integration of different manufacturers' end effector robots through a universal interface",
+            "Potential benefits for other remote systems, such as UAV and UGV."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3202 Clinical Sciences",
+            "46 Information and Computing Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Patient Safety"
+        ],
+        "section_details": "Funding amount\nUSD 749,942\nFunding period\n2010\n1 Nov\n\u2010\n2011\n29 Sep",
+        "start_year": "2010",
+        "title": "Surgical Cockpit -- Multisensory/Multimodal Interfaces for Robotic Surgery",
+        "tldr": "The Surgical Cockpit project aims to develop a multimodal surgical console that will allow expert surgeons in the US to remotely perform surgeries on soldiers in the battlefield. This will help address the issue of limited surgical expertise on the front lines and improve situational awareness for the surgeons. The console will also have potential applications for controlling other remote systems.",
+        "top_keywords": [
+            "Surgical Cockpit",
+            "Multisensory",
+            "Multimodal Interfaces",
+            "Robotic Surgery",
+            "Telerobotic Surgery",
+            "Man-machine Interface",
+            "Telesurgery",
+            "Surgical Console",
+            "Medical Robotics",
+            "Battlefield"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The Akamai Workforce Initiative will address workforce needs through this project, which has the following goals: 1) to advance college students from diverse backgrounds into STEM careers; 2) to develop a local workforce in Hawai\u2018i, reflective of the demographics of the state\u2019s population; and 3) prepare current and future STEM professionals to more effectively train the next generation. The core of the project includes apprenticeships at AFRL and associated federal contractors, and related tech companies and facilities.less",
+        "end_year": "2018",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "749,831",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7081432?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Lisa Hunter",
+        "key_highlights": [
+            "The Akamai Workforce Initiative aims to address workforce needs in the fields of astronomy and remote sensing.",
+            "The project's goals include advancing college students from diverse backgrounds into STEM careers.",
+            "The initiative also aims to develop a local workforce in Hawai\u2018i that reflects the state's population demographics.",
+            "The project includes apprenticeships at AFRL, federal contractors, and tech companies to prepare current and future STEM professionals for training the next generation."
+        ],
+        "research_categories": [
+            "33 Built Environment and Design",
+            "3302 Building",
+            "Research, Condition, and Disease Categorization",
+            "Stem Cell Research"
+        ],
+        "section_details": "Funding amount\nUSD 749,831\nFunding period\n2015\n29 Sep\n\u2010\n2018\n28 Sep",
+        "start_year": "2015",
+        "title": "Akamai Workforce Initiative: A New Era of Building a Multi-Level Diverse Workforce in Astronomy and Remote Sensing",
+        "tldr": "The Akamai Workforce Initiative aims to increase diversity in the fields of astronomy and remote sensing by providing apprenticeships and training opportunities for college students from diverse backgrounds. This project also aims to develop a local workforce in Hawaii that reflects the state's population demographics and prepare current and future STEM professionals to effectively train the next generation.",
+        "top_keywords": [
+            "Akamai Workforce Initiative",
+            "Multi-Level Diverse Workforce",
+            "Astronomy",
+            "Remote Sensing",
+            "College Students",
+            "STEM Careers",
+            "Local Workforce",
+            "Hawai\u2018i",
+            "Demographics",
+            "Apprenticeships"
+        ],
+        "units_of_assessment": [
+            "C13 Architecture, Built Environment and Planning"
+        ]
+    },
+    {
+        "abstract": "To satisfy DOD\u2019s Joint Services needs for the detection and identification of chemical and biological warfare agents, we propose a compact, low-cost sensor system based on the integration of HgCdTe infrared emitter and photodiode detection technologies wiless",
+        "end_year": "2010",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "749,595",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4450966?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Silviu Velicu",
+        "key_highlights": [
+            "Development of a compact and low-cost sensor system",
+            "Integration of HgCdTe infrared emitter and photodiode detection technologies",
+            "Focus on detecting and identifying chemical and biological warfare agents",
+            "Aim to satisfy DOD's Joint Services needs"
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\nUSD 749,595\nFunding period\n2009\n13 Dec\n\u2010\n2010\n13 Dec",
+        "start_year": "2009",
+        "title": "Super Hardened, EMI and Vibration Immune Chemical Biological Sensor",
+        "tldr": "A compact and low-cost sensor system is proposed to detect and identify chemical and biological warfare agents, using HgCdTe infrared emitter and photodiode detection technologies. The system is designed to be highly resistant to EMI and vibration.",
+        "top_keywords": [
+            "Super Hardened",
+            "EMI (Electromagnetic Interference)",
+            "Vibration Immune",
+            "Chemical Biological Sensor",
+            "DOD (Department of Defense)",
+            "Joint Services",
+            "Detection",
+            "Identification",
+            "Compact",
+            "Low-cost"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "To satisfy DOD's Joint Services needs for the detection and identification of chemical and biological warfare agents, we propose a compact, low-cost sensor system based on the integration of HgCdTe infrared emitter and photodiode detection technologies wiless",
+        "end_year": "2010",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "749,595",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.4447103?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Silviu Velicu",
+        "key_highlights": [
+            "Development of a compact and low-cost sensor system",
+            "Integration of HgCdTe infrared emitter and photodiode detection technologies",
+            "Focus on detecting and identifying chemical and biological warfare agents",
+            "Aim to satisfy DOD's Joint Services needs"
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science"
+        ],
+        "section_details": "Funding amount\nUSD 749,595\nFunding period\n2009\n30 Sep\n\u2010\n2010\n29 Sep\nResulting DOD publications\n1",
+        "start_year": "2009",
+        "title": "Super Hardened, EMI and Vibration Immune Chemical Biological Sensor",
+        "tldr": "A compact and low-cost sensor system is proposed to detect and identify chemical and biological warfare agents, using HgCdTe infrared emitter and photodiode detection technologies. The system is designed to be highly resistant to EMI and vibration.",
+        "top_keywords": [
+            "Super Hardened",
+            "EMI",
+            "Vibration Immune",
+            "Chemical Biological Sensor",
+            "DOD",
+            "Joint Services",
+            "Detection",
+            "Identification",
+            "Compact",
+            "Low-cost"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "This proposal focuses on designing secure Internet of Military/Battlefield Things that consists of sensors, wearable devices, mobile systems, IoT devices, drones and robots. The proposal aims at finding holistic security solutions for these systems using a multi-disciplinary approach. We will develop unique results such as information theoretic encryption techniques, provable secure control algorithms, novel key exchange and authentication protocols, and attackresilient multi-agent systems that can be useful for many types of military applications including the Internet of Military/Battlefield Things. The main goal of this proposal is to protect the confidentiality, security, and recovery of the information in a disruptive environment. To address these challenges, we will develop an interdisciplinary approach that will bring together three different fields: (1) Control theory for hybrid and cyber-physical systems, (2) Information Theory, and (3) Cybersecurity. The combination of these three fields will allow us to model the dynamics and algorithms used by these cyber-physical systems, secure their communications, and detect potential attacks. Our goal is to develop algorithms and protocols that enhance the security of Internet of Military/Battlefield Things against state sponsored hostile actors to the highest possible degree. Our proposal includes participation of graduate and undergraduate students in this program using UCSC internal funds. For graduate students, we intend to recruit minority and underrepresented graduate students using UC sponsor Cota-Robles scholarship. We will also leverage on our relationship and collaboration with California Alliance for Minority Participation (CAMP) and UC LEADS programs. We will continue sending our graduate students as \u00d3ambassadors\u00d3 for outreach to nearby high schools and community colleges with significant number of minority students to encourage these students to pursue STEM higher education.less",
+        "end_year": "2023",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "658,107",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9290431?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Hamid Sadjadpour",
+        "key_highlights": [
+            "Designing secure Internet of Military/Battlefield Things",
+            "Using a multi-disciplinary approach to find holistic security solutions",
+            "Protecting confidentiality, security, and recovery of information in a disruptive environment",
+            "Involving graduate and undergraduate students in the program and promoting diversity in STEM education."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "4604 Cybersecurity and Privacy",
+            "4605 Data Management and Data Science",
+            "4606 Distributed Computing and Systems Software"
+        ],
+        "section_details": "Funding amount\nUSD 658,107\nFunding period\n2020\n30 Jul\n\u2010\n2023\n29 Jul",
+        "start_year": "2020",
+        "title": "Secure and Resilient Design of Internet of Battlefield Things",
+        "tldr": "This research grant aims to develop secure and resilient solutions for military/battlefield Internet of Things systems using a multi-disciplinary approach. The goal is to protect the confidentiality and security of information in a disruptive environment, and the proposal includes participation of graduate and undergraduate students.",
+        "top_keywords": [
+            "Secure design",
+            "Resilient design",
+            "Internet of Things (IoT)",
+            "Military applications",
+            "Multi-disciplinary approach",
+            "Information theoretic encryption",
+            "Provable secure control algorithms",
+            "Key exchange",
+            "Authentication protocols",
+            "Cybersecurity"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Bioelectronics interface electronic devices with biology with the potential for sensing and actuation. Ranging from intercellular communication to organ function, ionic species play an important role in natural systems. A majority of physiological processes, such as muscle contraction, neuronal signaling and metabolism, involve the exchange of ions between cells. Specific to bacteria, ions play a large role in homeostasis and contribute to the communication among bacteria in a colony. Here, we will develop electrophoretic bioelectronic pumps integrated in a microfluidic chip that accommodates cultures of B. subtilis. These pumps will be able to deliver ions and nutrients to B. subtilis to study their communication as a function of nutrient continent. Specifically, we will monitor B. subtilis membrane voltage in the presence of ionic or chemical actuation and explore whether we can control the oscillation in time and space of membrane voltage that have been observed in microfluidic cultures with nutrient shortage. The goal here is to establish two-way communication with bacteria and affect their electronic processes such as membrane voltage without the need for cell penetration. The basic research proposed here aims at developing bioelectronic devices to better understand ion-based cell-to-cell communication in bacteria systems.less",
+        "end_year": "2025",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "651,177",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.12898957?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Marco Rolandi",
+        "key_highlights": [
+            "The research grant focuses on iontronic control of Vmem and bioelectric communication in bacteria.",
+            "The study will develop electrophoretic bioelectronic pumps integrated in a microfluidic chip to deliver ions and nutrients to B. subtilis.",
+            "The goal is to establish two-way communication with bacteria and affect their electronic processes without the need for cell penetration.",
+            "The research aims to better understand ion-based cell-to-cell communication in bacteria systems through the use of bioelectronic devices."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "Research, Condition, and Disease Categorization",
+            "Biotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 651,177\nFunding period\n2022\n27 Apr\n\u2010\n2025\n26 Apr\nResulting DOD publications\n3",
+        "start_year": "2022",
+        "title": "Iontronic Control of Vmem and Bioelectric Communication in Bacteria",
+        "tldr": "This research aims to develop bioelectronic devices that can control the communication and membrane voltage of bacteria without the need for cell penetration. By using electrophoretic bioelectronic pumps, the study will explore the effects of ionic and chemical actuation on bacterial communication and membrane voltage. This research has the potential to improve our understanding of ion-based cell-to-cell communication in bacteria systems.",
+        "top_keywords": [
+            "Iontronic control",
+            "Vmem",
+            "Bioelectric communication",
+            "Bacteria",
+            "Electrophoretic bioelectronic pumps",
+            "Microfluidic chip",
+            "Nutrient shortage",
+            "Cell-to-cell communication",
+            "Bioelectronic devices",
+            "Ion-based systems"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "The objective of this work is to generate new fundamental science for hybrid dynamical systems that enables systematic design of algorithms using reinforcement learning (RL) techniques that are hybrid. The research proposed consists of developing novel hybrid reinforcement learning control algorithms using hybrid systems theory and validate them in experimental data-driven testbeds. The algorithms to emerge from this project will exploit real-time data exploits to robustly stabilize the system under control. less",
+        "end_year": "2025",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "626,368",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13201162?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Ricardo Sanfelice",
+        "key_highlights": [
+            "Objective: The objective of the research is to generate new fundamental science for hybrid dynamical systems.",
+            "Methodology: The research will use reinforcement learning (RL) techniques to develop novel hybrid reinforcement learning control algorithms.",
+            "Validation: The algorithms will be validated using experimental data-driven testbeds.",
+            "Expected Outcome: The algorithms developed through this project will exploit real-time data to robustly stabilize the system under control."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4602 Artificial Intelligence",
+            "Research, Condition, and Disease Categorization",
+            "Bioengineering"
+        ],
+        "section_details": "Funding amount\nUSD 626,368\nFunding period\n2022\n19 Dec\n\u2010\n2025\n30 Dec\nResulting DOD publications\n15",
+        "start_year": "2022",
+        "title": "Multi-Agent Reinforcement Learning for Safety",
+        "tldr": "This research grant aims to develop new hybrid reinforcement learning control algorithms using hybrid systems theory to improve safety in multi-agent systems. The algorithms will be validated through experimental data-driven testbeds and will utilize real-time data to effectively stabilize the system under control.",
+        "top_keywords": [
+            "Multi-Agent",
+            "Reinforcement Learning",
+            "Safety",
+            "Hybrid Dynamical Systems",
+            "Hybrid Reinforcement Learning",
+            "Control Algorithms",
+            "Hybrid Systems Theory",
+            "Experimental Data-Driven Testbeds",
+            "Real-Time Data",
+            "Robust Stabilization"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Theoretical computer science has, over the past 40 years, developed a remarkably sophisticated toolbox for reasoning about and designing algorithms for well-motivated classes of graphs, such as planar graphs, bounded-treewidth graphs, and perfect graphs. Meanwhile, the past 10--15 years have seen the rise of large-scale social networks, such as the graphs defined by Facebook friendship relationships or followers on Twitter. The overarching goal of the proposed research is to define new graph classes relevant to the study of social networks, and to develop structural and algorithmic results for such graphs. More concretely, the project comprises three closely interrelated goals: definitions, structural results, and algorithms. 1. The first research goal is to develop definitions of graph classes motivated by triadic closure --- the idea that vertices with common neighbors are likely to be connected by an edge. There is tremendous empirical support for this property in social networks, and this property seems to lead to graph classes with more exploitable structure than the other most widely accepted properties of social networks, such as heavy-tailed degree distributions. 2. The second research goal is to develop structural results for the graph classes we define, to understand what these graphs ``look like.'' This is a familiar strategy for understanding restricted graph classes, analogous to using separator theorems to make precise how planar graphs resemble grids, tree decompositions to quantify how bounded-treewidth graphs resemble trees, and the regularity lemma to describe how dense graphs are approximately composed of ``random-like'' bipartite graphs. Such structural results are interesting in their own right and provide a flexible foundation for algorithmic applications. 3. The third research goal is to develop algorithms that solve problems more effectively for graphs in the proposed classes than for worst-case graphs. Empirically, many optimization problems that are notoriously difficult in the worst case, such as finding cliques or dense subgraphs, are solved to near-optimality in social networks by fast heuristics. Narrowing the gap between this theoretical intractability (in the worst case) and empirical tractability (in social networks) of these problems is a concrete and practically relevant challenge for algorithm analysis ``beyond the worst case.'' Specific opportunities include provably polynomial-time or fixed-parameter tractable algorithms for problems that are NP-hard in worst-case graphs; approximation algorithms with better approximation ratios for social networks than in the worst case; and algorithms for the approximate recovery of planted solutions.less",
+        "end_year": "2022",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "613,498",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8454424?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Seshadhri Comandur",
+        "key_highlights": [
+            "Developing new graph classes for the study of social networks, motivated by the concept of triadic closure.",
+            "Understanding the structure of these graph classes through the development of structural results.",
+            "Developing algorithms that are more effective for graphs in the proposed classes compared to worst-case graphs.",
+            "Addressing the challenge of narrowing the gap between theoretical intractability and empirical tractability of optimization problems in social networks."
+        ],
+        "research_categories": [
+            "49 Mathematical Sciences",
+            "4901 Applied Mathematics",
+            "4904 Pure Mathematics"
+        ],
+        "section_details": "Funding amount\nUSD 613,498\nFunding period\n2019\n14 May\n\u2010\n2022\n13 May\nResulting DOD publications\n13",
+        "start_year": "2019",
+        "title": "Algorithms and Distribution-Free Models for Social and Information Networks",
+        "tldr": "This research aims to develop new graph classes and algorithms for social networks, based on the concept of triadic closure. The goals include defining graph classes, understanding their structure, and developing algorithms that are more effective for social networks than worst-case graphs. This will help bridge the gap between theoretical intractability and empirical tractability of optimization problems in social networks.",
+        "top_keywords": [
+            "Algorithms",
+            "Distribution-free models",
+            "Social networks",
+            "Information networks",
+            "Graph classes",
+            "Structural results",
+            "Triadic closure",
+            "Empirical support",
+            "Algorithmic applications",
+            "Worst-case graphs"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "3 Good Health and Well Being"
+        ],
+        "abstract": "A framework has been created to understand the population consequences of disturbance. However, there are a number of elements that are necessary for the implementation of this framework. This project would use elephant seals as a model system to quantify the following transfer functions that link: (1) changes in behavior and allostatic load to life functions, and (2) changes in vital rates to population effects. We propose using our existing dataset, along with new data form our ongoing elephant seal field work to explore the specific physiological mechanisms that link body condition and reproduction to better understand how energy status integrates with allostatic load to modulate reproductive effort. We will develop and refine the following metrics associated with physiological measures of body condition that allow detection of pregnancy or the timing of reproductive suppression and provide insights into the physiological mechanisms that link body condition to gonadal function. We will examine the following issues: we will use standard hormonal assays to detect implantation, pregnancy, and mediators of gonadal function that link body condition and foraging success to reproduction in northern elephant seals; we will examine whether there are unique signatures within the diving behaviors of pregnant vs. non-pregnant female elephant seals, using our condition indices determine the thresholds that are associated with implantation and termination of pregnancy; and lastly determine the maximum and minimum condition thresholds for survival in both adults and pups.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "612,850",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7825815?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Daniel Costa",
+        "key_highlights": [
+            "Development of metrics for animal condition",
+            "Linkage between animal behavior and allostatic load to life functions",
+            "Linkage between vital rates and population effects",
+            "Use of elephant seals as a model system to study physiological mechanisms related to body condition and reproduction."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3103 Ecology",
+            "41 Environmental Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Behavioral and Social Science",
+            "Contraception/Reproduction",
+            "Health Category (HRCS)",
+            "Reproductive health and childbirth",
+            "Research Activity Codes (HRCS)",
+            "2.1 Biological and endogenous factors"
+        ],
+        "section_details": "Funding amount\nUSD 612,850\nFunding period\n2018\n31 Jul\n\u2010\n2021\n30 Jul\nResulting DOD publications\n27",
+        "start_year": "2018",
+        "title": "Developing Metrics of Animal Condition and their linkage to Vital Rates: Further Development of the PCoD Model",
+        "tldr": "This research project aims to develop metrics for measuring animal condition and its impact on vital rates, using elephant seals as a model system. The study will focus on understanding the physiological mechanisms that link body condition to reproductive effort and survival in both adult and pup elephant seals.",
+        "top_keywords": [
+            "Metrics",
+            "Animal condition",
+            "Vital rates",
+            "PCoD model",
+            "Population consequences",
+            "Disturbance",
+            "Transfer functions",
+            "Physiological mechanisms",
+            "Body condition",
+            "Reproduction"
+        ],
+        "units_of_assessment": [
+            "A05 Biological Sciences"
+        ]
+    },
+    {
+        "abstract": "Quantum materials composed of antiferromagnetic thin films, heterostructures, and multilayers composed of two-dimensional materials are of much current interest because of their possible applications in low power spintronics, THz electronics, and quantum computing. When such materials are synthesized, it is crucial to thoroughly characterize them so that of intrinsic properties (e.g., the electronic and topological properties of the material) or extrinsic properties (i.e., defects). Moreover, if the structural characteristics at the nanoscale can be systematically studied and correlated with the synthesis methodology, the methodology can be altered to optimize the quality of the material. The proposed instrument will consist of a high power, rotating anode x-ray diffractometer optimized to determine the structure of the thin films, heterostructures, and multilayers. In particular, the system will have excellent angular and lateral spatial resolution with high x-ray intensity, characteristics which are crucial for the characterization of ultra-thin films (films thinner than approximately 2 nm). For antiferromagnetic thin films which could be used in THz spintronics, the crystalline quality, interface roughness, and strain can significantly affect their magnonic properties. The system will allow rapid characterization of the structure of the films, both in- and out-of-plane, to identify the structural factors which optimize the films\u00d5 spintronic properties. For two-dimensional materials, where samples consist of flakes which are on the order of 100 \u00b5m in lateral size, the focused beam (approximately 50 \u00b5m in diameter) capabilities of the system will allow the measurement of single flakes, allowing the determination of their structure (for example, the type of stacking in multilayered samples). The combination of high intensity and high lateral resolution will approach the capabilities of synchrotron-based measurements, making high quality routine characterization of our samples in our lab, thus increasing sample quality and reproducibility. Researchers other than the PI and Co-PI at UC Santa Cruz who synthesize thin films and are interested in neuromorphic computing and optical sensors will also benefit from this new instrumentation. From an educational point of view, the instrument will help train a new diverse generation of scientists in the fields of physics, chemistry, and engineering. UC Santa Cruz students at the undergraduate and graduate levels will be trained to use the instrument through collaborations of their advisors with the PI and Co-PI. Undergraduate students from community colleges in California will use the instrument as part of an NSF Research Experiences for Undergraduates (REU) program led by the PI. High school students participating in the summer Science Internship Program (SIP) at UC Santa Cruz, will use the instrumentation as part of their research activities. The PI will give presentations at minority-serving high schools in Northern California which will include remotely controlling the instrument to generate data live during the talk to illustrate basic concepts of interference and crystal structure.less",
+        "end_year": "2023",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "599,999",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13539754?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to David Lederman",
+        "key_highlights": [
+            "Development of a high-resolution x-ray diffractometer for characterization of quantum material thin films and multilayers.",
+            "Importance of thorough characterization of these materials for understanding their intrinsic and extrinsic properties.",
+            "Potential applications of these materials in low power spintronics, THz electronics, and quantum computing.",
+            "Educational benefits of the instrument, including training a diverse generation of scientists and outreach to high school students."
+        ],
+        "research_categories": [
+            "34 Chemical Sciences",
+            "3403 Macromolecular and Materials Chemistry",
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "4016 Materials Engineering",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 599,999\nFunding period\n2022\n31 Jul\n\u2010\n2023\n30 Jul",
+        "start_year": "2022",
+        "title": "High Spatial and Angular Resolution X-Ray Diffractometer for Quantum Material Thin Films and Multilayers",
+        "tldr": "A high-resolution x-ray diffractometer is being developed to characterize quantum material thin films and multilayers for potential applications in spintronics, THz electronics, and quantum computing. The instrument will have excellent spatial and angular resolution, allowing for rapid characterization of structural factors that optimize the material's properties. It will also be used for educational purposes, training a diverse generation of scientists in the fields of physics, chemistry, and engineering.",
+        "top_keywords": [
+            "X-ray diffractometer",
+            "Quantum materials",
+            "Thin films",
+            "Multilayers",
+            "Spatial resolution",
+            "Angular resolution",
+            "Antiferromagnetic",
+            "Synthesis methodology",
+            "Structural characterization",
+            "High intensity"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    },
+    {
+        "abstract": "Many two-dimensional (2D) materials, such as black phosphorus (BP), transition metal dichalcogenides (TMDs), and topological insulators (TIs) are promising for the development of electronic components with new capabilities for defense-related applications, such as sensing and information processing. These 2D material nanoscale devices are highly tunable platforms that enable unprecedented manipulation of emergent quantum properties, such as quantum confinement, superconductivity, and dissipation-less metallic edge states. By implementing these materials into nanoscale devices, their unusual correlated quantum properties can be exploited for novel technological applications. Unfortunately, the intriguing quantum properties of these materials are affected or even destroyed by exposure to air and water. Environmental control is thus crucial for studying the fundamental properties of novel electronic components based on air-sensitive 2D materials. In order to address problems with air contamination that preclude many fundamental studies of the properties of air-sensitive 2D materials, this proposal requests support for the acquisition and setup of a glove box system for fabrication and characterization of 2D quantum material devices at the University of California, Santa Cruz (UCSC), a minority serving institution with over 30% Hispanic enrollment. The proposed glovebox is equipped with tools for 2D material device fabrication, such as an optical microscope, a spin coater and a thermal evaporator. It is also equipped with characterization tools well suited for 2D material devices, such as a state-of-the-art atomic force microscope (AFM) and a four-point probe station. The proposed equipment is a unique and versatile system, with only a few comparable systems available worldwide. Hence, the proposed system will enable unprecedented landmark studies on pristine, air sensitive 2D material devices. The proposed glove box system will enhance the research facilities and increase the impact of current and future research on materials at UCSC. It will also enhance undergraduate and graduate student education/training with regards to materials. As a result, the quality of UCSC STEM programs in general and the education and training capabilities of the emerging Materials Science and Engineering Initiative (MSEI) at UCSC will be enhanced significantly. These positive impacts are possible because equipment such as the proposed glove box system and its integration with existing UCSC facilities are unmatched in labs around the world, and therefore, will enable transformative research in the area of 2D materials electronics. Importantly, these studies will be driven by the efforts of graduate and undergraduate students, and thus the proposed glove box system will directly contribute to the scientific training of these students who will perform cutting edge scientific research. Moreover, summer interns from high-achieving community colleges that are Hispanic Serving Institutions will participate in these research projects during their summer research internships. Additional efforts will be made to include local high school students and/or teachers into research projects that utilize the proposed glove box system as well.less",
+        "end_year": "2018",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "574,544",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826067?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Jairo Velasco",
+        "key_highlights": [
+            "Acquisition of a glove box system for fabrication and characterization of quantum materials devices",
+            "Importance of 2D materials for defense-related applications and their susceptibility to air and water contamination",
+            "The proposed glove box system will enhance research facilities and education/training capabilities at the University of California, Santa Cruz (UCSC)",
+            "The proposed system will enable transformative research in the area of 2D materials electronics and contribute to the scientific training of graduate and undergraduate students, as well as summer interns from Hispanic Serving Institutions."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5104 Condensed Matter Physics",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 574,544\nFunding period\n2017\n10 Sep\n\u2010\n2018\n9 Sep",
+        "start_year": "2017",
+        "title": "Acquisition of a Glove Box System for Fabrication and Characterization of Quantum Materials Devices",
+        "tldr": "This research grant aims to acquire a glove box system for the fabrication and characterization of air-sensitive 2D materials, which have potential for defense-related applications. The system will enhance research facilities and education/training opportunities at the University of California, Santa Cruz, and enable transformative studies on 2D materials electronics. The system will also involve undergraduate and graduate students, as well as summer interns from Hispanic Serving Institutions, in cutting-edge scientific research.",
+        "top_keywords": [
+            "Glove Box System",
+            "Fabrication",
+            "Characterization",
+            "Quantum Materials",
+            "Devices",
+            "2D Materials",
+            "Nanoscale",
+            "Environmental Control",
+            "Air-Sensitive",
+            "STEM Programs"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "14 Life Below Water"
+        ],
+        "abstract": "Dr. Robert Headrick, Task Force Ocean Program ManagerFunding for 25 moored CTD sensors and 4, long range 75 kHz ADCPs are requestedto augment a system of four low frequency acoustic transceiver moorings to be deployed as part of the Task Force Ocean, Departmental Research Initiative at the New England Seamounts main experiment in 2024. The development of these moorings is a collaboration between the Scripps Institution of Oceanography (Dr. Matt Dzieciuch) and the University of California Santa Cruz (Prof. John Colosi). Fifteen of the CTD sensors will be new and 10 will be in-hand units to be re-furbished for deeper deployment depths. The CTD sensors are required to resolve the complex water mass/ sound speed structure at the seamounts consisting of slope water, Gulf Stream water,and Sargasso Sea water. The ADCP#s are required to quantify the role of advection in determining the space/time scales of the soundspeed field in this dynamic Gulf Stream/Seamount setting. Lastly funds are requested for ADCP mooring cages, batteries, and auxiliary components, for the 2024 deployments. This combination of acoustic and oceanographic data collection will help the DRI address one of its fundamental hypotheses namely, evaluate the information needed for predicting 4-d acoustic arrival patterns (Impulse Response) in the dynamic Gulf Stream over the New England Seamounts, and evaluate the impacts upon signal detection, localization and tracking.less",
+        "end_year": "2024",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "573,282",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13539913?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to John Colosi",
+        "key_highlights": [
+            "Funding requested for 25 moored CTD sensors and 4 long range 75 kHz ADCPs for the Task Force Ocean, New England Seamounts experiments.",
+            "Collaboration between Scripps Institution of Oceanography and University of California Santa Cruz for the development of the moorings.",
+            "Purpose of the CTD sensors is to resolve water mass/sound speed structure at the seamounts, including slope water, Gulf Stream water, and Sargasso Sea water.",
+            "Purpose of the ADCPs is to quantify the role of advection in determining the space/time scales of the sound speed field in the Gulf Stream/Seamount setting."
+        ],
+        "research_categories": [
+            "37 Earth Sciences",
+            "3708 Oceanography",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 573,282\nFunding period\n2023\n30 Jun\n\u2010\n2024\n29 Jun",
+        "start_year": "2023",
+        "title": "Enabling simultaneous observations of ocean sound speed structure and advection for the Task Force Ocean, New England Seamounts experiments",
+        "tldr": "Funding is requested for the deployment of 25 moored CTD sensors and 4 long range ADCPs as part of the Task Force Ocean research initiative at the New England Seamounts. These instruments will help to better understand the complex sound speed structure and advection in the Gulf Stream and Seamount setting. The data collected will aid in predicting acoustic arrival patterns and their impact on signal detection, localization, and tracking.",
+        "top_keywords": [
+            "Ocean sound speed structure",
+            "Advection",
+            "Task Force Ocean",
+            "New England Seamounts",
+            "CTD sensors",
+            "ADCPs",
+            "Water mass",
+            "Gulf Stream",
+            "Seamounts",
+            "Acoustic data collection"
+        ],
+        "units_of_assessment": [
+            "B07 Earth Systems and Environmental Sciences"
+        ]
+    },
+    {
+        "abstract": "How to mitigate uncertainty in optimal control framework is a problem of great practical importance, especially in space control area. On one hand, stringent performance and complex nonlinearities of space systems demand the use of optimal control. On the other, uncertainty in any control systems is ubiquitous. It degrades performance of optimal control, and can potentially cause failure in control systems. Recently, a new framework, Riemann-Stieltjes (RS) optimal control, has been proposed to explicitly address uncertain in optimal control setting. In the proposed research, we will explore RS optimal control framework to mitigate the uncertainty in space control systems. We will conduct research on the following topics: 1) analyzing modeling issues in Riemann-Stieltjes optimal control, especially on handling different objectives in constrained problems; 2) developing computational algorithms to improve the efficiency for problems with higher dimensional uncertainty, and conducting research to analyze the performance of the developed algorithms; 3) investigating feedback implementation for optimal control of uncertain systems; 4) testing the results on space control applications. The proposed research will improve control performance of spacecraft, and enrich scientific missions of satellites; thus benefits general public. Moreover, the outcome of the proposed work is portable to other control systems. The algorithms developed in this project provide engineers with new ways to solve uncertain optimal control problems in challenging engineering applications, for example, motion planning of autonomous vehicles, an area with many industry applications and interests. The research work also enhances high education by engaging graduate students into interdisciplinary training on modeling, computational mathematics, and engineering implementations.less",
+        "end_year": "2018",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "554,609",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7079104?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Qi Gong",
+        "key_highlights": [
+            "Mitigating uncertainty in optimal control framework is a problem of great practical importance, especially in space control area.",
+            "A new framework, Riemann-Stieltjes (RS) optimal control, has been proposed to explicitly address uncertainty in optimal control setting.",
+            "The proposed research will explore RS optimal control framework to mitigate uncertainty in space control systems and will focus on analyzing modeling issues, developing computational algorithms, investigating feedback implementation, and testing the results on space control applications.",
+            "The proposed research will improve control performance of spacecraft, enrich scientific missions of satellites, and provide engineers with new ways to solve uncertain optimal control problems in challenging engineering applications."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "49 Mathematical Sciences",
+            "4901 Applied Mathematics"
+        ],
+        "section_details": "Funding amount\nUSD 554,609\nFunding period\n2015\n27 Apr\n\u2010\n2018\n26 Apr",
+        "start_year": "2015",
+        "title": "Mitigate Uncertainty in Space Control Systems Through Computational Optimal Control",
+        "tldr": "This research aims to address uncertainty in space control systems through the use of a new framework called Riemann-Stieltjes optimal control. The project will focus on analyzing modeling issues, developing computational algorithms, investigating feedback implementation, and testing the results on space control applications. The outcome of this research will improve control performance of spacecraft and can be applied to other control systems such as motion planning for autonomous vehicles.",
+        "top_keywords": [
+            "Uncertainty",
+            "Optimal control",
+            "Space control systems",
+            "Riemann-Stieltjes optimal control",
+            "Computational algorithms",
+            "Feedback implementation",
+            "Spacecraft",
+            "Scientific missions",
+            "Autonomous vehicles",
+            "Interdisciplinary training"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "In conventional design processes, the design of the plant, the controller, the prototype as well as the certification of validity are products of consecutive phases of development utilizing distinct simulation, fabrication, and synthesis tools. Each phase produces an \u201coptimal\u201d solution, which is typically not jointly optimal for all phases. Phases need to be restarted from scratch if a new edge case or catastrophic failure is discovered at a later stage, and the interaction between failures, fabrication tolerances, and model inaccuracy is murky at best. Instead, we propose to combine rapid prototyping, hybrid systems techniques for modeling and control, formal verification, and quantified uncertainty and risk models for systematic autonomous system development. New advanced systems have raced ahead of our ability to analyze them, while advanced manufacturing technologies allow us to quickly and inexpensively build them. The Physical Design Optimization (PDO) paradigm we propose rapidly prototypes the design, validates its fabrication, and quantifies both its performance and its failure risk by conducting physical tests of the prototypes. This allows the PDO process to rationally improve this combined representation without being subject to reality-gaps in simulation, and without requiring catastrophic restarts when new edge cases and failure modes are discovered.less",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "540,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9764383?order=funding&or_facet_research_org=grid.205975.c&not_facet_funder=grid.496791.4",
+        "investigator": "to Ricardo Sanfelice",
+        "key_highlights": [
+            "Verification and validation of autonomous systems",
+            "Hybrid dynamics and uncertainty in system development",
+            "Use of rapid prototyping and advanced manufacturing technologies",
+            "Physical Design Optimization (PDO) paradigm for improved design and risk assessment"
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4010 Engineering Practice and Education"
+        ],
+        "section_details": "Funding amount\nUSD 540,000\nFunding period\n2020\n27 Sep\nResulting DOD publications\n53",
+        "start_year": "2020",
+        "title": "VERIFICATION AND VALIDATION OF AUTONOMOUS SYSTEMS WITH HYBRID DYNAMICS UNDER UNCERTAINTY",
+        "tldr": "This research grant aims to develop a new approach for designing and validating autonomous systems with hybrid dynamics under uncertainty. The proposed method combines rapid prototyping, hybrid systems techniques, formal verification, and quantified uncertainty and risk models to improve the overall performance and reduce the need for restarting the design process.",
+        "top_keywords": [
+            "Verification",
+            "Validation",
+            "Autonomous systems",
+            "Hybrid dynamics",
+            "Uncertainty",
+            "Rapid prototyping",
+            "Formal verification",
+            "Risk models",
+            "Advanced manufacturing technologies",
+            "Physical Design Optimization (PDO)"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    }
+]

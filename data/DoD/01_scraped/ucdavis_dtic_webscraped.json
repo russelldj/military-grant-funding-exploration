@@ -1,0 +1,842 @@
+[
+    {
+        "abstract": "This effort aims to dramatically improve the functional trajectory of individuals with spinal cord injury (SCI) through a multi-stage repair strategy that covers the acute-subacute-chronic care continuum with synergistic therapeutic approaches unique to this effort: i) a near-infrared spectrometry sensor that interrogates the SCI penumbra to enable neuroprotection and stabilization of the cord acutely, (ii) a neural stem cell/scaffold graft that promotes regeneration to bridge the gap subacutely & chronically, and (iii) neurotechnologies for closed-loop control of targeted electrical spinal stimulation (TESS) that mimics the physiological activation of spinal circuits to mediate functional recovery in the chronic phase.less",
+        "end_year": "2025",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "36,482,956",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9982063?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Karen Moxon",
+        "key_highlights": [
+            "The research grant aims to improve the functional trajectory of individuals with spinal cord injury (SCI).",
+            "The research will cover the acute-subacute-chronic care continuum.",
+            "The research will use a multi-stage repair strategy, including a near-infrared spectrometry sensor, a neural stem cell/scaffold graft, and neurotechnologies for closed-loop control of targeted electrical spinal stimulation (TESS).",
+            "The goal of the research is to achieve neuroprotection, stabilization, regeneration, and functional recovery in individuals with SCI."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "3206 Medical Biotechnology",
+            "40 Engineering",
+            "Research, Condition, and Disease Categorization",
+            "Neurodegenerative",
+            "Neurosciences",
+            "Physical Injury - Accidents and Adverse Effects",
+            "Regenerative Medicine",
+            "Rehabilitation",
+            "Spinal Cord Injury",
+            "Stem Cell Research",
+            "Traumatic Head and Spine Injury",
+            "Health Category (HRCS)",
+            "Neurological",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning"
+        ],
+        "section_details": "Funding amount\nUSD 36,482,956\nFunding period\n2020\n20 Sep\n\u2010\n2025\n19 Sep\nResulting DOD publications\n4",
+        "start_year": "2020",
+        "title": "SCI: Bridging the Gap with Biological and Electronic Systems",
+        "tldr": "This research grant aims to improve the functional recovery of individuals with spinal cord injury through a multi-stage approach that includes a sensor for neuroprotection, a stem cell/scaffold graft for regeneration, and neurotechnologies for targeted electrical spinal stimulation.",
+        "top_keywords": [
+            "SCI (spinal cord injury)",
+            "Biological systems",
+            "Electronic systems",
+            "Repair strategy",
+            "Neuroprotection",
+            "Neural stem cells",
+            "Scaffold graft",
+            "Regeneration",
+            "Neurotechnologies",
+            "Electrical spinal stimulation"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "A Computational Cognitive Neuroscience Approach to Understanding Event Representation and Episodic Memory~ (Charan Ranganath, PI) to\"\" ONR MURI program, Topic 12 ~ Event Representation and Episodic Memory. Total costs are estimated at $7,500,000.00 over 5 years with\"\" 3-year base period of $4,500,000 and 2-year option period of $3,000,000. Memory for specific events (~episodic memory~) and knowl\"edge accrued across multiple events (~event schemas~) play powerful roles in human cognition. Neuroscience research has strongly lin\"ked these abilities to interactions between the hippocampus, ventromedial prefrontal cortex (vmPFC), and a posterior medial (PM) neo\"cortical network. Gaining a mechanistic understanding of the neural processes that support representation of event schemas and episodic memory could be of enormous significance to basic neuroscience. Achieving this goal would have significant implications for DOD\" capabilities, such as the development of autonomous systems capable of rapid extraction of information about temporal and spatial r\"\"elations, causality, and intentionality from complex data streams. At present, however, there is insufficient knowledge about how ev\"\"ents are segmented, learned, and retrieved in the human brain, and the field lacks an appropriate computational framework to explain\"\" existing data. To address these challenges, we propose an integrative computational cognitive neuroscience approach to understandin\"g event representation and episodic memory.The centerpiece of this project is an innovative neurocomputational framework called St\"ructured Event Memory (SEM). SEM integrates the strengths of three different, but related, approaches~Latent Cause Models, Event Seg\"\"mentation Theory, and the Complementary Learning Systems Model~to explain how interactions between the hippocampus, vmPFC, and PM ne\"\"twork support event representation and episodic memory. The architecture of SEM is scalable, it is meaningfully tied to neural mecha\"\"nisms, and it provides a principled and parsimonious account of a diverse range of processes, including: schema formation, event seg\"\"mentation, context in memory and language, episodic memory encoding, consolidation, retrieval, and updating, prediction, and mental\"\" simulation. SEM is especially innovative in that it is designed to learn about the structure of the world, in terms of temporal, ca\"\"usal, and situational relationships within an event, and in terms of the characteristic transitions between different kinds of event\"\"s. Building on our initial work, we will accomplish the following Tasks: (1) Develop a computational model of event representation a\"\"nd episodic memory. (S. Gershman, Harvard), (2) Specify the neural mechanisms that support learning and application of semantic know\"\"ledge about events. (K. Norman, U. Hasson, Princeton), (3) Specify how corticohippocampal interactions support episodic memory retri\"\"eval and consolidation. (C. Ranganath, UC Davis), (4) Specify the cognitive and neural causes and consequences of event segmentation\"\" (J. Zacks, Washington University), & (5) Determine how broadband and oscillatory neural activity contributes to event segmentation\"\" and episodic memory (Orrin Devinsky, NYU, in collaboration with all team members).By addressing fundamental questions about how e\"\"vent segmentation shapes the structure of semantic and episodic memory, and how the hippocampus interacts with neocortical networks,\"\" the proposed empirical studies go well beyond the current state of the art. Moreover, by utilizing novel data-driven machine learni\"\"ng analysis approaches and theory-driven forward modeling of neuroimaging and electrocorticography data, every study in this project\"\" will break new methodological ground. At the end of the five-year period, we will deliver an integrated computational architecture\"\" that can translate in any direction between complex narrative or video stimuli, real-time brain activity patterns, and meaningful cless",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "7,500,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078893?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Charan Ranganath",
+        "key_highlights": [
+            "The research grant is focused on understanding event representation and episodic memory using a computational cognitive neuroscience approach.",
+            "The project is funded by the ONR MURI program and has a total estimated cost of $7,500,000.00 over 5 years.",
+            "The research aims to gain a mechanistic understanding of the neural processes involved in event representation and episodic memory, which could have significant implications for DOD capabilities.",
+            "The centerpiece of the project is an innovative neurocomputational framework called Structured Event Memory (SEM), which integrates different approaches to explain how interactions between specific brain regions support event representation and episodic memory."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4611 Machine Learning",
+            "52 Psychology",
+            "5202 Biological Psychology",
+            "5204 Cognitive and Computational Psychology",
+            "Research, Condition, and Disease Categorization",
+            "Acquired Cognitive Impairment",
+            "Basic Behavioral and Social Science",
+            "Behavioral and Social Science",
+            "Brain Disorders",
+            "Clinical Research",
+            "Mental Health",
+            "Networking and Information Technology R&D (NITRD)",
+            "Neurodegenerative",
+            "Neurosciences",
+            "Health Category (HRCS)",
+            "Mental health",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning",
+            "1.2 Psychological and socioeconomic processes"
+        ],
+        "section_details": "Funding amount\nUSD 7,500,000\nFunding period\n2017\n5 Sep\n\u2010\n2020\n30 Aug\nResulting DOD publications\n41",
+        "start_year": "2017",
+        "title": "A Computational Cognitive Neuroscience Approach to Understanding Event Representation and Episodic Memory",
+        "tldr": "This research grant aims to use a computational cognitive neuroscience approach to understand how the brain represents events and memories. The proposed framework, called Structured Event Memory (SEM), integrates different approaches and will be used to study event segmentation, memory retrieval, and consolidation. The project will also utilize novel data-driven and theory-driven methods to break new ground in the field.",
+        "top_keywords": [
+            "Computational Cognitive Neuroscience",
+            "Event Representation",
+            "Episodic Memory",
+            "Neural Mechanisms",
+            "Event Segmentation",
+            "Neuroimaging"
+        ],
+        "units_of_assessment": [
+            "A04 Psychology, Psychiatry and Neuroscience",
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "ABSTRACT: We propose to investigate and demonstrate an innovative high-power, multi-spectral, non-mechanical steering subsystem ena\"bled by a combination of high-power MWIR and LWIR quantum cascade laser (QCL) and amplifier (QCA) arrays and a multi-spectral phase-array beam steering module on a single silicon platform. The proposed subsystem demonstrator (SSD) includes three spectral bands wit\"h tunable wavelengths: MWIR1 (e.g. 3.4-3.8 micron), MWIR2 (e.g. 4.5-4.6 micron), and LWIR (e.g. 9.0-10.6 micron). At the onset of th\"\"e project, specific wavelengths within each band can be selected by the Sponsor. The proposed SSD driven by the control electronics\"\" interfacing with the innovative active-matrix-array 3D photonic-electronic phase array (3D PEPA) allows the pointing, steering, and\"\" tracking of a remote object with all three wavelength bands with high beam quality M2 below 1.3, power (above 30 Watts of combined\"\" power), and stability. The high-resolution and high-precision 3D PEPA with integrated thin-film transistors (TFT) realized on CMOS-\"compatible fabrication processes allow sidelobe-free and hemispheric (180 degree total-field-of-view in all directions) beam steering by independent matrix control of pixels. The SSD realized on a single silicon platform with equal-path lengths allows agile tuning of the emission wavelengths of QCLs while supporting accurate and stable pointing under challenging ambient and vibration condition\"s. The proposed new capability addresses increased combat effectiveness for all aerial vehicles, manned and unmanned, by providing a\"\" conformal optical system required for search, track, dazzle, and jam. Additionally, this new technology addresses naval capability\"\" to control or to attack multi EW spectrum with rapid, accurate, and agile point-and-steer of multi EW spectrum laser beams. The pro\"posed project will develop very compact phased array optical beam steering technologies that will allow coherent energy spanning multiple bands of the MWIR and LWIR spectrum to be directed in a low divergence beam with minimal or no side lobes over an angular rang\"e coveringa complete hemisphere. The proposed phase array beam steering technology covers very fast (ms), small (28 cc), and emits\" high optical power levels (above 30 W total combined power). We will first test the prototyped SSD in the emulated lab environment at a collaborating laboratory with temperature variations and vibrations applied to the SSD. The laboratory prototype will be adapted into existing MWIR active sensing system used for surface and air antisubmarine warfare (ASW) applications. To minimize any di\"stortions to the launched beam due toatmospheric effects and ensure the desired underwater acoustic EA effects can be generated, th\"\"e prototype will be initially tested from a surface ship. Once the desired acoustic EA effects are demonstrated, the prototype will\" be incorporated into a flight-ruggedized package and field tested in realistic maritime environment on board a rotary wing platform. The warfighter payoffs the proposed project includes (a) increased combat effectiveness for all manned or unmanned aerial vehi\"cles or surface ships by providing a conformal optical system required for EA (search, track, dazzle, and jam) in such applications\"\" as Infrared Countermeasure (IRCM) or Directional Infrared Countermeasure (DIRCM), counter-ISR against MWIR/LWIR passive or active i\"maging; as well as in active (acoustic) sensing in air ASW applications; (b)enhances Naval capability to control or to attack multi\"-EW spectrum with rapid, accurate, and agile point-and-steer of multi-EW spectrum laser beams; (c) expands mission capabilities to s\"\"imultaneous access to multiple spectral bands, extends range and time over target, increases platform survivability, supports faster\"\" response to targets, reduces sensitivity to vibrations andtemperature variations.less",
+        "end_year": "2021",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "3,000,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078772?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to S.J. Ben Yoo",
+        "key_highlights": [
+            "Development of a high-power, multi-spectral, non-mechanical beam steering subsystem using quantum cascade lasers and a phase-array module on a single silicon platform.",
+            "Three spectral bands with tunable wavelengths: MWIR1, MWIR2, and LWIR.",
+            "High-resolution and high-precision 3D photonic-electronic phase array allows for hemispheric beam steering with minimal side lobes.",
+            "Potential applications include increased combat effectiveness for aerial vehicles and surface ships, as well as enhanced naval capability for controlling or attacking multi-spectrum electronic warfare."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4009 Electronics, Sensors and Digital Hardware",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 3,000,000\nFunding period\n2017\n3 Aug\n\u2010\n2021\n29 Sep\nResulting DOD publications\n6",
+        "start_year": "2017",
+        "title": "High-Power Multispectral Hemispherical Phased Array Beam Steering Subsystems Demonstrator",
+        "tldr": "This research grant aims to develop a high-power, multi-spectral, non-mechanical beam steering subsystem using quantum cascade lasers and a phase-array module on a single silicon platform. The proposed technology will have applications in aerial and naval combat, providing increased combat effectiveness and expanded mission capabilities. The prototype will be tested in lab and field environments to demonstrate its potential for use in various scenarios.",
+        "top_keywords": [
+            "High-power",
+            "Multispectral",
+            "Phased array",
+            "Beam steering",
+            "Quantum cascade laser",
+            "Active-matrix-array",
+            "Photonic-electronic phase array",
+            "Combat effectiveness",
+            "Conformal optical system",
+            "Maritime environment"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Project AbstractDriving Research and Leadership in Buildings and Transportation EfficiencyProposal by the University of California\", DavisIn response to Office of Naval Research~s Broad Agency Announcement # N00014-17-S-B001. In response to the Office of Naval\"\" Research~ (ONR) Broad Agency Announcement (BAA) #N00014-17-S-B001, the University of California, Davis, through the Energy Efficien\"\"cy Center (EEC) and its affiliated research centers, submits the following proposal for consideration.The EEC and its affiliated re\"\"search centers, faculty, and researchers are at the forefront of basic and applied research in the areas of energy efficiency techno\"\"logies and solutions. In addition to advancing research, the EEC fosters a collaborative, multi-disciplinary environment to empower\" the well-roundedprofessional development of both graduate and undergraduate students. By actively engaging students on funded rese\"arch projects, and having them go through various professional development programs, thecenters have become a launching pad for the\" careers of many researchers and professionals in the energyand transportation sectors.The portfolio of work proposed in this submission fall broadly into three categories:1. Energy Efficiency Technology and Solutions Research: The goal of this category of work is tofurther research on energy efficiency technologies and solutions in the building and transportationsectors with a focus on their applicability to the military in reducing inefficiencies and improvingoperational capabilities;2. Academic and Professional D\"evelopment Opportunities for Military Students: The goal of thiscategory of work is to provide students ~ prospective, current, and\" former military personnel aswell as military dependents in particular ~ with academic and professional developmentopportunities by actively engaging them in the ONR funded research as well as other relatedprojects; and3. Military Student Programs and Services: The goal of this work is to strengthen support services tothe campus~s military students as well as regionally through targeted o\"utreach, coursework, andadditional professional development opportunities.The five specific research projects included in this pro\"posal for consideration will include:1. Portfolio-Level Energy Performance and Fault Detection Cloud-Based Software Platform2. Creating an Embedded Building Sensory System3. Military Base Microgrid Optimization4. Plug-in Electric Vehicle Decision Making Data Based Tools5. Microchannel Heat Exchangers Designs for Power Generation and CoolingEach project will build on the existing research\" and experience of the respective participating centers andwill generate tools, technologies, and insights that will help the milit\"ary improve efficiency as a means tobetter achieve its mission. The project teams will actively endeavor to recruit student researc\"h assistantsfrom the University~s military student community. In addition, the EEC will take a leading role inexpanding and streng\"\"thening leadership, professional development, and academic services to militarystudents on the UC Davis campus and beyond.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,999,387",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7078748?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Benjamin Finkelor",
+        "key_highlights": [
+            "The University of California, Davis is submitting a proposal to the Office of Naval Research for consideration.",
+            "The proposal includes three categories of work: energy efficiency technology and solutions research, academic and professional development opportunities for military students, and military student programs and services.",
+            "The proposal includes five specific research projects, each building on the existing research and experience of participating centers.",
+            "The project teams will actively recruit student research assistants from the University's military student community and the EEC will take a leading role in expanding and strengthening services for military students."
+        ],
+        "research_categories": [
+            "33 Built Environment and Design",
+            "3301 Architecture",
+            "35 Commerce, Management, Tourism and Services"
+        ],
+        "section_details": "Funding amount\nUSD 2,999,387\nFunding period\n2017\n31 Jul\n\u2010\n2020\n30 Aug\nResulting DOD publications\n3",
+        "start_year": "2017",
+        "title": "Driving Research and Leadership in Buildings and Transportation Efficiency",
+        "tldr": "This research grant proposal aims to drive research and leadership in energy efficiency for buildings and transportation, with a focus on applicability to the military. The University of California, Davis will conduct research projects and provide academic and professional development opportunities for military students, while also strengthening support services for them. The proposed projects will build on existing research and generate tools and technologies to improve efficiency and achieve the military's mission.",
+        "top_keywords": [
+            "Energy efficiency",
+            "Research",
+            "Buildings",
+            "Transportation",
+            "Military students",
+            "Professional development",
+            "Academic opportunities",
+            "Microgrid optimization",
+            "Electric vehicles",
+            "Heat exchangers"
+        ],
+        "units_of_assessment": [
+            "C23 Education"
+        ]
+    },
+    {
+        "abstract": "Many therapeutic proteins are glycoproteins which are proteins that have chains of sugars (i.e. glycans) attached to them at specific sites in a process known as glycosylation. The structure and distribution of glycans on pharmaceutical glycoproteins have a dramatic effect on their efficacy, safety, immunogenicity, and stability. In this project, therapeutic glycoproteins that are known to act as protective bioscavengers against chemical and biological toxins are produced recombinantly in plant-based production systems. Plant cells, as higher eukaryotes, can glycosylate proteins and the initial steps are identical between humans and plants. In addition, they do not harbor or propagate mammalian pathogens. Furthermore, plants can be cultured in mass scales. They are ideal expression systems for the low-cost and large-scale production of glycoproteins that are important for counteracting weapons of mass destruction, particularly chemical and biological agents. The goals of this project are to develop novel methods for the production of two bioscavenger glycoproteins, human butyrylcholinesterase (BuChE), a bioscavenger for organophosphorus (OP) nerve agents, and a chimeric anthrax antitoxin (CGM2-Fc), with improved efficacy against their binding targets by altering the glycan structures that are attached to the proteins. BuChE is produced in transgenic rice cell culture bioreactors and CGM2-Fc is produced transiently in tobacco plants in an indoor facility. Following production and purification of the bioscavengers, advanced analytical tools (liquid chromatography and mass spectrometry) are used to determine precise glycan structures at each site. In vitro enzymatic processes are then used to modify the glycan structures, while computer modeling using atomistic molecular dynamic simulations and coarse grain modeling approaches predicts the effects of glycan structures on glycoprotein structure and target binding energy and is used to direct the glycan modification studies. Finally, experimental studies are used to test the efficacy of the various therapeutic bioscavenger glycoforms (including target binding rate constants, dissociation rates, thermodynamic parameters of interaction, pharmacokinetics and challenge studies). Improved fundamental understanding of how the glycan structures impact binding efficiency for therapeutic bioscavengers will allow us to design protective bioscavengers with improved efficacy. This project will provide fundamental understanding of the structure-function relationship of glycans on glycoprotein therapeutics, and supply technologies for large-scale production of glycoproteins in plants and in vitro enzymatic modification of glycans on glycoproteins. Improved therapeutics may be discovered and the approach is generalizable to other bioscavenger glycoproteins.less",
+        "end_year": "2020",
+        "funder": "Defense Threat Reduction Agency",
+        "funding_amount_usd": "2,917,016",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7075537?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to KarenAnn McDonald",
+        "key_highlights": [
+            "Glycan modulation of pharmaceutical glycoproteins",
+            "Production of bioscavenger glycoproteins in plant-based systems",
+            "Use of advanced analytical tools and in vitro enzymatic processes to modify glycan structures",
+            "Improved understanding of the structure-function relationship of glycans on glycoprotein therapeutics and potential for discovering improved therapeutics."
+        ],
+        "research_categories": [
+            "31 Biological Sciences",
+            "3101 Biochemistry and Cell Biology",
+            "Research, Condition, and Disease Categorization",
+            "Biotechnology"
+        ],
+        "section_details": "Funding amount\nUSD 2,917,016\nFunding period\n2015\n28 Jun\n\u2010\n2020\n27 Jun",
+        "start_year": "2015",
+        "title": "Glycan Modulation of Pharmaceutical Glycoproteins by In Vitro Enzymatic Approaches",
+        "tldr": "This research project aims to develop methods for producing two bioscavenger glycoproteins, BuChE and CGM2-Fc, with improved efficacy against chemical and biological toxins by modifying their glycan structures. The glycoproteins will be produced in plant-based systems and their glycan structures will be analyzed and modified using in vitro enzymatic approaches. The goal is to improve our understanding of how glycan structures impact the efficacy of therapeutic proteins and provide technologies for large-scale production of glycoproteins.",
+        "top_keywords": [
+            "Glycan modulation",
+            "Pharmaceutical glycoproteins",
+            "In vitro enzymatic approaches",
+            "Glycosylation",
+            "Bioscavengers",
+            "Plant-based production systems",
+            "Glycan structures",
+            "Glycoprotein structure",
+            "Target binding",
+            "Efficacy"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "How does the human brain enable us to flexibly adapt to novel situations, applying hard-won prior experience in ways that apply to new challenges? Current AI systems continue to fail at capturing this central feature of human intelligence. We propose to leverage our extensive understanding of the neural organization of the human brain to suggest novel solutions to thisperennial challenge, using a synergistic combination of biologically-based computational models and cutting-edge neuroimaging techniques, including intracranial recordings and fMRI. Our approach involves four central hypotheses: 1) The brain learns and processes structure separate from content , along separate neural pathways. This enables abstract structural representations tobe flexibly recombined with novel content, while transferring structural inferences and implications to these novel domains. 2) Predictive learning can learn an abstract structural forward model of how events unfold over time (i.e., a situation model ), providing a biologically plausible mechanism for how the neural mechanisms that enable flexible behavior are generated. 3) The ability to direct behavior toward desired outcomes and goals requires the ability to reversethis model and figure out the actions required to achieve those goals. The hippocampus can help solve this problem by encoding the overarching situation model that led to a given outcome, and then later recalling that situation model for use as a plan to guide behavior toward that outcome, when it is desired again. This suggests a novel type of strategic control over hippocampalencoding and recall, and a critical role for episodic memory in enabling flexible human behavior. 4) The prefrontal cortex can robustly maintain abstract plans to guide behavior, based on representations learned through longer-timescale predictive learning. Each of these hypotheses has existing empirical and computational support, but this project is the first to put all of these elements together in a way that can finally make significant progress toward understandingflexible goal-driven human behavior.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "2,250,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9404437?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Randall O'Reilly",
+        "key_highlights": [
+            "The research aims to understand how the human brain enables flexible adaptation to new situations using prior experience.",
+            "The proposed approach involves a combination of biologically-based computational models and neuroimaging techniques.",
+            "The project is based on four central hypotheses, including the separation of structure and content in the brain, the role of predictive learning in generating flexible behavior, the involvement of the hippocampus in directing behavior towards desired outcomes, and the role of the prefrontal cortex in maintaining abstract plans.",
+            "This project is the first to combine all of these elements in order to make significant progress in understanding flexible goal-driven human behavior."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4611 Machine Learning",
+            "52 Psychology",
+            "5202 Biological Psychology",
+            "Research, Condition, and Disease Categorization",
+            "Basic Behavioral and Social Science",
+            "Behavioral and Social Science",
+            "Bioengineering",
+            "Brain Disorders",
+            "Clinical Research",
+            "Machine Learning and Artificial Intelligence",
+            "Mental Health",
+            "Neurosciences",
+            "Health Category (HRCS)",
+            "Mental health",
+            "Neurological",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning",
+            "1.2 Psychological and socioeconomic processes"
+        ],
+        "section_details": "Funding amount\nUSD 2,250,000\nFunding period\n2020\n16 Aug\n\u2010\n2023\n15 Aug\nResulting DOD publications\n6",
+        "start_year": "2020",
+        "title": "Dynamic Cortico-Hippocampal Interactions for Flexible Goal-Driven Agents",
+        "tldr": "This research project aims to understand how the human brain enables flexible adaptation to new situations by combining biologically-based computational models and neuroimaging techniques. The four central hypotheses involve separate neural pathways for learning and processing structure, predictive learning for generating flexible behavior, the role of the hippocampus in directing behavior towards desired outcomes, and the prefrontal cortex in maintaining abstract plans. This project is the first to integrate all of these elements to make significant progress in understanding flexible goal-driven human behavior.",
+        "top_keywords": [
+            "Dynamic Cortico-Hippocampal Interactions",
+            "Flexible Goal-Driven Agents",
+            "Human Brain",
+            "Neural Organization",
+            "Biologically-Based Computational Models",
+            "Neuroimaging Techniques",
+            "Predictive Learning",
+            "Abstract Structural Representations",
+            "Episodic Memory",
+            "Prefrontal Cortex"
+        ],
+        "units_of_assessment": [
+            "A04 Psychology, Psychiatry and Neuroscience",
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "We propose to launch a new project titled Expedition on Brain-Derived Neuromorphic Computing with Intelligent Photonic and Electronic Materials (ExPlor). The ExPlor project investigates brain-derived biophysical principles and algorithms applied in a hierarchical network of spiking optoelectronic (macro-circuits) and electronic (micro-circuits) neural networks, including emerging concepts in nanoscale dendrite computing (nano-circuits), synaptic stochasticity, and self-learning.less",
+        "end_year": "2027",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "1,900,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13488829?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to S. J. BEN YOO",
+        "key_highlights": [
+            "The project is titled \"Expedition on Brain-Derived Neuromorphic Computing with Intelligent Photonic and Electronic Materials\" (ExPlor).",
+            "The project aims to investigate brain-derived biophysical principles and algorithms.",
+            "The project will focus on a hierarchical network of spiking optoelectronic and electronic neural networks.",
+            "The project will explore emerging concepts in nanoscale dendrite computing, synaptic stochasticity, and self-learning."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4611 Machine Learning",
+            "51 Physical Sciences",
+            "Research, Condition, and Disease Categorization",
+            "Neurosciences"
+        ],
+        "section_details": "Funding amount\nUSD 1,900,000\nFunding period\n2022\n28 Sep\n\u2010\n2027\n27 Sep\nResulting DOD publications\n3",
+        "start_year": "2022",
+        "title": "EXPLOR - EXPEDITION ON BRAIN-DERIVED NEUROMORPHIC COMPUTING WITH INTELLIGENT PHOTONIC AND ELECTRONIC MATERIALS",
+        "tldr": "The ExPlor project aims to explore brain-derived principles and algorithms in neuromorphic computing using photonic and electronic materials. This includes investigating hierarchical networks and emerging concepts in nanoscale computing for self-learning.",
+        "top_keywords": [
+            "Brain-derived",
+            "Neuromorphic computing",
+            "Intelligent materials",
+            "Photonic",
+            "Electronic",
+            "Biophysical principles",
+            "Spiking optoelectronic",
+            "Hierarchical network",
+            "Nanoscale dendrite computing",
+            "Self-learning"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "1. To develop models of interacting social and political networks. 2. To develop agent-based models of the effect of shocks on interacting networks. 3. To develop a real-time shock monitoring system based on event-data 4. To test models on empirical data using social and political networks. 5. To test models of shock propagation in networks via social interaction experiments with human subjects.less",
+        "end_year": "2019",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,673,347",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7916500?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Zeev Maoz",
+        "key_highlights": [
+            "Development of models for interacting social and political networks",
+            "Development of agent-based models for the effect of shocks on networks",
+            "Creation of a real-time shock monitoring system based on event-data",
+            "Testing of models on empirical data and through social interaction experiments with human subjects."
+        ],
+        "research_categories": [
+            "44 Human Society",
+            "4408 Political Science",
+            "Research, Condition, and Disease Categorization",
+            "Basic Behavioral and Social Science",
+            "Behavioral and Social Science",
+            "Clinical Research"
+        ],
+        "section_details": "Funding amount\nUSD 1,673,347\nFunding period\n2015\n31 Aug\n\u2010\n2019\n27 Feb",
+        "start_year": "2015",
+        "title": "The effect of shocks on overlapping and functionally interacting social and political networks: A multi-method approach",
+        "tldr": "This research grant aims to study the impact of shocks on overlapping and functionally interacting social and political networks using a multi-method approach. The project will involve developing models and a real-time monitoring system, as well as conducting experiments with human subjects to test the models.",
+        "top_keywords": [
+            "Shocks",
+            "Overlapping networks",
+            "Functionally interacting networks",
+            "Multi-method approach",
+            "Agent-based models",
+            "Shock monitoring system",
+            "Event-data",
+            "Empirical data",
+            "Social interaction experiments",
+            "Human subjects"
+        ],
+        "units_of_assessment": [
+            "C17 Business and Management Studies"
+        ]
+    },
+    {
+        "abstract": "Research on learning and memory is fundamental to understanding cognition and directlyrelevant to the training of military personnel and to the diagnosis and rehabilitation of injuredsoldiers. Functional magnetic resonance imaging (fMRI) studies of memory have identified acortico-hippocampal network that is critical for remembering past events. Recent evidenceindicates that regions in this network generate rhythmic electrophysiological oscillations in thetheta band (4-8 Hz), and that theta oscillations may be related to cognitive states that promotesuccessful memory retrieval. The objective of this project is to use three empirically motivatedmethods to manipulate theta activity and determine effects on memory and on recruitment ofbrain networks measured with electroencephalography (EEG) and fMRI. Rhythmic sensorystimulation (Aim 1), transcranial alternating current stimulation (Aim 2), and reward motivation(Aim 3) will be used to manipulate theta activity during memory retrieval tasks. EEG studies willdetermine how theta enhancement affects the magnitude and timing of theta activity duringmemory retrieval, and fMRI studies will determine effects on recruitment of the corticohippocampalnetwork. We will also use advanced multivariate analysis techniques to decodehow information about past episodes is represented in neural activity patterns and test whethertheta enhancement sharpens these representations. This project will advance basic science bydirectly connecting neural oscillations, which are currently poorly understood, to specificcognitive processes and to activity in a cortico-hippocampal network that is thought to play acrucial role in episodic memory. Moreover, the proposed studies can lead to the development ofnovel biomarkers for memory function and dysfunction (e.g., to assess service-connectedcognitive impairment) and of systems for accelerating learning (e.g., in training situations) andrehabilitating memory (e.g., in injured soldiers). The work can also contribute to thedevelopment of memory-guided brain-computer interface technologies.less",
+        "end_year": "2017",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,604,473",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7077339?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Charan Ranganath",
+        "key_highlights": [
+            "The research grant is a continuation of a previous project focused on decoding and enhancing neural mechanisms for episodic memory.",
+            "The project aims to use three methods (rhythmic sensory stimulation, transcranial alternating current stimulation, and reward motivation) to manipulate theta activity during memory retrieval tasks.",
+            "The project will use EEG and fMRI to measure the effects of theta enhancement on brain networks and neural activity patterns.",
+            "The project has potential implications for understanding cognitive processes, developing biomarkers for memory function and dysfunction, and creating technologies for accelerating learning and rehabilitating memory."
+        ],
+        "research_categories": [
+            "32 Biomedical and Clinical Sciences",
+            "46 Information and Computing Sciences",
+            "4611 Machine Learning",
+            "52 Psychology",
+            "5202 Biological Psychology",
+            "Research, Condition, and Disease Categorization",
+            "Aging",
+            "Basic Behavioral and Social Science",
+            "Behavioral and Social Science",
+            "Brain Disorders",
+            "Clinical Research",
+            "Mental Health",
+            "Neurodegenerative",
+            "Neurosciences",
+            "Health Category (HRCS)",
+            "Mental health",
+            "Neurological",
+            "Research Activity Codes (HRCS)",
+            "1.1 Normal biological development and functioning",
+            "1.2 Psychological and socioeconomic processes"
+        ],
+        "section_details": "Funding amount\nUSD 1,604,473\nFunding period\n2016\n4 May\n\u2010\n2017\n30 Sep\nResulting DOD publications\n1",
+        "start_year": "2016",
+        "title": "THIS IS A CONTINUATION OF N000141510033 Decoding and Enhancing Neural Mechanisms for Episodic Memory",
+        "tldr": "This research project aims to manipulate theta activity in the brain using various methods to enhance memory retrieval and understand its effects on brain networks. The results can potentially lead to the development of biomarkers for memory function and rehabilitation techniques for injured soldiers.",
+        "top_keywords": [
+            "Episodic memory",
+            "Neural mechanisms",
+            "Functional magnetic resonance imaging (fMRI)",
+            "Theta oscillations",
+            "Cognitive processes",
+            "Cortico-hippocampal network",
+            "Memory function",
+            "Biomarkers",
+            "Brain-computer interface",
+            "Military personnel"
+        ],
+        "units_of_assessment": [
+            "A04 Psychology, Psychiatry and Neuroscience"
+        ]
+    },
+    {
+        "abstract": "We propose to mature LG-X glider technology by manufacturing full-scaled prototypes and characterizing them in land-based flight-testing by using commercial aircraft to drop the gliders. Validated components such as the landing parachute, folding wing mechanism, and autopilot control system will undergo integrated flight-testing. Logistic Gliders will provide a considerable cost share to support the flight tests. The LG-X glider system is a low-cost, single-use, autonomous, glider-based naval Ship to Objective Mission (STOM) logistic resupply system. An amphibious ships Air Combat Element can launch 50 gliders an hour because the MV-22 and CH-53 can carry multiple gliders simultaneously. Multiple gliders can also be carried by the KC-130, C-17, and CH-47. The LG-X glider is capable of improving throughput and throughput/cost, increasing mission radius, and reducing cost/distance while operating in time constrained scenarios and in all-weather environments without requiring air base infrastructures or air superiority. The LG-X glider can deliver sea-based supplies to several groups of Marines located at widely separated points of need without further burdening the units or telegraphing their location. Our Phase II proposal also includes obtaining the necessary approvals and flight clearances to allow LG-X deployment from military aircraft onto military test ranges.less",
+        "end_year": "2018",
+        "funder": "Defense Advanced Research Projects Agency",
+        "funding_amount_usd": "1,509,932",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.6919792?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to USN (r Marti Sarigul-Klijn",
+        "key_highlights": [
+            "The proposal aims to mature LG-X glider technology through manufacturing full-scaled prototypes and conducting land-based flight-testing.",
+            "Validated components such as the landing parachute, folding wing mechanism, and autopilot control system will undergo integrated flight-testing.",
+            "The LG-X glider system is a low-cost, single-use, autonomous, glider-based naval Ship to Objective Mission (STOM) logistic resupply system.",
+            "The LG-X glider is capable of improving throughput and throughput/cost, increasing mission radius, and reducing cost/distance while operating in time constrained scenarios and in all-weather environments."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4001 Aerospace Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,509,932\nFunding period\n2016\n17 Aug\n\u2010\n2018\n16 Aug",
+        "start_year": "2016",
+        "title": "Revolutionary Airlift Innovation",
+        "tldr": "This research grant aims to develop and test a low-cost, autonomous glider system for naval resupply missions. The gliders will be tested using commercial aircraft and have the potential to greatly improve mission efficiency and reduce costs.",
+        "top_keywords": [
+            "Airlift",
+            "Innovation",
+            "LG-X glider",
+            "Flight-testing",
+            "Logistic gliders",
+            "Naval resupply",
+            "Amphibious ships",
+            "Air Combat Element",
+            "Mission radius",
+            "Military aircraft"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "The University of California, Davis (UC Davis), as a leading University in Building and Vehicle related Energy Efficiency research, proposes to leverage its unique expertise in the fields of advanced lighting, HVAC, and water-energy technologies, as well as deep understanding of building audits and modeling of plug-in vehicles, to conduct basic research that advances efficiency solutions applicable to Naval on-shore operations. The University will strive to utilize and train prospective, current, and veteran military students to conduct the research which will include four specific research projects: 1) Creating Plug in Electric Vehicle Decision Making Data Based Tools; 2) Advancing Occupancy Sensing for Lighting Controls in Outdoor Applications; 3) Improving High Performance Recuperators for Waste Heat Recovery Cycles; and 4) Developing Portfolio-level Energy Auditing and Decision-making Methods & Tools.less",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,500,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7076916?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Siva Gunda",
+        "key_highlights": [
+            "The University of California, Davis is a leading university in building and vehicle energy efficiency research.",
+            "The research will focus on advanced lighting, HVAC, water-energy technologies, building audits, and plug-in vehicles.",
+            "The research will be conducted by engaging veteran and ROTC students.",
+            "The research will include four specific projects related to plug-in electric vehicles, occupancy sensing for lighting controls, waste heat recovery, and energy auditing."
+        ],
+        "research_categories": [
+            "33 Built Environment and Design",
+            "3302 Building",
+            "35 Commerce, Management, Tourism and Services",
+            "40 Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,500,000\nFunding period\n2015\n12 Nov\nResulting DOD publications\n3",
+        "start_year": "2015",
+        "title": "Driving Research and Leadership in Buildings and Transportation Efficiency by engaging veteran and ROTC students on research projects in building and transportation technologies and analytics",
+        "tldr": "UC Davis will engage veteran and ROTC students in research projects focused on building and transportation efficiency, specifically in the areas of advanced lighting, HVAC, water-energy technologies, and plug-in vehicles. The university aims to train military students and conduct four specific research projects, including creating decision-making tools for electric vehicles, improving occupancy sensing for lighting controls, enhancing waste heat recovery cycles, and developing energy auditing methods and tools.",
+        "top_keywords": [
+            "Building efficiency",
+            "Transportation efficiency",
+            "Research projects",
+            "Building technologies",
+            "Transportation technologies",
+            "Analytics",
+            "Veteran students",
+            "ROTC students",
+            "Energy efficiency",
+            "Military students"
+        ],
+        "units_of_assessment": [
+            "C13 Architecture, Built Environment and Planning"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "Research Problem: Remarkably robust and intelligent systems operate across the tremendous time and length scales of the natural world. What is common in the behaviors spanning these immense scales is what one can call adaptive emergent intrinsic computation. These systems\u00d5 functioning relies on a kind of self-programming\u00d1spontaneously-generated ex- tended patterns of control and self-monitoring. Our goal is to experimentally demonstrate and theoretically predict this kind of emergent adaptive computation. Technical approach: We take a particularly novel approach that harnesses recent advances in nonlinear physics, nanoscale thermodynamics, genetic engineering, and high-performance computing. Recent remarkable progress in these arenas and our team\u00d5s deep expertise with them suggests that our attack on the challenge of adaptive emergent intrinsic computation is likely to succeed, where others have fallen short. To guide and ground theoretical developments we will use four unique experimental platforms, two natural and two engineered, coupled with large-scale simulations to quantitatively bridge between theory and experiment. Anticipated Outcomes: In light of recent foundational progress we anticipate the following results: (i) information principles of pattern formation in large-scale complex systems, (ii) design, prediction, and monitoring of a novel class of spatial, networked information engines; (iii) thermodynamics of adaptation that lays out the trade-offs between cognitive processing and energetics, and (iv) identifying and using the natural programmability of emergent patterns. Impact on DoD Capabilities: By implementing networks of information engines connected in various topologies we will explore the principles driving the emergence of system organizations that support computation and adaptation. Success will introduce radically new and functional platforms that exploit intelligent thermodynamically-embedded information processing in a way that can be programmed to generate emergent functioning in distributed complex systems. Such capabilities will impact many DoD applications from endowing materials with computationally advanced sense-response capabilities and directing the flow of energy and entropy to and from storage devices to porting such programmable patterns to information processing on radically smaller spatial and faster temporal scales and a first-principles understanding of adaptive behavior in autonomous systems.less",
+        "end_year": "2023",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,499,973",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9523893?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to James Crutchfield",
+        "key_highlights": [
+            "The research aims to demonstrate and predict emergent adaptive computation in natural and engineered systems.",
+            "The approach will utilize advances in nonlinear physics, nanoscale thermodynamics, genetic engineering, and high-performance computing.",
+            "The anticipated outcomes include understanding information principles of pattern formation, designing and monitoring spatial information engines, studying the thermodynamics of adaptation, and utilizing natural programmability of emergent patterns.",
+            "The impact on DoD capabilities includes the potential for new functional platforms that exploit intelligent thermodynamically-embedded information processing and understanding adaptive behavior in autonomous systems."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4605 Data Management and Data Science",
+            "51 Physical Sciences"
+        ],
+        "section_details": "Funding amount\nUSD 1,499,973\nFunding period\n2020\n14 Dec\n\u2010\n2023\n13 Dec",
+        "start_year": "2020",
+        "title": "Engines of Adaptation: Self-Programming via Emergent Thermodynamic Machines",
+        "tldr": "This research aims to demonstrate and predict self-programming in adaptive systems through a novel approach using nonlinear physics, thermodynamics, genetic engineering, and high-performance computing. The anticipated outcomes include understanding information principles, designing new information engines, and identifying natural programmability in emergent patterns. The impact on DoD capabilities includes advanced materials with sense-response abilities and improved information processing on smaller scales.",
+        "top_keywords": [
+            "Adaptation",
+            "Self-programming",
+            "Emergent thermodynamic machines",
+            "Nonlinear physics",
+            "Nanoscale thermodynamics",
+            "Genetic engineering",
+            "High-performance computing",
+            "Information principles",
+            "Cognitive processing",
+            "Autonomous systems"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "High-performance microwave atomic clocks have broad applications, both for military and civilian uses.  A low-phase-noise microwave frequency oscillator/synthesizer is necessary to ensure the high performance of these microwave clocks.  A power-hungry conless",
+        "end_year": "2022",
+        "funder": "United States Department of the Air Force",
+        "funding_amount_usd": "1,499,856",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.10036847?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Miao Zhu",
+        "key_highlights": [
+            "The research grant is focused on developing a Low-Power Microwave Oscillator (LMO).",
+            "The LMO is necessary for high-performance microwave atomic clocks.",
+            "The microwave atomic clocks have broad applications in both military and civilian uses.",
+            "The LMO aims to reduce power consumption, as current oscillators are power-hungry."
+        ],
+        "research_categories": [
+            "51 Physical Sciences",
+            "5108 Quantum Physics"
+        ],
+        "section_details": "Funding amount\nUSD 1,499,856\nFunding period\n2021\n18 Mar\n\u2010\n2022\n18 Sep",
+        "start_year": "2021",
+        "title": "Low-Power Microwave Oscillator (LMO)",
+        "tldr": "This research grant aims to develop a low-power microwave oscillator for high-performance atomic clocks used in military and civilian applications. The oscillator will have low-phase-noise and be energy-efficient.",
+        "top_keywords": [
+            "Low-power",
+            "Microwave oscillator",
+            "High-performance",
+            "Atomic clocks",
+            "Military",
+            "Civilian",
+            "Low-phase-noise",
+            "Frequency oscillator",
+            "Synthesizer",
+            "Power-hungry"
+        ]
+    },
+    {
+        "abstract": "Vacuum Process Engineering, Inc. (VPE), in collaboration with the University of California, Davis (UC Davis), proposes to develop and quantitatively verify a large scale production process for scandate tungsten nanocomposite powder to be used in high current density and long life cathodes during the Phase II effort. The plan for implementation of the large scale production process at VPE with powder and pellet quality evaluation at UC Davis was developed during the Phase I effort of the program.The purpose of the Phase II Period of Performance is to bring the Phase I large scale production plan to fruition as a prototype manufacturing process of the nanocomposite scandate tungsten powder. This will entail facility layout, equipment installation and retrofitting as well as production of nanocomposite material. Batches of the nanocomposite powder produced at VPE facilities will be evaluated after each processing step; the collected data will be used to complete a feedback loop to adjust details of the fabrication parameters and our facility efficiency. These quality evaluation and emission demonstrations will be made at UC Davis as well as at our collaborator facilities.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,499,706",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7767825?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Carl Schalansky Carl Schalansky",
+        "key_highlights": [
+            "Development of a large scale production process for scandate tungsten nanocomposite powder",
+            "Collaboration between Vacuum Process Engineering, Inc. and University of California, Davis",
+            "Implementation of the production process at VPE with quality evaluation at UC Davis",
+            "Evaluation and adjustment of fabrication parameters and facility efficiency through quality evaluation and emission demonstrations at UC Davis and collaborator facilities."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,499,706\nFunding period\n2017\n20 Jul\n\u2010\n2020\n21 Aug",
+        "start_year": "2017",
+        "title": "Nanocomposite Scandate Tungsten Powder for High Current Density and Long Life Thermionic Cathodes",
+        "tldr": "VPE and UC Davis are collaborating to develop a large scale production process for scandate tungsten nanocomposite powder, which will be used in high current density and long life cathodes. The Phase II effort will focus on implementing the production plan and evaluating the quality of the powder at each step.",
+        "top_keywords": [
+            "Nanocomposite",
+            "Scandate",
+            "Tungsten",
+            "High current density",
+            "Long life",
+            "Thermionic cathodes",
+            "Vacuum process engineering",
+            "Large scale production",
+            "Prototype manufacturing process",
+            "Facility layout"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Standard ultra-high temperature ceramic (UHTC) manufacturing creates components with large differences in properties due to variability in microstructural 'critical flaw' distributions. Critical flaws can be any irregularity in a component, such as a secondary phase, inclusion, crack, pore etc. This is problematic when designing reproducible UHTC components for Mach 6 hypersonic applications. The goal of this project is to build probabilistic characterization of processing-structure-properties (PSP) parameters and link them at each stage of UHTC processing in a way that allows for uncertainty propagation. This methodology has not been performed in the past due to the complex interrelations of UHTC PSP parameters that need to be deconvoluted. Thus, multi-fidelity PSP database development and effective integrated computational materials engineering (ICME) combined with statistical modeling is key to minimize uncertainty during UHTC manufacturing. This approach will consist of three key integrated thrusts- Thrust I- Manufacturing and rapid materials characterization- to populate a multi-fidelity PSP database using a combination of lower-fidelity in-lab experiments and modeling along with higher-fidelity synchrotron 3-D microstructural characterization experiments. Thrust II- Uncertainty quantification- to develop a PSP-ICME database in tandem with multi-fidelity statistical modeling using a Bayesian neural network approach. Thrust III- Validation of the multi-fidelity model- to verify that the statistical model can reduce uncertainty in UHTC manufacturing in terms of properties and microstructural flaws. The densification of ZrB2 will be used as a model system for this methodology as it is a prime candidate for ceramic matrix materials in hypersonic-ready ceramic matrix composites (CMCs).less",
+        "end_year": "2025",
+        "funder": "United States Air Force",
+        "funding_amount_usd": "1,427,169",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.13282987?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to SCOTT MCCORMACK",
+        "key_highlights": [
+            "The project aims to develop a methodology for reducing uncertainty in ultra-high temperature ceramic (UHTC) manufacturing.",
+            "The methodology involves building a probabilistic characterization of processing-structure-properties (PSP) parameters and linking them at each stage of UHTC processing.",
+            "The approach consists of three integrated thrusts: manufacturing and rapid materials characterization, uncertainty quantification, and validation of the multi-fidelity model.",
+            "The methodology will be applied to the densification of ZrB2, a prime candidate for ceramic matrix materials in hypersonic-ready ceramic matrix composites (CMCs)."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "4014 Manufacturing Engineering"
+        ],
+        "section_details": "Funding amount\nUSD 1,427,169\nFunding period\n2022\n31 Jan\n\u2010\n2025\n30 Jan",
+        "start_year": "2022",
+        "title": "UNCERTAINTY QUANTIFICATION AND PROCESSING OPTIMIZATION FOR UHTC MANUFACTURING THROUGH AN ICME FRAMEWORK",
+        "tldr": "This research project aims to reduce uncertainty in ultra-high temperature ceramic (UHTC) manufacturing for hypersonic applications through the development of a probabilistic characterization of processing-structure-properties (PSP) database and the use of integrated computational materials engineering (ICME) and statistical modeling. The project will focus on the densification of ZrB2 as a model system.",
+        "top_keywords": [
+            "Uncertainty quantification",
+            "Process optimization",
+            "UHTC manufacturing",
+            "ICME framework",
+            "Probabilistic characterization",
+            "PSP parameters",
+            "Multi-fidelity database",
+            "Statistical modeling",
+            "Bayesian neural network",
+            "ZrB2 densification"
+        ],
+        "units_of_assessment": [
+            "B12 Engineering"
+        ]
+    },
+    {
+        "abstract": "Research problem: Our existing research has identified powerful predictive learning mechanisms that enable our biologically-based computational models to learn invariant object representations in a purely self-organizing manner, without requiring the massive sets of hand-labeled images that standard deep neural networks are critically dependent upon. These mechanisms are based directly upon the biology of the primate visual system, and make sense of a wide range of data at many different levels of analysis. However, our existing models were developed using simplified visual inputs, and we propose here to scale them up to handle large numbers of realistic 3D objects, ultimately with multiple objects at a time interacting with each other.Technical approach: Predictive learning requires movie-like animated scenes, where the model is constantly predicting what will happen next, and learning from the difference between what actually does happen and the prediction. According to our theory, this prediction-outcome learning cycle occurs every 100 msec (10 Hz, i.e, the alpha rhythm). Thus, massive amounts of predictive learning can occur every day, providing the constraints to shape powerful internal generative, predictive models of the world. We propose to render large numbers of systematically generated scenes involving 3D objects moving with realistic physics, to train our models on increasingly complex and realistic environments. Ultimately, our models should be able to learn from real movies and video footage, and apply their knowledge to the interpretation of real-world images and scenes, in a semantically rich and meaningful manner.Anticipated outcome and impacts: It is hard to overstate the potential impact that this project could have on DoD capabilities, by enabling multiple different mission critical technologies that all depend, as people do, on the ability to effectively extract physical semantics from visual scenes. For example, this could greatly facilitate automated processing of large volumes of imagery and monitoring data. Likewise, autonomous robotic systems, which currently depend to a large extent on human operators for their perceptual abilities, could benefit substantially. In addition, we anticipate learning much more about advanced visual processing in the brain.less",
+        "end_year": "2022",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,400,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636654?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Randall O'Reilly",
+        "key_highlights": [
+            "The research focuses on deep predictive learning mechanisms in vision.",
+            "The proposed approach involves using movie-like animated scenes to train the models.",
+            "The ultimate goal is for the models to be able to learn from real movies and apply their knowledge to real-world images.",
+            "The potential impact of this research includes improving DoD capabilities, facilitating automated processing of imagery and monitoring data, and advancing understanding of visual processing in the brain."
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4611 Machine Learning",
+            "Research, Condition, and Disease Categorization",
+            "Eye Disease and Disorders of Vision",
+            "Machine Learning and Artificial Intelligence",
+            "Neurosciences"
+        ],
+        "section_details": "Funding amount\nUSD 1,400,000\nFunding period\n2019\n31 Aug\n\u2010\n2022\n30 Aug\nResulting DOD publications\n4",
+        "start_year": "2019",
+        "title": "Deep Predictive Learning in Vision",
+        "tldr": "This research aims to develop powerful predictive learning mechanisms based on the biology of the primate visual system to learn invariant object representations without the need for hand-labeled images. The approach involves training models on systematically generated scenes involving 3D objects with realistic physics, ultimately leading to the ability to interpret real-world images and scenes. The anticipated outcomes include potential impacts on DoD capabilities, automated processing of imagery and monitoring data, and advancements in understanding visual processing in the brain.",
+        "top_keywords": [
+            "Deep Predictive Learning",
+            "Vision",
+            "Invariant Object Representations",
+            "Self-organizing",
+            "Primate Visual System",
+            "3D Objects",
+            "Predictive Learning Mechanisms",
+            "Realistic Environments",
+            "Semantics",
+            "Brain Processing"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "Automatic Speech Recognition (ASR) allows trainees to practice verbal communication skills in representative training environments without the need for human role players. However, these technologies have yet to become a feature of most training systems. Building on Phase I work, SoarTech along with our academic partners at UC Davis, proposes developing Soliloquy, a novel interface that allows non-expert users to customize ASR systems for Department of Defense training applications. Soliloquy offers an interactive \u201chuman-in-the-loop\u201d paradigm for developing, editing, and customizing grammatical constructs and investigates big data approaches for developing ASR systems from raw source data.less",
+        "end_year": "2022",
+        "funder": "United States Department of the Navy",
+        "funding_amount_usd": "1,385,201",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.9527450?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Charles Newton",
+        "key_highlights": [
+            "Development of Soliloquy, a novel interface for customizing ASR systems",
+            "Utilization of big data approaches for developing ASR systems",
+            "Collaboration between SoarTech and academic partners at UC Davis",
+            "Focus on Department of Defense training applications"
+        ],
+        "research_categories": [
+            "46 Information and Computing Sciences",
+            "4608 Human-Centred Computing",
+            "Research, Condition, and Disease Categorization",
+            "Clinical Research"
+        ],
+        "section_details": "Funding amount\nUSD 1,385,201\nFunding period\n2018\n14 Nov\n\u2010\n2022\n23 Feb",
+        "start_year": "2018",
+        "title": "Soliloquy Ph II",
+        "tldr": "Soliloquy Ph II aims to develop an interactive interface, Soliloquy, that allows non-expert users to customize Automatic Speech Recognition (ASR) systems for Department of Defense training applications. This will enable trainees to practice verbal communication skills in realistic training environments without the need for human role players. The project also explores big data approaches for developing ASR systems from raw source data.",
+        "top_keywords": [
+            "Automatic Speech Recognition (ASR)",
+            "Verbal communication skills",
+            "Training environments",
+            "Human role players",
+            "Department of Defense",
+            "Customization",
+            "Grammatical constructs",
+            "Big data",
+            "Raw source data",
+            "Training systems"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "16 Peace, Justice and Strong Institutions"
+        ],
+        "abstract": "Burden sharing is a pervasive problem in international agreements and institutions that provide public goods. Failure by some alliance members to contribute effort or resources that insure the organization\u00d5s survival and success forces other members to disproportionately contribute to the organization\u00d5s actions and operation. We offer a novel approach to the study of these issues that focuses on a combination of network analysis, agent-based models, and empirical analysis of the determinants, dynamics, and implications of burden sharing in security cooperation. We also widen the scope of security cooperation agreements beyond existing research by focusing on defense cooperation agreements (DCAs) and general security agreements (GSAs) that specify specific forms of security cooperation among military establishment and civilian security agencies. Our project offers several innovations, specifically: \u00a5 Development of dynamic agent-based network models of security cooperation and burden sharing, which re-define the costs and benefits of security cooperation in ways that take into account direct and indirect network-related effects. \u00a5 Extending models of the determinants of burden sharing by incorporating a wide array of defense cooperation agreements, or DCAs and general security agreements (GSAs). \u00a5 Focus on implications of burden sharing. Studying burden sharing across a wide array of security agreements will improve our understanding of how burden sharing influences the effectiveness of these arrangements. \u00a5 Multimethod research strategy, combining mathematical modeling, agent-based simulation, and empirical analysis employing a wide array of network-analytic methods. We foresee several implications for knowledge in general and for U.S. national security, in particular: \u00a5 A broader theoretical approach to security cooperation relying on network analytic logic and models, will add important insights to the evolution of security cooperation and burden sharing practices. \u00a5 A systematic understanding of burden-sharing issues and outcomes across a wide array of security cooperation ventures\u00d1formal alliances, various types of DCAs, and collective action issues such as peacekeeping operations and military interventions in civil conflicts. \u00a5 New methodologies and software allowing for studies of security cooperation and burden sharing, including network analytic models, agent-based simulations, and empirical tests. \u00a5 Data repository on a wide array of security cooperation and collective action in security affairs \u00a5 Training of post-docs, graduate and undergraduate students in sophisticated methods and data management strategies. \u00a5 Significant policy implications. The theoretical approach, the multi-method strategy, and the generality of this project will yield important policy ideas. These would stem from a more solid theory of the determinants and implications of burden sharing, a more comprehensive array of methods for modeling these ideas, and a significantly wider scope of empirical analysesless",
+        "end_year": "2022",
+        "funder": "Office of the Secretary of Defense",
+        "funding_amount_usd": "1,373,073",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636197?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to Zeev Maoz",
+        "key_highlights": [
+            "The study focuses on burden sharing in international alliances and defense cooperation agreements.",
+            "The project uses a combination of network analysis, agent-based models, and empirical analysis to study burden sharing.",
+            "The study expands the scope of security cooperation agreements to include defense cooperation agreements (DCAs) and general security agreements (GSAs).",
+            "The project aims to provide new insights and methodologies for understanding burden sharing and its implications for security cooperation and national security."
+        ],
+        "research_categories": [
+            "38 Economics",
+            "3801 Applied Economics"
+        ],
+        "section_details": "Funding amount\nUSD 1,373,073\nFunding period\n2019\n30 Jun\n\u2010\n2022\n29 Jun",
+        "start_year": "2019",
+        "title": "A Network analytic study of the determinants and consequences of burden sharing in international alliances and defense cooperation agreements, 1945-2015",
+        "tldr": "This research grant aims to study the determinants and consequences of burden sharing in international alliances and defense cooperation agreements from 1945-2015. The project will use network analysis, agent-based models, and empirical analysis to understand the dynamics and implications of burden sharing in security cooperation. The results will contribute to a broader theoretical approach to security cooperation and have significant policy implications.",
+        "top_keywords": [
+            "Burden sharing",
+            "International alliances",
+            "Defense cooperation agreements",
+            "Network analysis",
+            "Agent-based models",
+            "Security cooperation",
+            "Determinants",
+            "Consequences",
+            "Public goods",
+            "Empirical analysis"
+        ],
+        "units_of_assessment": [
+            "C19 Politics and International Studies"
+        ]
+    },
+    {
+        "SDG_goals": [
+            "7 Affordable and Clean Energy"
+        ],
+        "abstract": "With the end of CMOS scaling and performance improvement through Moore's law alone, there is a trend towards ,heterogeneous computing with domain specific accelerators for different applications, along with big and little cores, multithreaded GPUs, FPGAs, with high bandwidth memory (HBM) integrated in the same package with horizontal (2.5D) and vertical (3D) die-stacking. Though this approach is a step in the right direction, the memory subsystem based on multiple levels of caches is a , bottlerfeck when. it comes to energy efficiency, scalability, and more importantly programmer productivity; Moreover, whh emerging workloads such\u00e1 as large-scale graph analytics and machine learning that have large working sets with irregular memory access patterns and poor data locality, the : behefits of caches are becoming increasingly questionable. ' The objective of this proposal is to rethink and rearchitect the memory subsystem in future processors for high performance irregular workloads by taking advantage of 2.5D/3D electronic-photonic integration and wavelength division multiplexing (WDM) based silicon photonics. More specifically, the goal is to flatten the memory hierarchy as far as possible by eliminating cache hieprchy to realize a memory system that exhibits low and predictable latency. This is, achieved through a new DRAM !)1icroarchitecture with embedded WDM-based photonic interconnects with all-to-all interconnection capability that is codesigned carefully with the processor and the memory controller. The key facet of the new DRAM microatchitecture is a significantly higher number of active mini-banks with integrated . ' ' WDM silicon photonics that provide much higher concurrency and as a result a significant reducing in queueing delays at the memory controller. Detl;liled models for the DRAM and the memory controllers will be developed and integrated with RISC-V based processor and optical interconnection network models, in the \u00e1 gem5 simulation environment to \u00e1conduct a rigorous design space \u00e1study of the architectural parameters to evaluate the , perfonnance, scalability, and energy efficiency of the memory subsystem. Large scale graph data analytics, machine learning, and scientific computing kernels will be used as bench~,arks and the results will be compared with state-of.:the-art computing nodes from research and academia. ' An important deliverable of the project is a quantitative understanding of l_atency and energy per bit requirements of future DRAMs so that cache hierarchy can be eliminated for the benchmarks in consideration. This can have a broad impact on the design of.future DRAMs and processor architectures. Historically algorithms have evolved to take advantage of or overcome the limitations, ~fa traditional memory hierarchy, so- with a flatter memory hierarchy the proposed project can have an impact on how future algorithms are designed. Finally,,a flatter memory hierarchy is easier to program, so it can have a huge impact on productivity of applications developers in the future. '1 \u00e1 \u00a5 . By leveraging collaboration with industry and commercial opto-electronic foundry services we will evaluate and assess technology transitron. feasibility of the proposed optically-interconnected memory system.less",
+        "end_year": "2022",
+        "funder": "National Security Agency",
+        "funding_amount_usd": "1,340,000",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.8636912?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to S. J. Ben Yoo",
+        "key_highlights": [
+            "The research focuses on developing a cacheless computer architecture with massively parallel optically-interconnected memory.",
+            "The goal is to improve scalability, energy efficiency, and programmer productivity for irregular workloads.",
+            "The proposed architecture includes a new DRAM microarchitecture with embedded WDM-based photonic interconnects.",
+            "The project aims to evaluate and assess the feasibility of the proposed optically-interconnected memory system through collaboration with industry and commercial opto-electronic foundry services."
+        ],
+        "research_categories": [
+            "33 Built Environment and Design",
+            "3301 Architecture",
+            "40 Engineering",
+            "4008 Electrical Engineering",
+            "4009 Electronics, Sensors and Digital Hardware"
+        ],
+        "section_details": "Funding amount\nUSD 1,340,000\nFunding period\n2019\n15 Sep\n\u2010\n2022\n14 Sep\nResulting DOD publications\n5",
+        "start_year": "2019",
+        "title": "Research Area b: Cacheless Computer Architecture with Massively Parallel Optically-Interconnected Memory for Scalable, Low-Latency, Energy-Efficient, and High-Productivity Computing",
+        "tldr": "This research grant aims to redesign the memory subsystem in future processors by eliminating cache hierarchy and utilizing photonic interconnects for improved performance, scalability, and energy efficiency. The project will also assess the impact on algorithm design and programmer productivity, and evaluate the feasibility of implementing this new memory system through collaboration with industry.",
+        "top_keywords": [
+            "Cacheless computer architecture",
+            "Massively parallel optically-interconnected memory",
+            "Scalable computing",
+            "Low-latency",
+            "Energy-efficient",
+            "High-productivity",
+            "Heterogeneous computing",
+            "Memory subsystem",
+            "Wavelength division multiplexing",
+            "Silicon photonics"
+        ],
+        "units_of_assessment": [
+            "B11 Computer Science and Informatics"
+        ]
+    },
+    {
+        "abstract": "What thermodynamic effort do open nonlinear systems expend as they spontaneously form complex patterns? Do highly complex organizations require more energy dissipation than simple ones? Or, are macroscopic patterns relatively neutral in terms of total system energy? Are increased fluctuations in entropy production a thermodynamic harbinger of pattern emergence? The answers, surprisingly unavailable at the present, late stage of statistical mechanics and nonlinear dynamics, appears to require a novel synthesis. This project brings together exciting results from three active research areas to address these questions. The first---information thermodynamics---connected recent advances in nonequilbrium thermodynamics with information theory to provide a cutting-edge understanding of Maxwell's Demon. It answers questions such as \" Can a Demon extract energy from a thermal bath utilizing control information? How can information be a fuel?\" Having come to fruition in the last two decades or so, the second---pattern formation theory---describes the mechanisms that drive spatially-extended systems to spontaneously organize into patterns of activity. It provides techniques that predict how a system dynamically amplifies inherent instability to macroscopic scales, eventually stabilizing emergent patterns via nonlinear attenuation. The third---meromorphic functional calculus--- provides the key new mathematical methods required to analyze the infinite-dimensional hidden linear dynamic of complex spatial patterns and temporal behaviors---patterns and behaviors implicated in both information thermodynamics and pattern formation. Success in the proposed synthesis will impact both our fundamental physical understanding of the energetics guiding far-from-equilibrium pattern formation and our ability to engineer and control emergent patterns that support functional behaviors, such as information processing, computation, and energy conversion. The abiding puzzle is how these systems balance constraint and fluctuation in the service of their functionality. All physical, chemical, and biological systems and all designed technologies are subject to thermodynamic constraints---energy conservation, entropy increase during macroscopic manipulations, and the like . This is especially true and challenging for those whose functioning relies on information processing embodied in emergent patterns. Nanoscale technology most aptly illustrates these fundamental limits. At these scales, we encounter finite-size induced fluctuations that can compromise a device's operation. Even technologies that do not yet depend on quantum effects have rapidly approached limits imposed by microscopic fluctuations. Similar conclusions hold for chemical and biomolecular processes. For example, motor proteins carry-out essential biological functions, such as intracellular nutrient transport, all the while bathed in fluctuations whose energetics fall at the same scale as the ATP-driven motion itself . On the one hand, the increasing demand for computation, combined with the nee d for new computational architectures and substrates, and our increasing ability to control and even design biological processes, on the other, make the proposed synthesis particularly relevant and timely. Understanding the functioning of this wide range of systems turns on developing a new theory of functional pattern formation in thermo-dynamical systems---systems that, at one and the same time, are dynamical systems (behaving and processing and storing information) and are large-scale physical systems (consisting of energetic microscopic subsystems). Our expertise in the above three research areas will bring unique perspectives and insights to this challenge, increasing the likelihood of success.less",
+        "end_year": "2020",
+        "funder": "United States Department of the Army",
+        "funding_amount_usd": "1,099,948",
+        "href": "https://dtic.dimensions.ai/details/grant/grant.7826158?order=funding&or_facet_research_org=grid.27860.3b&not_facet_funder=grid.496791.4",
+        "investigator": "to James Crutchfield",
+        "key_highlights": [
+            "The research project aims to understand the thermodynamic effort and energy dissipation involved in the spontaneous formation of complex patterns in open nonlinear systems.",
+            "The project will combine information thermodynamics, pattern formation theory, and meromorphic functional calculus to address these questions.",
+            "The balance between constraint and fluctuation in the functionality of physical, chemical, and biological systems is a key puzzle that will be explored in this research.",
+            "The proposed synthesis is relevant and timely due to the increasing demand for computation and the need for new computational architectures and substrates, as well as our increasing ability to control and design biological processes."
+        ],
+        "research_categories": [
+            "40 Engineering",
+            "51 Physical Sciences",
+            "5103 Classical Physics"
+        ],
+        "section_details": "Funding amount\nUSD 1,099,948\nFunding period\n2017\n6 Dec\n\u2010\n2020\n5 Dec",
+        "start_year": "2017",
+        "title": "Functional Pattern Formation in Thermodynamical Systems",
+        "tldr": "This research project aims to understand the thermodynamic effort and energy dissipation involved in the spontaneous formation of complex patterns in open nonlinear systems. It will combine information thermodynamics, pattern formation theory, and meromorphic functional calculus to analyze the energetics and functionality of these systems. The results will have implications for our understanding of physical, chemical, and biological systems, as well as for the development of new computational architectures and substrates.",
+        "top_keywords": [
+            "Thermodynamical systems",
+            "Pattern formation",
+            "Nonlinear dynamics",
+            "Information thermodynamics",
+            "Emergent patterns",
+            "Functional behaviors",
+            "Energy conversion",
+            "Nanoscale technology",
+            "Fluctuations",
+            "Computational architectures"
+        ],
+        "units_of_assessment": [
+            "B09 Physics"
+        ]
+    }
+]
