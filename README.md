@@ -20,4 +20,4 @@ poetry install
 Then when you are in the conda environment, you will be able to import the dependencies (e.g. `selenium`, `pandas`) as well as import the `military_grant_funding_exploration` module. This is true no matter what directory you are currently in.
 
 # Running
-The recommended script to run for webscraping DoD data is `military_grant_funding_exploration/webscraping/dtic_selenium_more_details.py`. You can provide which campuses you'd like to run using the `--campuses` flag, or by default it will run for all of them. This script produces `.json` data in the `data/DoD/01_scraped` folder for each campus.
+The recommended script to run for webscraping DoD data is `military_grant_funding_exploration/webscraping/DoD_DTIC_scraping.py`. You can provide which campuses you'd like to run using the `--campuses` flag, or by default it will run for all of them. This script produces `.json` data in the `data/DoD/01_scraped` folder for each campus.
