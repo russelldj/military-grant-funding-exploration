@@ -13,6 +13,7 @@ from military_grant_funding_exploration.webscraping.functions import (
     parse_int_from_str,
     month_to_number,
 )
+from military_grant_funding_exploration.path_functions import get_DoD_DTIC_initial_path
 from military_grant_funding_exploration.constants import (
     START_YEAR_KEY,
     START_MONTH_KEY,
@@ -302,9 +303,7 @@ if __name__ == "__main__":
     for campus in args.campuses:
         print(f"Parsing data from {campus}")
         url = URL_DICT[campus]
-        output_filename = Path(
-            DATA_FOLDER, "DoD", "01_scraped", f"{campus}_dtic_webscraped.json"
-        )
+        output_filename = get_DoD_DTIC_initial_path(campus)
         scrape_and_save(
             url=url,
             output_filename=output_filename,
