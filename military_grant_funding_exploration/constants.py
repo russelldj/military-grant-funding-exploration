@@ -19,6 +19,11 @@ INVESTIGATOR_KEY = "investigator"
 ABSTRACT_KEY = "abstract"
 RESULTING_PUBLICATIONS_KEY = "resulting_publications"
 
+FIELDS_OF_RESEACH_KEY = "fields_of_research_key"
+UNITS_OF_ASSESSMENT_KEY = "units_of_assessment_key"
+HEALTH_CATEGORY_KEY = "health_categories_key"
+RESEARCH_ACTIVITY_CODES_KEY = "research_activities_codes_key"
+SDG_GOALS_KEY = "SDG_goals_kwy"
 
 TLDR_KEY = "tldr"
 TOP_KEYWORDS_KEY = "top_keywords"

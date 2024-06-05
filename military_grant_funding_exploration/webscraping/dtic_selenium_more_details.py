@@ -31,6 +31,11 @@ from military_grant_funding_exploration.constants import (
     TLDR_KEY,
     TOP_KEYWORDS_KEY,
     KEY_HIGHLIGHTS_KEY,
+    FIELDS_OF_RESEACH_KEY,
+    UNITS_OF_ASSESSMENT_KEY,
+    HEALTH_CATEGORY_KEY,
+    RESEARCH_ACTIVITY_CODES_KEY,
+    SDG_GOALS_KEY,
 )
 
 
@@ -79,24 +84,42 @@ def index_maybe_in_list(list_of_elements, search_elem):
 def parse_research_categories(research_categories_text):
     split = research_categories_text.splitlines()
 
-    research_cat_ind = split.index("Fields of Research (ANZSRC 2020)")
-    units_of_assessment_ind = index_maybe_in_list(split, "Units of Assessment")
-    # This may not be there
-    SDG_goals_ind = index_maybe_in_list(split, "Sustainable Development Goals")
-
-    ret_dict = {}
-    ret_dict["research_categories"] = split[
-        research_cat_ind + 1 : units_of_assessment_ind
+    # These headers may or may not be present in the split text
+    potential_headers = (
+        "Fields of Research (ANZSRC 2020)",
+        "Units of Assessment",
+        "Health Category (HRCS)",
+        "Research Activity Codes (HRCS)",
+        "Sustainable Development Goals",
+    )
+    # These are the corresponding fields for each header
+    category_keys = (
+        FIELDS_OF_RESEACH_KEY,
+        UNITS_OF_ASSESSMENT_KEY,
+        HEALTH_CATEGORY_KEY,
+        RESEARCH_ACTIVITY_CODES_KEY,
+        SDG_GOALS_KEY,
+    )
+    # This is either a integer ID for the index at which the value occurs or None if not present
+    potential_header_inds = [
+        index_maybe_in_list(split, header) for header in potential_headers
     ]
-    # Note that the SDG_goals may be None, but this slice should still work
-
-    if units_of_assessment_ind is not None:
-        ret_dict["units_of_assessment"] = split[
-            units_of_assessment_ind + 1 : SDG_goals_ind
+    present_header_inds, present_category_keys = zip(
+        *[hc for hc in zip(potential_header_inds, category_keys) if hc[0] is not None]
+    )
+    # Append None so the last slice parses all the way to the end
+    present_header_inds = present_header_inds + (None,)
+    # Turn the split data into a dictionary. The key is the category and the value is the data from
+    # the start ind + 1 (so the header isn't included) to the next ind. Since the last ind
+    # is set to None, the last slice will go all the way to the end
+    data_dict = {
+        present_category_keys[i]: split[
+            present_header_inds[i] + 1 : present_header_inds[i + 1]
         ]
-    if SDG_goals_ind is not None:
-        ret_dict["SDG_goals"] = split[SDG_goals_ind + 1 :]
-    return ret_dict
+        for i in range(len(present_category_keys))
+    }
+
+    return data_dict
 
 
 def parse_section_details(section_details_text):
