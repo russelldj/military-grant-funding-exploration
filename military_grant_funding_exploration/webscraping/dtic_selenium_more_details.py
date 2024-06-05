@@ -255,8 +255,19 @@ def scrape_and_save(
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--campuses", nargs="+", default=list(URL_DICT.keys()))
-    parser.add_argument("--scroll-to-bottom", action="store_true")
+    parser.add_argument(
+        "--campuses",
+        nargs="+",
+        default=list(URL_DICT.keys()),
+        help="Which campuses to scrape data from. Provide as many options as you want from the "
+        + f"following list: {list(URL_DICT.keys())}",
+    )
+    parser.add_argument(
+        "--only-scrape-subset",
+        action="store_true",
+        help="Only parse a subset of grants, specifically only those visible without scrolling down. "
+        + "Useful for initial testing",
+    )
 
     args = parser.parse_args()
     return args
@@ -274,5 +285,5 @@ if __name__ == "__main__":
         scrape_and_save(
             url=url,
             output_filename=output_filename,
-            scroll_to_bottom=args.scroll_to_bottom,
+            scroll_to_bottom=not args.only_scrape_subset,
         )
