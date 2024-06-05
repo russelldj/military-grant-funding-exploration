@@ -1,9 +1,30 @@
-campus, UEI-code, cite-source, notes
-Berkeley, GS3YEVSS12N6, https://spo.berkeley.edu/guide/grantsgov.html, "USAspending has this UEI associated with the recipient “Regents of the UC” (with mailing address in Berkeley),rather than with a “UC Berkeley” recipient account. But the Berkeley Sponsored Projects office explicitly listed it as the correct UEI code."
-Berkeley, G39BZNA1WMZ4, https://www.usaspending.gov/recipient/8b735e32-1f20-bb31-b839-2f34bd0863ae-R/latest, "(Sponsored Projects Office) (No federal obligations received since 2009)"
-Berkeley, ENBLDJUN4N73, https://www.usaspending.gov/recipient/75fc71be-d3ca-f8b5-c3ab-2e7614f71459-C/latest, "Has received funding almost exclusively from the Department of Health and Human Services"
-UCOP, PKK5TD16N4H1, https://www.ucop.edu/research-policy-analysis-coordination/resources-tools/ucop-contracts-and-grants-team/commonly-needed-information.html, "None"
-UCOP, K5KAMCPRVED6, https://www.usaspending.gov/recipient/ea7a33b4-8d5e-e75d-a88c-0a12b25732c6-C/latest, "None"
-Davis, TX2DAGQPENZ5, https://research.ucdavis.edu/about-us/institutional-information/, "None"
-Davis, ZCGHKT8CK366, https://www.usaspending.gov/recipient/8790eadb-639e-a4d7-9dff-d9de23d298d7-C/latest, "None"
-Davis, EJ1GMY9FUP77, https://www.usaspending.gov/recipient/25224648-21cc-d028-a04c-eec116fa3621-C/latest, "None"
+campus,UEI-code,cite-source,notes
+Berkeley,GS3YEVSS12N6,https://spo.berkeley.edu/guide/grantsgov.html,"USAspending has this UEI associated with the recipient “Regents of the UC” (with mailing address in Berkeley),rather than with a “UC Berkeley” recipient account. But the Berkeley Sponsored Projects office explicitly listed it as the correct UEI code."
+Berkeley,G39BZNA1WMZ4,https://www.usaspending.gov/recipient/8b735e32-1f20-bb31-b839-2f34bd0863ae-R/latest,"(Sponsored Projects Office) (No federal obligations received since 2009)"
+Berkeley,ENBLDJUN4N73,https://www.usaspending.gov/recipient/75fc71be-d3ca-f8b5-c3ab-2e7614f71459-C/latest,"Has received funding almost exclusively from the Department of Health and Human Services"
+Davis,TX2DAGQPENZ5,https://research.ucdavis.edu/about-us/institutional-information/,
+Davis,ZCGHKT8CK366,https://www.usaspending.gov/recipient/8790eadb-639e-a4d7-9dff-d9de23d298d7-C/latest,
+Davis,EJ1GMY9FUP77,https://www.usaspending.gov/recipient/25224648-21cc-d028-a04c-eec116fa3621-C/latest,
+Irvine,MJC5FCYQTPE6,https://www.usaspending.gov/recipient/0b710df3-c98e-f245-bbed-8bbbc32a803b-R/latest,
+Irvine,FGZMLCSN41Q4,https://www.usaspending.gov/recipient/a299e677-f970-54ce-e3ca-0757c80e15f8-C/latest,
+Merced,FFM7VPAG8P92,https://www.usaspending.gov/recipient/e5d977d0-85fb-65b4-d649-335857133b76-R/latest,
+Riverside,MR5QC5FCAVH5,https://www.usaspending.gov/recipient/9bf7f829-5f05-a40d-9f7c-fdadacaf3e56-R/latest,
+San Diego,UYTTZT6G9DT1,https://www.usaspending.gov/recipient/ce42d274-7283-659b-de1c-e11666794c48-R/latest,
+San Diego,QJ8HMDK7MRM3,https://www.usaspending.gov/recipient/756c0cfc-b329-c203-6131-b0b90d0b9f0d-C/latest,
+San Diego,DJXWG99DHQW5,https://www.usaspending.gov/recipient/9cda0e2d-fb50-3c2b-613c-0efc73fb6905-C/latest,
+San Diego,TDBVKQC7N1V5,https://www.usaspending.gov/recipient/5d3dd338-a8e7-ca03-6ab7-50639e2875da-C/latest,
+San Francisco,KMH5K9V7S518,https://www.usaspending.gov/recipient/bb8d1cd4-e0ae-6348-a07c-04df6a112768-R/latest,
+Santa Barbara,G9QBQDH39DF4,https://www.usaspending.gov/recipient/2e3fd571-0484-5e6b-3e26-4381689012c6-R/latest,
+Santa Cruz,VXUFPE4MCZH5,https://www.usaspending.gov/recipient/427ea0fd-a29e-756b-4973-911cb119bc8d-R/latest
+Santa Cruz,FNL4ZA76L3L3,https://www.usaspending.gov/recipient/284cae4e-5eb9-38da-6676-8ecb613003b0-R/latest,
+UCLA,RN64EPNH8JC6,https://www.usaspending.gov/recipient/3231cda5-201a-6da0-de9e-e9810a848983-C/latest,
+UCLA,JJRGMS4WJ8J5,https://www.usaspending.gov/recipient/18274181-7fe9-0378-4cf7-da460dd4f821-C/latest,
+UCLA,JL1LXX5YF6M3,https://www.usaspending.gov/recipient/cc618aec-7c31-7e82-d86d-4e7005299229-C/latest,
+UCOP,PKK5TD16N4H1,https://www.ucop.edu/research-policy-analysis-coordination/resources-tools/ucop-contracts-and-grants-team/commonly-needed-information.html,
+UCOP,K5KAMCPRVED6,https://www.usaspending.gov/recipient/ea7a33b4-8d5e-e75d-a88c-0a12b25732c6-C/latest,
+Regents-Los-Alamos,LWKAEZ2JLMM9,https://www.usaspending.gov/recipient/dfae65bd-32fe-bce0-389c-2867fa9fa04e-C/latest,"Address in Los Alamos, NM. Must be something with the national lab."
+Regents-Los-Angeles,KRKXNEFNATQ3,https://www.usaspending.gov/recipient/bcbc4df0-f09c-d1bc-3976-10d0a2d8164f-C/latest,"Address in Los Angeles, CA"
+Regents-Oakland,DJA9TB2ULCT1,https://www.usaspending.gov/recipient/2b3d781a-26c9-36d8-b334-e3b592d9e6a5-C/latest,"Address in Oakland, CA. Probably UCOP."
+Regents-San-Diego,PLCWUN3NAR15,https://www.usaspending.gov/recipient/5ac02d78-e25a-8c04-7a81-b23496e362d0-C/latest,"Address in San Diego, CA"
+Regents-San-Diego,Q9LWHEXTGTC5,https://www.usaspending.gov/recipient/cb62cd9b-b285-2a21-3b13-a46838b7aea6-C/latest,
+UCOR,LGXXT9JMZTB5,https://www.usaspending.gov/recipient/c073d1d9-1830-01bd-514a-96e79545452f-P/latest,"UC (Office of Research), address in Santa Barbara"
