@@ -30,4 +30,6 @@ def month_to_number(month_str):
 
 
 def parse_int_from_str(string):
-    return int("".join([c for c in string if c.isdigit()]))
+    digits_str = "".join([c for c in string if c.isdigit()])
+
+    return int(digits_str) if len(digits_str) > 0 else None
