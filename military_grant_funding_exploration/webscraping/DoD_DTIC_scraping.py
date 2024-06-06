@@ -3,6 +3,7 @@ from pathlib import Path
 import argparse
 from tqdm import tqdm
 
+import pandas as pd
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
@@ -13,6 +14,7 @@ from military_grant_funding_exploration.webscraping.functions import (
     WaitForNonEmptyText,
     parse_int_from_str,
     month_to_number,
+    drop_none_values,
 )
 from military_grant_funding_exploration.path_functions import get_DoD_DTIC_initial_path
 from military_grant_funding_exploration.constants import (
@@ -23,7 +25,6 @@ from military_grant_funding_exploration.constants import (
     END_DAY_KEY,
     END_MONTH_KEY,
     FUNDING_AMOUNT_KEY,
-    DATA_FOLDER,
     RESULTING_PUBLICATIONS_KEY,
     TITLE_KEY,
     FUNDER_KEY,
@@ -41,7 +42,7 @@ from military_grant_funding_exploration.constants import (
 )
 
 
-URL_DICT = {
+CAMPUS_URL_DICT = {
     "ucsd": "https://dtic.dimensions.ai/discover/grant?search_mode=content&or_facet_research_org=grid.266100.3&not_facet_funder=grid.496791.4&order=funding",
     "ucla": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.19006.3e",
     "ucberkeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.47840.3f",
@@ -58,7 +59,7 @@ URL_DICT = {
 }
 
 
-def get_summary_text(browser, element_name, timeout=30):
+def get_summary_text(browser, element_name, timeout=200):
     WebDriverWait(browser, timeout=timeout).until(
         EC.presence_of_element_located(
             (By.XPATH, f"//button[@id='tab_{element_name}']")
@@ -135,7 +136,8 @@ def parse_section_details(section_details_text):
     data_dict[START_DAY_KEY] = parse_int_from_str(split[4])
 
     if "-" in split:
-        data_dict[END_YEAR_KEY] = parse_int_from_str(split[6])
+        if len(split) > 6:
+            data_dict[END_YEAR_KEY] = parse_int_from_str(split[6])
         if len(split) > 7:
             data_dict[END_MONTH_KEY] = month_to_number(split[7].split(" ")[1])
             data_dict[END_DAY_KEY] = parse_int_from_str(split[7])
@@ -145,6 +147,8 @@ def parse_section_details(section_details_text):
         # Take the next field after that text
         data_dict[RESULTING_PUBLICATIONS_KEY] = parse_int_from_str(split[pubs_ind + 1])
 
+    data_dict = drop_none_values(data_dict)
+
     return data_dict
 
 
@@ -153,7 +157,7 @@ def scrape_and_save(
     output_filename,
     scroll_to_bottom=True,
     parse_per_grant_pages: bool = True,
-    timeout=8,
+    timeout=200,
     wait_for_scroll=2,
 ):
     # establish connection
@@ -230,6 +234,8 @@ def scrape_and_save(
         if len(article_text_split) > 8:
             grant_data[END_YEAR_KEY] = parse_int_from_str(article_text_split[7])
 
+        grant_data = drop_none_values(grant_data)
+
         # Add the information from this grant to the list of all grants
         all_grants.append(grant_data)
 
@@ -272,11 +278,27 @@ def scrape_and_save(
             )
             grant_data.update(parse_section_details(section_details.text))
 
+    # Close the browser session
+    browser.close()
+
+    all_grants_dfs = []
+    for i, grant_data in enumerate(all_grants):
+        # If the field is a list, transform it into a one-length tuple so there's not a
+        # length mismatch
+        sanitized_grant_data = {
+            k: ((v,) if isinstance(v, list) else v) for k, v in grant_data.items()
+        }
+        # Convert the data to a data frame
+        grant_df = pd.DataFrame(sanitized_grant_data, index=[i])
+        all_grants_dfs.append(grant_df)
+
+    # Transform the data into a single pandas dataframe
+    all_grants_dfs = pd.concat(all_grants_dfs)
+
     # Ensure there's a folder to save the data
     output_filename.parent.mkdir(exist_ok=True, parents=True)
     # save dataframe to csv file
-    with open(output_filename, "w") as outfile_h:
-        outfile_h.write(json.dumps(all_grants, indent=4, sort_keys=True))
+    all_grants_dfs.to_json(output_filename, orient="index", indent=4)
 
 
 def parse_args():
@@ -284,15 +306,20 @@ def parse_args():
     parser.add_argument(
         "--campuses",
         nargs="+",
-        default=list(URL_DICT.keys()),
+        default=list(CAMPUS_URL_DICT.keys()),
         help="Which campuses to scrape data from. Provide as many options as you want from the "
-        + f"following list: {list(URL_DICT.keys())}",
+        + f"following list: {list(CAMPUS_URL_DICT.keys())}",
     )
     parser.add_argument(
         "--only-scrape-subset",
         action="store_true",
         help="Only parse a subset of grants, specifically only those visible without scrolling down. "
         + "Useful for initial testing",
+    )
+    parser.add_argument(
+        "--only-scrape-basic-info",
+        action="store_true",
+        help="Only parse the data from the summary view, which is much faster than opening each grant's page",
     )
 
     args = parser.parse_args()
@@ -304,10 +331,11 @@ if __name__ == "__main__":
 
     for campus in args.campuses:
         print(f"Parsing data from {campus}")
-        url = URL_DICT[campus]
+        url = CAMPUS_URL_DICT[campus]
         output_filename = get_DoD_DTIC_initial_path(campus)
         scrape_and_save(
             url=url,
             output_filename=output_filename,
             scroll_to_bottom=not args.only_scrape_subset,
+            parse_per_grant_pages=not args.only_scrape_basic_info,
         )

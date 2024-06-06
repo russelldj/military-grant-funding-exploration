@@ -33,3 +33,7 @@ def parse_int_from_str(string):
     digits_str = "".join([c for c in string if c.isdigit()])
 
     return int(digits_str) if len(digits_str) > 0 else None
+
+
+def drop_none_values(input_dict):
+    return {k: v for (k, v) in input_dict.items() if (v is not None)}
