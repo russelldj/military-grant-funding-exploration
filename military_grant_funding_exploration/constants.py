@@ -2,6 +2,7 @@ from pathlib import Path
 
 CODE_FOLDER = Path(__file__).parent
 DATA_FOLDER = Path(CODE_FOLDER, "..", "data").resolve()
+VIS_FOLDER = Path(CODE_FOLDER, "..", "visualizations").resolve()
 
 START_YEAR_KEY = "start_year"
 START_MONTH_KEY = "start_month"
