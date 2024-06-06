@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 import argparse
+from tqdm import tqdm
 
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
@@ -135,8 +136,9 @@ def parse_section_details(section_details_text):
 
     if "-" in split:
         data_dict[END_YEAR_KEY] = parse_int_from_str(split[6])
-        data_dict[END_MONTH_KEY] = month_to_number(split[7].split(" ")[1])
-        data_dict[END_DAY_KEY] = parse_int_from_str(split[7])
+        if len(split) > 7:
+            data_dict[END_MONTH_KEY] = month_to_number(split[7].split(" ")[1])
+            data_dict[END_DAY_KEY] = parse_int_from_str(split[7])
 
     if "Resulting DOD publications" in split:
         pubs_ind = split.index("Resulting DOD publications")
@@ -159,15 +161,11 @@ def scrape_and_save(
     browser.get(url)
 
     # wait for the element with the ID of wrapper
-    try:
-        WebDriverWait(browser, timeout=timeout).until(
-            EC.presence_of_element_located(
-                (By.XPATH, "//article[@data-bt='project_result_item']")
-            )
+    WebDriverWait(browser, timeout=timeout).until(
+        EC.presence_of_element_located(
+            (By.XPATH, "//article[@data-bt='project_result_item']")
         )
-        print("element is present in the DOM now")
-    except TimeoutException:
-        print("element did not show up")
+    )
 
     # Scroll to the bottom to show all elements
     # Only done if requested
@@ -188,8 +186,7 @@ def scrape_and_save(
 
     # click all the "more" buttons to reveal the full abstract
     buttons_more = browser.find_elements(By.XPATH, '//button[text()="more"]')
-    print("clicking all the more button to reveal abstract")
-    for button in buttons_more:
+    for button in tqdm(buttons_more, desc='Clicking "more" buttons to show abstract'):
         button.click()
 
     # retrieve text from each article element
@@ -201,7 +198,9 @@ def scrape_and_save(
 
     all_grants = []
 
-    for elem_grant in elems_grants:
+    for elem_grant in tqdm(
+        elems_grants, desc="Parsing basic information from each grant"
+    ):
         # Get more detailed information by clicking on the specific grant
         detail_link = elem_grant.find_element(By.XPATH, ".//*[@data-bt='detail_link']")
         href = detail_link.get_attribute("href")
@@ -236,7 +235,10 @@ def scrape_and_save(
 
     # Get additional information that can be much slower to parse
     if parse_per_grant_pages:
-        for grant_data in all_grants:
+        for grant_data in tqdm(
+            all_grants,
+            desc="Parsing addtional information by visiting each grant-specific page",
+        ):
             # Go to the page for that grant
             browser.get(grant_data[HREF_KEY])
 
