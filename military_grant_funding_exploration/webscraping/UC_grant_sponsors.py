@@ -66,19 +66,20 @@ def get_crosstab_df(sheet_name):
 driver = webdriver.Firefox()
 timeout = 20
 dwnld_fldr = "/Users/patrick/Downloads"
-num_campuses = 14 #Can only handle as many campuses as fit in the window for now
+num_campuses_max = 14 #Can only handle as many campuses as fit in the window for now
 
 # Use the driver to render the JavaScript webpage
 # Following URL found by rendering this webpage in selenium: https://www.universityofcalifornia.edu/about-us/information-center/sponsors
 URL = "https://visualizedata.ucop.edu/t/Public/views/Sponsors/Dashboard"
 driver.get(URL)
-elem = WebDriverWait(driver, timeout=timeout).until(
+fiscal_year_tabzone = WebDriverWait(driver, timeout=timeout).until(
     EC.presence_of_element_located((By.XPATH, f"//*[@id='tabZoneId65']"))
 )
 # Open the fiscal year menu
-menu_content = WebDriverWait(elem, timeout=timeout).until(
+menu_content = WebDriverWait(fiscal_year_tabzone, timeout=timeout).until(
     EC.presence_of_element_located((By.XPATH, f".//span[@role='combobox']"))
 )
+wait_for_loading()
 menu_content.click()
 menu_items = WebDriverWait(menu_content, timeout=timeout).until(
     EC.presence_of_all_elements_located((By.XPATH, '//div[@role="checkbox"]'))
@@ -88,18 +89,28 @@ checkbox = menu_items[-1].find_element(By.CLASS_NAME, "FICheckRadio")
 wait_for_loading()
 checkbox.click()
 # Loop over all fiscal years
+loop_i = 0
+fiscal_year_counter = 2004
 for year_index in range(len(menu_items))[1:]:
+    loop_i += 1
+    fiscal_year_counter += 1
+    if fiscal_year_counter > 2022:
+        continue
     # Find and select a given year
-    if year_index > 1:
-        menu_content = WebDriverWait(elem, timeout=timeout).until(
+    if loop_i > 1:
+        # Re-open the fiscal year menu
+        fiscal_year_tabzone = WebDriverWait(driver, timeout=timeout).until(
+            EC.presence_of_element_located((By.XPATH, f"//*[@id='tabZoneId65']"))
+        )
+        menu_content = WebDriverWait(fiscal_year_tabzone, timeout=timeout).until(
             EC.presence_of_element_located((By.XPATH, f".//span[@role='combobox']"))
         )
         wait_for_loading()
         menu_content.click()
+        # De-select previous year
         menu_items = WebDriverWait(menu_content, timeout=timeout).until(
             EC.presence_of_all_elements_located((By.XPATH, '//div[@role="checkbox"]'))
         )
-        # De-select previous year
         checkbox = menu_items[year_index-1].find_element(By.CLASS_NAME, "FICheckRadio")
         wait_for_loading()
         checkbox.click()
@@ -107,9 +118,44 @@ for year_index in range(len(menu_items))[1:]:
     menu_items = WebDriverWait(menu_content, timeout=timeout).until(
         EC.presence_of_all_elements_located((By.XPATH, '//div[@role="checkbox"]'))
     )
-    checkbox = menu_items[year_index].find_element(By.CLASS_NAME, "FICheckRadio")
+
+    # Find the relevant year
+    year_found = False
+    for menu_item in menu_items:
+        fy = menu_item.find_element(By.CLASS_NAME, "FIText").get_attribute("title")
+        try:
+            fy = int(fy.split('-')[0])
+            if fy == fiscal_year_counter:
+                print(menu_item, ', year', str(fy), 'is the one')
+                item = menu_item
+                year_found = True
+                break
+        except ValueError:
+            continue
+    if year_found == False:
+        print("no year found, waiting then trying again")
+        time.sleep(5)
+        fiscal_year_tabzone = WebDriverWait(driver, timeout=timeout).until(
+            EC.presence_of_element_located((By.XPATH, f"//*[@id='tabZoneId65']"))
+        )
+        menu_items = WebDriverWait(fiscal_year_tabzone, timeout=timeout).until(
+            EC.presence_of_all_elements_located((By.XPATH, '//div[@role="checkbox"]'))
+        )
+        for menu_item in menu_items:
+            fy = menu_item.find_element(By.CLASS_NAME, "FIText").get_attribute("title")
+            try:
+                fy = int(fy.split('-')[0])
+                if fy == fiscal_year_counter:
+                    print(menu_item, ', year', str(fy), 'is the one')
+                    item = menu_item
+                    year_found = True
+                    break
+            except ValueError:
+                continue
+    checkbox = item.find_element(By.CLASS_NAME, "FICheckRadio")
+    wait_for_loading()
     checkbox.click()
-    fiscal_year = menu_items[year_index].find_element(By.CLASS_NAME, "FIText").get_attribute("title")
+    fiscal_year = item.find_element(By.CLASS_NAME, "FIText").get_attribute("title")
     # Click out of fiscal year menu
     clear_glass = driver.find_element(By.CLASS_NAME, "tab-glass.clear-glass.tab-widget")
     wait_for_loading()
@@ -126,35 +172,44 @@ for year_index in range(len(menu_items))[1:]:
         final_campustotal_df = campus_df
     else:
         final_campustotal_df = pd.concat([final_campustotal_df, campus_df], ignore_index=True, axis=0)
-    # num_campuses = campus_df.shape[0] #Defined as a constant above for now
 
     # Locate block of campus labels
     campus_tabzone = WebDriverWait(driver, timeout=timeout).until(
         EC.presence_of_element_located((By.XPATH, f"//*[@id='tabZoneId30']"))
     )
+    campus_tabzone_margin = WebDriverWait(campus_tabzone, timeout=timeout).until(
+        EC.presence_of_element_located((By.CLASS_NAME, "tab-zone-margin"))
+    )
+    campus_block_title = WebDriverWait(campus_tabzone, timeout=timeout).until(
+        EC.presence_of_element_located((By.CLASS_NAME, "tab-tvTitle.tvimagesNS"))
+    )
     campus_block = WebDriverWait(campus_tabzone, timeout=timeout).until(
         EC.presence_of_element_located((By.CLASS_NAME, "tab-tvYLabel.tvimagesNS"))
     )
-    
+
     # Set spacing for clicking through campuses
-    yoffset = campus_block.size['height']/(num_campuses-1)
-    h = campus_block.size['height']
+    h = campus_tabzone_margin.size['height'] - campus_block_title.size['height']
+    label_spacing = h / (num_campuses_max-1)
+    label_spacing = label_spacing - 1 #just hardcoding this adjustment bc im lazy
     y = campus_block.location['y']
-    y_0 = y - (h/2) + (yoffset)/2
+    y0 = y - (campus_block.size['height']/2) + (label_spacing/2)
     campus_offsets = []
-    for i in range(num_campuses):
-        y_campus = y_0 + yoffset*i
+    for i in range(num_campuses_max):
+        y_campus = y0 + label_spacing*i
         campus_offsets.append(y_campus - y)
-    y_max = y+h/2
+    y_max = y + (campus_block.size['height']/2)
     
     # Loop over all campuses
     for campus_i, offset in enumerate(campus_offsets):
+        #if (campus_i < 11) and (campus_i > 0): continue
         # Last 1-2 campuses may lie outside window and are not selectable
         # Could try to automate scrolling before selection, but doing so manually didn't help
         if 'campus_names' in locals():
-            if campus_i == len(campus_names)-1:
+            if campus_i > len(campus_names)-1:
+                continue
+            elif campus_i == num_campuses_max-1:
                 offset = y_max - y
-            elif campus_i > len(campus_names)-1:
+            elif campus_i > num_campuses_max-1:
                 continue
         # Re-locate campus block and select a campus
         campus_tabzone = WebDriverWait(driver, timeout=20).until(
