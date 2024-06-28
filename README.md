@@ -13,7 +13,11 @@ conda create -n MGFE python=3.11 -y
 conda activate MGFE
 ```
 
-Now you have a dedicated environment for this project. You also need to download a copy of the code in this repository, which you can do by going to your directory of choice and running `git clone <git@github.com:russelldj/military-grant-funding-exploration.git>`. Now you have the project code downloaded and a conda environment `MGFE` to do your own tinkering, but none of the dependencies are installed. To do that, first make sure you are in the top level directory of this project (`/military-grant-funding-exploration`) and that your conda environment is active. Then run
+Now you have a dedicated environment for this project. You also need to download a copy of the code in this repository, which you can do by going to your directory of choice and running 
+```
+git clone <git@github.com:russelldj/military-grant-funding-exploration.git>
+```
+ Now you have the project code downloaded and a conda environment `MGFE` to do your own tinkering, but none of the dependencies are installed. To do that, first make sure you are in the top level directory of this project (`/military-grant-funding-exploration`) and that your conda environment is active. Then run
 ```
 poetry install
 ```
