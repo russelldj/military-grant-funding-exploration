@@ -39,6 +39,7 @@ from military_grant_funding_exploration.constants import (
     HEALTH_CATEGORY_KEY,
     RESEARCH_ACTIVITY_CODES_KEY,
     SDG_GOALS_KEY,
+    GRANT_NUMBER_KEY,
 )
 
 
@@ -169,6 +170,32 @@ def parse_section_details(section_details_text):
     return data_dict
 
 
+def get_heading_info(browser, return_title=False, return_funder=False):
+    # Get the title element
+    title_elem = browser.find_elements(By.XPATH, "//h1[@data-bt='details-title']")
+    # The should only be one element matching this, if not we have an issue
+    assert len(title_elem) == 1
+
+    # Get the parent of the title. Unfortunately we can't search for it directly
+    title_pane_elem = title_elem[0].find_element(By.XPATH, "./..")
+    text_pane_text_split = title_pane_elem.text.split("\n")
+
+    parsed_dict = {}
+
+    # Parse the title if requested
+    if return_title:
+        parsed_dict[TITLE_KEY] = text_pane_text_split[1]
+    # Parse the funder if requested
+    if return_funder:
+        parsed_dict[FUNDER_KEY] = text_pane_text_split[2][8:]
+
+    # Parse the grant number
+    grant_number_str = text_pane_text_split[-1]
+    parsed_dict[GRANT_NUMBER_KEY] = grant_number_str.split(" ")[-1]
+
+    return parsed_dict
+
+
 def scrape_and_save(
     url,
     output_filename,
@@ -296,7 +323,10 @@ def scrape_and_save(
                     (By.XPATH, "//div[@data-bt='aside_section_content']")
                 )
             )
+            # Add the section details data
             grant_data.update(parse_section_details(section_details.text))
+            # Add the header data
+            grant_data.update(get_heading_info(browser=browser))
 
     # Close the browser session
     browser.close()
