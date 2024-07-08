@@ -116,9 +116,16 @@ def parse_research_categories(research_categories_text):
     potential_header_inds = [
         index_maybe_in_list(split, header) for header in potential_headers
     ]
-    present_header_inds, present_category_keys = zip(
-        *[hc for hc in zip(potential_header_inds, category_keys) if hc[0] is not None]
-    )
+    # Pair the header inds and the associated category for each one that is present
+    non_null_header_cat_pairs = [
+        hc for hc in zip(potential_header_inds, category_keys) if hc[0] is not None
+    ]
+    # If none of the requested headers are present, return an empty dict
+    if len(non_null_header_cat_pairs) == 0:
+        return {}
+
+    # Change from a list of tuples to two lists
+    present_header_inds, present_category_keys = zip(*non_null_header_cat_pairs)
     # Append None so the last slice parses all the way to the end
     present_header_inds = present_header_inds + (None,)
     # Turn the split data into a dictionary. The key is the category and the value is the data from
