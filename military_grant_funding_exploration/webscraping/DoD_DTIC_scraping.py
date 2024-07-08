@@ -276,16 +276,19 @@ def scrape_and_save(
                 browser=browser, element_name="top-keywords", split=True
             )
 
-            # TODO Parse the research categories
-            research_cat_sec = WebDriverWait(browser, timeout=timeout).until(
-                EC.presence_of_element_located(
-                    (
-                        By.XPATH,
-                        "//section[@data-bt='aside_section_research_categories']",
+            try:
+                # TODO Parse the research categories
+                research_cat_sec = WebDriverWait(browser, timeout=timeout).until(
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            "//section[@data-bt='aside_section_research_categories']",
+                        )
                     )
                 )
-            )
-            grant_data.update(parse_research_categories(research_cat_sec.text))
+                grant_data.update(parse_research_categories(research_cat_sec.text))
+            except TimeoutException:
+                pass
 
             # Parse the funding amount and years
             section_details = WebDriverWait(browser, timeout=timeout).until(
