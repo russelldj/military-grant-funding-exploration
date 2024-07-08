@@ -43,38 +43,47 @@ from military_grant_funding_exploration.constants import (
 
 
 CAMPUS_URL_DICT = {
-    "ucsd": "https://dtic.dimensions.ai/discover/grant?search_mode=content&or_facet_research_org=grid.266100.3&not_facet_funder=grid.496791.4&order=funding",
-    "ucla": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.19006.3e",
-    "ucberkeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.47840.3f",
-    "ucdavis": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.27860.3b",
-    "ucirvine": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266093.8",
-    "ucr": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266097.c",
-    "ucsb": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.133342.4",
-    "ucsf": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266102.1",
-    "ucsc": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.205975.c",
-    "ucmerced": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.266096.d",
-    "lawrence_berekeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.184769.5",
-    "lawrence_livermore": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.250008.f",
-    "los_alamos": "https://dtic.dimensions.ai/discover/grant?search_mode=content&not_facet_funder=grid.496791.4&order=funding&or_facet_research_org=grid.148313.c",
+    "ucsd": "https://dtic.dimensions.ai/discover/grant?search_mode=content&or_facet_research_org=grid.266100.3&order=funding",
+    "ucla": "https://dtic.dimensions.ai/discover/grant?search_mode=content&or_facet_research_org=grid.19006.3e&order=funding",
+    "ucberkeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.47840.3f",
+    "ucdavis": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.27860.3b",
+    "ucirvine": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.266093.8",
+    "ucr": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.266097.c",
+    "ucsb": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.133342.4",
+    "ucsf": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.266102.1",
+    "ucsc": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.205975.c",
+    "ucmerced": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.266096.d",
+    "lawrence_berekeley": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.184769.5",
+    "lawrence_livermore": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.250008.f",
+    "los_alamos": "https://dtic.dimensions.ai/discover/grant?search_mode=content&order=funding&or_facet_research_org=grid.148313.c",
 }
 
 
-def get_summary_text(browser, element_name, timeout=200):
-    WebDriverWait(browser, timeout=timeout).until(
-        EC.presence_of_element_located(
-            (By.XPATH, f"//button[@id='tab_{element_name}']")
+def get_summary_text(browser, element_name, timeout=200, split=False):
+    try:
+        WebDriverWait(browser, timeout=timeout).until(
+            EC.presence_of_element_located(
+                (By.XPATH, f"//button[@id='tab_{element_name}']")
+            )
+        ).click()
+        # Get the corresponding text
+        WebDriverWait(browser, timeout=timeout).until(
+            WaitForNonEmptyText(
+                By.XPATH, f"//div[@aria-labelledby='tab_{element_name}']"
+            )
         )
-    ).click()
-    # Get the corresponding text
-    WebDriverWait(browser, timeout=timeout).until(
-        WaitForNonEmptyText(By.XPATH, f"//div[@aria-labelledby='tab_{element_name}']")
-    )
-    text_div = WebDriverWait(browser, timeout=timeout).until(
-        EC.presence_of_element_located(
-            (By.XPATH, f"//div[@aria-labelledby='tab_{element_name}']")
+        text_div = WebDriverWait(browser, timeout=timeout).until(
+            EC.presence_of_element_located(
+                (By.XPATH, f"//div[@aria-labelledby='tab_{element_name}']")
+            )
         )
-    )
+    except TimeoutException:
+        return None
+
     text = text_div.text
+
+    if split:
+        return text.splitlines()
     return text
 
 
@@ -130,10 +139,11 @@ def parse_section_details(section_details_text):
 
     data_dict = {}
     data_dict[FUNDING_AMOUNT_KEY] = parse_int_from_str(split[1])
-
-    data_dict[START_YEAR_KEY] = parse_int_from_str(split[3])
-    data_dict[START_MONTH_KEY] = month_to_number(split[4].split(" ")[1])
-    data_dict[START_DAY_KEY] = parse_int_from_str(split[4])
+    # TODO see if replacing this with ("Funding period" in split) is more robust
+    if len(split) > 4:
+        data_dict[START_YEAR_KEY] = parse_int_from_str(split[3])
+        data_dict[START_MONTH_KEY] = month_to_number(split[4].split(" ")[1])
+        data_dict[START_DAY_KEY] = parse_int_from_str(split[4])
 
     if "-" in split:
         if len(split) > 6:
@@ -253,11 +263,11 @@ def scrape_and_save(
                 browser=browser, element_name="tldr"
             )
             grant_data[KEY_HIGHLIGHTS_KEY] = get_summary_text(
-                browser=browser, element_name="key-highlights"
-            ).splitlines()
+                browser=browser, element_name="key-highlights", split=True
+            )
             grant_data[TOP_KEYWORDS_KEY] = get_summary_text(
-                browser=browser, element_name="top-keywords"
-            ).splitlines()
+                browser=browser, element_name="top-keywords", split=True
+            )
 
             # TODO Parse the research categories
             research_cat_sec = WebDriverWait(browser, timeout=timeout).until(
