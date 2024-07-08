@@ -60,7 +60,7 @@ CAMPUS_URL_DICT = {
 }
 
 
-def get_summary_text(browser, element_name, timeout=200, split=False):
+def get_summary_text(browser, element_name, timeout=20, split=False):
     try:
         WebDriverWait(browser, timeout=timeout).until(
             EC.presence_of_element_located(
@@ -201,7 +201,7 @@ def scrape_and_save(
     output_filename,
     scroll_to_bottom=True,
     parse_per_grant_pages: bool = True,
-    timeout=200,
+    timeout=20,
     wait_for_scroll=2,
 ):
     # establish connection
